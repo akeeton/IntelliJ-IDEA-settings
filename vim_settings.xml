@@ -1,0 +1,105 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1526855213957">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/akeeton-mage/Mage.Server/src/main/java/mage/server/Main.java" timestamp="1526856667270">
+        <mark key="[" line="86" column="3" />
+        <mark key="]" line="87" column="18" />
+        <mark key="^" line="87" column="18" />
+        <mark key="." line="87" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/LearnProject/src/Refactorings.java" timestamp="1526855176710">
+        <mark key="[" line="22" column="20" />
+        <mark key="]" line="23" column="23" />
+        <mark key="^" line="23" column="23" />
+        <mark key="." line="23" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/akeeton-mage/.gitignore" timestamp="1526841905886">
+        <mark key="'" line="98" column="1" />
+      </file>
+      <file name="/fragment.java" timestamp="1526841328280">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="9" column="30" filename="$USER_HOME$/Documents/GitHub/akeeton-mage/.gitignore" />
+      <jump line="108" column="17" filename="$USER_HOME$/Documents/GitHub/akeeton-mage/.gitignore" />
+      <jump line="139" column="23" filename="$USER_HOME$/Documents/GitHub/akeeton-mage/.gitignore" />
+      <jump line="106" column="10" filename="$USER_HOME$/Documents/GitHub/akeeton-mage/.gitignore" />
+      <jump line="107" column="12" filename="$USER_HOME$/Documents/GitHub/akeeton-mage/.gitignore" />
+      <jump line="2" column="12" filename="$USER_HOME$/Documents/GitHub/akeeton-mage/.gitignore" />
+      <jump line="122" column="6" filename="$USER_HOME$/Documents/GitHub/akeeton-mage/.gitignore" />
+      <jump line="98" column="1" filename="$USER_HOME$/Documents/GitHub/akeeton-mage/.gitignore" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/GitHub/LearnProject/src/Refactorings.java" />
+      <jump line="12" column="2" filename="$USER_HOME$/Documents/GitHub/akeeton-mage/.gitignore" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5jZWxscGhvbmUgPSBjZWxscGhvbmU7Cg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>deviceName</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL21hZ2VmcmVlL21hZ2UuZ2l0Lwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL21hZ2VmcmVlL21hZ2UuZ2l0Lwo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>deviceName</text>
+      </register>
+      <register name="/" type="4">
+        <text>deviceN</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>deviceN</last-search>
+      <last-offset />
+      <last-pattern>deviceN</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>xml</entry>
+        <entry>work</entry>
+        <entry>space</entry>
+        <entry>sp</entry>
+        <entry>.idea</entry>
+        <entry>deviceN</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
