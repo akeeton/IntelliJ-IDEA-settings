@@ -1,9 +1,9 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1526918625946">
+      <file name="/Dummy.txt" timestamp="1526920528223">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
@@ -16,6 +16,22 @@
         <mark key="]" line="23" column="23" />
         <mark key="^" line="23" column="23" />
         <mark key="." line="23" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/vaadin10-simple-ui/src/main/webapp/frontend/src/views/reviewslist/reviews-list.html" timestamp="1526919429383">
+        <mark key="'" line="224" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/vaadin10-simple-ui/src/main/webapp/WEB-INF/web.xml" timestamp="1526919956753">
+        <mark key="'" line="1" column="7" />
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="12" column="24" />
+        <mark key="." line="12" column="24" />
+        <mark key="^" line="12" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/vaadin10-simple-ui/pom.xml" timestamp="1526920377454">
+        <mark key="'" line="123" column="54" />
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/akeeton-mage/.gitignore" timestamp="1526841905886">
         <mark key="'" line="98" column="1" />
@@ -37,34 +53,46 @@
       <jump line="98" column="1" filename="$USER_HOME$/Documents/GitHub/akeeton-mage/.gitignore" />
       <jump line="3" column="0" filename="$USER_HOME$/Documents/GitHub/LearnProject/src/Refactorings.java" />
       <jump line="12" column="2" filename="$USER_HOME$/Documents/GitHub/akeeton-mage/.gitignore" />
+      <jump line="224" column="35" filename="$USER_HOME$/Documents/GitHub/vaadin10-simple-ui/src/main/webapp/frontend/src/views/reviewslist/reviews-list.html" />
+      <jump line="30" column="9" filename="$USER_HOME$/Documents/GitHub/vaadin10-simple-ui/src/main/webapp/WEB-INF/web.xml" />
+      <jump line="4" column="7" filename="$USER_HOME$/Documents/GitHub/vaadin10-simple-ui/src/main/webapp/WEB-INF/web.xml" />
+      <jump line="99" column="27" filename="$USER_HOME$/Documents/GitHub/vaadin10-simple-ui/pom.xml" />
+      <jump line="95" column="16" filename="$USER_HOME$/Documents/GitHub/vaadin10-simple-ui/pom.xml" />
+      <jump line="98" column="33" filename="$USER_HOME$/Documents/GitHub/vaadin10-simple-ui/pom.xml" />
+      <jump line="110" column="44" filename="$USER_HOME$/Documents/GitHub/vaadin10-simple-ui/pom.xml" />
+      <jump line="123" column="47" filename="$USER_HOME$/Documents/GitHub/vaadin10-simple-ui/pom.xml" />
+      <jump line="124" column="54" filename="$USER_HOME$/Documents/GitHub/vaadin10-simple-ui/pom.xml" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5jZWxscGhvbmUgPSBjZWxscGhvbmU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dmFsdWU+dHJ1ZTwvdmFsdWU+Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>deviceName</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dmFsdWU+dHJ1ZTwvdmFsdWU+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL21hZ2VmcmVlL21hZ2UuZ2l0Lwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5jZWxscGhvbmUgPSBjZWxscGhvbmU7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL21hZ2VmcmVlL21hZ2UuZ2l0Lwo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL21hZ2VmcmVlL21hZ2UuZ2l0Lwo=</text>
+      </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>deviceName</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>deviceN</text>
+        <text>prod</text>
       </register>
     </registers>
     <search>
-      <last-search>deviceN</last-search>
+      <last-search>prod</last-search>
       <last-offset />
-      <last-pattern>deviceN</last-pattern>
+      <last-pattern>prod</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -76,9 +104,17 @@
         <entry>sp</entry>
         <entry>.idea</entry>
         <entry>deviceN</entry>
+        <entry>todo</entry>
+        <entry>TODO</entry>
+        <entry>\cdebug</entry>
+        <entry>Debug</entry>
+        <entry>DEBUG</entry>
+        <entry>debug</entry>
+        <entry>prod</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
