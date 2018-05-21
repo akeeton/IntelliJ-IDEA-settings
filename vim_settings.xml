@@ -8,11 +8,8 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/akeeton-mage/Mage.Server/src/main/java/mage/server/Main.java" timestamp="1526856667270">
-        <mark key="[" line="86" column="3" />
-        <mark key="]" line="87" column="18" />
-        <mark key="^" line="87" column="18" />
-        <mark key="." line="87" column="18" />
+      <file name="$USER_HOME$/Documents/GitHub/akeeton-mage/Mage.Server/src/main/java/mage/server/Main.java" timestamp="1526908604370">
+        <mark key="[" line="76" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/LearnProject/src/Refactorings.java" timestamp="1526855176710">
         <mark key="[" line="22" column="20" />
@@ -20,6 +17,8 @@
         <mark key="^" line="23" column="23" />
         <mark key="." line="23" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/akeeton-mage/Mage/src/main/java/mage/abilities/Abilities.java" timestamp="1526908805528" />
+      <file name="$USER_HOME$/Documents/GitHub/akeeton-mage/Mage.Client/src/main/java/mage/client/MageFrame.java" timestamp="1526908750505" />
       <file name="$USER_HOME$/Documents/GitHub/akeeton-mage/.gitignore" timestamp="1526841905886">
         <mark key="'" line="98" column="1" />
       </file>
@@ -54,6 +53,9 @@
       <register name="3" type="2">
         <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL21hZ2VmcmVlL21hZ2UuZ2l0Lwo=</text>
       </register>
+      <register name=":" type="4">
+        <text>q</text>
+      </register>
       <register name="-" type="4">
         <text>deviceName</text>
       </register>
@@ -77,7 +79,9 @@
         <entry>.idea</entry>
         <entry>deviceN</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>q</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
@@ -99,6 +103,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
