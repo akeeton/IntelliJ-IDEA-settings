@@ -17,8 +17,8 @@
         <mark key="^" line="23" column="23" />
         <mark key="." line="23" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/vaadin10-simple-ui/src/main/webapp/frontend/src/views/reviewslist/reviews-list.html" timestamp="1526919429383">
-        <mark key="'" line="224" column="35" />
+      <file name="$USER_HOME$/Documents/GitHub/vaadin10-simple-ui/src/main/webapp/frontend/src/views/reviewslist/reviews-list.html" timestamp="1527010466265">
+        <mark key="'" line="6" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/vaadin10-simple-ui/src/main/webapp/WEB-INF/web.xml" timestamp="1526919956753">
         <mark key="'" line="1" column="7" />
@@ -62,6 +62,7 @@
       <jump line="110" column="44" filename="$USER_HOME$/Documents/GitHub/vaadin10-simple-ui/pom.xml" />
       <jump line="123" column="47" filename="$USER_HOME$/Documents/GitHub/vaadin10-simple-ui/pom.xml" />
       <jump line="124" column="54" filename="$USER_HOME$/Documents/GitHub/vaadin10-simple-ui/pom.xml" />
+      <jump line="6" column="2" filename="$USER_HOME$/Documents/GitHub/vaadin10-simple-ui/src/main/webapp/frontend/src/views/reviewslist/reviews-list.html" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -86,13 +87,13 @@
         <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>prod</text>
+        <text>Validate</text>
       </register>
     </registers>
     <search>
-      <last-search>prod</last-search>
+      <last-search>Validate</last-search>
       <last-offset />
-      <last-pattern>prod</last-pattern>
+      <last-pattern>Validate</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -111,6 +112,7 @@
         <entry>DEBUG</entry>
         <entry>debug</entry>
         <entry>prod</entry>
+        <entry>Validate</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
