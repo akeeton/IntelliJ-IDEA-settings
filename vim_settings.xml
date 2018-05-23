@@ -3,13 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1527100080123">
+      <file name="/Dummy.txt" timestamp="1527103943150">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/akeeton-mage/Mage.Server/src/main/java/mage/server/Main.java" timestamp="1526908604370">
-        <mark key="[" line="76" column="63" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/.gitignore" timestamp="1527100068993">
         <mark key="[" line="0" column="0" />
@@ -23,6 +20,37 @@
         <mark key="^" line="23" column="23" />
         <mark key="." line="23" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/starter/skeleton/MainView.java" timestamp="1527101560944">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/vaadin10-simple-ui/pom.xml" timestamp="1526920377454">
+        <mark key="'" line="123" column="54" />
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/ExampleTemplate.java" timestamp="1527103259925">
+        <mark key="[" line="32" column="8" />
+        <mark key="]" line="32" column="12" />
+        <mark key="^" line="32" column="12" />
+        <mark key="." line="32" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/akeeton-mage/.gitignore" timestamp="1526841905886">
+        <mark key="'" line="98" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/MainView.java" timestamp="1527103733758">
+        <mark key="'" line="18" column="34" />
+        <mark key="[" line="17" column="45" />
+        <mark key="]" line="17" column="46" />
+        <mark key="^" line="17" column="45" />
+        <mark key="." line="17" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/akeeton-mage/Mage.Server/src/main/java/mage/server/Main.java" timestamp="1526908604370">
+        <mark key="[" line="76" column="63" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/pom.xml" timestamp="1527101489775" />
       <file name="$USER_HOME$/Documents/GitHub/vaadin10-simple-ui/src/main/webapp/frontend/src/views/reviewslist/reviews-list.html" timestamp="1527010466265">
         <mark key="'" line="6" column="2" />
       </file>
@@ -33,19 +61,14 @@
         <mark key="." line="12" column="24" />
         <mark key="^" line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/vaadin10-simple-ui/pom.xml" timestamp="1526920377454">
-        <mark key="'" line="123" column="54" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/akeeton-mage/.gitignore" timestamp="1526841905886">
-        <mark key="'" line="98" column="1" />
-      </file>
-      <file name="/fragment.java" timestamp="1526841328280">
+      <file name="/fragment.java" timestamp="1527103623556">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/starter/skeleton/ExampleTemplate.java" timestamp="1527100837491">
+        <mark key="'" line="30" column="6" />
+        <mark key="^" line="0" column="34" />
       </file>
     </filemarks>
     <jumps>
@@ -69,37 +92,58 @@
       <jump line="123" column="47" filename="$USER_HOME$/Documents/GitHub/vaadin10-simple-ui/pom.xml" />
       <jump line="124" column="54" filename="$USER_HOME$/Documents/GitHub/vaadin10-simple-ui/pom.xml" />
       <jump line="6" column="2" filename="$USER_HOME$/Documents/GitHub/vaadin10-simple-ui/src/main/webapp/frontend/src/views/reviewslist/reviews-list.html" />
+      <jump line="30" column="6" filename="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/starter/skeleton/ExampleTemplate.java" />
+      <jump line="15" column="33" filename="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/MainView.java" />
+      <jump line="18" column="34" filename="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/MainView.java" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dmFsdWU+dHJ1ZTwvdmFsdWU+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>template</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dmFsdWU+dHJ1ZTwvdmFsdWU+Cg==</text>
+      <register name="-" type="4">
+        <text>template</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDx0ZW1wbGF0ZVw+</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS52YWFkaW4uRXhhbXBsZVRlbXBsYXRlOwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS52YWFkaW4uZmxvdy50aGVtZS5UaGVtZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5jZWxscGhvbmUgPSBjZWxscGhvbmU7Cg==</text>
+        <text encoding="base64">QFRoZW1lKCJEYXJrIikK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL21hZ2VmcmVlL21hZ2UuZ2l0Lwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ClRoaXMgcmV2ZXJ0cyBjb21taXQgY2FmODcyYg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL21hZ2VmcmVlL21hZ2UuZ2l0Lwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS52YWFkaW4uZmxvdy5jb21wb25lbnQucG9seW1lcnRlbXBsYXRlLlBvbHltZXJUZW1wbGF0ZTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS52YWFkaW4uRXhhbXBsZVRlbXBsYXRlLkV4YW1wbGVNb2RlbDsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS52YWFkaW4uRXhhbXBsZVRlbXBsYXRlOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS52YWFkaW4uKjsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS52YWFkaW4uKjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="-" type="4">
-        <text>false</text>
-      </register>
-      <register name="/" type="4">
-        <text>Validate</text>
-      </register>
     </registers>
     <search>
-      <last-search>Validate</last-search>
+      <last-search encoding="base64">XDx0ZW1wbGF0ZVw+</last-search>
       <last-offset />
-      <last-pattern>Validate</last-pattern>
+      <last-pattern encoding="base64">XDx0ZW1wbGF0ZVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -119,6 +163,7 @@
         <entry>debug</entry>
         <entry>prod</entry>
         <entry>Validate</entry>
+        <entry encoding="base64">XDx0ZW1wbGF0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -151,6 +196,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
