@@ -3,13 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1526920528223">
+      <file name="/Dummy.txt" timestamp="1527100080123">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/akeeton-mage/Mage.Server/src/main/java/mage/server/Main.java" timestamp="1526908604370">
         <mark key="[" line="76" column="63" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/.gitignore" timestamp="1527100068993">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="5" />
+        <mark key="^" line="1" column="5" />
+        <mark key="." line="1" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/LearnProject/src/Refactorings.java" timestamp="1526855176710">
         <mark key="[" line="22" column="20" />
