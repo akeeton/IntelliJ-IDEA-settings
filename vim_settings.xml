@@ -10,7 +10,7 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527285389154">
+      <file name="/Dummy.txt" timestamp="1527538044202">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/.gitignore" timestamp="1527100068993">
@@ -35,6 +35,13 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/CustomerForm.java" timestamp="1527537720439">
+        <mark key="'" line="35" column="23" />
+        <mark key="[" line="38" column="48" />
+        <mark key="]" line="38" column="48" />
+        <mark key="." line="38" column="48" />
+        <mark key="^" line="38" column="48" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/vaadin10-simple-ui/pom.xml" timestamp="1526920377454">
         <mark key="'" line="123" column="54" />
         <mark key="[" line="99" column="0" />
@@ -50,12 +57,12 @@
       <file name="$USER_HOME$/Documents/GitHub/akeeton-mage/.gitignore" timestamp="1526841905886">
         <mark key="'" line="98" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/MainView.java" timestamp="1527534204506">
-        <mark key="'" line="25" column="34" />
-        <mark key="[" line="21" column="57" />
-        <mark key="]" line="21" column="70" />
-        <mark key="." line="21" column="70" />
-        <mark key="^" line="21" column="70" />
+      <file name="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/MainView.java" timestamp="1527537976928">
+        <mark key="'" line="14" column="7" />
+        <mark key="[" line="53" column="12" />
+        <mark key="]" line="53" column="18" />
+        <mark key="." line="53" column="18" />
+        <mark key="^" line="53" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/flow/demo/helloworld/CustomerStatus.java" timestamp="1527284885183">
         <mark key="[" line="0" column="19" />
@@ -83,7 +90,7 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="/fragment.java" timestamp="1527103623556">
+      <file name="/fragment.java" timestamp="1527536450215">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -120,55 +127,59 @@
       <jump line="124" column="0" filename="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/Customer.java" />
       <jump line="4" column="0" filename="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/Customer.java" />
       <jump line="184" column="0" filename="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/CustomerService.java" />
+      <jump line="26" column="26" filename="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/MainView.java" />
+      <jump line="45" column="23" filename="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/MainView.java" />
+      <jump line="14" column="7" filename="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/MainView.java" />
+      <jump line="35" column="23" filename="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/CustomerForm.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;First name&quot;);</text>
+        <text>filtering</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;First name&quot;);</text>
+        <text>filtering</text>
       </register>
       <register name="/" type="4">
-        <text>Helper</text>
+        <text encoding="base64">XDxtYWluXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS52YWFkaW4uRXhhbXBsZVRlbXBsYXRlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS52YWFkaW4uZmxvCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS52YWFkaW4uZmxvdy5jb21wb25lbnQuZ3JpZC5HcmlkOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QEhlbHBlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS52YWFkaW4uZmxvdy50dXRvcmlhbC5hbm5vdGF0aW9ucy5IZWxwZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QEhlbHBlcgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZW5hYmxlZCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS52YWFkaW4uZmxvdy50dXRvcmlhbC5hbm5vdGF0aW9ucy5IZWxwZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhZGQoZmlsdGVyaW5nLCBncmlkKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QEhlbHBlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgZmlsdGVyVGV4dC5zZXRQbGFjZWhvbGRlcigiRmlsdGVyIGJ5IG5hbWUuLi4iKTsKICAgICAgICBmaWx0ZXJUZXh0LnNldFZhbHVlQ2hhbmdlTW9kZShWYWx1ZUNoYW5nZU1vZGUuRUFHRVIpOwogICAgICAgIGZpbHRlclRleHQuYWRkVmFsdWVDaGFuZ2VMaXN0ZW5lcihlIC0+IHVwZGF0ZUxpc3QoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Helper</last-search>
+      <last-search encoding="base64">XDxtYWluXD4=</last-search>
       <last-offset />
-      <last-pattern>Helper</last-pattern>
+      <last-pattern encoding="base64">XDxtYWluXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -190,6 +201,7 @@
         <entry>Validate</entry>
         <entry encoding="base64">XDx0ZW1wbGF0ZVw+</entry>
         <entry>Helper</entry>
+        <entry encoding="base64">XDxtYWluXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
