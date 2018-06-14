@@ -70,8 +70,20 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/PathComponent.java" timestamp="1528991879442">
+        <mark key="[" line="7" column="11" />
+        <mark key="]" line="7" column="11" />
+        <mark key="^" line="10" column="4" />
+        <mark key="." line="7" column="11" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/akeeton-mage/Mage.Server/src/main/java/mage/server/Main.java" timestamp="1526908604370">
         <mark key="[" line="76" column="63" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/SomePathComponent.java" timestamp="1528991675111">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+        <mark key="^" line="2" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/vaadin10-simple-ui/src/main/webapp/frontend/src/views/reviewslist/reviews-list.html" timestamp="1527010466265">
         <mark key="'" line="6" column="2" />
@@ -134,10 +146,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>filtering</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>filtering</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYWluXD4=</text>
@@ -146,31 +158,31 @@
         <text encoding="base64">aW1wb3J0IGNvbS52YWFkaW4uRXhhbXBsZVRlbXBsYXRlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIFBhdGhDb21wb25lbnQgewo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CgpwdWJsaWMgY2xhc3MgU29tZVBhdGhDb21wb25lbnQgewp9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZW5hYmxlZCkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhZGQoZmlsdGVyaW5nLCBncmlkKTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgZmlsdGVyVGV4dC5zZXRQbGFjZWhvbGRlcigiRmlsdGVyIGJ5IG5hbWUuLi4iKTsKICAgICAgICBmaWx0ZXJUZXh0LnNldFZhbHVlQ2hhbmdlTW9kZShWYWx1ZUNoYW5nZU1vZGUuRUFHRVIpOwogICAgICAgIGZpbHRlclRleHQuYWRkVmFsdWVDaGFuZ2VMaXN0ZW5lcihlIC0+IHVwZGF0ZUxpc3QoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZW5hYmxlZCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
