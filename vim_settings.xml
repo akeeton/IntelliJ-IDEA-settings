@@ -90,6 +90,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="0" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/BeforeLeaving.java" timestamp="1529873248526">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="17" column="1" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1527536450215">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -133,8 +139,8 @@
       <jump line="35" column="23" filename="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/CustomerForm.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>filtering</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBuZXcgRGlhbAo=</text>
       </register>
       <register name="-" type="4">
         <text>filtering</text>
@@ -146,31 +152,31 @@
         <text encoding="base64">aW1wb3J0IGNvbS52YWFkaW4uRXhhbXBsZVRlbXBsYXRlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBuZXcgRGlhbAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZW5hYmxlZCkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhZGQoZmlsdGVyaW5nLCBncmlkKTsK</text>
-      </register>
-      <register name="8" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoZW5hYmxlZCkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBhZGQoZmlsdGVyaW5nLCBncmlkKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgZmlsdGVyVGV4dC5zZXRQbGFjZWhvbGRlcigiRmlsdGVyIGJ5IG5hbWUuLi4iKTsKICAgICAgICBmaWx0ZXJUZXh0LnNldFZhbHVlQ2hhbmdlTW9kZShWYWx1ZUNoYW5nZU1vZGUuRUFHRVIpOwogICAgICAgIGZpbHRlclRleHQuYWRkVmFsdWVDaGFuZ2VMaXN0ZW5lcihlIC0+IHVwZGF0ZUxpc3QoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
