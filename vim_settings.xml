@@ -10,7 +10,7 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527538044202">
+      <file name="/Dummy.txt" timestamp="1529872290547">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/.gitignore" timestamp="1527100068993">
@@ -70,11 +70,11 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/PathComponent.java" timestamp="1528993639176">
-        <mark key="[" line="7" column="11" />
-        <mark key="]" line="7" column="11" />
-        <mark key="^" line="10" column="4" />
-        <mark key="." line="7" column="11" />
+      <file name="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/PathComponent.java" timestamp="1529872271361">
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="9" column="4" />
+        <mark key="^" line="9" column="4" />
+        <mark key="." line="9" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/akeeton-mage/Mage.Server/src/main/java/mage/server/Main.java" timestamp="1526908604370">
         <mark key="[" line="76" column="63" />
@@ -101,6 +101,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
         <mark key="^" line="0" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/BeforeLeaving.java" timestamp="1529872905362">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1527536450215">
         <mark key="[" line="0" column="0" />
@@ -145,11 +150,11 @@
       <jump line="35" column="23" filename="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/CustomerForm.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAoICAgICAgICkK</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYWluXD4=</text>
@@ -158,31 +163,31 @@
         <text encoding="base64">aW1wb3J0IGNvbS52YWFkaW4uRXhhbXBsZVRlbXBsYXRlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAoICAgICAgICkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIFBhdGhDb21wb25lbnQgewo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CgpwdWJsaWMgY2xhc3MgU29tZVBhdGhDb21wb25lbnQgewp9</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBEaWFsb2cgZGlhbG9nID0gbmV3IERpYWxvZygpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBEaQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBDb25maXJtRGlhbG9nCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBDb25maXJtRGlhbG9nLmJ1aWxkCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZW5hYmxlZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -252,6 +257,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
