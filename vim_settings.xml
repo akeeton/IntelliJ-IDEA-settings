@@ -10,8 +10,10 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530204609407">
+      <file name="/Dummy.txt" timestamp="1530205611477">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/.gitignore" timestamp="1527100068993">
         <mark key="[" line="0" column="0" />
@@ -111,10 +113,10 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1527536450215">
+      <file name="/fragment.java" timestamp="1530205955937">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/starter/skeleton/ExampleTemplate.java" timestamp="1527100837491">
         <mark key="'" line="30" column="6" />
@@ -155,11 +157,11 @@
       <jump line="6" column="13" filename="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/HasUrlParamterExample1.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCkK</text>
+      <register name="&quot;" type="4">
+        <text>erver</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>erver</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYWluXD4=</text>
