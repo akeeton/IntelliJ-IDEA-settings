@@ -44,17 +44,19 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/pricefarm/pom.xml" timestamp="1541092996071">
-        <mark key="'" line="7" column="55" />
-        <mark key="[" line="419" column="0" />
-        <mark key="]" line="419" column="0" />
-        <mark key="." line="419" column="0" />
+      <file name="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/pricefarm/pom.xml" timestamp="1541094814511">
+        <mark key="'" line="359" column="22" />
+        <mark key="[" line="425" column="21" />
+        <mark key="]" line="426" column="7" />
+        <mark key="." line="426" column="7" />
+        <mark key="^" line="426" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/starter/skeleton/MainView.java" timestamp="1527101560944">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/dblink/src/main/java/com/dandh/pricefarm/dblink/server/datasources/FileDataSource.java" timestamp="1541094654855" />
       <file name="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/Customer.java" timestamp="1527285134425">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="10" column="0" />
@@ -180,6 +182,12 @@
       <jump line="1" column="3" filename="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/dblink/pom.xml" />
       <jump line="3" column="18" filename="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/dblink/pom.xml" />
       <jump line="7" column="55" filename="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/pricefarm/pom.xml" />
+      <jump line="11" column="34" filename="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/pricefarm/pom.xml" />
+      <jump line="347" column="51" filename="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/pricefarm/pom.xml" />
+      <jump line="353" column="21" filename="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/pricefarm/pom.xml" />
+      <jump line="354" column="25" filename="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/pricefarm/pom.xml" />
+      <jump line="358" column="26" filename="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/pricefarm/pom.xml" />
+      <jump line="359" column="22" filename="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/pricefarm/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -189,7 +197,7 @@
         <text>clean i</text>
       </register>
       <register name="/" type="4">
-        <text>com.dandh</text>
+        <text>depen</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS52YWFkaW4uRXhhbXBsZVRlbXBsYXRlOwo=</text>
@@ -226,15 +234,14 @@
       </register>
     </registers>
     <search>
-      <last-search>com.dandh</last-search>
+      <last-search>depen</last-search>
       <last-offset />
-      <last-pattern>com.dandh</last-pattern>
+      <last-pattern>depen</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>space</entry>
         <entry>sp</entry>
         <entry>.idea</entry>
         <entry>deviceN</entry>
@@ -254,6 +261,7 @@
         <entry>log4j</entry>
         <entry>pricefarm</entry>
         <entry>com.dandh</entry>
+        <entry>depen</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
