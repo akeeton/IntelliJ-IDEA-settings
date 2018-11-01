@@ -44,12 +44,12 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/pricefarm/pom.xml" timestamp="1541094951121">
+      <file name="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/pricefarm/pom.xml" timestamp="1541095060929">
         <mark key="'" line="359" column="22" />
-        <mark key="[" line="424" column="0" />
-        <mark key="]" line="424" column="0" />
-        <mark key="." line="424" column="0" />
-        <mark key="^" line="425" column="7" />
+        <mark key="[" line="414" column="0" />
+        <mark key="]" line="414" column="0" />
+        <mark key="." line="414" column="0" />
+        <mark key="^" line="419" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/starter/skeleton/MainView.java" timestamp="1527101560944">
         <mark key="[" line="2" column="0" />
@@ -190,7 +190,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNsZjRqPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zbGY0ai1hcGk8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjEuOC4wLWJldGEyPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4KCg==</text>
       </register>
       <register name="-" type="4">
         <text>clean i</text>
@@ -202,31 +202,31 @@
         <text encoding="base64">aW1wb3J0IGNvbS52YWFkaW4uRXhhbXBsZVRlbXBsYXRlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNsZjRqPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zbGY0ai1hcGk8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjEuOC4wLWJldGEyPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4KCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPmNvbXBpbGU8L3Njb3BlPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPmNvbXBpbGU8L3Njb3BlPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QFRoZW1lKHZhbHVlID0gTHVtby5jbGFzcywgdmFyaWFudCA9IEx1bW8uREFSSykK</text>
+        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">QFRoZW1lKHZhbHVlID0gTHVtby5jbGFzcywgdmFyaWFudCA9IEx1bW8uREFSSykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAoICAgICAgICkK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAoICAgICAgICkK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBEaWFsb2cgZGlhbG9nID0gbmV3IERpYWxvZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBEaQo=</text>
+        <text encoding="base64">ICAgICAgICBEaWFsb2cgZGlhbG9nID0gbmV3IERpYWxvZygpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
