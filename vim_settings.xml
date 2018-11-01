@@ -44,6 +44,12 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/pricefarm/pom.xml" timestamp="1541092996071">
+        <mark key="'" line="7" column="55" />
+        <mark key="[" line="419" column="0" />
+        <mark key="]" line="419" column="0" />
+        <mark key="." line="419" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/starter/skeleton/MainView.java" timestamp="1527101560944">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -118,6 +124,9 @@
         <mark key="." line="2" column="13" />
         <mark key="^" line="2" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/dblink/pom.xml" timestamp="1541093059279">
+        <mark key="'" line="3" column="18" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="9" column="30" filename="$USER_HOME$/Documents/GitHub/akeeton-mage/.gitignore" />
@@ -151,62 +160,80 @@
       <jump line="14" column="7" filename="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/MainView.java" />
       <jump line="35" column="23" filename="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/CustomerForm.java" />
       <jump line="6" column="13" filename="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/HasUrlParamterExample1.java" />
+      <jump line="481" column="34" filename="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/pricefarm/pom.xml" />
+      <jump line="6" column="29" filename="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/pricefarm/pom.xml" />
+      <jump line="56" column="33" filename="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/pricefarm/pom.xml" />
+      <jump line="65" column="33" filename="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/pricefarm/pom.xml" />
+      <jump line="77" column="33" filename="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/pricefarm/pom.xml" />
+      <jump line="97" column="33" filename="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/pricefarm/pom.xml" />
+      <jump line="438" column="24" filename="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/pricefarm/pom.xml" />
+      <jump line="421" column="32" filename="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/pricefarm/pom.xml" />
+      <jump line="422" column="24" filename="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/pricefarm/pom.xml" />
+      <jump line="427" column="24" filename="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/pricefarm/pom.xml" />
+      <jump line="431" column="21" filename="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/pricefarm/pom.xml" />
+      <jump line="432" column="24" filename="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/pricefarm/pom.xml" />
+      <jump line="437" column="21" filename="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/pricefarm/pom.xml" />
+      <jump line="426" column="45" filename="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/pricefarm/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/pricefarm/pom.xml" />
+      <jump line="417" column="24" filename="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/pricefarm/pom.xml" />
+      <jump line="416" column="40" filename="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/pricefarm/pom.xml" />
+      <jump line="1" column="3" filename="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/dblink/pom.xml" />
+      <jump line="3" column="18" filename="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/dblink/pom.xml" />
+      <jump line="7" column="55" filename="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/pricefarm/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>clean i</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPmNvbXBpbGU8L3Njb3BlPgo=</text>
       </register>
       <register name="-" type="4">
         <text>clean i</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYWluXD4=</text>
+        <text>com.dandh</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS52YWFkaW4uRXhhbXBsZVRlbXBsYXRlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPmNvbXBpbGU8L3Njb3BlPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QFRoZW1lKHZhbHVlID0gTHVtby5jbGFzcywgdmFyaWFudCA9IEx1bW8uREFSSykK</text>
+        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">QFRoZW1lKHZhbHVlID0gTHVtby5jbGFzcywgdmFyaWFudCA9IEx1bW8uREFSSykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAoICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAoICAgICAgICkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBEaWFsb2cgZGlhbG9nID0gbmV3IERpYWxvZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBEaQo=</text>
+        <text encoding="base64">ICAgICAgICBEaWFsb2cgZGlhbG9nID0gbmV3IERpYWxvZygpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBEaQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYWluXD4=</last-search>
+      <last-search>com.dandh</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYWluXD4=</last-pattern>
+      <last-pattern>com.dandh</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>xml</entry>
-        <entry>work</entry>
         <entry>space</entry>
         <entry>sp</entry>
         <entry>.idea</entry>
@@ -222,6 +249,11 @@
         <entry encoding="base64">XDx0ZW1wbGF0ZVw+</entry>
         <entry>Helper</entry>
         <entry encoding="base64">XDxtYWluXD4=</entry>
+        <entry>apache</entry>
+        <entry>commons</entry>
+        <entry>log4j</entry>
+        <entry>pricefarm</entry>
+        <entry>com.dandh</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
