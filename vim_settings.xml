@@ -60,6 +60,9 @@
         <mark key="^" line="23" column="23" />
         <mark key="." line="23" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/TFS/PriceFarmWSMain/core/pom.xml" timestamp="1541174337307">
+        <mark key="'" line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/TFS/PriceFarmWSMain/pricefarm/pom.xml" timestamp="1541173670473">
         <mark key="'" line="20" column="32" />
       </file>
@@ -131,7 +134,7 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
-      <file name="/fragment.java" timestamp="1530230313474">
+      <file name="/fragment.java" timestamp="1541174369797">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -214,6 +217,7 @@
       <jump line="52" column="12" filename="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/dblink/src/main/config/dblinkConfig.xml" />
       <jump line="11" column="29" filename="$USER_HOME$/Documents/TFS/PriceFarmWSMain/tools/pom.xml" />
       <jump line="20" column="32" filename="$USER_HOME$/Documents/TFS/PriceFarmWSMain/pricefarm/pom.xml" />
+      <jump line="11" column="0" filename="$USER_HOME$/Documents/TFS/PriceFarmWSMain/core/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -223,7 +227,7 @@
         <text>clean i</text>
       </register>
       <register name="/" type="4">
-        <text>repo</text>
+        <text>resour</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS52YWFkaW4uRXhhbXBsZVRlbXBsYXRlOwo=</text>
@@ -260,15 +264,14 @@
       </register>
     </registers>
     <search>
-      <last-search>repo</last-search>
+      <last-search>resour</last-search>
       <last-offset />
-      <last-pattern>repo</last-pattern>
+      <last-pattern>resour</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>deviceN</entry>
         <entry>todo</entry>
         <entry>TODO</entry>
         <entry>\cdebug</entry>
@@ -288,6 +291,7 @@
         <entry>depen</entry>
         <entry encoding="base64">XDx3c1BvcnRcPg==</entry>
         <entry>repo</entry>
+        <entry>resour</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
