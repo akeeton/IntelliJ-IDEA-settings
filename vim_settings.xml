@@ -27,8 +27,8 @@
       <file name="/a.dummy" timestamp="1529874303460">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/pricefarm/pom.xml" timestamp="1541095060929">
-        <mark key="'" line="359" column="22" />
+      <file name="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/pricefarm/pom.xml" timestamp="1541171344635">
+        <mark key="'" line="452" column="48" />
         <mark key="[" line="414" column="0" />
         <mark key="]" line="414" column="0" />
         <mark key="." line="414" column="0" />
@@ -197,6 +197,7 @@
       <jump line="358" column="26" filename="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/pricefarm/pom.xml" />
       <jump line="359" column="22" filename="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/pricefarm/pom.xml" />
       <jump line="104" column="9" filename="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/cache/pom.xml" />
+      <jump line="452" column="48" filename="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/pricefarm/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
