@@ -50,7 +50,7 @@
       <file name="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/dblink/src/main/config/dblinkConfig.xml" timestamp="1541172437334">
         <mark key="'" line="52" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/PriceFarmWSMain/pricefarm/pom.xml" timestamp="1541617299830" />
+      <file name="$USER_HOME$/Documents/dev/PriceFarmWSMain/pricefarm/pom.xml" timestamp="1541617639531" />
       <file name="$USER_HOME$/Documents/GitHub/vaadin10-simple-ui/src/main/webapp/WEB-INF/web.xml" timestamp="1526919956753">
         <mark key="'" line="1" column="7" />
         <mark key="[" line="12" column="21" />
@@ -268,7 +268,7 @@
         <text encoding="base64">ICAgICAgICBEaWFsb2cgZGlhbG9nID0gbmV3IERpYWxvZygpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz53</text>
       </register>
     </registers>
     <search>
@@ -303,8 +303,8 @@
       </history-search>
       <history-cmd>
         <entry>q</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz53</entry>
       </history-cmd>
       <history-expr />
       <history-input />
