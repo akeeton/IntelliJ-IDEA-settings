@@ -89,7 +89,7 @@
       <file name="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/dblink/src/main/java/com/dandh/pricefarm/dblink/DBLinkMain.java" timestamp="1541172349116">
         <mark key="'" line="52" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541617761578">
+      <file name="/Dummy.txt" timestamp="1543247067492">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -276,7 +276,7 @@
         <text>clean i</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpdGVtXD4=</text>
+        <text>gpg</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS52YWFkaW4uRXhhbXBsZVRlbXBsYXRlOwo=</text>
@@ -313,15 +313,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpdGVtXD4=</last-search>
+      <last-search>gpg</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpdGVtXD4=</last-pattern>
+      <last-pattern>gpg</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Debug</entry>
         <entry>DEBUG</entry>
         <entry>debug</entry>
         <entry>prod</entry>
@@ -341,6 +340,7 @@
         <entry>Price.price</entry>
         <entry>execute</entry>
         <entry encoding="base64">XDxpdGVtXD4=</entry>
+        <entry>gpg</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
