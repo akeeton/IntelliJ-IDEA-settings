@@ -135,7 +135,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/PriceFarmWSMain/price/src/main/java/com/dandh/pricefarm/price/servlet/PricingWSImpl.java" timestamp="1542984594778" />
       <file name="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/CustomerService.java" timestamp="1527285197718">
         <mark key="'" line="181" column="0" />
         <mark key="[" line="18" column="0" />
@@ -393,6 +392,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
