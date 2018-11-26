@@ -37,6 +37,12 @@
         <mark key="." line="414" column="0" />
         <mark key="^" line="419" column="7" />
       </file>
+      <file name="$USER_HOME$/dev/pdfbox-2.0.12/examples/src/main/java/org/apache/pdfbox/examples/pdmodel/HelloWorld.java" timestamp="1543254517815">
+        <mark key="[" line="40" column="58" />
+        <mark key="]" line="40" column="58" />
+        <mark key="^" line="40" column="58" />
+        <mark key="." line="40" column="58" />
+      </file>
       <file name="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/cache/pom.xml" timestamp="1541171207913">
         <mark key="'" line="104" column="9" />
       </file>
@@ -79,6 +85,9 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/pdfbox-2.0.12/examples/src/main/java/org/apache/pdfbox/examples/pdmodel/CreateGradientShadingPDF.java" timestamp="1543255910912">
+        <mark key="'" line="78" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/TFS/PriceFarmWSMain/pricefarm/pom.xml" timestamp="1541173670473">
         <mark key="'" line="20" column="32" />
       </file>
@@ -104,6 +113,15 @@
         <mark key="]" line="6" column="16" />
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/pdfboxtest/src/main/java/com/dandh/pdfboxtest/App.java" timestamp="1543254079157">
+        <mark key="." line="8" column="1" />
+      </file>
+      <file name="$USER_HOME$/dev/pdfbox-2.0.12/examples/src/main/java/org/apache/pdfbox/examples/printing/Printing.java" timestamp="1543255313939">
+        <mark key="[" line="74" column="22" />
+        <mark key="]" line="74" column="25" />
+        <mark key="^" line="74" column="25" />
+        <mark key="." line="74" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/flow/demo/helloworld/CustomerStatus.java" timestamp="1527284885183">
         <mark key="[" line="0" column="19" />
@@ -162,7 +180,7 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
-      <file name="/fragment.java" timestamp="1542982964989">
+      <file name="/fragment.java" timestamp="1543256419283">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -279,6 +297,7 @@
       <jump line="623" column="33" filename="$USER_HOME$/dev/PriceFarmWSMain/price/src/main/java/com/dandh/pricefarm/price/Price.java" />
       <jump line="624" column="33" filename="$USER_HOME$/dev/PriceFarmWSMain/price/src/main/java/com/dandh/pricefarm/price/Price.java" />
       <jump line="72" column="1" filename="$USER_HOME$/dev/pdfboxtest/src/main/java/com/dandh/pdfboxtest/App.java" />
+      <jump line="78" column="21" filename="$USER_HOME$/dev/pdfbox-2.0.12/examples/src/main/java/org/apache/pdfbox/examples/pdmodel/CreateGradientShadingPDF.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -288,7 +307,7 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>gpg</text>
+        <text>\cpng</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS52YWFkaW4uRXhhbXBsZVRlbXBsYXRlOwo=</text>
@@ -325,15 +344,14 @@
       </register>
     </registers>
     <search>
-      <last-search>gpg</last-search>
+      <last-search>\cpng</last-search>
       <last-offset />
-      <last-pattern>gpg</last-pattern>
+      <last-pattern>\cpng</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>DEBUG</entry>
         <entry>debug</entry>
         <entry>prod</entry>
         <entry>Validate</entry>
@@ -353,6 +371,7 @@
         <entry>execute</entry>
         <entry encoding="base64">XDxpdGVtXD4=</entry>
         <entry>gpg</entry>
+        <entry>\cpng</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
