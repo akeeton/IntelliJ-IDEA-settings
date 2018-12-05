@@ -32,7 +32,6 @@
         <mark key="." line="53" column="16" />
         <mark key="^" line="53" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/pdfbox-2.0.12/examples/src/main/java/org/apache/pdfbox/examples/pdmodel/ShowColorBoxes.java" timestamp="1543258272589" />
       <file name="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/cache/pom.xml" timestamp="1541171207913">
         <mark key="'" line="104" column="9" />
       </file>
@@ -297,7 +296,7 @@
         <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>88</text>
       </register>
     </registers>
     <search>
@@ -338,6 +337,8 @@
         <entry>help imap</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>w</entry>
+        <entry>86</entry>
+        <entry>88</entry>
       </history-cmd>
       <history-expr />
       <history-input />
