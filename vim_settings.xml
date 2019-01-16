@@ -302,7 +302,7 @@
         <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>88</text>
+        <text>370</text>
       </register>
     </registers>
     <search>
@@ -345,6 +345,7 @@
         <entry>w</entry>
         <entry>86</entry>
         <entry>88</entry>
+        <entry>370</entry>
       </history-cmd>
       <history-expr />
       <history-input />
