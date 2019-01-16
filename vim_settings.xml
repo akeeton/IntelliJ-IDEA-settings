@@ -160,7 +160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="23" filename="$USER_HOME$/Documents/GitHub/akeeton-mage/.gitignore" />
       <jump line="106" column="10" filename="$USER_HOME$/Documents/GitHub/akeeton-mage/.gitignore" />
       <jump line="107" column="12" filename="$USER_HOME$/Documents/GitHub/akeeton-mage/.gitignore" />
       <jump line="2" column="12" filename="$USER_HOME$/Documents/GitHub/akeeton-mage/.gitignore" />
@@ -260,6 +259,7 @@
       <jump line="64" column="48" filename="$USER_HOME$/dev/pdfbox-2.0.12/examples/src/main/java/org/apache/pdfbox/examples/pdmodel/ShowTextWithPositioning.java" />
       <jump line="72" column="17" filename="$USER_HOME$/dev/pdfbox-2.0.12/examples/src/main/java/org/apache/pdfbox/examples/pdmodel/ShowTextWithPositioning.java" />
       <jump line="83" column="31" filename="$USER_HOME$/dev/pdfbox-2.0.12/examples/src/main/java/org/apache/pdfbox/examples/pdmodel/ShowTextWithPositioning.java" />
+      <jump line="354" column="32" filename="$USER_HOME$/dev/PriceFarmWSMain/pricefarm/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -395,6 +395,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
