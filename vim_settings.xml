@@ -42,6 +42,9 @@
         <mark key="'" line="95" column="0" />
         <mark key="x" line="98" column="39" />
       </file>
+      <file name="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" timestamp="1548446436142">
+        <mark key="'" line="601" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/dblink/src/main/config/dblinkConfig.xml" timestamp="1541172437334">
         <mark key="'" line="52" column="12" />
       </file>
@@ -163,7 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="12" filename="$USER_HOME$/Documents/GitHub/akeeton-mage/.gitignore" />
       <jump line="122" column="6" filename="$USER_HOME$/Documents/GitHub/akeeton-mage/.gitignore" />
       <jump line="98" column="1" filename="$USER_HOME$/Documents/GitHub/akeeton-mage/.gitignore" />
       <jump line="3" column="0" filename="$USER_HOME$/Documents/GitHub/LearnProject/src/Refactorings.java" />
@@ -263,6 +265,7 @@
       <jump line="354" column="32" filename="$USER_HOME$/dev/PriceFarmWSMain/pricefarm/pom.xml" />
       <jump line="131" column="23" filename="$USER_HOME$/dev/PriceFarmWSMain/cache/src/main/java/com/dandh/pricefarm/cache/sp/DistributedMapSet.java" />
       <jump line="1757" column="0" filename="$USER_HOME$/dev/PriceFarmWSMain/cache/src/main/java/com/dandh/pricefarm/cache/sp/DistributedMapSet.java" />
+      <jump line="601" column="14" filename="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -272,7 +275,7 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtZXNzYWdlXD4=</text>
+        <text encoding="base64">XDxrZXlQcmVzc2VkXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS52YWFkaW4uRXhhbXBsZVRlbXBsYXRlOwo=</text>
@@ -309,15 +312,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtZXNzYWdlXD4=</last-search>
+      <last-search encoding="base64">XDxrZXlQcmVzc2VkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtZXNzYWdlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxrZXlQcmVzc2VkXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>prod</entry>
         <entry>Validate</entry>
         <entry encoding="base64">XDx0ZW1wbGF0ZVw+</entry>
         <entry>Helper</entry>
@@ -337,6 +339,7 @@
         <entry>gpg</entry>
         <entry>\cpng</entry>
         <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
+        <entry encoding="base64">XDxrZXlQcmVzc2VkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
