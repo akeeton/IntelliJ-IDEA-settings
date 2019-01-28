@@ -26,6 +26,7 @@
         <mark key="." line="53" column="16" />
         <mark key="^" line="53" column="16" />
       </file>
+      <file name="/PickStart.java" timestamp="1548693311500" />
       <file name="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/cache/pom.xml" timestamp="1541171207913">
         <mark key="'" line="104" column="9" />
       </file>
@@ -33,14 +34,14 @@
         <mark key="'" line="95" column="0" />
         <mark key="x" line="98" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" timestamp="1548448869824">
+      <file name="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" timestamp="1548693810680">
         <mark key="a" line="626" column="13" />
         <mark key="'" line="687" column="24" />
         <mark key="x" line="629" column="28" />
-        <mark key="[" line="630" column="61" />
-        <mark key="]" line="631" column="13" />
+        <mark key="[" line="239" column="0" />
+        <mark key="]" line="239" column="0" />
         <mark key="^" line="631" column="13" />
-        <mark key="." line="631" column="13" />
+        <mark key="." line="239" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/dblink/src/main/config/dblinkConfig.xml" timestamp="1541172437334">
         <mark key="'" line="52" column="12" />
@@ -87,7 +88,7 @@
       <file name="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/gui/common/SignOnFrameP.java" timestamp="1548691910343">
         <mark key="'" line="288" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548447394164">
+      <file name="/Dummy.txt" timestamp="1548693292361">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -282,7 +283,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CSAgICAgICAgaXNXaW5kb3dzQ0UgPSB0cnVlOyAgICAKCSAgICB9IGVsc2UgewoJICAgICAgICBpc1dpbmRvd3NDRSA9IGZhbHNlOwoJICAgIH0KCSAgICByZXR1cm4gaXNXaW5kb3dzQ0U7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY29tcG9uZW50c1tpXSBpbnN0YW5jZW9mIENvbnRhaW5lcil7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>(</text>
@@ -294,31 +295,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICBjYXNlIEtleUV2ZW50LlZLX05VTVBBRDA6CiAgICAgICAgICAgICAgICAgIGUuc2V0S2V5Q29kZShLZXlFdmVudC5WS18wKTsKICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSAgICAgICAgaXNXaW5kb3dzQ0UgPSB0cnVlOyAgICAKCSAgICB9IGVsc2UgewoJICAgICAgICBpc1dpbmRvd3NDRSA9IGZhbHNlOwoJICAgIH0KCSAgICByZXR1cm4gaXNXaW5kb3dzQ0U7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY29tcG9uZW50c1tpXSBpbnN0YW5jZW9mIENvbnRhaW5lcil7Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CSAgICAgICAgaXNXaW5kb3dzQ0UgPSB0cnVlOyAgICAKCSAgICB9IGVsc2UgewoJICAgICAgICBpc1dpbmRvd3NDRSA9IGZhbHNlOwoJICAgIH0KCSAgICByZXR1cm4gaXNXaW5kb3dzQ0U7Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBpc1dpbmRvd3NDRT1mYWxzZTsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICYmIFRvb2xraXQu</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>e.getKeyLocation() == KeyEvent.KEY_LOCATION_NUMPAD</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN3aXRjaCAoZS5nZXRLZXlDb2RlKCkpIHsKICAgICAgICAgICAgICBjYXNlIEtleUV2ZW50LlZLX05VTVBBRDA6CiAgICAgICAgICAgICAgICAgIGUuc2V0S2V5Q29kZShLZXlFdmVudC5WS18wKTsKICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zdCAK</text>
+        <text encoding="base64">ICAgICAgICAgIHN3aXRjaCAoZS5nZXRLZXlDb2RlKCkpIHsKICAgICAgICAgICAgICBjYXNlIEtleUV2ZW50LlZLX05VTVBBRDA6CiAgICAgICAgICAgICAgICAgIGUuc2V0S2V5Q29kZShLZXlFdmVudC5WS18wKTsKICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zdCAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjYXNlIEtleUV2ZW50LlZLX05VTVBBRDE6CiAgICAgICAgICAgICAgICAgIGUuc2V0S2V5Q29kZShLZXlFdmVudC5WS18wKTsKICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
