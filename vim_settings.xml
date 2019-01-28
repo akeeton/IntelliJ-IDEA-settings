@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/GitHub/akeeton-mage/Mage.Server/src/main/java/mage/server/Main.java" timestamp="1526908604370">
-        <mark key="[" line="76" column="63" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/PriceFarmWSMain/core/src/main/java/com/dandh/pricefarm/core/model/entity/keys/VendorProgramKey.java" timestamp="1541601340046">
-        <mark key="[" line="29" column="30" />
-      </file>
       <file name="$USER_HOME$/dev/pdfbox-2.0.12/examples/src/main/java/org/apache/pdfbox/examples/pdmodel/ShowTextWithPositioning.java" timestamp="1543266113918">
         <mark key="'" line="83" column="31" />
       </file>
@@ -25,9 +19,6 @@
         <mark key="]" line="9" column="4" />
         <mark key="^" line="9" column="4" />
         <mark key="." line="9" column="4" />
-      </file>
-      <file name="/a.dummy" timestamp="1529874303460">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/pdfbox-2.0.12/examples/src/main/java/org/apache/pdfbox/examples/pdmodel/HelloWorld.java" timestamp="1543264546494">
         <mark key="[" line="53" column="39" />
@@ -92,6 +83,9 @@
       </file>
       <file name="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/dblink/src/main/java/com/dandh/pricefarm/dblink/DBLinkMain.java" timestamp="1541172349116">
         <mark key="'" line="52" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/gui/common/SignOnFrameP.java" timestamp="1548691910343">
+        <mark key="'" line="288" column="38" />
       </file>
       <file name="/Dummy.txt" timestamp="1548447394164">
         <mark key="[" line="0" column="0" />
@@ -185,10 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="13" filename="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/HasUrlParamterExample1.java" />
-      <jump line="481" column="34" filename="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/pricefarm/pom.xml" />
-      <jump line="6" column="29" filename="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/pricefarm/pom.xml" />
-      <jump line="56" column="33" filename="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/pricefarm/pom.xml" />
       <jump line="65" column="33" filename="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/pricefarm/pom.xml" />
       <jump line="77" column="33" filename="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/pricefarm/pom.xml" />
       <jump line="97" column="33" filename="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/pricefarm/pom.xml" />
@@ -285,6 +275,10 @@
       <jump line="503" column="46" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/ReferenceFactory.java" />
       <jump line="37" column="0" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/ReferenceFactory.java" />
       <jump line="477" column="40" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/ReferenceFactory.java" />
+      <jump line="286" column="11" filename="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/gui/common/SignOnFrameP.java" />
+      <jump line="49" column="24" filename="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/gui/common/SignOnFrameP.java" />
+      <jump line="289" column="9" filename="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/gui/common/SignOnFrameP.java" />
+      <jump line="288" column="38" filename="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/gui/common/SignOnFrameP.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -294,7 +288,7 @@
         <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>isWin</text>
+        <text encoding="base64">XDxhcHBPYmpcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBjYXNlIEtleUV2ZW50LlZLX05VTVBBRDA6CiAgICAgICAgICAgICAgICAgIGUuc2V0S2V5Q29kZShLZXlFdmVudC5WS18wKTsKICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
@@ -331,15 +325,14 @@
       </register>
     </registers>
     <search>
-      <last-search>isWin</last-search>
+      <last-search encoding="base64">XDxhcHBPYmpcPg==</last-search>
       <last-offset />
-      <last-pattern>isWin</last-pattern>
+      <last-pattern encoding="base64">XDxhcHBPYmpcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>depen</entry>
         <entry encoding="base64">XDx3c1BvcnRcPg==</entry>
         <entry>resour</entry>
         <entry>repo</entry>
@@ -359,6 +352,7 @@
         <entry>Map</entry>
         <entry>WinCE</entry>
         <entry>isWin</entry>
+        <entry encoding="base64">XDxhcHBPYmpcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
