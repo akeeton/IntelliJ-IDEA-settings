@@ -149,6 +149,12 @@
         <mark key="^" line="32" column="12" />
         <mark key="." line="32" column="12" />
       </file>
+      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/src/main/java/com/dandh/scanner/ui/Sound.java" timestamp="1548805893759">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+        <mark key="^" line="56" column="30" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/CustomerStatus.java" timestamp="1527285016246">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -285,10 +291,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY29tcG9uZW50c1tpXSBpbnN0YW5jZW9mIENvbnRhaW5lcil7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXVkaW9TdHJlYW0gYXM7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>void main</text>
@@ -297,28 +303,28 @@
         <text encoding="base64">ICAgICAgICAgICAgICBjYXNlIEtleUV2ZW50LlZLX05VTVBBRDA6CiAgICAgICAgICAgICAgICAgIGUuc2V0S2V5Q29kZShLZXlFdmVudC5WS18wKTsKICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY29tcG9uZW50c1tpXSBpbnN0YW5jZW9mIENvbnRhaW5lcil7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXVkaW9TdHJlYW0gYXM7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSAgICAgICAgaXNXaW5kb3dzQ0UgPSB0cnVlOyAgICAKCSAgICB9IGVsc2UgewoJICAgICAgICBpc1dpbmRvd3NDRSA9IGZhbHNlOwoJICAgIH0KCSAgICByZXR1cm4gaXNXaW5kb3dzQ0U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBpc1dpbmRvd3NDRT1mYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsKCQkJCWluID0gbmV3IEZpbGVJbnB1dFN0cmVhbShhdWRpb0ZpbGVOYW1lKTsKCQkJfSBjYXRjaCAoRmlsZU5vdEZvdW5kRXhjZXB0aW9uIGUpIHsKCQkJCWUucHJpbnRTdGFja1RyYWNlKCk7CgkJCX0K</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICYmIFRvb2xraXQu</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoY29tcG9uZW50c1tpXSBpbnN0YW5jZW9mIENvbnRhaW5lcil7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>e.getKeyLocation() == KeyEvent.KEY_LOCATION_NUMPAD</text>
+      <register name="5" type="2">
+        <text encoding="base64">CSAgICAgICAgaXNXaW5kb3dzQ0UgPSB0cnVlOyAgICAKCSAgICB9IGVsc2UgewoJICAgICAgICBpc1dpbmRvd3NDRSA9IGZhbHNlOwoJICAgIH0KCSAgICByZXR1cm4gaXNXaW5kb3dzQ0U7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBpc1dpbmRvd3NDRT1mYWxzZTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN3aXRjaCAoZS5nZXRLZXlDb2RlKCkpIHsKICAgICAgICAgICAgICBjYXNlIEtleUV2ZW50LlZLX05VTVBBRDA6CiAgICAgICAgICAgICAgICAgIGUuc2V0S2V5Q29kZShLZXlFdmVudC5WS18wKTsKICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICB9Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICYmIFRvb2xraXQu</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zdCAK</text>
+      <register name="8" type="4">
+        <text>e.getKeyLocation() == KeyEvent.KEY_LOCATION_NUMPAD</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
