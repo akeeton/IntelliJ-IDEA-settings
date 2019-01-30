@@ -35,10 +35,6 @@
       <file name="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/cache/pom.xml" timestamp="1541171207913">
         <mark key="'" line="104" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/PriceFarmWSMain/price/src/main/java/com/dandh/pricefarm/price/PricingServer.java" timestamp="1542984303931">
-        <mark key="'" line="95" column="0" />
-        <mark key="x" line="98" column="39" />
-      </file>
       <file name="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" timestamp="1548693810680">
         <mark key="a" line="626" column="13" />
         <mark key="'" line="687" column="24" />
@@ -48,15 +44,12 @@
         <mark key="^" line="631" column="13" />
         <mark key="." line="239" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/tfs-workspaces/PFDev-5002-QuickPrice/Dev/Perf5002-QuickPrice/pricefarm/pom.xml" timestamp="1548856005612" />
       <file name="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/dblink/src/main/config/dblinkConfig.xml" timestamp="1541172437334">
         <mark key="'" line="52" column="12" />
       </file>
       <file name="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Toolkit.java" timestamp="1548448560170">
         <mark key="'" line="100" column="23" />
-      </file>
-      <file name="$USER_HOME$/dev/PriceFarmWSMain/price/src/main/java/com/dandh/pricefarm/price/Price.java" timestamp="1542986253650">
-        <mark key="'" line="624" column="33" />
-        <mark key="x" line="269" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/LearnProject/src/Refactorings.java" timestamp="1526855176710">
         <mark key="[" line="22" column="20" />
@@ -143,6 +136,7 @@
         <mark key="." line="262" column="0" />
         <mark key="^" line="261" column="85" />
       </file>
+      <file name="$USER_HOME$/dev/tfs-workspaces/PFDev-5002-QuickPrice/Dev/Perf5002-QuickPrice/ConfigManagement/Dev2US/cache-pomfilter-Dev2US.properties" timestamp="1548856974803" />
       <file name="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/ExampleTemplate.java" timestamp="1527103259925">
         <mark key="[" line="32" column="8" />
         <mark key="]" line="32" column="12" />
@@ -161,6 +155,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/tfs-workspaces/PFDev-5002-QuickPrice/Dev/Perf5002-QuickPrice/ConfigManagement/DevUS/dblink-pomfilter-DevUS.properties" timestamp="1548856487684" />
       <file name="$USER_HOME$/dev/pdfbox/examples/src/main/java/org/apache/pdfbox/examples/pdmodel/ImageToPDF.java" timestamp="1543253425121">
         <mark key="[" line="43" column="35" />
         <mark key="]" line="43" column="7" />
