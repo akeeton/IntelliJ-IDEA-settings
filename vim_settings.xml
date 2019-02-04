@@ -47,9 +47,11 @@
       <file name="$USER_HOME$/dev/tfs-workspaces/PFDev-5002-QuickPrice/Dev/Perf5002-QuickPrice/pricefarm/pom.xml" timestamp="1548857556535">
         <mark key="'" line="311" column="32" />
       </file>
+      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/ReferenceFactory.java" timestamp="1549296085305" />
       <file name="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/dblink/src/main/config/dblinkConfig.xml" timestamp="1541172437334">
         <mark key="'" line="52" column="12" />
       </file>
+      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/BeltPrinter.java" timestamp="1549295687492" />
       <file name="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Toolkit.java" timestamp="1548448560170">
         <mark key="'" line="100" column="23" />
       </file>
@@ -88,6 +90,9 @@
       <file name="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/gui/common/SignOnFrameP.java" timestamp="1548691910343">
         <mark key="'" line="288" column="38" />
       </file>
+      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFPickAS/src/main/java/com/dandh/scanner/gui/common/SignOnFrameP.java" timestamp="1549296292906">
+        <mark key="'" line="132" column="21" />
+      </file>
       <file name="/Dummy.txt" timestamp="1548693292361">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -98,9 +103,6 @@
         <mark key="]" line="6" column="16" />
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="16" />
-      </file>
-      <file name="$USER_HOME$/dev/pdfboxtest/src/main/java/com/dandh/pdfboxtest/App.java" timestamp="1543254079157">
-        <mark key="." line="8" column="1" />
       </file>
       <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" timestamp="1548776452845">
         <mark key="'" line="160" column="4" />
@@ -184,8 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="29" filename="$USER_HOME$/Documents/TFS/PriceFarmWSMain/tools/pom.xml" />
-      <jump line="20" column="32" filename="$USER_HOME$/Documents/TFS/PriceFarmWSMain/pricefarm/pom.xml" />
       <jump line="11" column="0" filename="$USER_HOME$/Documents/TFS/PriceFarmWSMain/core/pom.xml" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/dev/PriceFarmWSMain/tools/pom.xml" />
       <jump line="95" column="0" filename="$USER_HOME$/dev/PriceFarmWSMain/price/src/main/java/com/dandh/pricefarm/price/PricingServer.java" />
@@ -284,6 +284,8 @@
       <jump line="171" column="32" filename="$USER_HOME$/dev/tfs-workspaces/PFDev-5002-QuickPrice/Dev/Perf5002-QuickPrice/pricefarm/pom.xml" />
       <jump line="188" column="32" filename="$USER_HOME$/dev/tfs-workspaces/PFDev-5002-QuickPrice/Dev/Perf5002-QuickPrice/pricefarm/pom.xml" />
       <jump line="311" column="32" filename="$USER_HOME$/dev/tfs-workspaces/PFDev-5002-QuickPrice/Dev/Perf5002-QuickPrice/pricefarm/pom.xml" />
+      <jump line="44" column="22" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFPickAS/src/main/java/com/dandh/scanner/gui/common/SignOnFrameP.java" />
+      <jump line="132" column="21" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFPickAS/src/main/java/com/dandh/scanner/gui/common/SignOnFrameP.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -293,7 +295,7 @@
         <text>resource</text>
       </register>
       <register name="/" type="4">
-        <text>assemble-UAT</text>
+        <text encoding="base64">XDxpdndcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXNvdXJjZSk7Cg==</text>
@@ -330,15 +332,14 @@
       </register>
     </registers>
     <search>
-      <last-search>assemble-UAT</last-search>
+      <last-search encoding="base64">XDxpdndcPg==</last-search>
       <last-offset />
-      <last-pattern>assemble-UAT</last-pattern>
+      <last-pattern encoding="base64">XDxpdndcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxrZXlQcmVzc2VkXD4=</entry>
         <entry>key</entry>
         <entry>NUMPAD</entry>
         <entry encoding="base64">Jg==</entry>
@@ -358,6 +359,7 @@
         <entry encoding="base64">XDxzb3VuZFBhdGhJbkphclw+</entry>
         <entry encoding="base64">XDxzb3VuZHNEaXJJbkphclw+</entry>
         <entry>assemble-UAT</entry>
+        <entry encoding="base64">XDxpdndcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
