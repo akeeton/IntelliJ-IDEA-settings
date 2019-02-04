@@ -9,29 +9,12 @@
       <file name="$USER_HOME$/dev/PriceFarmWSMain/cache/src/main/java/com/dandh/pricefarm/cache/sp/DistributedMapSet.java" timestamp="1547653123606">
         <mark key="'" line="1757" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1541096609254">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="87" />
-        <mark key="^" line="13" column="87" />
-        <mark key="." line="13" column="87" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/BeforeLeaving.java" timestamp="1529872905362">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/PathComponent.java" timestamp="1529872271361">
-        <mark key="[" line="9" column="5" />
-        <mark key="]" line="9" column="4" />
-        <mark key="^" line="9" column="4" />
-        <mark key="." line="9" column="4" />
-      </file>
-      <file name="$USER_HOME$/dev/pdfbox-2.0.12/examples/src/main/java/org/apache/pdfbox/examples/pdmodel/HelloWorld.java" timestamp="1543264546494">
-        <mark key="[" line="53" column="39" />
-        <mark key="]" line="53" column="16" />
-        <mark key="." line="53" column="16" />
-        <mark key="^" line="53" column="16" />
-      </file>
+      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFPickAS/src/main/java/com/dandh/scanner/gui/pick/SerialNoFrame.java" timestamp="1549306146404" />
       <file name="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/cache/pom.xml" timestamp="1541171207913">
         <mark key="'" line="104" column="9" />
       </file>
@@ -55,12 +38,6 @@
       <file name="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Toolkit.java" timestamp="1548448560170">
         <mark key="'" line="100" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/LearnProject/src/Refactorings.java" timestamp="1526855176710">
-        <mark key="[" line="22" column="20" />
-        <mark key="]" line="23" column="23" />
-        <mark key="^" line="23" column="23" />
-        <mark key="." line="23" column="23" />
-      </file>
       <file name="$USER_HOME$/Documents/TFS/PriceFarmWSMain/core/pom.xml" timestamp="1541174337307">
         <mark key="'" line="11" column="0" />
       </file>
@@ -75,6 +52,7 @@
       <file name="$USER_HOME$/Documents/TFS/PriceFarmWSMain/pricefarm/pom.xml" timestamp="1541173670473">
         <mark key="'" line="20" column="32" />
       </file>
+      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/src/main/java/com/dandh/scanner/hal/Scanner.java" timestamp="1549305899499" />
       <file name="$USER_HOME$/Documents/dev/PriceFarmWSMain/tools/pom.xml" timestamp="1541617671522">
         <mark key="'" line="1" column="0" />
       </file>
@@ -98,40 +76,21 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/HasUrlParameterExample1.java" timestamp="1529875819912">
-        <mark key="[" line="8" column="15" />
-        <mark key="]" line="6" column="16" />
-        <mark key="." line="6" column="16" />
-        <mark key="^" line="6" column="16" />
-      </file>
       <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" timestamp="1548776452845">
         <mark key="'" line="160" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/pdfbox-2.0.12/examples/src/main/java/org/apache/pdfbox/examples/printing/Printing.java" timestamp="1543255313939">
-        <mark key="[" line="74" column="22" />
-        <mark key="]" line="74" column="25" />
-        <mark key="^" line="74" column="25" />
-        <mark key="." line="74" column="25" />
-      </file>
-      <file name="$USER_HOME$/dev/PriceFarmWSMain/dblink/src/main/java/com/dandh/pricefarm/dblink/DBLinkMain.java" timestamp="1544025122367">
-        <mark key="[" line="87" column="21" />
-        <mark key="]" line="87" column="9" />
-        <mark key="^" line="87" column="9" />
-        <mark key="." line="87" column="9" />
-      </file>
       <file name="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/event/KeyEvent.java" timestamp="1548447411056">
         <mark key="'" line="292" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/flow/demo/helloworld/CustomerStatus.java" timestamp="1527284885183">
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="0" column="18" />
-        <mark key="." line="0" column="18" />
-        <mark key="^" line="0" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/starter/skeleton/MainView.java" timestamp="1527101560944">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/src/main/java/com/dandh/scanner/hal/TextinputScanner.java" timestamp="1549305196868">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/ReferenceFactory.java" timestamp="1548448832200">
         <mark key="'" line="472" column="40" />
@@ -140,12 +99,6 @@
         <mark key="." line="262" column="0" />
         <mark key="^" line="261" column="85" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/ExampleTemplate.java" timestamp="1527103259925">
-        <mark key="[" line="32" column="8" />
-        <mark key="]" line="32" column="12" />
-        <mark key="^" line="32" column="12" />
-        <mark key="." line="32" column="12" />
-      </file>
       <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/src/main/java/com/dandh/scanner/ui/Sound.java" timestamp="1549295298373">
         <mark key="'" line="53" column="36" />
         <mark key="[" line="62" column="0" />
@@ -153,36 +106,19 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="56" column="32" />
       </file>
+      <file name="C:/Progress/OpenEdge/jdk/src.zip!/java/util/Collections.java" timestamp="1549305611441" />
       <file name="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/CustomerStatus.java" timestamp="1527285016246">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/pdfbox/examples/src/main/java/org/apache/pdfbox/examples/pdmodel/ImageToPDF.java" timestamp="1543253425121">
-        <mark key="[" line="43" column="35" />
-        <mark key="]" line="43" column="7" />
-        <mark key="^" line="43" column="7" />
-        <mark key="." line="43" column="7" />
-      </file>
       <file name="$USER_HOME$/Documents/TFS/PriceFarmWSMain/tools/pom.xml" timestamp="1541173488405">
         <mark key="'" line="11" column="29" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/.gitignore" timestamp="1527100068993">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="5" />
-        <mark key="^" line="1" column="5" />
-        <mark key="." line="1" column="5" />
       </file>
       <file name="/fragment.java" timestamp="1548775783872">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/SomePathComponent.java" timestamp="1528991675111">
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="2" column="13" />
-        <mark key="." line="2" column="13" />
-        <mark key="^" line="2" column="13" />
       </file>
     </filemarks>
     <jumps>
@@ -289,7 +225,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgU3RyaW5nLgo=</text>
       </register>
       <register name="-" type="4">
         <text>resource</text>
@@ -301,31 +237,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXNvdXJjZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgU3RyaW5nLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJlc291cmNlKTsKCiAgICAgICAgICAgIFN0cmluZyBzb3VuZEZpbGVQYXRoID0gcmVzb3VyY2UudG9FeHRlcm5hbEZvcm0oKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHNvdW5kRmlsZVBhdGgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJlc291cmNlKTsKCiAgICAgICAgICAgIFN0cmluZyBzb3VuZEZpbGVQYXRoID0gcmVzb3VyY2UudG9FeHRlcm5hbEZvcm0oKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHNvdW5kRmlsZVBhdGgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVVJMIHJlc291cmNlID0gZ2V0Q2xhc3MoKS5nZXRSZXNvdXJjZShzb3VuZEphclBhdGgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFVSTCByZXNvdXJjZSA9IGdldENsYXNzKCkuZ2V0UmVzb3VyY2Uoc291bmRKYXJQYXRoKTsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXNvdXJjZSk7CgogICAgICAgICAgICAgICAgU3RyaW5nIHNvdW5kRmlsZVBhdGggPSByZXNvdXJjZS50b0V4dGVybmFsRm9ybSgpOwogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHNvdW5kRmlsZVBhdGgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVVJMIHJlc291cmNlID0gZ2V0Q2xhc3MoKS5nZXRSZXNvdXJjZShzb3VuZEphclBhdGgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFVSTCByZXNvdXJjZSA9IGdldENsYXNzKCkuZ2V0UmVzb3VyY2Uoc291bmRKYXJQYXRoKTsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXNvdXJjZSk7CgogICAgICAgICAgICAgICAgU3RyaW5nIHNvdW5kRmlsZVBhdGggPSByZXNvdXJjZS50b0V4dGVybmFsRm9ybSgpOwogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHNvdW5kRmlsZVBhdGgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
