@@ -14,6 +14,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/pom.xml" timestamp="1549396577551">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="132" />
+        <mark key="^" line="62" column="23" />
+        <mark key="." line="62" column="23" />
+      </file>
       <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFPickAS/src/main/java/com/dandh/scanner/gui/pick/SerialNoFrame.java" timestamp="1549392264646">
         <mark key="'" line="914" column="0" />
         <mark key="[" line="795" column="18" />
@@ -36,6 +42,12 @@
       <file name="$USER_HOME$/dev/tfs-workspaces/PFDev-5002-QuickPrice/Dev/Perf5002-QuickPrice/pricefarm/pom.xml" timestamp="1548857556535">
         <mark key="'" line="311" column="32" />
       </file>
+      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/assembly/assemble-jars.xml" timestamp="1549395240456">
+        <mark key="[" line="15" column="34" />
+        <mark key="]" line="17" column="28" />
+        <mark key="." line="17" column="28" />
+        <mark key="^" line="17" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/dblink/src/main/config/dblinkConfig.xml" timestamp="1541172437334">
         <mark key="'" line="52" column="12" />
       </file>
@@ -50,10 +62,11 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/pom.xml" timestamp="1549391714455">
-        <mark key="[" line="16" column="9" />
-        <mark key="]" line="16" column="9" />
-        <mark key="." line="16" column="9" />
+      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/pom.xml" timestamp="1549396211368">
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="16" column="11" />
+        <mark key="^" line="16" column="11" />
+        <mark key="." line="16" column="11" />
       </file>
       <file name="$USER_HOME$/dev/pdfbox-2.0.12/examples/src/main/java/org/apache/pdfbox/examples/pdmodel/CreateGradientShadingPDF.java" timestamp="1543255910912">
         <mark key="'" line="78" column="21" />
@@ -79,10 +92,17 @@
       <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFPickAS/src/main/java/com/dandh/scanner/gui/common/SignOnFrameP.java" timestamp="1549296292906">
         <mark key="'" line="132" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548693292361">
+      <file name="/Dummy.txt" timestamp="1549396965236">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/src/assembly/assemble-jars.xml" timestamp="1549396031124">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="21" column="23" />
+        <mark key="]" line="22" column="11" />
+        <mark key="^" line="22" column="11" />
+        <mark key="." line="22" column="11" />
       </file>
       <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" timestamp="1548776452845">
         <mark key="'" line="160" column="4" />
@@ -114,6 +134,19 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="56" column="32" />
       </file>
+      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/assembly/assembly.xml" timestamp="1549394430344">
+        <mark key="'" line="13" column="10" />
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="109" />
+        <mark key="^" line="0" column="109" />
+        <mark key="." line="0" column="109" />
+      </file>
+      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/src/assembly/bin.xml" timestamp="1549397171544">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="28" column="35" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/CustomerStatus.java" timestamp="1527285016246">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -129,9 +162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="350" column="37" filename="$USER_HOME$/dev/PriceFarmWSMain/price/src/main/java/com/dandh/pricefarm/price/Price.java" />
-      <jump line="351" column="22" filename="$USER_HOME$/dev/PriceFarmWSMain/price/src/main/java/com/dandh/pricefarm/price/Price.java" />
-      <jump line="354" column="29" filename="$USER_HOME$/dev/PriceFarmWSMain/price/src/main/java/com/dandh/pricefarm/price/Price.java" />
       <jump line="358" column="54" filename="$USER_HOME$/dev/PriceFarmWSMain/price/src/main/java/com/dandh/pricefarm/price/Price.java" />
       <jump line="365" column="54" filename="$USER_HOME$/dev/PriceFarmWSMain/price/src/main/java/com/dandh/pricefarm/price/Price.java" />
       <jump line="509" column="79" filename="$USER_HOME$/dev/PriceFarmWSMain/price/src/main/java/com/dandh/pricefarm/price/Price.java" />
@@ -229,57 +259,55 @@
       <jump line="785" column="18" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFPickAS/src/main/java/com/dandh/scanner/gui/pick/SerialNoFrame.java" />
       <jump line="802" column="17" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFPickAS/src/main/java/com/dandh/scanner/gui/pick/SerialNoFrame.java" />
       <jump line="914" column="0" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFPickAS/src/main/java/com/dandh/scanner/gui/pick/SerialNoFrame.java" />
+      <jump line="13" column="10" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/assembly/assembly.xml" />
+      <jump line="48" column="10" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/src/assembly/assemble-jars.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/src/assembly/assemble-jars.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">a2V5UmVsZWFzZWQ7IHBvc3RTTjsgZS5nZXRTb3VyY2U6ICIgKyBlLmdldFNvdXJjZSgpKTsKICAgICAgLy8gIGRlYnVnICgia2V5UmVsZWFzZWQ7IHBvc3RTTjsgcXR5Q291bnRlZFRmOiAiICsgcXR5Q291bnRlZFRmKTsKICAgICAgLy8gIGRlYnVnICgia2V5UmVsZWFzZWQ7IHBvc3RTTjsgc3ViQXBwbENvZGU6ICIgKyA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="k" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmRhbmRoLnNjYW5uZXI8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPlJGUGlja0FTPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xLjQ1LjAtU05BUFNIT1Q8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="-" type="4">
-        <text>getKeyText</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlMVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXNvdXJjZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxvdXRwdXRGaWxlTmFtZU1hcHBpbmc+JHthcnRpZmFjdC5uYW1lfS4ke2FydGlmYWN0LmV4dGVuc2lvbn08L291dHB1dEZpbGVOYW1lTWFwcGluZz4K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">a2V5UmVsZWFzZWQ7IHBvc3RTTjsgZS5nZXRTb3VyY2U6ICIgKyBlLmdldFNvdXJjZSgpKTsKICAgICAgLy8gIGRlYnVnICgia2V5UmVsZWFzZWQ7IHBvc3RTTjsgcXR5Q291bnRlZFRmOiAiICsgcXR5Q291bnRlZFRmKTsKICAgICAgLy8gIGRlYnVnICgia2V5UmVsZWFzZWQ7IHBvc3RTTjsgc3ViQXBwbENvZGU6ICIgKyA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>{
-    		  debug (&quot;keyReleased; postSN; e.getSource Equals qtyCountedTf&quot;);
-    		  e.consume();
-    		  postSn(true, &quot;&quot;);
-    	  }</text>
+      <register name="2" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgIDxkZXBlbmRlbmN5U2V0cz4KICAgICAgICAgICAgICAgIDxkZXBlbmRlbmN5U2V0PgogICAgICAgICAgICAgICAgICAgIDxvdXRwdXRGaWxlTmFtZU1hcHBpbmc+JHthcnRpZmFjdC5uYW1lfS4ke2FydGlmYWN0LmV4dGVuc2lvbn08L291dHB1dEZpbGVOYW1lTWFwcGluZz4KICAgICAgICAgICAgICAgICAgICA8dW5wYWNrPmZhbHNlPC91bnBhY2s+CiAgICAgICAgICAgICAgICA8L2RlcGVuZGVuY3lTZXQ+CiAgICAgICAgICAgIDwvZGVwZW5kZW5jeVNldHM+Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>{
-    		  debug (&quot;keyReleased; postSN; e.getSource Equals qtyCountedTf&quot;);
-    		  e.consume();
-    		  postSn(true, &quot;&quot;);
-    	  }</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx1bnBhY2s+ZmFsc2U8L3VucGFjaz4K</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICAgIGd1aS5wbGF5U291bmQoInNlbGVjdCIpOwogICAgICAgICAgU2VyaWFsTm9GcmFtZS5zZXROb1NORmxhZyh0cnVlKTsKICAgICAgICAgIHNuVG9Qb3N0LnNldFNuTW9kZSgiTk9TTiIpOwogICAgICAgICAgcHJvY2Vzc0lucHV0KCJOT1NOIik7IC8vIGNvbW1lbnQgb3V0IHRvIHNraXAgc2NyZWVuIGluc3RlYWQ=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGVwZW5kZW5jeVNldD4gICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGd1aS5wbGF5U291bmQoInNlbGVjdCIpOwogICAgICAgICAgU2VyaWFsTm9GcmFtZS5zZXROb1NORmxhZyh0cnVlKTsKICAgICAgICAgIHNuVG9Qb3N0LnNldFNuTW9kZSgiTk9TTiIpOwogICAgICAgICAgcHJvY2Vzc0lucHV0KCJOT1NOIik7IC8vIGNvbW1lbnQgb3V0IHRvIHNraXAgc2NyZWVuIGluc3RlYWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx1bnBhY2s+ZmFsc2U8L3VucGFjaz4K</text>
       </register>
-      <register name="6" type="4">
-        <text>deleteSerialNo(sessionId, snToPost, getSelectedSN(), this.getAppObj())</text>
+      <register name="6" type="2">
+        <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8b3V0cHV0RGlyZWN0b3J5PmphcnM8L291dHB1dERpcmVjdG9yeT4tLT4K</text>
       </register>
-      <register name="7" type="4">
-        <text>deleteSerialNo(sessionId, snToPost, getSelectedSN(), this.getAppObj())</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAkgIGlmICghZjRMYWJlbC5pc0VuYWJsZWQoKSkgewogICAgCQkgIHJldHVybjsKICAgIAkgIH0KICAgIAkgIGlmIChzbkxpc3QuZ2V0SXRlbUNvdW50KCkgPT0gMCkgewogICAgCQkgIHJldHVybjsKICAgIAkgIH0KICAgIAkgIGd1aS5wbGF5U291bmQoInNlbGVjdCIpOwo=</text>
+        <text encoding="base64">ICAgIDwhLS0gQWRhcHRlZCBmcm9tIGh0dHA6Ly9tYXZlbi5hcGFjaGUub3JnL3BsdWdpbnMvbWF2ZW4tYXNzZW1ibHktcGx1Z2luL2V4YW1wbGVzL211bHRpbW9kdWxlL21vZHVsZS1iaW5hcnktaW5jbHVzaW9uLXNpbXBsZS5odG1sIC0tPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAkgIGlmICghZjRMYWJlbC5pc0VuYWJsZWQoKSkgewogICAgCQkgIHJldHVybjsKICAgIAkgIH0KICAgIAkgIGlmIChzbkxpc3QuZ2V0SXRlbUNvdW50KCkgPT0gMCkgewogICAgCQkgIHJldHVybjsKICAgIAkgIH0KICAgIAkgIGd1aS5wbGF5U291bmQoInNlbGVjdCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>set relativenumber</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -323,8 +351,8 @@
         <entry>88</entry>
         <entry>370</entry>
         <entry>wi</entry>
-        <entry>w</entry>
         <entry>set relativenumber</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
