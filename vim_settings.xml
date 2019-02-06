@@ -177,6 +177,13 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1549483203961">
+        <mark key="'" line="0" column="40" />
+        <mark key="[" line="0" column="66" />
+        <mark key="]" line="0" column="72" />
+        <mark key="^" line="0" column="72" />
+        <mark key="." line="0" column="72" />
+      </file>
       <file name="$USER_HOME$/Documents/TFS/PriceFarmWSMain/tools/pom.xml" timestamp="1541173488405">
         <mark key="'" line="11" column="29" />
       </file>
@@ -187,7 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="140" column="4" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" />
       <jump line="144" column="4" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" />
       <jump line="148" column="4" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" />
       <jump line="152" column="4" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" />
@@ -287,19 +293,20 @@
       <jump line="69" column="0" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/pom.xml" />
       <jump line="76" column="0" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/pom.xml" />
       <jump line="80" column="0" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/pom.xml" />
+      <jump line="0" column="40" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVwb3NpdG9yeT4KICAgICAgICAgICAgPGlkPm5leHVzQ29tcG9uZW50c1JlcG88L2lkPgogICAgICAgICAgICA8bmFtZT5OZXh1cyBDb21wb25lbnRzIFJlcG88L25hbWU+CiAgICAgICAgICAgIDx1cmw+aHR0cDovL2NvbXBvbmVudHMuZGFuZGgubmV0PC91cmw+CiAgICAgICAgPC9yZXBvc2l0b3J5PgoK</text>
+      <register name="&quot;" type="4">
+        <text>progress</text>
       </register>
       <register name="k" type="2">
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmRhbmRoLnNjYW5uZXI8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPlJGUGlja0FTPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xLjQ1LjAtU05BUFNIT1Q8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="-" type="4">
-        <text>com.dandh.scanner</text>
+        <text>progress</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">XDxvNGdscnRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGlkPm5leHVzQ29tcG9uZW50czwvaWQ+Cg==</text>
@@ -354,9 +361,9 @@
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
+      <last-search encoding="base64">XDxvNGdscnRcPg==</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
+      <last-pattern encoding="base64">XDxvNGdscnRcPg==</last-pattern>
       <last-replace>${cabCreatePath}</last-replace>
       <last-substitute>target/classes/CabCreate</last-substitute>
       <last-dir>1</last-dir>
@@ -364,8 +371,6 @@
     </search>
     <history>
       <history-search>
-        <entry>assemble-UAT</entry>
-        <entry encoding="base64">XDxpdndcPg==</entry>
         <entry encoding="base64">XDxlMVw+</entry>
         <entry>bin</entry>
         <entry>rfcommon</entry>
@@ -384,6 +389,8 @@
         <entry>RFC</entry>
         <entry>jars</entry>
         <entry>&quot;</entry>
+        <entry>com</entry>
+        <entry encoding="base64">XDxvNGdscnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>help</entry>
