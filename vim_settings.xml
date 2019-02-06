@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/pom.xml" timestamp="1549401648602">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/pom.xml" timestamp="1549481898001">
+        <mark key="[" line="27" column="21" />
+        <mark key="]" line="27" column="31" />
+        <mark key="." line="27" column="31" />
+        <mark key="^" line="27" column="31" />
       </file>
       <file name="$USER_HOME$/dev/pdfbox-2.0.12/examples/src/main/java/org/apache/pdfbox/examples/pdmodel/ShowTextWithPositioning.java" timestamp="1543266113918">
         <mark key="'" line="83" column="31" />
@@ -61,11 +62,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/pom.xml" timestamp="1549400673429">
+      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/pom.xml" timestamp="1549482218047">
         <mark key="'" line="15" column="74" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+        <mark key="[" line="32" column="23" />
+        <mark key="]" line="33" column="11" />
+        <mark key="^" line="33" column="11" />
+        <mark key="." line="33" column="11" />
       </file>
       <file name="$USER_HOME$/dev/pdfbox-2.0.12/examples/src/main/java/org/apache/pdfbox/examples/pdmodel/CreateGradientShadingPDF.java" timestamp="1543255910912">
         <mark key="'" line="78" column="21" />
@@ -287,23 +289,23 @@
       <jump line="80" column="0" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8cmVwb3NpdG9yeT4KICAgICAgICAgICAgPGlkPm5leHVzQ29tcG9uZW50c1JlcG88L2lkPgogICAgICAgICAgICA8bmFtZT5OZXh1cyBDb21wb25lbnRzIFJlcG88L25hbWU+CiAgICAgICAgICAgIDx1cmw+aHR0cDovL2NvbXBvbmVudHMuZGFuZGgubmV0PC91cmw+CiAgICAgICAgPC9yZXBvc2l0b3J5PgoK</text>
       </register>
       <register name="k" type="2">
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmRhbmRoLnNjYW5uZXI8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPlJGUGlja0FTPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xLjQ1LjAtU05BUFNIT1Q8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>com.dandh.scanner</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">KioqKioqIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGlkPm5leHVzQ29tcG9uZW50czwvaWQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cmVwb3NpdG9yeT4KICAgICAgICAgICAgPGlkPm5leHVzQ29tcG9uZW50c1JlcG88L2lkPgogICAgICAgICAgICA8bmFtZT5OZXh1cyBDb21wb25lbnRzIFJlcG88L25hbWU+CiAgICAgICAgICAgIDx1cmw+aHR0cDovL2NvbXBvbmVudHMuZGFuZGgubmV0PC91cmw+CiAgICAgICAgPC9yZXBvc2l0b3J5PgoK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -324,7 +326,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -333,19 +335,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cmVtIC9lcnIgZXJyb3JmaWxlLmVycgpyZW0gQWRkIC9lcnIgcGFyYW0gdG8gZW5kIHRvIGNyZWF0ZSBhbiBlcnJvciBmaWxlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QGVjaG8gb2ZmCg==</text>
+        <text encoding="base64">cmVtIC9lcnIgZXJyb3JmaWxlLmVycgpyZW0gQWRkIC9lcnIgcGFyYW0gdG8gZW5kIHRvIGNyZWF0ZSBhbiBlcnJvciBmaWxlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZWNobwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">QGVjaG8gb2ZmCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
