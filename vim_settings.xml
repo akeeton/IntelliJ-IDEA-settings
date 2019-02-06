@@ -19,12 +19,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/pom.xml" timestamp="1549405173195">
+      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/pom.xml" timestamp="1549463412808">
         <mark key="'" line="9" column="4" />
-        <mark key="[" line="144" column="116" />
-        <mark key="]" line="144" column="121" />
-        <mark key="^" line="144" column="121" />
-        <mark key="." line="144" column="121" />
+        <mark key="[" line="150" column="82" />
+        <mark key="]" line="150" column="82" />
+        <mark key="^" line="144" column="85" />
+        <mark key="." line="150" column="89" />
       </file>
       <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFPickAS/src/main/java/com/dandh/scanner/gui/pick/SerialNoFrame.java" timestamp="1549392264646">
         <mark key="'" line="914" column="0" />
@@ -144,8 +144,11 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="41" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/ScannerAS.inf" timestamp="1549404847289">
-        <mark key="'" line="80" column="1" />
+      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/ScannerAS.inf" timestamp="1549463548482">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/CustomerStatus.java" timestamp="1527285016246">
         <mark key="[" line="2" column="0" />
@@ -162,8 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="286" column="31" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/event/KeyEvent.java" />
-      <jump line="287" column="31" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/event/KeyEvent.java" />
       <jump line="288" column="31" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/event/KeyEvent.java" />
       <jump line="289" column="31" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/event/KeyEvent.java" />
       <jump line="290" column="31" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/event/KeyEvent.java" />
@@ -262,64 +263,65 @@
       <jump line="138" column="0" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/pom.xml" />
       <jump line="146" column="32" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/pom.xml" />
       <jump line="9" column="4" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/pom.xml" />
+      <jump line="66" column="1" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/ScannerAS.inf" />
+      <jump line="44" column="0" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/ScannerAS.inf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>${project.version}.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">InJtaS5qYXIiLCwsMHgwMDAwMDAwMQo=</text>
       </register>
       <register name="k" type="2">
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmRhbmRoLnNjYW5uZXI8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPlJGUGlja0FTPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xLjQ1LjAtU05BUFNIT1Q8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="-" type="4">
-        <text>${project.version}.</text>
+        <text>JARFiles</text>
       </register>
       <register name="/" type="4">
-        <text>jar</text>
+        <text encoding="base64">XDxybWlcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZmlsZVNldD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNvdXJjZUZpbGU+dGFyZ2V0LyR7cHJvamVjdC5uYW1lfS0ke3Byb2plY3QudmVyc2lvbn0tYXNzZW1ibGUtamFycy9vNGdscnQtJHtwcm9qZWN0LnZlcnNpb259Lmphcjwvc291cmNlRmlsZT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRlc3RpbmF0aW9uRmlsZT50YXJnZXQvY2xhc3Nlcy9DYWJDcmVhdGUvSkFSRmlsZXMvbzRnbHJ0LmphcjwvZGVzdGluYXRpb25GaWxlPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZmlsZVNldD4K</text>
       </register>
-      <register name="1" type="4">
-        <text>${project.version}.</text>
+      <register name="1" type="2">
+        <text encoding="base64">InJtaS5qYXIiLCwsMHgwMDAwMDAwMQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">InJtaS5qYXIiICAgICAgICAgPSAzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8IS0tIERvbid0IGNvcHkgdGhlIGNyZW1leCBqYXIgYmVjYXVzZSBpdCdzIGFscmVhZHkgb24gdGhlIGRldmljZS4gLS0+CjwhLS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxmaWxlU2V0Pi0tPgo8IS0tICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNvdXJjZUZpbGU+dGFyZ2V0LyR7cHJvamVjdC5uYW1lfS0ke3Byb2plY3QudmVyc2lvbn0tYXNzZW1ibGUtamFycy9jcmVtZXgtJHtwcm9qZWN0LnZlcnNpb259Lmphcjwvc291cmNlRmlsZT4tLT4KPCEtLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkZXN0aW5hdGlvbkZpbGU+dGFyZ2V0L2NsYXNzZXMvQ2FiQ3JlYXRlL0pBUkZpbGVzL2NyZW1leC5qYXI8L2Rlc3RpbmF0aW9uRmlsZT4tLT4KPCEtLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9maWxlU2V0Pi0tPgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxmaWx0ZXJpbmc+dHJ1ZTwvZmlsdGVyaW5nPgo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>${project.version}.</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzb3VyY2VGaWxlPnRhcmdldC8ke3Byb2plY3QubmFtZX0tJHtwcm9qZWN0LnZlcnNpb259LWFzc2VtYmxlLWphcnMvUkZDb21tb25BUy0ke3Byb2plY3QudmVyc2lvbn0uamFyPC9zb3VyY2VGaWxlPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8IS0tIERvbid0IGNvcHkgdGhlIGNyZW1leCBqYXIgYmVjYXVzZSBpdCdzIGFscmVhZHkgb24gdGhlIGRldmljZS4gLS0+CjwhLS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxmaWxlU2V0Pi0tPgo8IS0tICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNvdXJjZUZpbGU+dGFyZ2V0LyR7cHJvamVjdC5uYW1lfS0ke3Byb2plY3QudmVyc2lvbn0tYXNzZW1ibGUtamFycy9jcmVtZXgtJHtwcm9qZWN0LnZlcnNpb259Lmphcjwvc291cmNlRmlsZT4tLT4KPCEtLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkZXN0aW5hdGlvbkZpbGU+dGFyZ2V0L2NsYXNzZXMvQ2FiQ3JlYXRlL0pBUkZpbGVzL2NyZW1leC5qYXI8L2Rlc3RpbmF0aW9uRmlsZT4tLT4KPCEtLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9maWxlU2V0Pi0tPgoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzb3VyY2VGaWxlPnRhcmdldC8ke3Byb2plY3QubmFtZX0tJHtwcm9qZWN0LnZlcnNpb259LWFzc2VtYmxlLWphcnMvUkZDb21tb25BUy0ke3Byb2plY3QudmVyc2lvbn0uamFyPC9zb3VyY2VGaWxlPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRlc3RpbmF0aW9uRmlsZT50YXJnZXQvY2xhc3Nlcy9DYWJDcmVhdGUvSkFSRmlsZXMvcmZjb21tb24uamFyPC9kZXN0aW5hdGlvbkZpbGU+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLSBUaGlzIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxidWlsZD4K</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzb3VyY2VGaWxlPnRhcmdldC8ke3Byb2plY3QubmFtZX0tJHtwcm9qZWN0LnZlcnNpb259LWFzc2VtYmxlLWphcnMvUkZDb21tb25BUy0ke3Byb2plY3QudmVyc2lvbn0uamFyPC9zb3VyY2VGaWxlPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>jar</last-search>
+      <last-search encoding="base64">XDxybWlcPg==</last-search>
       <last-offset />
-      <last-pattern>jar</last-pattern>
+      <last-pattern encoding="base64">XDxybWlcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>main</entry>
         <entry>void main</entry>
         <entry encoding="base64">XDxhdWRpb0ZpbGVOYW1lXD4=</entry>
         <entry encoding="base64">XDxTT1VORF9QQVRIXD4=</entry>
@@ -339,6 +341,7 @@
         <entry>o4</entry>
         <entry>Sets</entry>
         <entry>jar</entry>
+        <entry encoding="base64">XDxybWlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
