@@ -19,12 +19,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/pom.xml" timestamp="1549403747303">
-        <mark key="'" line="2" column="100" />
-        <mark key="[" line="74" column="62" />
-        <mark key="]" line="75" column="29" />
-        <mark key="." line="75" column="29" />
-        <mark key="^" line="75" column="29" />
+      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/pom.xml" timestamp="1549405173195">
+        <mark key="'" line="9" column="4" />
+        <mark key="[" line="144" column="116" />
+        <mark key="]" line="144" column="121" />
+        <mark key="^" line="144" column="121" />
+        <mark key="." line="144" column="121" />
       </file>
       <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFPickAS/src/main/java/com/dandh/scanner/gui/pick/SerialNoFrame.java" timestamp="1549392264646">
         <mark key="'" line="914" column="0" />
@@ -144,8 +144,8 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="41" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/ScannerAS.inf" timestamp="1549402302795">
-        <mark key="'" line="70" column="1" />
+      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/ScannerAS.inf" timestamp="1549404847289">
+        <mark key="'" line="80" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/CustomerStatus.java" timestamp="1527285016246">
         <mark key="[" line="2" column="0" />
@@ -162,25 +162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="624" column="33" filename="$USER_HOME$/dev/PriceFarmWSMain/price/src/main/java/com/dandh/pricefarm/price/Price.java" />
-      <jump line="72" column="1" filename="$USER_HOME$/dev/pdfboxtest/src/main/java/com/dandh/pdfboxtest/App.java" />
-      <jump line="78" column="21" filename="$USER_HOME$/dev/pdfbox-2.0.12/examples/src/main/java/org/apache/pdfbox/examples/pdmodel/CreateGradientShadingPDF.java" />
-      <jump line="52" column="35" filename="$USER_HOME$/dev/pdfbox-2.0.12/examples/src/main/java/org/apache/pdfbox/examples/pdmodel/ShowTextWithPositioning.java" />
-      <jump line="64" column="48" filename="$USER_HOME$/dev/pdfbox-2.0.12/examples/src/main/java/org/apache/pdfbox/examples/pdmodel/ShowTextWithPositioning.java" />
-      <jump line="72" column="17" filename="$USER_HOME$/dev/pdfbox-2.0.12/examples/src/main/java/org/apache/pdfbox/examples/pdmodel/ShowTextWithPositioning.java" />
-      <jump line="83" column="31" filename="$USER_HOME$/dev/pdfbox-2.0.12/examples/src/main/java/org/apache/pdfbox/examples/pdmodel/ShowTextWithPositioning.java" />
-      <jump line="354" column="32" filename="$USER_HOME$/dev/PriceFarmWSMain/pricefarm/pom.xml" />
-      <jump line="131" column="23" filename="$USER_HOME$/dev/PriceFarmWSMain/cache/src/main/java/com/dandh/pricefarm/cache/sp/DistributedMapSet.java" />
-      <jump line="1757" column="0" filename="$USER_HOME$/dev/PriceFarmWSMain/cache/src/main/java/com/dandh/pricefarm/cache/sp/DistributedMapSet.java" />
-      <jump line="241" column="26" filename="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" />
-      <jump line="623" column="14" filename="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" />
-      <jump line="625" column="23" filename="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" />
-      <jump line="601" column="14" filename="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" />
-      <jump line="140" column="28" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/event/KeyEvent.java" />
-      <jump line="283" column="31" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/event/KeyEvent.java" />
-      <jump line="284" column="31" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/event/KeyEvent.java" />
-      <jump line="285" column="31" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/event/KeyEvent.java" />
       <jump line="286" column="31" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/event/KeyEvent.java" />
       <jump line="287" column="31" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/event/KeyEvent.java" />
       <jump line="288" column="31" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/event/KeyEvent.java" />
@@ -262,70 +243,82 @@
       <jump line="41" column="1" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/ScannerAS.inf" />
       <jump line="64" column="2" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/ScannerAS.inf" />
       <jump line="70" column="1" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/ScannerAS.inf" />
+      <jump line="113" column="44" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/pom.xml" />
+      <jump line="129" column="0" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/pom.xml" />
+      <jump line="130" column="112" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/pom.xml" />
+      <jump line="3" column="30" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/ScannerAS.inf" />
+      <jump line="81" column="1" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/ScannerAS.inf" />
+      <jump line="82" column="1" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/ScannerAS.inf" />
+      <jump line="47" column="1" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/ScannerAS.inf" />
+      <jump line="48" column="1" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/ScannerAS.inf" />
+      <jump line="49" column="1" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/ScannerAS.inf" />
+      <jump line="52" column="34" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/ScannerAS.inf" />
+      <jump line="55" column="28" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/ScannerAS.inf" />
+      <jump line="56" column="31" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/ScannerAS.inf" />
+      <jump line="80" column="1" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/ScannerAS.inf" />
+      <jump line="145" column="36" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/pom.xml" />
+      <jump line="150" column="54" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/pom.xml" />
+      <jump line="138" column="0" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/pom.xml" />
+      <jump line="146" column="32" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/pom.xml" />
+      <jump line="9" column="4" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>${project.version}.</text>
       </register>
       <register name="k" type="2">
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmRhbmRoLnNjYW5uZXI8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPlJGUGlja0FTPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xLjQ1LjAtU05BUFNIT1Q8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>${project.version}.</text>
       </register>
       <register name="/" type="4">
-        <text>rfcommon</text>
+        <text>jar</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxidWlsZD4KICAgICAgICA8cmVzb3VyY2VzPgogICAgICAgICAgICA8cmVzb3VyY2U+CiAgICAgICAgICAgICAgICA8ZGlyZWN0b3J5PnNyYy9tYWluL3Jlc291cmNlczwvZGlyZWN0b3J5PgogICAgICAgICAgICA8L3Jlc291cmNlPgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZmlsZVNldD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNvdXJjZUZpbGU+dGFyZ2V0LyR7cHJvamVjdC5uYW1lfS0ke3Byb2plY3QudmVyc2lvbn0tYXNzZW1ibGUtamFycy9vNGdscnQtJHtwcm9qZWN0LnZlcnNpb259Lmphcjwvc291cmNlRmlsZT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRlc3RpbmF0aW9uRmlsZT50YXJnZXQvY2xhc3Nlcy9DYWJDcmVhdGUvSkFSRmlsZXMvbzRnbHJ0LmphcjwvZGVzdGluYXRpb25GaWxlPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZmlsZVNldD4K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLSBUaGlzIAo=</text>
+      <register name="1" type="4">
+        <text>${project.version}.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxidWlsZD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgPHBsdWdpbnM+CiAgICAgICAgPC9wbHVnaW5zPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8IS0tIERvbid0IGNvcHkgdGhlIGNyZW1leCBqYXIgYmVjYXVzZSBpdCdzIGFscmVhZHkgb24gdGhlIGRldmljZS4gLS0+CjwhLS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxmaWxlU2V0Pi0tPgo8IS0tICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNvdXJjZUZpbGU+dGFyZ2V0LyR7cHJvamVjdC5uYW1lfS0ke3Byb2plY3QudmVyc2lvbn0tYXNzZW1ibGUtamFycy9jcmVtZXgtJHtwcm9qZWN0LnZlcnNpb259Lmphcjwvc291cmNlRmlsZT4tLT4KPCEtLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkZXN0aW5hdGlvbkZpbGU+dGFyZ2V0L2NsYXNzZXMvQ2FiQ3JlYXRlL0pBUkZpbGVzL2NyZW1leC5qYXI8L2Rlc3RpbmF0aW9uRmlsZT4tLT4KPCEtLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9maWxlU2V0Pi0tPgoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PCEtLSAgICAgICAgICAgICA8cGx1Z2luPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+bWF2ZW4tYXNzZW1ibHktcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPHZlcnNpb24+My4xLjE8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICA8ZXhlY3V0aW9ucz4KICAgICAgICAgICAgICAgICAgICA8ZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8aWQ+YXNzZW1ibGUtamFyLXdpdGgtZGVwZW5kZW5jaWVzPC9pZD4KCiAgICAgICAgICAgICAgICAgICAgICAgIDxwaGFzZT5wYWNrYWdlPC9waGFzZT4KCiAgICAgICAgICAgICAgICAgICAgICAgIDxnb2Fscz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxnb2FsPnNpbmdsZTwvZ29hbD4KICAgICAgICAgICAgICAgICAgICAgICAgPC9nb2Fscz4KCiAgICAgICAgICAgICAgICAgICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRlc2NyaXB0b3JSZWZzPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkZXNjcmlwdG9yUmVmPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBqYXItd2l0aC1kZXBlbmRlbmNpZXMKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rlc2NyaXB0b3JSZWY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rlc2NyaXB0b3JSZWZzPgogICAgICAgICAgICAgICAgICAgICAgICA8L2NvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICAgICAgPC9leGVjdXRpb24+CiAgICAgICAgICAgICAgICA8L2V4ZWN1dGlvbnM+CiAgICAgICAgICAgIDwvcGx1Z2luPgogLS0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPG91dHB1dERpcmVjdG9yeT4ke21vZHVsZS5uYW1lfTwvb3V0cHV0RGlyZWN0b3J5Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PCEtLSAgICA8bW9kdWxlU2V0cz4tLT4KPCEtLSAgICAgICAgPG1vZHVsZVNldD4tLT4KPCEtLSAgICAgICAgICAgICZsdDshJm5kYXNoOyBFbmFibGUgYWNjZXNzIHRvIGFsbCBwcm9qZWN0cyBpbiB0aGUgY3VycmVudCBtdWx0aW1vZHVsZSBidWlsZCEgJm5kYXNoOyZndDstLT4KPCEtLSAgICAgICAgICAgIDx1c2VBbGxSZWFjdG9yUHJvamVjdHM+dHJ1ZTwvdXNlQWxsUmVhY3RvclByb2plY3RzPi0tPgoKPCEtLSAgICAgICAgICAgIDxleGNsdWRlcz4tLT4KPCEtLSAgICAgICAgICAgICAgICA8ZXhjbHVkZT4qKjwvZXhjbHVkZT4tLT4KPCEtLSAgICAgICAgICAgIDwvZXhjbHVkZXM+LS0+Cgo8IS0tICAgICAgICAgICAgPGluY2x1ZGVzPi0tPgo8IS0tICAgICAgICAgICAgICAgIDxpbmNsdWRlPmNvbS5kYW5kaC5zY2FubmVyOlJGQ29tbW9uQVM8L2luY2x1ZGU+LS0+CjwhLS0gICAgICAgICAgICAgICAgPGluY2x1ZGU+Y29tLmRhbmRoLnNjYW5uZXI6UkZQaWNrQVM8L2luY2x1ZGU+LS0+CjwhLS0gICAgICAgICAgICAgICAgPGluY2x1ZGU+Y29tLmRhbmRoLnNjYW5uZXI6UkZSZWN2QVM8L2luY2x1ZGU+LS0+CjwhLS0gICAgICAgICAgICAgICAgPGluY2x1ZGU+Y29tLmRhbmRoLnNjYW5uZXI6UkZJY0FTPC9pbmNsdWRlPi0tPgo8IS0tICAgICAgICAgICAgPC9pbmNsdWRlcz4tLT4KCjwhLS0gICAgICAgICAgICA8YmluYXJpZXM+LS0+CjwhLS0gICAgICAgICAgICAgICAgPG91dHB1dEZpbGVOYW1lTWFwcGluZz4ke2FydGlmYWN0Lm5hbWV9LiR7YXJ0aWZhY3QuZXh0ZW5zaW9ufTwvb3V0cHV0RmlsZU5hbWVNYXBwaW5nPi0tPgo8IS0tICAgICAgICAgICAgICAgIDx1bnBhY2s+ZmFsc2U8L3VucGFjaz4tLT4KPCEtLSAgICAgICAgICAgICAgICA8aW5jbHVkZURlcGVuZGVuY2llcz5mYWxzZTwvaW5jbHVkZURlcGVuZGVuY2llcz4tLT4KPCEtLSAgICAgICAgICAgIDwvYmluYXJpZXM+LS0+CjwhLS0gICAgICAgIDwvbW9kdWxlU2V0Pi0tPgo8IS0tICAgIDwvbW9kdWxlU2V0cz4tLT4KCg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzb3VyY2VGaWxlPnRhcmdldC8ke3Byb2plY3QubmFtZX0tJHtwcm9qZWN0LnZlcnNpb259LWFzc2VtYmxlLWphcnMvUkZDb21tb25BUy0ke3Byb2plY3QudmVyc2lvbn0uamFyPC9zb3VyY2VGaWxlPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGF0dGFjaD5mYWxzZTwvYXR0YWNoPgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzb3VyY2VGaWxlPnRhcmdldC8ke3Byb2plY3QubmFtZX0tJHtwcm9qZWN0LnZlcnNpb259LWFzc2VtYmxlLWphcnMvUkZDb21tb25BUy0ke3Byb2plY3QudmVyc2lvbn0uamFyPC9zb3VyY2VGaWxlPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRlc3RpbmF0aW9uRmlsZT50YXJnZXQvY2xhc3Nlcy9DYWJDcmVhdGUvSkFSRmlsZXMvcmZjb21tb24uamFyPC9kZXN0aW5hdGlvbkZpbGU+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGluY2x1ZGVzPgogICAgICAgICAgICAgICAgPGluY2x1ZGU+Y29tLmRhbmRoLnNjYW5uZXI6UkZDb21tb25BUzwvaW5jbHVkZT4KICAgICAgICAgICAgICAgIDxpbmNsdWRlPmNvbS5kYW5kaC5zY2FubmVyOlJGUGlja0FTPC9pbmNsdWRlPgogICAgICAgICAgICAgICAgPGluY2x1ZGU+Y29tLmRhbmRoLnNjYW5uZXI6UkZSZWN2QVM8L2luY2x1ZGU+CiAgICAgICAgICAgICAgICA8aW5jbHVkZT5jb20uZGFuZGguc2Nhbm5lcjpSRkljQVM8L2luY2x1ZGU+CiAgICAgICAgICAgIDwvaW5jbHVkZXM+Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLSBUaGlzIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGV4Y2x1ZGVzPgogICAgICAgICAgICAgICAgPGV4Y2x1ZGU+Y29tLmRhbmRoLnNjYW5uZXI6ZGlzdHJpYnV0aW9uOmRpcjwvZXhjbHVkZT4KICAgICAgICAgICAgPC9leGNsdWRlcz4KCg==</text>
+        <text encoding="base64">ICAgIDxidWlsZD4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>rfcommon</last-search>
+      <last-search>jar</last-search>
       <last-offset />
-      <last-pattern>rfcommon</last-pattern>
+      <last-pattern>jar</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getlocking</entry>
-        <entry>getLock</entry>
-        <entry>)</entry>
-        <entry>Map</entry>
-        <entry>WinCE</entry>
-        <entry>isWin</entry>
-        <entry encoding="base64">XDxhcHBPYmpcPg==</entry>
         <entry>main</entry>
         <entry>void main</entry>
         <entry encoding="base64">XDxhdWRpb0ZpbGVOYW1lXD4=</entry>
@@ -339,6 +332,13 @@
         <entry encoding="base64">XDxlMVw+</entry>
         <entry>bin</entry>
         <entry>rfcommon</entry>
+        <entry>pick</entry>
+        <entry>creme</entry>
+        <entry>RFI</entry>
+        <entry>ic</entry>
+        <entry>o4</entry>
+        <entry>Sets</entry>
+        <entry>jar</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -352,6 +352,7 @@
         <entry>wi</entry>
         <entry>set relativenumber</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>10</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
