@@ -9,7 +9,6 @@
         <mark key="." line="27" column="31" />
         <mark key="^" line="27" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/User.java" timestamp="1549902790422" />
       <file name="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/BeforeLeaving.java" timestamp="1529872905362">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -31,7 +30,6 @@
         <mark key="." line="795" column="17" />
         <mark key="^" line="795" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Zone.java" timestamp="1549900672953" />
       <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/assembly/assemble-jars.xml" timestamp="1549395240456">
         <mark key="[" line="15" column="34" />
         <mark key="]" line="17" column="28" />
@@ -95,7 +93,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Cart.java" timestamp="1549902628808" />
       <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/ReferenceFactory.java" timestamp="1548448832200">
         <mark key="'" line="472" column="40" />
         <mark key="[" line="262" column="0" />
@@ -153,7 +150,7 @@
         <mark key="^" line="0" column="72" />
         <mark key="." line="0" column="72" />
       </file>
-      <file name="/fragment.java" timestamp="1549902550294">
+      <file name="/fragment.java" timestamp="1549919387260">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
