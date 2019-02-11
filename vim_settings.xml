@@ -84,6 +84,11 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/creme-test-app/src/Main.java" timestamp="1549911011414">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Cart.java" timestamp="1549902628808" />
       <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/ReferenceFactory.java" timestamp="1548448832200">
         <mark key="'" line="472" column="40" />
@@ -251,8 +256,8 @@
       <jump line="0" column="40" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>progress</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAJc2xlZXAK</text>
       </register>
       <register name="k" type="2">
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmRhbmRoLnNjYW5uZXI8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPlJGUGlja0FTPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xLjQ1LjAtU05BUFNIT1Q8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
@@ -267,7 +272,7 @@
         <text encoding="base64">ICAgICAgICAgICAgPGlkPm5leHVzQ29tcG9uZW50czwvaWQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVwb3NpdG9yeT4KICAgICAgICAgICAgPGlkPm5leHVzQ29tcG9uZW50c1JlcG88L2lkPgogICAgICAgICAgICA8bmFtZT5OZXh1cyBDb21wb25lbnRzIFJlcG88L25hbWU+CiAgICAgICAgICAgIDx1cmw+aHR0cDovL2NvbXBvbmVudHMuZGFuZGgubmV0PC91cmw+CiAgICAgICAgPC9yZXBvc2l0b3J5PgoK</text>
+        <text encoding="base64">ICAgICAgICAJc2xlZXAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -288,13 +293,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAJU3lzdGVtLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cmVwb3NpdG9yeT4KICAgICAgICAgICAgPGlkPm5leHVzQ29tcG9uZW50c1JlcG88L2lkPgogICAgICAgICAgICA8bmFtZT5OZXh1cyBDb21wb25lbnRzIFJlcG88L25hbWU+CiAgICAgICAgICAgIDx1cmw+aHR0cDovL2NvbXBvbmVudHMuZGFuZGgubmV0PC91cmw+CiAgICAgICAgPC9yZXBvc2l0b3J5PgoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -303,13 +308,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmVtIC9lcnIgZXJyb3JmaWxlLmVycgpyZW0gQWRkIC9lcnIgcGFyYW0gdG8gZW5kIHRvIGNyZWF0ZSBhbiBlcnJvciBmaWxlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QGVjaG8gb2ZmCg==</text>
+        <text encoding="base64">cmVtIC9lcnIgZXJyb3JmaWxlLmVycgpyZW0gQWRkIC9lcnIgcGFyYW0gdG8gZW5kIHRvIGNyZWF0ZSBhbiBlcnJvciBmaWxlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
