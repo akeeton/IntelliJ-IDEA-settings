@@ -9,12 +9,7 @@
         <mark key="." line="27" column="31" />
         <mark key="^" line="27" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/pdfbox-2.0.12/examples/src/main/java/org/apache/pdfbox/examples/pdmodel/ShowTextWithPositioning.java" timestamp="1543266113918">
-        <mark key="'" line="83" column="31" />
-      </file>
-      <file name="$USER_HOME$/dev/PriceFarmWSMain/cache/src/main/java/com/dandh/pricefarm/cache/sp/DistributedMapSet.java" timestamp="1547653123606">
-        <mark key="'" line="1757" column="0" />
-      </file>
+      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/User.java" timestamp="1549902790422" />
       <file name="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/BeforeLeaving.java" timestamp="1529872905362">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -37,26 +32,11 @@
         <mark key="^" line="795" column="17" />
       </file>
       <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Zone.java" timestamp="1549900672953" />
-      <file name="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/cache/pom.xml" timestamp="1541171207913">
-        <mark key="'" line="104" column="9" />
-      </file>
-      <file name="$USER_HOME$/dev/tfs-workspaces/PFDev-5002-QuickPrice/Dev/Perf5002-QuickPrice/pricefarm/pom.xml" timestamp="1548857556535">
-        <mark key="'" line="311" column="32" />
-      </file>
       <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/assembly/assemble-jars.xml" timestamp="1549395240456">
         <mark key="[" line="15" column="34" />
         <mark key="]" line="17" column="28" />
         <mark key="." line="17" column="28" />
         <mark key="^" line="17" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/dblink/src/main/config/dblinkConfig.xml" timestamp="1541172437334">
-        <mark key="'" line="52" column="12" />
-      </file>
-      <file name="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Toolkit.java" timestamp="1548448560170">
-        <mark key="'" line="100" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/TFS/PriceFarmWSMain/core/pom.xml" timestamp="1541174337307">
-        <mark key="'" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/dev/pdfboxtest/pom.xml" timestamp="1543249573590">
         <mark key="[" line="21" column="0" />
@@ -70,35 +50,11 @@
         <mark key="^" line="33" column="11" />
         <mark key="." line="33" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/pdfbox-2.0.12/examples/src/main/java/org/apache/pdfbox/examples/pdmodel/CreateGradientShadingPDF.java" timestamp="1543255910912">
-        <mark key="'" line="78" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/TFS/PriceFarmWSMain/pricefarm/pom.xml" timestamp="1541173670473">
-        <mark key="'" line="20" column="32" />
-      </file>
       <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFPickAS/src/main/java/com/dandh/scanner/gui/common/ZoneFrameP.java" timestamp="1549898818434">
         <mark key="[" line="313" column="41" />
         <mark key="]" line="313" column="41" />
         <mark key="^" line="313" column="41" />
         <mark key="." line="313" column="41" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/PriceFarmWSMain/tools/pom.xml" timestamp="1541617671522">
-        <mark key="'" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/PriceFarmWSMain/price/src/main/java/com/dandh/pricefarm/price/PricingTask.java" timestamp="1542985264806">
-        <mark key="'" line="132" column="35" />
-      </file>
-      <file name="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/dblink/pom.xml" timestamp="1541093059279">
-        <mark key="'" line="3" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/TFS/PriceFarmWS/Main/dblink/src/main/java/com/dandh/pricefarm/dblink/DBLinkMain.java" timestamp="1541172349116">
-        <mark key="'" line="52" column="16" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/gui/common/SignOnFrameP.java" timestamp="1548691910343">
-        <mark key="'" line="288" column="38" />
-      </file>
-      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFPickAS/src/main/java/com/dandh/scanner/gui/common/SignOnFrameP.java" timestamp="1549296292906">
-        <mark key="'" line="132" column="21" />
       </file>
       <file name="/Dummy.txt" timestamp="1549396965236">
         <mark key="[" line="0" column="0" />
@@ -110,12 +66,6 @@
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" timestamp="1548776452845">
-        <mark key="'" line="160" column="4" />
-      </file>
-      <file name="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/event/KeyEvent.java" timestamp="1548447411056">
-        <mark key="'" line="292" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/starter/skeleton/MainView.java" timestamp="1527101560944">
         <mark key="[" line="2" column="0" />
@@ -134,6 +84,7 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Cart.java" timestamp="1549902628808" />
       <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/ReferenceFactory.java" timestamp="1548448832200">
         <mark key="'" line="472" column="40" />
         <mark key="[" line="262" column="0" />
@@ -191,10 +142,7 @@
         <mark key="^" line="0" column="72" />
         <mark key="." line="0" column="72" />
       </file>
-      <file name="$USER_HOME$/Documents/TFS/PriceFarmWSMain/tools/pom.xml" timestamp="1541173488405">
-        <mark key="'" line="11" column="29" />
-      </file>
-      <file name="/fragment.java" timestamp="1549900482720">
+      <file name="/fragment.java" timestamp="1549902550294">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
