@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/pom.xml" timestamp="1549481898001">
-        <mark key="[" line="27" column="21" />
-        <mark key="]" line="27" column="31" />
-        <mark key="." line="27" column="31" />
-        <mark key="^" line="27" column="31" />
+      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/pom.xml" timestamp="1550006885643">
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="58" column="30" />
+        <mark key="]" line="58" column="30" />
+        <mark key="." line="58" column="34" />
+        <mark key="^" line="57" column="33" />
       </file>
       <file name="/ScannerAS.inf" timestamp="1549998713436" />
       <file name="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/BeforeLeaving.java" timestamp="1529872905362">
@@ -139,12 +140,12 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="41" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/ScannerAS.inf" timestamp="1550005335728">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="71" column="16" />
+      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/ScannerAS.inf" timestamp="1550006479224">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="8" column="79" />
+        <mark key="]" line="9" column="37" />
+        <mark key="." line="9" column="37" />
+        <mark key="^" line="9" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/CustomerStatus.java" timestamp="1527285016246">
         <mark key="[" line="2" column="0" />
@@ -172,10 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="0" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/pom.xml" />
-      <jump line="60" column="0" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/pom.xml" />
-      <jump line="65" column="0" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/pom.xml" />
-      <jump line="69" column="0" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/pom.xml" />
       <jump line="76" column="0" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/pom.xml" />
       <jump line="80" column="0" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/pom.xml" />
       <jump line="0" column="40" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
@@ -252,36 +249,40 @@
       <jump line="41" column="23" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/ScannerAS.inf" />
       <jump line="22" column="13" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/ScannerAS.inf" />
       <jump line="39" column="2" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/ScannerAS.inf" />
-      <jump line="42" column="23" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/ScannerAS.inf" />
       <jump line="43" column="23" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/ScannerAS.inf" />
       <jump line="55" column="2" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/ScannerAS.inf" />
       <jump line="5" column="27" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/ScannerAS.inf" />
       <jump line="2" column="9" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/ScannerAS.inf" />
       <jump line="8" column="80" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/ScannerAS.inf" />
       <jump line="32" column="0" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/ScannerAS.inf" />
-      <jump line="44" column="23" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/ScannerAS.inf" />
       <jump line="45" column="23" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/ScannerAS.inf" />
       <jump line="70" column="9" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/ScannerAS.inf" />
       <jump line="69" column="0" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/ScannerAS.inf" />
       <jump line="64" column="0" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/ScannerAS.inf" />
       <jump line="58" column="0" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/ScannerAS.inf" />
-      <jump line="53" column="0" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/ScannerAS.inf" />
-      <jump line="47" column="0" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/ScannerAS.inf" />
       <jump line="34" column="0" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/ScannerAS.inf" />
       <jump line="33" column="0" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/ScannerAS.inf" />
       <jump line="30" column="0" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/ScannerAS.inf" />
       <jump line="24" column="0" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/ScannerAS.inf" />
       <jump line="31" column="0" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/ScannerAS.inf" />
+      <jump line="42" column="0" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/ScannerAS.inf" />
+      <jump line="53" column="0" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/ScannerAS.inf" />
+      <jump line="47" column="0" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/ScannerAS.inf" />
+      <jump line="44" column="0" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/ScannerAS.inf" />
+      <jump line="60" column="12" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/pom.xml" />
+      <jump line="47" column="23" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/pom.xml" />
+      <jump line="55" column="0" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/pom.xml" />
+      <jump line="62" column="0" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">W1NvdXJjZURpc2tzRmlsZXNdCiJpYy5qYXIiCSAgICAgICAgID0gMQoicGljay5qYXIiCSAgICAgICAgID0gMQoicmVjdi5qYXIiCSAgICAgICAgID0gMQoicmZjb21tb24uamFyIiAgICAgICA9IDEKIm80Z2xydC5qYXIiICAgICAgICAgPSAyCiJUZXJtaW5hbEFQSS5qYXIiICAgID0gMgoicm1pLmphciIgICAgICAgICAgICA9IDIKIkRILmljbyIJICAgICAgICAgPSAzCiJESFByb0xvZ28uZ2lmIgkgICAgID0gMwoiY3JlbWVQaWNrc3RhcnQuYmF0IiA9IDQKImNyZW1lUmVjdnN0YXJ0LmJhdCIgPSA0CiJjcmVtZUljc3RhcnQuYmF0IiAgID0gNAoK</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="k" type="2">
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmRhbmRoLnNjYW5uZXI8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPlJGUGlja0FTPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xLjQ1LjAtU05BUFNIT1Q8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>5</text>
@@ -290,7 +291,7 @@
         <text>, , , 0x00000001</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">W1NvdXJjZURpc2tzRmlsZXNdCiJpYy5qYXIiCSAgICAgICAgID0gMQoicGljay5qYXIiCSAgICAgICAgID0gMQoicmVjdi5qYXIiCSAgICAgICAgID0gMQoicmZjb21tb24uamFyIiAgICAgICA9IDEKIm80Z2xydC5qYXIiICAgICAgICAgPSAyCiJUZXJtaW5hbEFQSS5qYXIiICAgID0gMgoicm1pLmphciIgICAgICAgICAgICA9IDIKIkRILmljbyIJICAgICAgICAgPSAzCiJESFByb0xvZ28uZ2lmIgkgICAgID0gMwoiY3JlbWVQaWNrc3RhcnQuYmF0IiA9IDQKImNyZW1lUmVjdnN0YXJ0LmJhdCIgPSA0CiJjcmVtZUljc3RhcnQuYmF0IiAgID0gNAoK</text>
+        <text encoding="base64">ICAgIDxidWlsZD4KCiAgICA8L2J1aWxkPgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -310,29 +311,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">W1NvdXJjZURpc2tzTmFtZXNdCjEgPSwgIltBcHBKYXJGaWxlc10iLCAgICAsIEpBUkZpbGVzCjIgPSwgIltDb21tb25KYXJGaWxlc10iLCAsIE1pc2NKYXJzCjMgPSwgIltJY29GaWxlc10iLCAgICAgICAsIEdyYXBoaWNzCjQgPSwgIltCYXRGaWxlc10iLCAgICAgICAsIEFwcFN0YXJ0QmF0cwoK</text>
+      <register name="2" type="4">
+        <text encoding="base64">PHBsdWdpbnM+CiAgICAgICAgICAgIDxwbHVnaW4+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuY29kZWhhdXMubW9qbzwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPmJ1aWxkbnVtYmVyLW1hdmVuLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjEuNDwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDxleGVjdXRpb25zPgogICAgICAgICAgICAgICAgICAgIDxleGVjdXRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDxwaGFzZT52YWxpZGF0ZTwvcGhhc2U+CiAgICAgICAgICAgICAgICAgICAgICAgIDxnb2Fscz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxnb2FsPmNyZWF0ZTwvZ29hbD4KICAgICAgICAgICAgICAgICAgICAgICAgPC9nb2Fscz4KICAgICAgICAgICAgICAgICAgICA8L2V4ZWN1dGlvbj4KICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9ucz4KICAgICAgICAgICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICAgIDxkb0NoZWNrPnRydWU8L2RvQ2hlY2s+CiAgICAgICAgICAgICAgICAgICAgPGRvVXBkYXRlPnRydWU8L2RvVXBkYXRlPgogICAgICAgICAgICAgICAgPC9jb25maWd1cmF0aW9uPgogICAgICAgICAgICA8L3BsdWdpbj4KICAgICAgICA8L3BsdWdpbnM+</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IkRILmljbyIJICAgICAgICAgPSA0CiJESFByb0xvZ28uZ2lmIgkgICAgID0gNAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">W0ljb0ZpbGVzXQoiREguaWNvIgoiREhQcm9Mb2dvLmdpZiIKCg==</text>
+        <text encoding="base64">MyA9LCAiW0ljb0ZpbGVzXSIsICAgICAgICwgR3JhcGhpY3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QmF0RmlsZXMgICAgICAgPSAwLCBcRmxhc2hGWCBEaXNrXGNyZW1lXGxpYgo=</text>
+        <text encoding="base64">W1NvdXJjZURpc2tzRmlsZXNdCiJpYy5qYXIiCSAgICAgICAgID0gMQoicGljay5qYXIiCSAgICAgICAgID0gMQoicmVjdi5qYXIiCSAgICAgICAgID0gMQoicmZjb21tb24uamFyIiAgICAgICA9IDEKIm80Z2xydC5qYXIiICAgICAgICAgPSAyCiJUZXJtaW5hbEFQSS5qYXIiICAgID0gMgoicm1pLmphciIgICAgICAgICAgICA9IDIKIkRILmljbyIJICAgICAgICAgPSAzCiJESFByb0xvZ28uZ2lmIgkgICAgID0gMwoiY3JlbWVQaWNrc3RhcnQuYmF0IiA9IDQKImNyZW1lUmVjdnN0YXJ0LmJhdCIgPSA0CiJjcmVtZUljc3RhcnQuYmF0IiAgID0gNAoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QXBwSmFyRmlsZXMgICAgPSAwLCBcRmxhc2hGWCBEaXNrXGNyZW1lXGxpYgo=</text>
+        <text encoding="base64">W1NvdXJjZURpc2tzTmFtZXNdCjEgPSwgIltBcHBKYXJGaWxlc10iLCAgICAsIEpBUkZpbGVzCjIgPSwgIltDb21tb25KYXJGaWxlc10iLCAsIE1pc2NKYXJzCjMgPSwgIltJY29GaWxlc10iLCAgICAgICAsIEdyYXBoaWNzCjQgPSwgIltCYXRGaWxlc10iLCAgICAgICAsIEFwcFN0YXJ0QmF0cwoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">NSA9LCAic291bmQiLCxTb3VuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Q0VTaG9ydGN1dHMJPSBDRVNob3J0Y3V0czEK</text>
+        <text encoding="base64">W0ljb0ZpbGVzXQoiREguaWNvIgoiREhQcm9Mb2dvLmdpZiIKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QmF0RmlsZXMgICAgICAgPSAwLCBcRmxhc2hGWCBEaXNrXGNyZW1lXGxpYgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -385,6 +386,7 @@
         <entry>source ~/.ideavimrc</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zLywvLCAvZw==</entry>
+        <entry>help o</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
