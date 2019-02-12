@@ -71,6 +71,10 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/src/main/java/com/dandh/scanner/hal/FalconScanner.java" timestamp="1549984093962">
+        <mark key="'" line="81" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/src/main/java/com/dandh/scanner/DeviceHandler.java" timestamp="1549984030330" />
       <file name="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/starter/skeleton/MainView.java" timestamp="1527101560944">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -157,8 +161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="4" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" />
-      <jump line="160" column="4" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" />
       <jump line="50" column="47" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/src/main/java/com/dandh/scanner/ui/Sound.java" />
       <jump line="54" column="29" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/src/main/java/com/dandh/scanner/ui/Sound.java" />
       <jump line="57" column="27" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/src/main/java/com/dandh/scanner/ui/Sound.java" />
@@ -257,6 +259,8 @@
       <jump line="28" column="26" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/pom.xml" />
       <jump line="32" column="0" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/pom.xml" />
       <jump line="36" column="0" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/pom.xml" />
+      <jump line="14" column="36" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/src/main/java/com/dandh/scanner/hal/FalconScanner.java" />
+      <jump line="81" column="0" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/src/main/java/com/dandh/scanner/hal/FalconScanner.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
