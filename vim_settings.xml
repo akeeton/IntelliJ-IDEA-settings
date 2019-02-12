@@ -60,7 +60,7 @@
         <mark key="^" line="313" column="41" />
         <mark key="." line="313" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549396965236">
+      <file name="/Dummy.txt" timestamp="1549990530503">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -73,6 +73,10 @@
       </file>
       <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/src/main/java/com/dandh/scanner/hal/FalconScanner.java" timestamp="1549984093962">
         <mark key="'" line="81" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/commons-io-2.6-src/src/main/java/org/apache/commons/io/IOUtils.java" timestamp="1549990228632">
+        <mark key="'" line="2288" column="23" />
+        <mark key="x" line="764" column="14" />
       </file>
       <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/src/main/java/com/dandh/scanner/DeviceHandler.java" timestamp="1549984030330" />
       <file name="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/starter/skeleton/MainView.java" timestamp="1527101560944">
@@ -116,12 +120,12 @@
         <mark key="^" line="3" column="7" />
         <mark key="." line="1" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/src/main/java/com/dandh/scanner/ui/Sound.java" timestamp="1549295298373">
-        <mark key="'" line="53" column="36" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="56" column="32" />
+      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/src/main/java/com/dandh/scanner/ui/Sound.java" timestamp="1549990841053">
+        <mark key="'" line="70" column="53" />
+        <mark key="[" line="75" column="53" />
+        <mark key="]" line="75" column="59" />
+        <mark key="^" line="75" column="59" />
+        <mark key="." line="75" column="59" />
       </file>
       <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/assembly/assembly.xml" timestamp="1549394430344">
         <mark key="'" line="13" column="10" />
@@ -161,12 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="47" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/src/main/java/com/dandh/scanner/ui/Sound.java" />
-      <jump line="54" column="29" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/src/main/java/com/dandh/scanner/ui/Sound.java" />
-      <jump line="57" column="27" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/src/main/java/com/dandh/scanner/ui/Sound.java" />
-      <jump line="58" column="8" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/src/main/java/com/dandh/scanner/ui/Sound.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/src/main/java/com/dandh/scanner/ui/Sound.java" />
-      <jump line="51" column="0" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/src/main/java/com/dandh/scanner/ui/Sound.java" />
       <jump line="61" column="49" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/src/main/java/com/dandh/scanner/ui/Sound.java" />
       <jump line="64" column="64" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/src/main/java/com/dandh/scanner/ui/Sound.java" />
       <jump line="56" column="54" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/src/main/java/com/dandh/scanner/ui/Sound.java" />
@@ -261,25 +259,31 @@
       <jump line="36" column="0" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/pom.xml" />
       <jump line="14" column="36" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/src/main/java/com/dandh/scanner/hal/FalconScanner.java" />
       <jump line="81" column="0" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/src/main/java/com/dandh/scanner/hal/FalconScanner.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/commons-io-2.6-src/src/main/java/org/apache/commons/io/IOUtils.java" />
+      <jump line="551" column="42" filename="$USER_HOME$/Downloads/commons-io-2.6-src/src/main/java/org/apache/commons/io/IOUtils.java" />
+      <jump line="576" column="42" filename="$USER_HOME$/Downloads/commons-io-2.6-src/src/main/java/org/apache/commons/io/IOUtils.java" />
+      <jump line="2288" column="23" filename="$USER_HOME$/Downloads/commons-io-2.6-src/src/main/java/org/apache/commons/io/IOUtils.java" />
+      <jump line="57" column="24" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/src/main/java/com/dandh/scanner/ui/Sound.java" />
+      <jump line="70" column="53" filename="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/src/main/java/com/dandh/scanner/ui/Sound.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>in</text>
       </register>
       <register name="k" type="2">
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmRhbmRoLnNjYW5uZXI8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPlJGUGlja0FTPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xLjQ1LjAtU05BUFNIT1Q8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>in</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvNGdscnRcPg==</text>
+        <text encoding="base64">XDxpblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlkPm5leHVzQ29tcG9uZW50czwvaWQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdoaWxlICgoblJlYWQgPSBpbi5yZWFkKGRhdGEsIDAsIGRhdGEubGVuZ3RoKSkgIT0gLTEpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAJc2xlZXAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -300,47 +304,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAJU3lzdGVtLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVwb3NpdG9yeT4KICAgICAgICAgICAgPGlkPm5leHVzQ29tcG9uZW50c1JlcG88L2lkPgogICAgICAgICAgICA8bmFtZT5OZXh1cyBDb21wb25lbnRzIFJlcG88L25hbWU+CiAgICAgICAgICAgIDx1cmw+aHR0cDovL2NvbXBvbmVudHMuZGFuZGgubmV0PC91cmw+CiAgICAgICAgPC9yZXBvc2l0b3J5PgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBidWZmZXIud3JpdGUoZGF0YSwgMCwgblJlYWQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1ZmZlci50b0J5dGVBcnJheSgpOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEJ5dGVQYWNrZWRSYXN0ZXJbXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAlpbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cmVtIC9lcnIgZXJyb3JmaWxlLmVycgpyZW0gQWRkIC9lcnIgcGFyYW0gdG8gZW5kIHRvIGNyZWF0ZSBhbiBlcnJvciBmaWxlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAlpbi5kCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvNGdscnRcPg==</last-search>
+      <last-search encoding="base64">XDxpblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvNGdscnRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxpblw+</last-pattern>
       <last-replace>${cabCreatePath}</last-replace>
       <last-substitute>target/classes/CabCreate</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxlMVw+</entry>
-        <entry>bin</entry>
-        <entry>rfcommon</entry>
         <entry>pick</entry>
         <entry>creme</entry>
         <entry>RFI</entry>
@@ -358,6 +359,9 @@
         <entry>&quot;</entry>
         <entry>com</entry>
         <entry encoding="base64">XDxvNGdscnRcPg==</entry>
+        <entry>toByteStream</entry>
+        <entry>toByteArray</entry>
+        <entry encoding="base64">XDxpblw+</entry>
       </history-search>
       <history-cmd>
         <entry>help</entry>
