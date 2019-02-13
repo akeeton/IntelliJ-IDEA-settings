@@ -1,5 +1,7 @@
 <keymap version="1" name="My keymap" parent="$default">
-  <action id="CheckinProject" />
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
+  </action>
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="ctrl j" />
@@ -8,7 +10,11 @@
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
+  <action id="Git.Commit.And.Push.Executor" />
   <action id="HippieBackwardCompletion" />
   <action id="HippieCompletion" />
   <action id="InsertLiveTemplate" />
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="ctrl alt k" />
+  </action>
 </keymap>
