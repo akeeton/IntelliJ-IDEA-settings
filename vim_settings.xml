@@ -72,10 +72,6 @@
       </file>
       <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/BeltPrinter.java" timestamp="1550087652732">
         <mark key="'" line="25" column="42" />
-        <mark key="[" line="19" column="17" />
-        <mark key="]" line="19" column="16" />
-        <mark key="." line="19" column="16" />
-        <mark key="^" line="19" column="16" />
       </file>
       <file name="$USER_HOME$/dev/proxy-scratch/src/com/company/Main.java" timestamp="1550088287214">
         <mark key="'" line="5" column="0" />
@@ -170,6 +166,12 @@
         <mark key="." line="9" column="37" />
         <mark key="^" line="9" column="37" />
       </file>
+      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/pom.xml" timestamp="1550088889877">
+        <mark key="[" line="4" column="38" />
+        <mark key="]" line="5" column="3" />
+        <mark key="." line="5" column="3" />
+        <mark key="^" line="5" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/vaadin-10-flow-tutorial/src/main/java/com/vaadin/CustomerStatus.java" timestamp="1527285016246">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -189,8 +191,12 @@
         <mark key="^" line="0" column="72" />
         <mark key="." line="0" column="72" />
       </file>
-      <file name="$USER_HOME$/dev/scanner/pom.xml" timestamp="1550087643623">
-        <mark key="'" line="16" column="31" />
+      <file name="$USER_HOME$/dev/scanner/pom.xml" timestamp="1550088934365">
+        <mark key="'" line="18" column="31" />
+        <mark key="[" line="13" column="33" />
+        <mark key="]" line="14" column="7" />
+        <mark key="." line="14" column="7" />
+        <mark key="^" line="14" column="7" />
       </file>
       <file name="$USER_HOME$/dev/scanner/RFPickAS/pom.xml" timestamp="1550077412620">
         <mark key="[" line="14" column="0" />
@@ -315,7 +321,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUK</text>
+        <text encoding="base64">ICAgICAgICA8bW9kdWxlPm80Z2xydC1wcm94eTwvbW9kdWxlPgo=</text>
       </register>
       <register name="k" type="2">
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmRhbmRoLnNjYW5uZXI8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPlJGUGlja0FTPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xLjQ1LjAtU05BUFNIT1Q8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
@@ -330,7 +336,7 @@
         <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHByb3h5KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUK</text>
+        <text encoding="base64">ICAgICAgICA8bW9kdWxlPm80Z2xydC1wcm94eTwvbW9kdWxlPgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -351,28 +357,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUK</text>
+        <text encoding="base64">ICAgIDxtb2RlbFZlcnNpb24+NC4wLjA8L21vZGVsVmVyc2lvbj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHByaW50bG4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuCg==</text>
+        <text encoding="base64">ICAgIDxhcnRpZmFjdElkPm80Z2xydC1wcm94eTwvYXJ0aWZhY3RJZD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgT3ZlcnJpZGUgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLmRlYgo=</text>
+        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHByaW50bG4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -385,7 +391,7 @@
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
