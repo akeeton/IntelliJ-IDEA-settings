@@ -1,10 +1,14 @@
 <keymap version="1" name="My keymap" parent="$default">
   <action id="CheckinProject" />
-  <action id="HippieBackwardCompletion">
-    <keyboard-shortcut first-keystroke="ctrl k" />
-  </action>
-  <action id="HippieCompletion">
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="HippieBackwardCompletion" />
+  <action id="HippieCompletion" />
   <action id="InsertLiveTemplate" />
 </keymap>
