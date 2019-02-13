@@ -2,10 +2,14 @@
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="shift ctrl k" />
   </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
+  <action id="EditorSelectWord" />
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="ctrl k" />
