@@ -224,12 +224,12 @@
         <mark key="." line="21" column="20" />
         <mark key="^" line="21" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/ReferenceFactory.java" timestamp="1548448832200">
+      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/ReferenceFactory.java" timestamp="1550179611250">
         <mark key="'" line="472" column="40" />
-        <mark key="[" line="262" column="0" />
-        <mark key="]" line="262" column="0" />
-        <mark key="." line="262" column="0" />
-        <mark key="^" line="261" column="85" />
+        <mark key="[" line="260" column="11" />
+        <mark key="]" line="260" column="17" />
+        <mark key="." line="260" column="17" />
+        <mark key="^" line="260" column="17" />
       </file>
       <file name="$USER_HOME$/.vimrc" timestamp="1549465548149">
         <mark key="[" line="9" column="10" />
