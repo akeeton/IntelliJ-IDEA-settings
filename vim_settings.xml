@@ -5,13 +5,6 @@
       <mark key="X" line="1387" column="26" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Item.java" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/javaproxy/ParameterSet.java" timestamp="1550587824161">
-        <mark key="'" line="23" column="42" />
-        <mark key="[" line="23" column="43" />
-        <mark key="]" line="23" column="42" />
-        <mark key="." line="23" column="42" />
-        <mark key="^" line="23" column="42" />
-      </file>
       <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/dynamicapi/ParameterSet.java" timestamp="1550609101424">
         <mark key="'" line="565" column="23" />
         <mark key="x" line="405" column="4" />
@@ -20,19 +13,11 @@
         <mark key="^" line="569" column="38" />
         <mark key="." line="569" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/SDOResultSet.java" timestamp="1550611327988">
-        <mark key="'" line="884" column="26" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="2" column="49" />
-      </file>
-      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFPickAS/src/main/java/com/dandh/scanner/gui/pick/SerialNoFrame.java" timestamp="1549392264646">
-        <mark key="'" line="914" column="0" />
-        <mark key="[" line="795" column="18" />
-        <mark key="]" line="795" column="17" />
-        <mark key="." line="795" column="17" />
-        <mark key="^" line="795" column="17" />
+      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/SDOResultSet.java" timestamp="1550611961521">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/dynamicapi/MetaDataBase.java" timestamp="1550605688389">
         <mark key="[" line="25" column="15" />
@@ -43,15 +28,9 @@
       <file name="/a.dummy" timestamp="1550611185979">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Item.java" timestamp="1550611716701" />
       <file name="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.2.0/o4glrt-1.2.0.jar!/com/progress/open4gl/ProDataRelationMetaData.class" timestamp="1550595071043">
         <mark key="'" line="195" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/ProResultSetMetaData.java" timestamp="1550169582590">
-        <mark key="'" line="11" column="8" />
-        <mark key="[" line="11" column="23" />
-        <mark key="]" line="11" column="23" />
-        <mark key="." line="11" column="23" />
-        <mark key="^" line="11" column="23" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.2.0/o4glrt-1.2.0.jar!/com/progress/open4gl/dynamicapi/ParameterSet.class" timestamp="1550591832745">
         <mark key="'" line="167" column="4" />
@@ -66,22 +45,8 @@
       <file name="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.2.0/o4glrt-1.2.0.jar!/com/progress/open4gl/ProResultSet.class" timestamp="1550609702244">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/ProResultSetMetaDataImpl.java" timestamp="1550605164347">
-        <mark key="'" line="25" column="40" />
-        <mark key="[" line="11" column="83" />
-        <mark key="]" line="11" column="112" />
-        <mark key="." line="11" column="112" />
-        <mark key="^" line="11" column="112" />
-      </file>
       <file name="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" timestamp="1550586932798">
         <mark key="'" line="418" column="61" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/dynamicapi/DataGraphMetaData.java" timestamp="1550605392146">
-        <mark key="'" line="57" column="58" />
-        <mark key="[" line="91" column="61" />
-        <mark key="]" line="91" column="88" />
-        <mark key="." line="91" column="88" />
-        <mark key="^" line="91" column="88" />
       </file>
       <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/assembly/assemble-jars.xml" timestamp="1549395240456">
         <mark key="[" line="15" column="34" />
@@ -131,13 +96,6 @@
         <mark key="." line="58" column="27" />
         <mark key="^" line="45" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/Parameter.java" timestamp="1550169168165">
-        <mark key="'" line="686" column="0" />
-        <mark key="[" line="0" column="39" />
-        <mark key="]" line="5" column="1" />
-        <mark key="." line="5" column="1" />
-        <mark key="^" line="5" column="1" />
-      </file>
       <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/Open4GLException.java" timestamp="1550173165931">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -160,25 +118,11 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="41" column="11" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" timestamp="1549995942291">
-        <mark key="'" line="0" column="4" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="4" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/ProDataException.java" timestamp="1550592873100">
         <mark key="[" line="8" column="59" />
         <mark key="]" line="11" column="32" />
         <mark key="." line="11" column="32" />
         <mark key="^" line="11" column="32" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1549483203961">
-        <mark key="'" line="0" column="40" />
-        <mark key="[" line="0" column="66" />
-        <mark key="]" line="0" column="72" />
-        <mark key="^" line="0" column="72" />
-        <mark key="." line="0" column="72" />
       </file>
       <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/Rowid.java" timestamp="1550094970967">
         <mark key="[" line="2" column="18" />
@@ -199,20 +143,6 @@
         <mark key="." line="17" column="38" />
         <mark key="^" line="17" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Control.java" timestamp="1550513719518">
-        <mark key="'" line="65" column="26" />
-        <mark key="[" line="7" column="11" />
-        <mark key="]" line="7" column="23" />
-        <mark key="." line="7" column="23" />
-        <mark key="^" line="7" column="23" />
-      </file>
-      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/pom.xml" timestamp="1550010149880">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="60" column="45" />
-        <mark key="]" line="60" column="50" />
-        <mark key="." line="60" column="50" />
-        <mark key="^" line="60" column="50" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.2.0/o4glrt-1.2.0.jar!/com/progress/open4gl/SDOParameters.class" timestamp="1550609788420">
         <mark key="'" line="83" column="0" />
         <mark key="[" line="9" column="20" />
@@ -223,7 +153,6 @@
       <file name="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickFrame.java" timestamp="1550514635730">
         <mark key="'" line="101" column="23" />
       </file>
-      <file name="C:/Progress/OpenEdge/jdk/src.zip!/java/sql/ResultSet.java" timestamp="1550608100711" />
       <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/SDOFactory.java" timestamp="1550609609354">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -233,13 +162,6 @@
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1550086327091">
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="72" column="0" />
       </file>
       <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/javaproxy/Connection.java" timestamp="1550175730144">
         <mark key="[" line="355" column="0" />
@@ -253,25 +175,11 @@
         <mark key="^" line="2" column="54" />
         <mark key="." line="2" column="54" />
       </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/RunTime4GLErrorException.java" timestamp="1550173232265">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="2" column="38" />
-        <mark key="]" line="2" column="91" />
-        <mark key="^" line="2" column="91" />
-        <mark key="." line="2" column="91" />
-      </file>
       <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/src/main/java/com/dandh/scanner/common/Utilities.java" timestamp="1549996185115">
         <mark key="[" line="7" column="4" />
         <mark key="]" line="7" column="10" />
         <mark key="." line="7" column="10" />
         <mark key="^" line="7" column="10" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/dynamicapi/DataObjectMetaData.java" timestamp="1550605032652">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="37" column="62" />
-        <mark key="]" line="37" column="90" />
-        <mark key="^" line="37" column="90" />
-        <mark key="." line="37" column="90" />
       </file>
       <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/Handle.java" timestamp="1550095082200">
         <mark key="[" line="2" column="19" />
@@ -293,45 +201,17 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/proxy-scratch/src/com/company/Main.java" timestamp="1550088287214">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="6" column="9" />
-      </file>
       <file name="/Dummy.txt" timestamp="1550610162346">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="32" />
         <mark key="." line="0" column="32" />
         <mark key="^" line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/ProSQLException.java" timestamp="1550168480471">
-        <mark key="'" line="9" column="53" />
-        <mark key="[" line="11" column="53" />
-        <mark key="]" line="12" column="3" />
-        <mark key="^" line="12" column="3" />
-        <mark key="." line="12" column="3" />
-      </file>
       <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/ProDataGraphMetaData.java" timestamp="1550172371312">
         <mark key="[" line="23" column="44" />
         <mark key="]" line="23" column="11" />
         <mark key="^" line="23" column="11" />
         <mark key="." line="23" column="11" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" timestamp="1549465036455">
-        <mark key="'" line="0" column="27" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="27" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.java" timestamp="1550088107437">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="21" column="19" />
-        <mark key="]" line="21" column="20" />
-        <mark key="." line="21" column="20" />
-        <mark key="^" line="21" column="23" />
       </file>
       <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/ResultSetMetaData.java" timestamp="1550605154019">
         <mark key="[" line="284" column="61" />
@@ -357,32 +237,11 @@
         <mark key="^" line="2" column="66" />
         <mark key="." line="2" column="66" />
       </file>
-      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/assembly/assembly.xml" timestamp="1549394430344">
-        <mark key="'" line="13" column="10" />
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="109" />
-        <mark key="^" line="0" column="109" />
-        <mark key="." line="0" column="109" />
-      </file>
       <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/SDOParameters.java" timestamp="1550610731938">
         <mark key="[" line="43" column="43" />
         <mark key="]" line="43" column="71" />
         <mark key="^" line="43" column="71" />
         <mark key="." line="43" column="71" />
-      </file>
-      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/ScannerAS.inf" timestamp="1550006479224">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="8" column="79" />
-        <mark key="]" line="9" column="37" />
-        <mark key="." line="9" column="37" />
-        <mark key="^" line="9" column="37" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/pom.xml" timestamp="1550519998814">
-        <mark key="'" line="19" column="18" />
-        <mark key="[" line="25" column="23" />
-        <mark key="]" line="25" column="24" />
-        <mark key="." line="25" column="24" />
-        <mark key="^" line="49" column="10" />
       </file>
       <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/ProDataObjectMetaData.java" timestamp="1550606478258">
         <mark key="'" line="88" column="8" />
@@ -404,13 +263,6 @@
         <mark key="^" line="2" column="83" />
         <mark key="." line="2" column="83" />
       </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/dynamicapi/FieldDesc.java" timestamp="1550605496036">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="18" column="15" />
-        <mark key="]" line="18" column="19" />
-        <mark key="." line="18" column="19" />
-        <mark key="^" line="18" column="19" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.2.0/o4glrt-1.2.0.jar!/com/progress/open4gl/InputResultSet.class" timestamp="1550606987989">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -421,33 +273,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/dynamicapi/DataRelationMetaData.java" />
-      <jump line="42" column="35" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/dynamicapi/DataRelationMetaData.java" />
-      <jump line="46" column="34" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/dynamicapi/DataRelationMetaData.java" />
-      <jump line="55" column="37" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/dynamicapi/DataRelationMetaData.java" />
-      <jump line="60" column="20" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/dynamicapi/DataRelationMetaData.java" />
-      <jump line="43" column="34" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/dynamicapi/DataRelationMetaData.java" />
-      <jump line="48" column="33" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/dynamicapi/DataRelationMetaData.java" />
-      <jump line="52" column="32" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/dynamicapi/DataRelationMetaData.java" />
-      <jump line="56" column="11" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/dynamicapi/DataRelationMetaData.java" />
-      <jump line="44" column="35" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/dynamicapi/DataRelationMetaData.java" />
-      <jump line="49" column="34" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/dynamicapi/DataRelationMetaData.java" />
-      <jump line="53" column="33" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/dynamicapi/DataRelationMetaData.java" />
-      <jump line="57" column="58" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/dynamicapi/DataGraphMetaData.java" />
-      <jump line="550" column="4" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/dynamicapi/ParameterSet.java" />
-      <jump line="26" column="22" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.2.0/o4glrt-1.2.0.jar!/com/progress/open4gl/InputResultSet.class" />
-      <jump line="591" column="0" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.2.0/o4glrt-1.2.0.jar!/com/progress/open4gl/InputResultSet.class" />
-      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.2.0/o4glrt-1.2.0.jar!/com/progress/open4gl/InputResultSet.class" />
-      <jump line="7" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/InputResultSet.java" />
-      <jump line="9" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/InputResultSet.java" />
-      <jump line="575" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/InputResultSet.java" />
-      <jump line="18" column="3" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/InputResultSet.java" />
-      <jump line="582" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/InputResultSet.java" />
-      <jump line="4" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/InputResultSet.java" />
-      <jump line="8" column="16" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/InputResultSet.java" />
-      <jump line="11" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/InputResultSet.java" />
-      <jump line="12" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/InputResultSet.java" />
-      <jump line="15" column="15" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/InputResultSet.java" />
       <jump line="251" column="19" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/InputResultSet.java" />
       <jump line="46" column="44" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/InputResultSet.java" />
       <jump line="44" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/InputResultSet.java" />
@@ -521,10 +346,37 @@
       <jump line="122" column="43" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/javaproxy/OpenAppObject.java" />
       <jump line="106" column="11" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/javaproxy/OpenAppObject.java" />
       <jump line="95" column="8" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/javaproxy/OpenAppObject.java" />
+      <jump line="80" column="8" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/SDOResultSet.java" />
+      <jump line="31" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/SDOResultSet.java" />
+      <jump line="35" column="37" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/SDOResultSet.java" />
+      <jump line="41" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/SDOResultSet.java" />
+      <jump line="43" column="37" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/SDOResultSet.java" />
+      <jump line="45" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/SDOResultSet.java" />
+      <jump line="47" column="37" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/SDOResultSet.java" />
+      <jump line="49" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/SDOResultSet.java" />
+      <jump line="51" column="37" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/SDOResultSet.java" />
+      <jump line="55" column="37" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/SDOResultSet.java" />
+      <jump line="59" column="37" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/SDOResultSet.java" />
+      <jump line="63" column="37" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/SDOResultSet.java" />
+      <jump line="67" column="37" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/SDOResultSet.java" />
+      <jump line="71" column="37" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/SDOResultSet.java" />
+      <jump line="75" column="37" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/SDOResultSet.java" />
+      <jump line="79" column="37" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/SDOResultSet.java" />
+      <jump line="83" column="37" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/SDOResultSet.java" />
+      <jump line="87" column="37" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/SDOResultSet.java" />
+      <jump line="91" column="37" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/SDOResultSet.java" />
+      <jump line="95" column="37" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/SDOResultSet.java" />
+      <jump line="32" column="37" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/SDOResultSet.java" />
+      <jump line="124" column="63" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/SDOResultSet.java" />
+      <jump line="775" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/SDOResultSet.java" />
+      <jump line="7" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/SDOResultSet.java" />
+      <jump line="20" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/SDOResultSet.java" />
+      <jump line="23" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/SDOResultSet.java" />
+      <jump line="27" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/SDOResultSet.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5NYXA7Cg==</text>
       </register>
       <register name="i" type="4">
         <text>pu</text>
@@ -626,7 +478,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>I</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDs=</text>
       </register>
       <register name="/" type="4">
         <text>ISDO</text>
@@ -635,7 +487,7 @@
         <text encoding="base64">ICAgICAgICAgICAgY2FzZSBLRUVQX1JPV1NfTU9ERToKICAgICAgICAgICAgICAgIHJldHVybiBjb20ucHJvZ3Jlc3Mub3BlbjRnbC5TRE9TY3JvbGxpbmdNb2RlLktFRVBfUk9XUzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5NYXA7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -644,6 +496,14 @@
           <key char="99" code="0" mods="0" />
           <key char="105" code="0" mods="0" />
           <key char="123" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
           <key char="114" code="0" mods="0" />
           <key char="101" code="0" mods="0" />
           <key char="116" code="0" mods="0" />
@@ -655,6 +515,15 @@
           <key char="104" code="0" mods="0" />
           <key char="105" code="0" mods="0" />
           <key char="115" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
           <key char="46" code="0" mods="0" />
           <key char="65" code="0" mods="0" />
           <key char="66" code="0" mods="0" />
@@ -669,22 +538,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHVwZGF0ZVJvdygpIHRocm93cyBQcm9TUUxFeGNlcHRpb24geyAgICAgICAgcmV0dXJuIHRoaXMucmVjZWl2ZXIuQUJDKFhZWik7ICAgIH0KCiAgICBwdWJsaWMgYm9vbGVhbiByb3dEZWxldGVkKCkgdGhyb3dzIFByb1NRTEV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIHRoaXMucmVjZWl2ZXIuQUJDKFhZWik7CiAgICB9CgogICAgcHVibGljIGludCBnZXRGZXRjaFNpemUoKSB0aHJvd3MgUHJvU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gdGhpcy5yZWNlaXZlci5BQkMoWFlaKTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRGZXRjaFNpemUoaW50IHJvd3MpIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgIHJldHVybiB0aGlzLnJlY2VpdmVyLkFCQyhYWVopOwogICAgfQoKICAgIHB1YmxpYyBpbnQgZ2V0VHlwZSgpIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgIHJldHVybiB0aGlzLnJlY2VpdmVyLkFCQyhYWVopOwogICAgfQoKICAgIHB1YmxpYyBpbnQgZ2V0Q29uY3VycmVuY3koKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gdGhpcy5yZWNlaXZlci5BQkMoWFlaKTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBkZWxldGVSb3coKSB0aHJvd3MgUHJvU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gdGhpcy5yZWNlaXZlci5BQkMoWFlaKTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBpbnNlcnRSb3coKSB0aHJvd3MgUHJvU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gdGhpcy5yZWNlaXZlci5BQkMoWFlaKTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBjYW5jZWxSb3dVcGRhdGVzKCkgdGhyb3dzIFByb1NRTEV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIHRoaXMucmVjZWl2ZXIuQUJDKFhZWik7CiAgICB9CgogICAgcHVibGljIHZvaWQgbW92ZVRvSW5zZXJ0Um93KCkgdGhyb3dzIFByb1NRTEV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIHRoaXMucmVjZWl2ZXIuQUJDKFhZWik7CiAgICB9CgogICAgcHVibGljIHZvaWQgbW92ZVRvQ3VycmVudFJvdygpIHRocm93cyBQcm9TUUxFeGNlcHRpb24gewogICAgICAgIHJldHVybiB0aGlzLnJlY2VpdmVyLkFCQyhYWVopOwogICAgfQoKICAgIHB1YmxpYyBTdGF0ZW1lbnQgZ2V0U3RhdGVtZW50KCkgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIHRoaXMucmVjZWl2ZXIuQUJDKFhZWik7CiAgICB9CgogICAgcHVibGljIE9iamVjdCBnZXRPYmplY3QoaW50IGksIE1hcDxTdHJpbmcsIENsYXNzPD8+PiBtYXApIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgIHJldHVybiB0aGlzLnJlY2VpdmVyLkFCQyhYWVopOwogICAgfQoKICAgIHB1YmxpYyBPYmplY3QgZ2V0T2JqZWN0KGludCBpLCBNYXA8U3RyaW5nLCBDbGFzczw/Pj4gbWFwKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gdGhpcy5yZWNlaXZlci5BQkMoWFlaKTsKICAgIH0KCiAgICBwdWJsaWMgUmVmIGdldFJlZihpbnQgaSkgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIHRoaXMucmVjZWl2ZXIuQUJDKFhZWik7CiAgICB9CgogICAgcHVibGljIEJsb2IgZ2V0QmxvYihpbnQgaSkgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIHRoaXMucmVjZWl2ZXIuQUJDKFhZWik7CiAgICB9CgogICAgcHVibGljIENsb2IgZ2V0Q2xvYihpbnQgaSkgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIHRoaXMucmVjZWl2ZXIuQUJDKFhZWik7CiAgICB9CgogICAgcHVibGljIEFycmF5IGdldEFycmF5KGludCBpKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgIH0KCiAgICBwdWJsaWMgT2JqZWN0IGdldE9iamVjdChTdHJpbmcgY29sTmFtZSwgTWFwPFN0cmluZywgQ2xhc3M8Pz4+IG1hcCkgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9CgogICAgcHVibGljIFJlZiBnZXRSZWYoU3RyaW5nIGNvbE5hbWUpIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgIHJldHVybiBudWxsOwogICAgfQoKICAgIHB1YmxpYyBCbG9iIGdldEJsb2IoU3RyaW5nIGNvbE5hbWUpIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgIHJldHVybiBudWxsOwogICAgfQoKICAgIHB1YmxpYyBDbG9iIGdldENsb2IoU3RyaW5nIGNvbE5hbWUpIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgIHJldHVybiBudWxsOwogICAgfQoKICAgIHB1YmxpYyBBcnJheSBnZXRBcnJheShTdHJpbmcgY29sTmFtZSkgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9CgogICAgcHVibGljIERhdGUgZ2V0RGF0ZShpbnQgY29sdW1uSW5kZXgsIENhbGVuZGFyIGNhbCkgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9CgogICAgcHVibGljIERhdGUgZ2V0RGF0ZShTdHJpbmcgY29sdW1uTmFtZSwgQ2FsZW5kYXIgY2FsKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICBwdWJsaWMgVGltZSBnZXRUaW1lKGludCBjb2x1bW5JbmRleCwgQ2FsZW5kYXIgY2FsKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICBwdWJsaWMgVGltZSBnZXRUaW1lKFN0cmluZyBjb2x1bW5OYW1lLCBDYWxlbmRhciBjYWwpIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgIHJldHVybiBudWxsOwogICAgfQoKICAgIHB1YmxpYyBUaW1lc3RhbXAgZ2V0VGltZXN0YW1wKGludCBjb2x1bW5JbmRleCwgQ2FsZW5kYXIgY2FsKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICBwdWJsaWMgVGltZXN0YW1wIGdldFRpbWVzdGFtcChTdHJpbmcgY29sdW1uTmFtZSwgQ2FsZW5kYXIgY2FsKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICBwdWJsaWMgVVJMIGdldFVSTChpbnQgY29sdW1uSW5kZXgpIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgIHJldHVybiBudWxsOwogICAgfQoKICAgIHB1YmxpYyBVUkwgZ2V0VVJMKFN0cmluZyBjb2x1bW5OYW1lKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCB1cGRhdGVSZWYoaW50IGNvbHVtbkluZGV4LCBSZWYgeCkgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CgogICAgfQoKICAgIHB1YmxpYyB2b2lkIHVwZGF0ZVJlZihTdHJpbmcgY29sdW1uTmFtZSwgUmVmIHgpIHRocm93cyBTUUxFeGNlcHRpb24gewoKICAgIH0KCiAgICBwdWJsaWMgYm9vbGVhbiBwcmV2aW91cygpIHRocm93cyBQcm9TUUxFeGNlcHRpb24gewogICAgICAgIHJldHVybiBmYWxzZTsKICAgIH0KCiAgICBwdWJsaWMgaW50IGdldEZldGNoRGlyZWN0aW9uKCkgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIDA7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0RmV0Y2hEaXJlY3Rpb24oaW50IGRpcmVjdGlvbikgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CgogICAgfQoKICAgIHB1YmxpYyBib29sZWFuIHJlbGF0aXZlKGludCB2YXIxKSB0aHJvd3MgUHJvU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gZmFsc2U7CiAgICB9CgogICAgcHVibGljIGJvb2xlYW4gYWJzb2x1dGUoaW50IHZhcjEpIHRocm93cyBQcm9TUUxFeGNlcHRpb24gewogICAgICAgIHJldHVybiBmYWxzZTsKICAgIH0KCiAgICBwdWJsaWMgYm9vbGVhbiBhYnNvbHV0ZShTdHJpbmcgdmFyMSkgdGhyb3dzIFByb1NRTEV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIGJlZm9yZUZpcnN0KCkgdGhyb3dzIFByb1NRTEV4Y2VwdGlvbiB7CgogICAgfQoKICAgIHB1YmxpYyBib29sZWFuIGZpcnN0KCkgdGhyb3dzIFByb1NRTEV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIGFmdGVyTGFzdCgpIHRocm93cyBQcm9TUUxFeGNlcHRpb24gewoKICAgIH0KCiAgICBwdWJsaWMgYm9vbGVhbiBsYXN0KCkgdGhyb3dzIFByb1NRTEV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHVwZGF0ZU9iamVjdChpbnQgdmFyMSwgT2JqZWN0IHZhcjIpIHRocm93cyBQcm9TUUxFeGNlcHRpb24gewoKICAgIH0KCiAgICBwdWJsaWMgYm9vbGVhbiBuZXh0KCkgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIGNsb3NlKCkgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CgogICAgfQoKICAgIHB1YmxpYyBib29sZWFuIHdhc051bGwoKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gZmFsc2U7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXRTdHJpbmcoaW50IGNvbHVtbkluZGV4KSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICBwdWJsaWMgYm9vbGVhbiBnZXRCb29sZWFuKGludCBjb2x1bW5JbmRleCkgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgfQoKICAgIHB1YmxpYyBieXRlIGdldEJ5dGUoaW50IGNvbHVtbkluZGV4KSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gMDsKICAgIH0KCiAgICBwdWJsaWMgc2hvcnQgZ2V0U2hvcnQoaW50IGNvbHVtbkluZGV4KSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gMDsKICAgIH0KCiAgICBwdWJsaWMgaW50IGdldEludChpbnQgY29sdW1uSW5kZXgpIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgIHJldHVybiAwOwogICAgfQoKICAgIHB1YmxpYyBsb25nIGdldExvbmcoaW50IGNvbHVtbkluZGV4KSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gMDsKICAgIH0KCiAgICBwdWJsaWMgZmxvYXQgZ2V0RmxvYXQoaW50IGNvbHVtbkluZGV4KSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gMDsKICAgIH0KCiAgICBwdWJsaWMgZG91YmxlIGdldERvdWJsZShpbnQgY29sdW1uSW5kZXgpIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgIHJldHVybiAwOwogICAgfQoKICAgIHB1YmxpYyBCaWdEZWNpbWFsIGdldEJpZ0RlY2ltYWwoaW50IGNvbHVtbkluZGV4LCBpbnQgc2NhbGUpIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgIHJldHVybiBudWxsOwogICAgfQoKICAgIHB1YmxpYyBieXRlW10gZ2V0Qnl0ZXMoaW50IGNvbHVtbkluZGV4KSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gbmV3IGJ5dGVbMF07CiAgICB9CgogICAgcHVibGljIERhdGUgZ2V0RGF0ZShpbnQgY29sdW1uSW5kZXgpIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgIHJldHVybiBudWxsOwogICAgfQoKICAgIHB1YmxpYyBUaW1lIGdldFRpbWUoaW50IGNvbHVtbkluZGV4KSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICBwdWJsaWMgVGltZXN0YW1wIGdldFRpbWVzdGFtcChpbnQgY29sdW1uSW5kZXgpIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgIHJldHVybiBudWxsOwogICAgfQoKICAgIHB1YmxpYyBJbnB1dFN0cmVhbSBnZXRBc2NpaVN0cmVhbShpbnQgY29sdW1uSW5kZXgpIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgIHJldHVybiBudWxsOwogICAgfQoKICAgIHB1YmxpYyBJbnB1dFN0cmVhbSBnZXRVbmljb2RlU3RyZWFtKGludCBjb2x1bW5JbmRleCkgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9CgogICAgcHVibGljIElucHV0U3RyZWFtIGdldEJpbmFyeVN0cmVhbShpbnQgY29sdW1uSW5kZXgpIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgIHJldHVybiBudWxsOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0U3RyaW5nKFN0cmluZyBjb2x1bW5OYW1lKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICBwdWJsaWMgYm9vbGVhbiBnZXRCb29sZWFuKFN0cmluZyBjb2x1bW5OYW1lKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gZmFsc2U7CiAgICB9CgogICAgcHVibGljIGJ5dGUgZ2V0Qnl0ZShTdHJpbmcgY29sdW1uTmFtZSkgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIDA7CiAgICB9CgogICAgcHVibGljIHNob3J0IGdldFNob3J0KFN0cmluZyBjb2x1bW5OYW1lKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gMDsKICAgIH0KCiAgICBwdWJsaWMgaW50IGdldEludChTdHJpbmcgY29sdW1uTmFtZSkgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIDA7CiAgICB9CgogICAgcHVibGljIGxvbmcgZ2V0TG9uZyhTdHJpbmcgY29sdW1uTmFtZSkgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIDA7CiAgICB9CgogICAgcHVibGljIGZsb2F0IGdldEZsb2F0KFN0cmluZyBjb2x1bW5OYW1lKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gMDsKICAgIH0KCiAgICBwdWJsaWMgZG91YmxlIGdldERvdWJsZShTdHJpbmcgY29sdW1uTmFtZSkgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIDA7CiAgICB9CgogICAgcHVibGljIEJpZ0RlY2ltYWwgZ2V0QmlnRGVjaW1hbChTdHJpbmcgY29sdW1uTmFtZSwgaW50IHNjYWxlKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICBwdWJsaWMgYnl0ZVtdIGdldEJ5dGVzKFN0cmluZyBjb2x1bW5OYW1lKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gbmV3IGJ5dGVbMF07CiAgICB9CgogICAgcHVibGljIERhdGUgZ2V0RGF0ZShTdHJpbmcgY29sdW1uTmFtZSkgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9CgogICAgcHVibGljIFRpbWUgZ2V0VGltZShTdHJpbmcgY29sdW1uTmFtZSkgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9CgogICAgcHVibGljIFRpbWVzdGFtcCBnZXRUaW1lc3RhbXAoU3RyaW5nIGNvbHVtbk5hbWUpIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgIHJldHVybiBudWxsOwogICAgfQoKICAgIHB1YmxpYyBJbnB1dFN0cmVhbSBnZXRBc2NpaVN0cmVhbShTdHJpbmcgY29sdW1uTmFtZSkgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9CgogICAgcHVibGljIElucHV0U3RyZWFtIGdldFVuaWNvZGVTdHJlYW0oU3RyaW5nIGNvbHVtbk5hbWUpIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgIHJldHVybiBudWxsOwogICAgfQoKICAgIHB1YmxpYyBJbnB1dFN0cmVhbSBnZXRCaW5hcnlTdHJlYW0oU3RyaW5nIGNvbHVtbk5hbWUpIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgIHJldHVybiBudWxsOwogICAgfQoKICAgIHB1YmxpYyBTUUxXYXJuaW5nIGdldFdhcm5pbmdzKCkgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9CgogICAgcHVibGljIHZvaWQgY2xlYXJXYXJuaW5ncygpIHRocm93cyBTUUxFeGNlcHRpb24gewoKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldEN1cnNvck5hbWUoKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICBwdWJsaWMgUmVzdWx0U2V0TWV0YURhdGEgZ2V0TWV0YURhdGEoKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICBwdWJsaWMgT2JqZWN0IGdldE9iamVjdChpbnQgY29sdW1uSW5kZXgpIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgIHJldHVybiBudWxsOwogICAgfQoKICAgIHB1YmxpYyBPYmplY3QgZ2V0T2JqZWN0KFN0cmluZyBjb2x1bW5OYW1lKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICBwdWJsaWMgaW50IGZpbmRDb2x1bW4oU3RyaW5nIGNvbHVtbk5hbWUpIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgIHJldHVybiAwOwogICAgfQoKICAgIHB1YmxpYyBSZWFkZXIgZ2V0Q2hhcmFjdGVyU3RyZWFtKGludCBjb2x1bW5JbmRleCkgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9CgogICAgcHVibGljIFJlYWRlciBnZXRDaGFyYWN0ZXJTdHJlYW0oU3RyaW5nIGNvbHVtbk5hbWUpIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgIHJldHVybiBudWxsOwogICAgfQoKICAgIHB1YmxpYyBCaWdEZWNpbWFsIGdldEJpZ0RlY2ltYWwoaW50IHZhcjEpIHRocm93cyBQcm9TUUxFeGNlcHRpb24gewogICAgICAgIHJldHVybiBudWxsOwogICAgfQoKICAgIHB1YmxpYyBCaWdEZWNpbWFsIGdldEJpZ0RlY2ltYWwoU3RyaW5nIHZhcjEpIHRocm93cyBQcm9TUUxFeGNlcHRpb24gewogICAgICAgIHJldHVybiBudWxsOwogICAgfQoKICAgIHB1YmxpYyBib29sZWFuIGlzQmVmb3JlRmlyc3QoKSB0aHJvd3MgUHJvU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gZmFsc2U7CiAgICB9CgogICAgcHVibGljIGJvb2xlYW4gaXNBZnRlckxhc3QoKSB0aHJvd3MgUHJvU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gZmFsc2U7CiAgICB9CgogICAgcHVibGljIGJvb2xlYW4gaXNGaXJzdCgpIHRocm93cyBQcm9TUUxFeGNlcHRpb24gewogICAgICAgIHJldHVybiBmYWxzZTsKICAgIH0KCiAgICBwdWJsaWMgYm9vbGVhbiBpc0xhc3QoKSB0aHJvd3MgUHJvU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gZmFsc2U7CiAgICB9CgogICAgcHVibGljIGludCBnZXRSb3coKSB0aHJvd3MgUHJvU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gMDsKICAgIH0KCiAgICBwdWJsaWMgYm9vbGVhbiByb3dVcGRhdGVkKCkgdGhyb3dzIFByb1NRTEV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgfQoKICAgIHB1YmxpYyBib29sZWFuIHJvd0luc2VydGVkKCkgdGhyb3dzIFByb1NRTEV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHVwZGF0ZU51bGwoaW50IHZhcjEpIHRocm93cyBQcm9TUUxFeGNlcHRpb24gewoKICAgIH0KCiAgICBwdWJsaWMgdm9pZCB1cGRhdGVCb29sZWFuKGludCB2YXIxLCBib29sZWFuIHZhcjIpIHRocm93cyBQcm9TUUxFeGNlcHRpb24gewoKICAgIH0KCiAgICBwdWJsaWMgdm9pZCB1cGRhdGVCeXRlKGludCBjb2x1bW5JbmRleCwgYnl0ZSB4KSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKCiAgICB9CgogICAgcHVibGljIHZvaWQgdXBkYXRlU2hvcnQoaW50IGNvbHVtbkluZGV4LCBzaG9ydCB4KSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKCiAgICB9CgogICAgcHVibGljIHZvaWQgdXBkYXRlSW50KGludCB2YXIxLCBpbnQgdmFyMikgdGhyb3dzIFByb1NRTEV4Y2VwdGlvbiB7CgogICAgfQoKICAgIHB1YmxpYyB2b2lkIHVwZGF0ZUxvbmcoaW50IHZhcjEsIGxvbmcgdmFyMikgdGhyb3dzIFByb1NRTEV4Y2VwdGlvbiB7CgogICAgfQoKICAgIHB1YmxpYyB2b2lkIHVwZGF0ZUZsb2F0KGludCBjb2x1bW5JbmRleCwgZmxvYXQgeCkgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CgogICAgfQoKICAgIHB1YmxpYyB2b2lkIHVwZGF0ZURvdWJsZShpbnQgdmFyMSwgZG91YmxlIHZhcjIpIHRocm93cyBQcm9TUUxFeGNlcHRpb24gewoKICAgIH0KCiAgICBwdWJsaWMgdm9pZCB1cGRhdGVCaWdEZWNpbWFsKGludCB2YXIxLCBCaWdEZWNpbWFsIHZhcjIpIHRocm93cyBQcm9TUUxFeGNlcHRpb24gewoKICAgIH0KCiAgICBwdWJsaWMgdm9pZCB1cGRhdGVTdHJpbmcoaW50IHZhcjEsIFN0cmluZyB2YXIyKSB0aHJvd3MgUHJvU1FMRXhjZXB0aW9uIHsKCiAgICB9CgogICAgcHVibGljIHZvaWQgdXBkYXRlQnl0ZXMoaW50IHZhcjEsIGJ5dGVbXSB2YXIyKSB0aHJvd3MgUHJvU1FMRXhjZXB0aW9uIHsKCiAgICB9CgogICAgcHVibGljIHZvaWQgdXBkYXRlRGF0ZShpbnQgdmFyMSwgRGF0ZSB2YXIyKSB0aHJvd3MgUHJvU1FMRXhjZXB0aW9uIHsKCiAgICB9CgogICAgcHVibGljIHZvaWQgdXBkYXRlVGltZShpbnQgY29sdW1uSW5kZXgsIFRpbWUgeCkgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CgogICAgfQoKICAgIHB1YmxpYyB2b2lkIHVwZGF0ZVRpbWVzdGFtcChpbnQgdmFyMSwgVGltZXN0YW1wIHZhcjIpIHRocm93cyBQcm9TUUxFeGNlcHRpb24gewoKICAgIH0KCiAgICBwdWJsaWMgdm9pZCB1cGRhdGVBc2NpaVN0cmVhbShpbnQgY29sdW1uSW5kZXgsIElucHV0U3RyZWFtIHgsIGludCBsZW5ndGgpIHRocm93cyBTUUxFeGNlcHRpb24gewoKICAgIH0KCiAgICBwdWJsaWMgdm9pZCB1cGRhdGVCaW5hcnlTdHJlYW0oaW50IGNvbHVtbkluZGV4LCBJbnB1dFN0cmVhbSB4LCBpbnQgbGVuZ3RoKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKCiAgICB9CgogICAgcHVibGljIHZvaWQgdXBkYXRlQ2hhcmFjdGVyU3RyZWFtKGludCBjb2x1bW5JbmRleCwgUmVhZGVyIHgsIGludCBsZW5ndGgpIHRocm93cyBTUUxFeGNlcHRpb24gewoKICAgIH0KCiAgICBwdWJsaWMgdm9pZCB1cGRhdGVPYmplY3QoaW50IGNvbHVtbkluZGV4LCBPYmplY3QgeCwgaW50IHNjYWxlKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKCiAgICB9CgogICAgcHVibGljIHZvaWQgdXBkYXRlQmxvYihpbnQgdmFyMSwgQmxvYiB2YXIyKSB0aHJvd3MgUHJvU1FMRXhjZXB0aW9uIHsKCiAgICB9CgogICAgcHVibGljIHZvaWQgdXBkYXRlQ2xvYihpbnQgdmFyMSwgQ2xvYiB2YXIyKSB0aHJvd3MgUHJvU1FMRXhjZXB0aW9uIHsKCiAgICB9CgogICAgcHVibGljIHZvaWQgdXBkYXRlTnVsbChTdHJpbmcgdmFyMSkgdGhyb3dzIFByb1NRTEV4Y2VwdGlvbiB7CgogICAgfQoKICAgIHB1YmxpYyB2b2lkIHVwZGF0ZUJvb2xlYW4oU3RyaW5nIHZhcjEsIGJvb2xlYW4gdmFyMikgdGhyb3dzIFByb1NRTEV4Y2VwdGlvbiB7CgogICAgfQoKICAgIHB1YmxpYyB2b2lkIHVwZGF0ZUJ5dGUoU3RyaW5nIGNvbHVtbk5hbWUsIGJ5dGUgeCkgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CgogICAgfQoKICAgIHB1YmxpYyB2b2lkIHVwZGF0ZVNob3J0KFN0cmluZyBjb2x1bW5OYW1lLCBzaG9ydCB4KSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKCiAgICB9CgogICAgcHVibGljIHZvaWQgdXBkYXRlSW50KFN0cmluZyB2YXIxLCBpbnQgdmFyMikgdGhyb3dzIFByb1NRTEV4Y2VwdGlvbiB7CgogICAgfQoKICAgIHB1YmxpYyB2b2lkIHVwZGF0ZUxvbmcoU3RyaW5nIHZhcjEsIGxvbmcgdmFyMikgdGhyb3dzIFByb1NRTEV4Y2VwdGlvbiB7CgogICAgfQoKICAgIHB1YmxpYyB2b2lkIHVwZGF0ZUZsb2F0KFN0cmluZyBjb2x1bW5OYW1lLCBmbG9hdCB4KSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKCiAgICB9CgogICAgcHVibGljIHZvaWQgdXBkYXRlRG91YmxlKFN0cmluZyB2YXIxLCBkb3VibGUgdmFyMikgdGhyb3dzIFByb1NRTEV4Y2VwdGlvbiB7CgogICAgfQoKICAgIHB1YmxpYyB2b2lkIHVwZGF0ZUJpZ0RlY2ltYWwoU3RyaW5nIHZhcjEsIEJpZ0RlY2ltYWwgdmFyMikgdGhyb3dzIFByb1NRTEV4Y2VwdGlvbiB7CgogICAgfQoKICAgIHB1YmxpYyB2b2lkIHVwZGF0ZVN0cmluZyhTdHJpbmcgdmFyMSwgU3RyaW5nIHZhcjIpIHRocm93cyBQcm9TUUxFeGNlcHRpb24gewoKICAgIH0KCiAgICBwdWJsaWMgdm9pZCB1cGRhdGVCeXRlcyhTdHJpbmcgdmFyMSwgYnl0ZVtdIHZhcjIpIHRocm93cyBQcm9TUUxFeGNlcHRpb24gewoKICAgIH0KCiAgICBwdWJsaWMgdm9pZCB1cGRhdGVEYXRlKFN0cmluZyB2YXIxLCBEYXRlIHZhcjIpIHRocm93cyBQcm9TUUxFeGNlcHRpb24gewoKICAgIH0KCiAgICBwdWJsaWMgdm9pZCB1cGRhdGVUaW1lKFN0cmluZyBjb2x1bW5OYW1lLCBUaW1lIHgpIHRocm93cyBTUUxFeGNlcHRpb24gewoKICAgIH0KCiAgICBwdWJsaWMgdm9pZCB1cGRhdGVUaW1lc3RhbXAoU3RyaW5nIHZhcjEsIFRpbWVzdGFtcCB2YXIyKSB0aHJvd3MgUHJvU1FMRXhjZXB0aW9uIHsKCiAgICB9CgogICAgcHVibGljIHZvaWQgdXBkYXRlQXNjaWlTdHJlYW0oU3RyaW5nIGNvbHVtbk5hbWUsIElucHV0U3RyZWFtIHgsIGludCBsZW5ndGgpIHRocm93cwogICAgICAgICAgICBTUUxFeGNlcHRpb24gewoKICAgIH0KCiAgICBwdWJsaWMgdm9pZCB1cGRhdGVCaW5hcnlTdHJlYW0oU3RyaW5nIGNvbHVtbk5hbWUsIElucHV0U3RyZWFtIHgsIGludCBsZW5ndGgpIHRocm93cwogICAgICAgICAgICBTUUxFeGNlcHRpb24gewoKICAgIH0KCiAgICBwdWJsaWMgdm9pZCB1cGRhdGVDaGFyYWN0ZXJTdHJlYW0oU3RyaW5nIGNvbHVtbk5hbWUsIFJlYWRlciByZWFkZXIsIGludCBsZW5ndGgpIHRocm93cwogICAgICAgICAgICBTUUxFeGNlcHRpb24gewoKICAgIH0KCiAgICBwdWJsaWMgdm9pZCB1cGRhdGVPYmplY3QoU3RyaW5nIGNvbHVtbk5hbWUsIE9iamVjdCB4LCBpbnQgc2NhbGUpIHRocm93cyBTUUxFeGNlcHRpb24gewoKICAgIH0KCiAgICBwdWJsaWMgdm9pZCB1cGRhdGVCbG9iKFN0cmluZyB2YXIxLCBCbG9iIHZhcjIpIHRocm93cyBQcm9TUUxFeGNlcHRpb24gewoKICAgIH0KCiAgICBwdWJsaWMgdm9pZCB1cGRhdGVDbG9iKFN0cmluZyB2YXIxLCBDbG9iIHZhcjIpIHRocm93cyBQcm9TUUxFeGNlcHRpb24gewoKICAgIH0KCiAgICBwdWJsaWMgdm9pZCB1cGRhdGVBcnJheShpbnQgY29sdW1uSW5kZXgsIEFycmF5IHgpIHRocm93cyBTUUxFeGNlcHRpb24gewoKICAgIH0KCiAgICBwdWJsaWMgdm9pZCB1cGRhdGVBcnJheShTdHJpbmcgY29sdW1uTmFtZSwgQXJyYXkgeCkgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CgogICAgfQoKICAgIHB1YmxpYyB2b2lkIHVwZGF0ZU9iamVjdChTdHJpbmcgdmFyMSwgT2JqZWN0IHZhcjIpIHRocm93cyBQcm9TUUxFeGNlcHRpb24gewoKICAgIH0KCiAgICBwdWJsaWMgdm9pZCByZWZyZXNoUm93KCkgdGhyb3dzIFByb1NRTEV4Y2VwdGlvbiB7CgogICAgfQoKICAgIHB1YmxpYyBib29sZWFuIGlzQXR0YWNoZWQoKSB7CiAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIGRldGFjaEZyb21BcHBPYmooKSB0aHJvd3MgUHJvU1FMRXhjZXB0aW9uIHsKCiAgICB9CgogICAgcHVibGljIHZvaWQgYXR0YWNoVG9BcHBPYmooU0RPRmFjdG9yeSB2YXIxKSB0aHJvd3MgUHJvU1FMRXhjZXB0aW9uLCBPcGVuNEdMRXhjZXB0aW9uIHsKCiAgICB9CgogICAgcHVibGljIGJvb2xlYW4gaW5CYXRjaCgpIHsKICAgICAgICByZXR1cm4gZmFsc2U7CiAgICB9CgogICAgcHVibGljIHZvaWQgY2FuY2VsQmF0Y2goKSB0aHJvd3MgUHJvU1FMRXhjZXB0aW9uIHsKCiAgICB9CgogICAgcHVibGljIHZvaWQgc2VuZEJhdGNoKCkgdGhyb3dzIFByb1NRTEV4Y2VwdGlvbiB7CgogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNlbmRCYXRjaEFuZFJlT3BlbigpIHRocm93cyBQcm9TUUxFeGNlcHRpb24gewoKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZW5kQmF0Y2hBbmRSZU9wZW4oU3RyaW5nIHZhcjEpIHRocm93cyBQcm9TUUxFeGNlcHRpb24gewoKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzdGFydEJhdGNoKCkgdGhyb3dzIFByb1NRTEV4Y2VwdGlvbiB7CgogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0UXVlcnkoKSB0aHJvd3MgUHJvU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCByZU9wZW5RdWVyeSgpIHRocm93cyBQcm9TUUxFeGNlcHRpb24gewoKICAgIH0KCiAgICBwdWJsaWMgdm9pZCByZU9wZW5RdWVyeShTdHJpbmcgdmFyMSkgdGhyb3dzIFByb1NRTEV4Y2VwdGlvbiB7CgogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0Um93SWRlbnRpdHkoKSB0aHJvd3MgUHJvU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICBwdWJsaWMgYnl0ZVtdIGdldEJ5dGVzKGludCB2YXIxLCBpbnQgdmFyMikgdGhyb3dzIFByb1NRTEV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIG5ldyBieXRlWzBdOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0U3RyaW5nKGludCB2YXIxLCBpbnQgdmFyMikgdGhyb3dzIFByb1NRTEV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9CgogICAgcHVibGljIGxvbmcgZ2V0TG9uZyhpbnQgdmFyMSwgaW50IHZhcjIpIHRocm93cyBQcm9TUUxFeGNlcHRpb24gewogICAgICAgIHJldHVybiAwOwogICAgfQoKICAgIHB1YmxpYyBpbnQgZ2V0SW50KGludCB2YXIxLCBpbnQgdmFyMikgdGhyb3dzIFByb1NRTEV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIDA7CiAgICB9CgogICAgcHVibGljIGRvdWJsZSBnZXREb3VibGUoaW50IHZhcjEsIGludCB2YXIyKSB0aHJvd3MgUHJvU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gMDsKICAgIH0KCiAgICBwdWJsaWMgQmlnRGVjaW1hbCBnZXRCaWdEZWNpbWFsKGludCB2YXIxLCBpbnQgdmFyMiwgaW50IHZhcjMpIHRocm93cyBQcm9TUUxFeGNlcHRpb24gewogICAgICAgIHJldHVybiBudWxsOwogICAgfQoKICAgIHB1YmxpYyBib29sZWFuIGdldEJvb2xlYW4oaW50IHZhcjEsIGludCB2YXIyKSB0aHJvd3MgUHJvU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gZmFsc2U7CiAgICB9CgogICAgcHVibGljIERhdGUgZ2V0RGF0ZShpbnQgdmFyMSwgaW50IHZhcjIpIHRocm93cyBQcm9TUUxFeGNlcHRpb24gewogICAgICAgIHJldHVybiBudWxsOwogICAgfQoKICAgIHB1YmxpYyBCbG9iIGdldEJsb2IoaW50IHZhcjEsIGludCB2YXIyKSB0aHJvd3MgUHJvU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICBwdWJsaWMgQ2xvYiBnZXRDbG9iKGludCB2YXIxLCBpbnQgdmFyMikgdGhyb3dzIFByb1NRTEV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9CgogICAgcHVibGljIFRpbWVzdGFtcCBnZXRUaW1lc3RhbXAoaW50IHZhcjEsIGludCB2YXIyKSB0aHJvd3MgUHJvU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICBwdWJsaWMgR3JlZ29yaWFuQ2FsZW5kYXIgZ2V0R3JlZ29yaWFuQ2FsZW5kYXIoaW50IHZhcjEsIGludCB2YXIyKSB0aHJvd3MgUHJvU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICBwdWJsaWMgT2JqZWN0IGdldE9iamVjdChpbnQgdmFyMSwgaW50IHZhcjIpIHRocm93cyBQcm9TUUxFeGNlcHRpb24gewogICAgICAgIHJldHVybiBudWxsOwogICAgfQoKICAgIHB1YmxpYyBieXRlW10gZ2V0Qnl0ZXMoU3RyaW5nIHZhcjEsIGludCB2YXIyKSB0aHJvd3MgUHJvU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gbmV3IGJ5dGVbMF07CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXRTdHJpbmcoU3RyaW5nIHZhcjEsIGludCB2YXIyKSB0aHJvd3MgUHJvU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICBwdWJsaWMgbG9uZyBnZXRMb25nKFN0cmluZyB2YXIxLCBpbnQgdmFyMikgdGhyb3dzIFByb1NRTEV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIDA7CiAgICB9CgogICAgcHVibGljIGludCBnZXRJbnQoU3RyaW5nIHZhcjEsIGludCB2YXIyKSB0aHJvd3MgUHJvU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gMDsKICAgIH0KCiAgICBwdWJsaWMgZG91YmxlIGdldERvdWJsZShTdHJpbmcgdmFyMSwgaW50IHZhcjIpIHRocm93cyBQcm9TUUxFeGNlcHRpb24gewogICAgICAgIHJldHVybiAwOwogICAgfQoKICAgIHB1YmxpYyBCaWdEZWNpbWFsIGdldEJpZ0RlY2ltYWwoU3RyaW5nIHZhcjEsIGludCB2YXIyLCBpbnQgdmFyMykgdGhyb3dzIFByb1NRTEV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9CgogICAgcHVibGljIGJvb2xlYW4gZ2V0Qm9vbGVhbihTdHJpbmcgdmFyMSwgaW50IHZhcjIpIHRocm93cyBQcm9TUUxFeGNlcHRpb24gewogICAgICAgIHJldHVybiBmYWxzZTsKICAgIH0KCiAgICBwdWJsaWMgRGF0ZSBnZXREYXRlKFN0cmluZyB2YXIxLCBpbnQgdmFyMikgdGhyb3dzIFByb1NRTEV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9CgogICAgcHVibGljIEJsb2IgZ2V0QmxvYihTdHJpbmcgdmFyMSwgaW50IHZhcjIpIHRocm93cyBQcm9TUUxFeGNlcHRpb24gewogICAgICAgIHJldHVybiBudWxsOwogICAgfQoKICAgIHB1YmxpYyBDbG9iIGdldENsb2IoU3RyaW5nIHZhcjEsIGludCB2YXIyKSB0aHJvd3MgUHJvU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICBwdWJsaWMgVGltZXN0YW1wIGdldFRpbWVzdGFtcChTdHJpbmcgdmFyMSwgaW50IHZhcjIpIHRocm93cyBQcm9TUUxFeGNlcHRpb24gewogICAgICAgIHJldHVybiBudWxsOwogICAgfQoKICAgIHB1YmxpYyBHcmVnb3JpYW5DYWxlbmRhciBnZXRHcmVnb3JpYW5DYWxlbmRhcihTdHJpbmcgdmFyMSwgaW50IHZhcjIpIHRocm93cyBQcm9TUUxFeGNlcHRpb24gewogICAgICAgIHJldHVybiBudWxsOwogICAgfQoKICAgIHB1YmxpYyBPYmplY3QgZ2V0T2JqZWN0KFN0cmluZyB2YXIxLCBpbnQgdmFyMikgdGhyb3dzIFByb1NRTEV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9CgogICAgcHVibGljIEdyZWdvcmlhbkNhbGVuZGFyIGdldEdyZWdvcmlhbkNhbGVuZGFyKGludCB2YXIxKSB0aHJvd3MgUHJvU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICBwdWJsaWMgR3JlZ29yaWFuQ2FsZW5kYXIgZ2V0R3JlZ29yaWFuQ2FsZW5kYXIoU3RyaW5nIHZhcjEpIHRocm93cyBQcm9TUUxFeGNlcHRpb24gewogICAgICAgIHJldHVybiBudWxsOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHVwZGF0ZUdyZWdvcmlhbkNhbGVuZGFyKGludCB2YXIxLCBHcmVnb3JpYW5DYWxlbmRhciB2YXIyKSB0aHJvd3MgUHJvU1FMRXhjZXB0aW9uIHsKCiAgICB9CgogICAgcHVibGljIHZvaWQgdXBkYXRlR3JlZ29yaWFuQ2FsZW5kYXIoU3RyaW5nIHZhcjEsIEdyZWdvcmlhbkNhbGVuZGFyIHZhcjIpIHRocm93cwogICAgICAgICAgICBQcm9TUUxFeGNlcHRpb24gewoKICAgIH0KCiAgICBwdWJsaWMgU0RPSW50ZXJmYWNlIGdldFNET0ludGVyZmFjZSgpIHRocm93cyBQcm9TUUxFeGNlcHRpb24gewogICAgICAgIHJldHVybiBudWxsOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHJlbGVhc2VTRE9JbnRlcmZhY2UoKSB0aHJvd3MgUHJvU1FMRXhjZXB0aW9uIHsKCiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFNET1Jlc3VsCg==</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5NYXA7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -784,13 +653,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="x" type="4">
         <text>setInt64Parameter(int var1, Long var2, int var3</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -803,7 +672,7 @@
       <last-replace>this.receiver.</last-replace>
       <last-substitute>this\.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
