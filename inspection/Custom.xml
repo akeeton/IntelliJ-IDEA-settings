@@ -1,0 +1,4 @@
+<profile version="1.0">
+  <option name="myName" value="Custom" />
+  <inspection_tool class="UnqualifiedFieldAccess" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+</profile>
