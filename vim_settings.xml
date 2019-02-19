@@ -12,13 +12,13 @@
         <mark key="." line="23" column="42" />
         <mark key="^" line="23" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/dynamicapi/ParameterSet.java" timestamp="1550600448192">
+      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/dynamicapi/ParameterSet.java" timestamp="1550604192893">
         <mark key="'" line="555" column="0" />
         <mark key="x" line="405" column="4" />
-        <mark key="[" line="553" column="31" />
-        <mark key="]" line="553" column="31" />
-        <mark key="." line="553" column="31" />
-        <mark key="^" line="560" column="41" />
+        <mark key="[" line="553" column="35" />
+        <mark key="]" line="549" column="58" />
+        <mark key="." line="553" column="55" />
+        <mark key="^" line="549" column="58" />
       </file>
       <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFPickAS/src/main/java/com/dandh/scanner/gui/pick/SerialNoFrame.java" timestamp="1549392264646">
         <mark key="'" line="914" column="0" />
@@ -33,6 +33,7 @@
         <mark key="^" line="21" column="42" />
         <mark key="." line="21" column="42" />
       </file>
+      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Item.java" timestamp="1550603279767" />
       <file name="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.2.0/o4glrt-1.2.0.jar!/com/progress/open4gl/ProDataRelationMetaData.class" timestamp="1550595071043">
         <mark key="'" line="195" column="0" />
       </file>
@@ -52,12 +53,12 @@
       <file name="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" timestamp="1550586932798">
         <mark key="'" line="418" column="61" />
       </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/dynamicapi/DataGraphMetaData.java" timestamp="1550592689418">
-        <mark key="'" line="61" column="51" />
-        <mark key="[" line="65" column="42" />
-        <mark key="]" line="65" column="42" />
-        <mark key="^" line="45" column="49" />
-        <mark key="." line="65" column="42" />
+      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/dynamicapi/DataGraphMetaData.java" timestamp="1550604036358">
+        <mark key="'" line="59" column="41" />
+        <mark key="[" line="49" column="82" />
+        <mark key="]" line="50" column="11" />
+        <mark key="." line="50" column="11" />
+        <mark key="^" line="50" column="11" />
       </file>
       <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/assembly/assemble-jars.xml" timestamp="1549395240456">
         <mark key="[" line="15" column="34" />
@@ -352,9 +353,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="41" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/dynamicapi/DataGraphMetaData.java" />
-      <jump line="53" column="49" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/dynamicapi/DataGraphMetaData.java" />
-      <jump line="57" column="45" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/dynamicapi/DataGraphMetaData.java" />
       <jump line="61" column="51" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/dynamicapi/DataGraphMetaData.java" />
       <jump line="74" column="74" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.2.0/o4glrt-1.2.0.jar!/com/progress/open4gl/dynamicapi/DataGraphMetaData.class" />
       <jump line="191" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/ProDataObjectMetaData.java" />
@@ -452,10 +450,13 @@
       <jump line="49" column="41" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/ProDataRelationMetaData.java" />
       <jump line="57" column="41" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/ProDataRelationMetaData.java" />
       <jump line="65" column="41" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/ProDataRelationMetaData.java" />
+      <jump line="14" column="39" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/dynamicapi/DataGraphMetaData.java" />
+      <jump line="65" column="4" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/dynamicapi/DataGraphMetaData.java" />
+      <jump line="59" column="41" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/dynamicapi/DataGraphMetaData.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">RGF0YUdyYXBoTWV0YURhdGEg</text>
+        <text>var3</text>
       </register>
       <register name="i" type="4">
         <text>pu</text>
@@ -557,16 +558,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RGF0YUdyYXBoTWV0YURhdGEg</text>
+        <text>var3</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmludFN0YWNrVHJhY2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vIFdlIHdvdWxkIGxpa2UgdG8gcmV0dXJuIGNvbS5wcm9ncmVzcy5vcGVuNGdsLlByb0RhdGFPYmplY3RNZXRhRGF0YSBidXQKICAgIC8vIGNvdmFyaWFudCByZXR1cm4gdHlwZXMgZm9yIG92ZXJyaWRkZW4gbWV0aG9kcyBhcmVuJ3Qgc3VwcG9ydGVkIHVudGlsCiAgICAvLyBKYXZhIDUuCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBjb20ucHJvZ3Jlc3Mub3BlbjRnbC5keW5hbWljYXBpLk1ldGFEYXRhQmFzZSBnZXRSZWNlaXZlcigpIHsKICAgICAgICByZXR1cm4gcmVjZWl2ZXI7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -609,22 +610,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLmFycmF5Y29weSh2YXIzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyMy5jbG9uZQo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICBpZiAoc3VwZXIubV9OdW1QYWlycyA9PSAwKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0gZWxzZSBpZiAoc3VwZXIubV9QYXJlbnRNZXRhRGF0YSAhPSBudWxsICYmIHN1cGVyLm1fQ2hpbGRNZXRhRGF0YSAhPSBudWxsKSB7CiAgICAgICAgICAgIGludFtdIHZhcjEgPSBuZXcgaW50W3N1cGVyLm1fTnVtUGFpcnNdOwogICAgICAgICAgICBpbnQgICB2YXIyID0gc3VwZXIubV9OdW1QYWlycyAqIDI7CiAgICAgICAgICAgIGludCAgIHZhcjMgPSAxOwoKICAgICAgICAgICAgZm9yIChpbnQgdmFyNCA9IDA7IHZhcjMgPCB2YXIyOyArK3ZhcjQpIHsKICAgICAgICAgICAgICAgIHZhcjFbdmFyNF0gPSBzdXBlci5tX1BhaXJzSWR4QXJyYXlbdmFyM107CiAgICAgICAgICAgICAgICArK3ZhcjM7CiAgICAgICAgICAgICAgICArK3ZhcjM7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHJldHVybiB2YXIxOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHRocm93IE80R0xQcm9EYXRhT2JqZWN0TGlzdC5nZXRQcm9EYXRhRXhjZXB0aW9uKDc2NjU5NzA5OTA3MTQ3Mjg3MzdMLCBuZXcgT2JqZWN0W117ImdldENoaWxkQ29sdW1ucygpIn0pOwogICAgICAgIH0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29weQo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICBpZiAoc3VwZXIubV9OdW1QYWlycyA9PSAwKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0gZWxzZSBpZiAoc3VwZXIubV9QYXJlbnRNZXRhRGF0YSAhPSBudWxsICYmIHN1cGVyLm1fQ2hpbGRNZXRhRGF0YSAhPSBudWxsKSB7CiAgICAgICAgICAgIGludFtdIHZhcjEgPSBuZXcgaW50W3N1cGVyLm1fTnVtUGFpcnNdOwogICAgICAgICAgICBpbnQgICB2YXIyID0gc3VwZXIubV9OdW1QYWlycyAqIDI7CiAgICAgICAgICAgIGludCAgIHZhcjMgPSAwOwoKICAgICAgICAgICAgZm9yIChpbnQgdmFyNCA9IDA7IHZhcjMgPCB2YXIyOyArK3ZhcjQpIHsKICAgICAgICAgICAgICAgIHZhcjFbdmFyNF0gPSBzdXBlci5tX1BhaXJzSWR4QXJyYXlbdmFyM107CiAgICAgICAgICAgICAgICArK3ZhcjM7CiAgICAgICAgICAgICAgICArK3ZhcjM7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHJldHVybiB2YXIxOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHRocm93IE80R0xQcm9EYXRhT2JqZWN0TGlzdC5nZXRQcm9EYXRhRXhjZXB0aW9uKDc2NjU5NzA5OTA3MTQ3Mjg3MzdMLCBuZXcgT2JqZWN0W117ImdldFBhcmVudENvbHVtbnMoKSJ9KTsKICAgICAgICB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzdXBlcih2YXIxKTsK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICBpZiAoc3VwZXIubV9QYXJlbnRNZXRhRGF0YSAhPSBudWxsICYmIHN1cGVyLm1fQ2hpbGRNZXRhRGF0YSAhPSBudWxsKSB7CiAgICAgICAgICAgIGlmICh2YXIxICE9IG51bGwgJiYgdmFyMiAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICBpbnQgdmFyMyA9IHZhcjEubGVuZ3RoOwogICAgICAgICAgICAgICAgaWYgKHZhcjMgIT0gdmFyMi5sZW5ndGgpIHsKICAgICAgICAgICAgICAgICAgICB0aHJvdyBPNEdMUHJvRGF0YU9iamVjdExpc3QuZ2V0UHJvRGF0YUV4Y2VwdGlvbig3NjY1OTcwOTkwNzE0NzI4NzM4TCk7CiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgIHN1cGVyLm1fTnVtUGFpcnMgPSB2YXIzOwogICAgICAgICAgICAgICAgICAgIGludCB2YXI0ID0gdmFyMyAqIDI7CiAgICAgICAgICAgICAgICAgICAgc3VwZXIubV9QYWlyc0FycmF5ICAgID0gbmV3IFN0cmluZ1t2YXI0XTsKICAgICAgICAgICAgICAgICAgICBzdXBlci5tX1BhaXJzSWR4QXJyYXkgPSBuZXcgaW50W3ZhcjRdOwogICAgICAgICAgICAgICAgICAgIHN1cGVyLm1fUGFpcnNMaXN0ICAgICA9ICIiOwogICAgICAgICAgICAgICAgICAgIGludCB2YXI1ID0gMDsKCiAgICAgICAgICAgICAgICAgICAgZm9yIChpbnQgdmFyNiA9IDA7IHZhcjUgPCB2YXI0OyArK3ZhcjYpIHsKICAgICAgICAgICAgICAgICAgICAgICAgc3VwZXIubV9QYWlyc0FycmF5W3ZhcjVdICAgICAgICA9IHN1cGVyLm1fUGFyZW50TWV0YURhdGEuZ2V0RmllbGROYW1lKHZhcjFbdmFyNl0pOwogICAgICAgICAgICAgICAgICAgICAgICBzdXBlci5tX1BhaXJzQXJyYXlbdmFyNSArIDFdICAgID0gc3VwZXIubV9DaGlsZE1ldGFEYXRhLmdldEZpZWxkTmFtZSh2YXIyW3ZhcjZdKTsKICAgICAgICAgICAgICAgICAgICAgICAgc3VwZXIubV9QYWlyc0lkeEFycmF5W3ZhcjVdICAgICA9IHZhcjFbdmFyNl07CiAgICAgICAgICAgICAgICAgICAgICAgIHN1cGVyLm1fUGFpcnNJZHhBcnJheVt2YXI1ICsgMV0gPSB2YXIyW3ZhcjZdOwogICAgICAgICAgICAgICAgICAgICAgICBzdXBlci5tX1BhaXJzTGlzdCAgICAgICAgICAgICAgID0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdXBlci5tX1BhaXJzTGlzdCArICh2YXI2ID09IDAgPyAiIiA6ICIsIikgKyBzdXBlci5tX1BhaXJzQXJyYXlbdmFyNV0gKyAiLCIgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN1cGVyLm1fUGFpcnNBcnJheVt2YXI1ICsgMV07CiAgICAgICAgICAgICAgICAgICAgICAgIHZhcjUgKz0gMjsKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgdGhyb3cgTzRHTFByb0RhdGFPYmplY3RMaXN0LmdldFByb0RhdGFFeGNlcHRpb24oNzY2NTk3MDk5MDcxNDcyODczN0wsIG5ldyBPYmplY3RbXXsic2V0Q29sdW1ucygpIn0pOwogICAgICAgIH0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzdXBlcih2YXIxKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -723,14 +724,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICBpZiAoc3VwZXIubV9QYXJlbnRNZXRhRGF0YSAhPSBudWxsICYmIHN1cGVyLm1fQ2hpbGRNZXRhRGF0YSAhPSBudWxsKSB7CiAgICAgICAgICAgIHN1cGVyLm1fTnVtUGFpcnMgICAgICAgICA9IDE7CiAgICAgICAgICAgIHN1cGVyLm1fUGFpcnNBcnJheSAgICAgICA9IG5ldyBTdHJpbmdbMl07CiAgICAgICAgICAgIHN1cGVyLm1fUGFpcnNJZHhBcnJheSAgICA9IG5ldyBpbnRbMl07CiAgICAgICAgICAgIHN1cGVyLm1fUGFpcnNBcnJheVswXSAgICA9IHN1cGVyLm1fUGFyZW50TWV0YURhdGEuZ2V0RmllbGROYW1lKHZhcjEpOwogICAgICAgICAgICBzdXBlci5tX1BhaXJzQXJyYXlbMV0gICAgPSBzdXBlci5tX0NoaWxkTWV0YURhdGEuZ2V0RmllbGROYW1lKHZhcjIpOwogICAgICAgICAgICBzdXBlci5tX1BhaXJzSWR4QXJyYXlbMF0gPSB2YXIxOwogICAgICAgICAgICBzdXBlci5tX1BhaXJzSWR4QXJyYXlbMV0gPSB2YXIyOwogICAgICAgICAgICBzdXBlci5tX1BhaXJzTGlzdCAgICAgICAgPSBzdXBlci5tX1BhaXJzQXJyYXlbMF0gKyAiLCIgKyBzdXBlci5tX1BhaXJzQXJyYXlbMV07CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgdGhyb3cgTzRHTFByb0RhdGFPYmplY3RMaXN0LmdldFByb0RhdGFFeGNlcHRpb24oNzY2NTk3MDk5MDcxNDcyODczN0wsIG5ldyBPYmplY3RbXXsic2V0Q29sdW1ucygpIn0pOwogICAgICAgIH0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBzdXBlcih2YXIxLCB2YXIyLCB2YXIzLCB2YXI0KTsK</text>
       </register>
       <register name="x" type="4">
         <text>setInt64Parameter(int var1, Long var2, int var3</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCB2b2lkIHNldFJlbGF0aW9uTmFtZShTdHJpbmcgdmFyMSkgewogICAgICAgIHN1cGVyLm1fTGlua05hbWUgPSB2YXIxOwogICAgfQoKICAgIHByb3RlY3RlZCBTdHJpbmcgZ2V0RXh0ZW5kZWRQcm9wZXJ0aWVzKCkgewogICAgICAgIHJldHVybiBzdXBlci5tX0V4dGVuZGVkUHJvcGVydGllczsKICAgIH0KCiAgICBwcm90ZWN0ZWQgdm9pZCBzZXRFeHRlbmRlZFByb3BlcnRpZXMoU3RyaW5nIHZhcjEpIHsKICAgICAgICBzdXBlci5tX0V4dGVuZGVkUHJvcGVydGllcyA9IHZhcjE7CiAgICB9CgogICAgcHJvdGVjdGVkIGludCBnZXRQYXJlbnRSZWZDb2xJZHgoKSB7CiAgICAgICAgcmV0dXJuIHN1cGVyLm1fUGFyZW50UmVmQ29sSWR4OwogICAgfQoKICAgIHByb3RlY3RlZCBpbnQgZ2V0Q2hpbGRJeCgpIHsKICAgICAgICByZXR1cm4gc3VwZXIubV9DaGlsZEl4OwogICAgfQoKICAgIHByb3RlY3RlZCB2b2lkIHNldENoaWxkSXgoaW50IHZhcjEpIHsKICAgICAgICBzdXBlci5tX0NoaWxkSXggPSB2YXIxOwogICAgfQoKICAgIHByb3RlY3RlZCBpbnQgZ2V0UGFyZW50SXgoKSB7CiAgICAgICAgcmV0dXJuIHN1cGVyLm1fUGFyZW50SXg7CiAgICB9CgogICAgcHJvdGVjdGVkIHZvaWQgc2V0UGFyZW50SXgoaW50IHZhcjEpIHsKICAgICAgICBzdXBlci5tX1BhcmVudEl4ID0gdmFyMTsKICAgIH0KCiAgICBwcm90ZWN0ZWQgaW50IGdldENoaWxkUmVmQ29sSWR4KCkgewogICAgICAgIHJldHVybiBzdXBlci5tX0NoaWxkUmVmQ29sSWR4OwogICAgfQoKICAgIHByb3RlY3RlZCB2b2lkIGZpbGxDaGlsZFJlbGF0aW9ucyhMaXN0IHZhcjEsIExpc3QgdmFyMikgewogICAgICAgIHN1cGVyLmZpbGxDaGlsZFJlbGF0aW9ucyh2YXIxLCB2YXIyKTsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcih2YXIxLCB2YXIyLCB2YXIzLCB2YXI0KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -743,7 +744,7 @@
       <last-replace />
       <last-substitute>return</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
