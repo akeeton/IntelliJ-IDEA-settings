@@ -1,0 +1,7 @@
+<templateSet group="surround">
+  <template name="TCO4GLE" value="try {&#10;    $SELECTION$&#10;} catch (com.progress.open4gl.Open4GLException e) {&#10;    throw new Open4GLException(e);&#10;}" description="Surround with try/catch Open4GLException" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

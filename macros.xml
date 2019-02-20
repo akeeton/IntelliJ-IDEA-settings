@@ -1,0 +1,9 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Surround next error with TCO4GLE">
+      <action id="GotoNextError" />
+      <action id="SurroundWith" />
+      <typing text-keycode="84:0">t</typing>
+    </macro>
+  </component>
+</application>
