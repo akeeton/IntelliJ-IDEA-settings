@@ -132,8 +132,8 @@
         <mark key="^" line="2" column="52" />
         <mark key="." line="2" column="52" />
       </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/javaproxy/OpenAppObject.java" timestamp="1550611263323">
-        <mark key="'" line="95" column="8" />
+      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/javaproxy/OpenAppObject.java" timestamp="1550670959518">
+        <mark key="'" line="6" column="38" />
         <mark key="[" line="116" column="11" />
         <mark key="]" line="116" column="11" />
         <mark key="^" line="137" column="88" />
@@ -278,7 +278,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="277" column="44" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/SDOResultSet.java" />
       <jump line="281" column="38" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/SDOResultSet.java" />
       <jump line="285" column="39" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/SDOResultSet.java" />
       <jump line="289" column="36" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/SDOResultSet.java" />
@@ -378,6 +377,7 @@
       <jump line="789" column="35" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/sql/ResultSet.java" />
       <jump line="796" column="11" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/sql/ResultSet.java" />
       <jump line="1966" column="11" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/sql/ResultSet.java" />
+      <jump line="6" column="38" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/javaproxy/OpenAppObject.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -486,7 +486,7 @@
         <text>XYZ</text>
       </register>
       <register name="/" type="4">
-        <text>getObject</text>
+        <text encoding="base64">XDxTRE9SZXN1bHRTZXRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY2FzZSBLRUVQX1JPV1NfTU9ERToKICAgICAgICAgICAgICAgIHJldHVybiBjb20ucHJvZ3Jlc3Mub3BlbjRnbC5TRE9TY3JvbGxpbmdNb2RlLktFRVBfUk9XUzsK</text>
@@ -671,9 +671,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getObject</last-search>
+      <last-search encoding="base64">XDxTRE9SZXN1bHRTZXRcPg==</last-search>
       <last-offset />
-      <last-pattern>getObject</last-pattern>
+      <last-pattern encoding="base64">XDxTRE9SZXN1bHRTZXRcPg==</last-pattern>
       <last-replace>this.receiver.</last-replace>
       <last-substitute>this\.</last-substitute>
       <last-dir>1</last-dir>
@@ -681,7 +681,6 @@
     </search>
     <history>
       <history-search>
-        <entry>com</entry>
         <entry encoding="base64">XDxJbnB1dFJlc3VsdFNldFw+</entry>
         <entry encoding="base64">XDxTRE9QYXJhbWV0ZXJzXD4=</entry>
         <entry>SDOFactory</entry>
@@ -701,6 +700,7 @@
         <entry>Rcei</entry>
         <entry>recei</entry>
         <entry>getObject</entry>
+        <entry encoding="base64">XDxTRE9SZXN1bHRTZXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>183</entry>
