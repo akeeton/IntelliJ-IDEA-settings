@@ -5,5 +5,18 @@
       <action id="SurroundWith" />
       <typing text-keycode="84:0">t</typing>
     </macro>
+    <macro name="Surround next throws Open4GLError with TCO4GLEr">
+      <action id="Find" />
+      <typing text-keycode="84:0;72:0;82:0;79:0;87:0;83:0;32:0;79:1;80:0;69:0;78:0;52:0;71:1;76:1;69:1;82:0;82:0;79:0;82:0;32:0;91:1">throws&amp;#x20;Open4GLError&amp;#x20;{</typing>
+      <shortuct text="ESCAPE" />
+      <shortuct text="ESCAPE" />
+      <shortuct text="ESCAPE" />
+      <typing text-keycode="86:0;73:0;91:1">vi{</typing>
+      <action id="GotoAction" />
+      <typing text-keycode="83:0;85:0;82:0;82:0;79:0;85:0;78:0;68:0;32:0;87:0;73:0;84:0;72:0;32:0;76:0;73:0;86:0;69:0">surround&amp;#x20;with&amp;#x20;live</typing>
+      <shortuct text="ENTER" />
+      <action id="SurroundWithLiveTemplate" />
+      <typing text-keycode="79:0">o</typing>
+    </macro>
   </component>
 </application>
