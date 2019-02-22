@@ -49,11 +49,6 @@
         <mark key="." line="818" column="68" />
         <mark key="^" line="818" column="68" />
       </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/common/ehnlog/IAppLogger.java" timestamp="1550784616178">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/Open4GLException.java" timestamp="1550867338870">
         <mark key="[" line="25" column="51" />
         <mark key="]" line="25" column="75" />
@@ -65,11 +60,6 @@
         <mark key="]" line="28" column="30" />
         <mark key="^" line="28" column="30" />
         <mark key="." line="28" column="30" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/ProResultSet.java" timestamp="1550865830396">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/assembly/assemble-jars.xml" timestamp="1549395240456">
         <mark key="[" line="15" column="34" />
@@ -121,6 +111,12 @@
         <mark key="." line="95" column="41" />
         <mark key="^" line="95" column="41" />
       </file>
+      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/NullInputResultSet.java" timestamp="1550871130147">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="14" />
+        <mark key="." line="4" column="14" />
+        <mark key="^" line="4" column="14" />
+      </file>
       <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/Open4GLException.java" timestamp="1550778665691">
         <mark key="[" line="22" column="28" />
         <mark key="]" line="22" column="48" />
@@ -159,6 +155,11 @@
         <mark key="]" line="21" column="105" />
         <mark key="." line="33" column="56" />
         <mark key="^" line="21" column="105" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/NullProgressInputResultSet.java" timestamp="1550871132675">
+        <mark key="]" line="4" column="24" />
+        <mark key="^" line="4" column="24" />
+        <mark key="." line="4" column="24" />
       </file>
       <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/BuildRFCabAS.bat" timestamp="1549471094196">
         <mark key="[" line="1" column="31" />
@@ -249,6 +250,12 @@
         <mark key="." line="25" column="71" />
         <mark key="^" line="25" column="71" />
       </file>
+      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp_RA.java" timestamp="1550871181617">
+        <mark key="[" line="68" column="48" />
+        <mark key="]" line="69" column="7" />
+        <mark key="^" line="69" column="7" />
+        <mark key="." line="69" column="7" />
+      </file>
       <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/dynamicapi/DataObjectMetaData.java" timestamp="1550865463949">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
@@ -316,11 +323,6 @@
         <mark key="." line="7" column="10" />
         <mark key="^" line="7" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/RunTime4GLErrorException.java" timestamp="1550867282084">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/Handle.java" timestamp="1550095082200">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="2" column="54" />
@@ -376,16 +378,17 @@
         <mark key="^" line="0" column="43" />
         <mark key="." line="0" column="43" />
       </file>
+      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" timestamp="1550871106718">
+        <mark key="[" line="54" column="14" />
+        <mark key="]" line="54" column="37" />
+        <mark key="." line="54" column="37" />
+        <mark key="^" line="54" column="37" />
+      </file>
       <file name="/Dummy.txt" timestamp="1550610162346">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="32" />
         <mark key="." line="0" column="32" />
         <mark key="^" line="0" column="32" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/common/ehnlog/LogHandler.java" timestamp="1550784626690">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/ProDataGraphMetaData.java" timestamp="1550172371312">
         <mark key="[" line="23" column="44" />
@@ -405,11 +408,6 @@
         <mark key="]" line="0" column="48" />
         <mark key="." line="0" column="48" />
         <mark key="^" line="0" column="48" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/dynamicapi/IPoolProps.java" timestamp="1550786746326">
-        <mark key="[" line="239" column="0" />
-        <mark key="]" line="239" column="0" />
-        <mark key="." line="239" column="0" />
       </file>
       <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/dynamicapi/SessionPool.java" timestamp="1550868613657" />
       <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/javaproxy/ParamArray.java" timestamp="1550868960870">
@@ -462,11 +460,6 @@
         <mark key="]" line="29" column="5" />
         <mark key="." line="26" column="0" />
         <mark key="^" line="23" column="58" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/common/ehnlog/LogContext.java" timestamp="1550784623610">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1550777745167">
         <mark key="[" line="0" column="0" />
@@ -579,7 +572,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkgICAgICAgIHRoaXMuCg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcihuZXcgTnVsbFByb2dyZXNzSW5wdXRSZXN1bHRTZXQoKSk7Cg==</text>
       </register>
       <register name="i" type="4">
         <text>pu</text>
@@ -681,16 +674,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getReceiver</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRPYmplY3RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHVibGljIGludGVyZmFjZSBJU0RPRmFjdG9yeSB7CiAgICBJU0RPRmFjdG9yeShjb20ucHJvZ3Jlc3Mub3BlbjRnbC5TRE9GYWN0b3J5IHJlY2VpdmVyKTsKICAgIAogICAgdm9pZCBzZXRTRE9GYWN0b3J5UmVjZWl2ZXIoY29tLnByb2dyZXNzLm9wZW40Z2wuU0RPRmFjdG9yeSByZWNlaXZlcik7CgogICAgU0RPSW50ZXJmYWNlIF9jcmVhdGVTRE9Qcm9jT2JqZWN0KFN0cmluZyB2YXIxKSB0aHJvd3MgT3BlbjRHTEV4Y2VwdGlvbjsKfQo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcihuZXcgTnVsbFByb2dyZXNzSW5wdXRSZXN1bHRTZXQoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkgICAgICAgIHRoaXMuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -710,22 +703,38 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSAgICBzdXBlcihudWxsKTsKCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuc3FsLlNRTEV4Y2VwdGlvbjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSAgICBzdXBlcihudWxsKTsKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSAgICBzdXBlcihuZXcgY29tLnByb2dyZXNzLm9wZW40Z2wuSW5wdXRSZXN1bHRTZXQoKSB7CgkJICAgIHB1YmxpYyBPYmplY3QgZ2V0T2JqZWN0KGludCBpKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKCQkJICAgIHJldHVybiBudWxsOwoJCSAgICB9CgoJCSAgICBwdWJsaWMgYm9vbGVhbiBuZXh0KCkgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CgkJCSAgICByZXR1cm4gZmFsc2U7CgkJICAgIH0KCSAgICB9KTsKCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBOdWxsSW5wdXRSZXN1bHRTZXQoY29tLnByb2dyZXNzLm9wZW40Z2wuSW5wdXRSZXN1bHRTZXQgcmVjZWl2ZXIpIHsKICAgICAgICBzdXBlcihyZWNlaXZlcik7CiAgICB9CgogICAgcHVibGljIE9iamVjdCBnZXRPYmplY3QoaW50IHZhcjEpIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgIHJldHVybiBudWxsOwogICAgfQoKICAgIHB1YmxpYyBib29sZWFuIG5leHQoKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gZmFsc2U7CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgSW5wdXRSZXN1bHRTZXQoKSB7CiAgICAgICAgdGhpcy5yZWNlaXZlciA9IG5ldzsKICAgIH0K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgY29tLnByb2dyZXNzLm9wZW40Z2wuSW5wdXRSZXN1bHRTZXQK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQlzdXBlcigpCg==</text>
+      <register name="6" type="4">
+        <text>new com.progress.open4gl.InputResultSet() {
+		    public Object getObject(int i) throws SQLException {
+			    return null;
+		    }
+
+		    public boolean next() throws SQLException {
+			    return false;
+		    }
+	    }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuc3FsLlJlc3VsdFNldDsK</text>
+      <register name="7" type="4">
+        <text>new com.progress.open4gl.InputResultSet() {
+		    public Object getObject(int i) throws SQLException {
+			    return Rlp.this.getObject(i);
+		    }
+
+		    public boolean next() throws SQLException {
+			    return Rlp.this.next();
+		    }
+	    }</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -825,13 +834,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgY29tLnByb2dyZXNzLmNvbW1vbi5tZXNzYWdlLklQcm9NZXNzYWdlIGdldElQcm9NZXNzYWdlUmVjZWl2ZXIoKSB7CiAgICAgICAgcmV0dXJuIHRoaXMucmVjZWl2ZXI7CiAgICB9Cg==</text>
+        <text encoding="base64">CQkgICAgICAgIHRoaXMuCg==</text>
       </register>
       <register name="x" type="4">
         <text>setInt64Parameter(int var1, Long var2, int var3</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgY29tLnByb2dyZXNzLmNvbW1vbi5leGNlcHRpb24uRXhjZXB0aW9uTWVzc2FnZUFkYXB0ZXIgZ2V0UmVjZWl2ZXIoKSB7CiAgICAgICAgcmV0dXJuIHRoaXMucmVjZWl2ZXI7CiAgICB9Cg==</text>
+        <text encoding="base64">CSAgICBzdXBlcihudWxsKTsKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
