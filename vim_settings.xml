@@ -350,7 +350,7 @@
         <mark key="'" line="374" column="20" />
       </file>
       <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/javaproxy/ParamArray.java" timestamp="1550859643936">
-        <mark key="'" line="427" column="0" />
+        <mark key="'" line="520" column="0" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="^" line="15" column="77" />
@@ -757,7 +757,7 @@
         <text encoding="base64">CiAgICAvLyBFbmQgcHJveHkgbWV0aG9kIGJsb2NrCgoK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz53</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -811,8 +811,8 @@
         <entry>registers</entry>
         <entry>wq</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
