@@ -378,12 +378,6 @@
         <mark key="^" line="0" column="43" />
         <mark key="." line="0" column="43" />
       </file>
-      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" timestamp="1550871106718">
-        <mark key="[" line="54" column="14" />
-        <mark key="]" line="54" column="37" />
-        <mark key="." line="54" column="37" />
-        <mark key="^" line="54" column="37" />
-      </file>
       <file name="/Dummy.txt" timestamp="1550610162346">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="32" />
@@ -442,8 +436,8 @@
         <mark key="^" line="43" column="71" />
         <mark key="." line="43" column="71" />
       </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/dynamicapi/ParameterSet.java" timestamp="1550868440114">
-        <mark key="'" line="395" column="37" />
+      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/dynamicapi/ParameterSet.java" timestamp="1550871762105">
+        <mark key="'" line="30" column="4" />
         <mark key="[" line="403" column="59" />
         <mark key="]" line="403" column="70" />
         <mark key="^" line="403" column="70" />
@@ -469,7 +463,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/ProDataGraph.java" />
       <jump line="42" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/ProDataGraph.java" />
       <jump line="46" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/ProDataGraph.java" />
       <jump line="50" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/ProDataGraph.java" />
@@ -569,6 +562,7 @@
       <jump line="47" column="26" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
       <jump line="62" column="26" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
       <jump line="114" column="18" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="30" column="4" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/dynamicapi/ParameterSet.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -853,7 +847,7 @@
       <last-replace>this.receiver.</last-replace>
       <last-substitute>this\.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
