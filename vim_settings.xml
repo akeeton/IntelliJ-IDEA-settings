@@ -241,12 +241,12 @@
         <mark key="." line="240" column="67" />
         <mark key="^" line="240" column="67" />
       </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/javaproxy/ParamArray.java" timestamp="1551111379030">
+      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/javaproxy/ParamArray.java" timestamp="1551116734707">
         <mark key="'" line="599" column="10" />
-        <mark key="[" line="590" column="24" />
-        <mark key="]" line="591" column="7" />
-        <mark key="." line="591" column="7" />
-        <mark key="^" line="591" column="7" />
+        <mark key="[" line="621" column="53" />
+        <mark key="]" line="621" column="53" />
+        <mark key="." line="621" column="53" />
+        <mark key="^" line="621" column="53" />
       </file>
       <file name="$USER_HOME$/.vimrc" timestamp="1549465548149">
         <mark key="[" line="9" column="10" />
@@ -602,8 +602,8 @@
       <jump line="593" column="10" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/javaproxy/ParamArray.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+      <register name="&quot;" type="4">
+        <text>parameterSet</text>
       </register>
       <register name="i" type="4">
         <text>pu</text>
@@ -705,7 +705,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>parameterSet</text>
       </register>
       <register name="/" type="4">
         <text>}</text>
