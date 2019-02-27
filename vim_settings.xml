@@ -2,6 +2,7 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks>
+      <mark key="A" line="227" column="19" filename="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/gui/common/MenuFrameP.java" protocol="file" />
       <mark key="X" line="41" column="86" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/dynamicapi/SessionPool.java" protocol="file" />
     </globalmarks>
     <filemarks>
@@ -52,10 +53,9 @@
       <file name="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.6.0/o4glrt-1.6.0.jar!/com/progress/open4gl/dynamicapi/ParameterSet.class" timestamp="1551222201668">
         <mark key="'" line="22" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" timestamp="1551279478971">
-        <mark key="]" line="625" column="45" />
-        <mark key="." line="625" column="45" />
-        <mark key="^" line="625" column="45" />
+      <file name="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/gui/common/MenuFrameP.java" timestamp="1551281279996">
+        <mark key="a" line="227" column="19" />
+        <mark key="'" line="55" column="25" />
       </file>
       <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/assembly/assemble-jars.xml" timestamp="1549395240456">
         <mark key="[" line="15" column="34" />
@@ -465,7 +465,7 @@
       <file name="$USER_HOME$/dev/scanner/openjdk-logging/src/main/java/com/dandh/scanner/util/logging/XMLFormatter.java" timestamp="1551120050794">
         <mark key="'" line="45" column="13" />
       </file>
-      <file name="/fragment.java" timestamp="1551200138970">
+      <file name="/fragment.java" timestamp="1551281286034">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="26" />
         <mark key="^" line="3" column="26" />
@@ -473,11 +473,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="593" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/javaproxy/ParamArray.java" />
-      <jump line="603" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/javaproxy/ParamArray.java" />
-      <jump line="57" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/dynamicapi/Param.java" />
-      <jump line="60" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/dynamicapi/Param.java" />
-      <jump line="68" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/dynamicapi/Param.java" />
       <jump line="656" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/dynamicapi/ParameterSet.java" />
       <jump line="61" column="7" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/dynamicapi/Param.java" />
       <jump line="72" column="4" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/dynamicapi/Param.java" />
@@ -573,6 +568,11 @@
       <jump line="157" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/javaproxy/OpenAppObject.java" />
       <jump line="617" column="0" filename="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" />
       <jump line="623" column="0" filename="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" />
+      <jump line="91" column="4" filename="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/gui/common/MenuFrameP.java" />
+      <jump line="92" column="4" filename="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/gui/common/MenuFrameP.java" />
+      <jump line="106" column="8" filename="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/gui/common/MenuFrameP.java" />
+      <jump line="195" column="4" filename="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/gui/common/MenuFrameP.java" />
+      <jump line="55" column="25" filename="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/gui/common/MenuFrameP.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -681,7 +681,7 @@
         <text>10</text>
       </register>
       <register name="/" type="4">
-        <text>\cnumpad</text>
+        <text encoding="base64">XDxtZW51TGlzdFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICByb2JvdC5rZXlQcmVzcyhLZXlFdmVudC5WS19CKTsK</text>
@@ -831,13 +831,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>marks</text>
       </register>
     </registers>
     <search>
-      <last-search>\cnumpad</last-search>
+      <last-search encoding="base64">XDxtZW51TGlzdFw+</last-search>
       <last-offset />
-      <last-pattern>\cnumpad</last-pattern>
+      <last-pattern encoding="base64">XDxtZW51TGlzdFw+</last-pattern>
       <last-replace>this.receiver.</last-replace>
       <last-substitute>this\.</last-substitute>
       <last-dir>1</last-dir>
@@ -845,8 +845,6 @@
     </search>
     <history>
       <history-search>
-        <entry>catch</entry>
-        <entry>Throe e</entry>
         <entry>Throw e</entry>
         <entry>throw e</entry>
         <entry>new</entry>
@@ -865,11 +863,10 @@
         <entry>keyPress</entry>
         <entry encoding="base64">XDxwZWVyXD4=</entry>
         <entry>\cnumpad</entry>
+        <entry encoding="base64">XDxndWlNZW51TGlzdFw+</entry>
+        <entry encoding="base64">XDxtZW51TGlzdFw+</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3RoaXNcLi90aGlzLnJlY2VpdmVyL2c=</entry>
-        <entry encoding="base64">JzwsJz5zL3RoaXNcLi90aGlzLnJlY2VpdmVyLi9n</entry>
-        <entry>let @q='</entry>
         <entry encoding="base64">bGV0IEBxPSduT3RyeSB7PEVzYz5qb30gY2F0Y2ggKGNvbS5wcm9ncmVzcy5vcGVuNGdsLlByb1NRTEV4Y2VwdGlvbiBlKSB7PENSPnRocm93IG5ldyBQcm9TUUxFeGNlcHRpb24oZSk7PEVzYz4n</entry>
         <entry>help dd</entry>
         <entry>source ~/.vimrc</entry>
@@ -887,6 +884,9 @@
         <entry>.,.+</entry>
         <entry>nohl</entry>
         <entry>w</entry>
+        <entry>reg</entry>
+        <entry>mark</entry>
+        <entry>marks</entry>
       </history-cmd>
       <history-expr />
       <history-input />
