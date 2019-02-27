@@ -17,7 +17,8 @@
         <mark key="." line="22" column="3" />
         <mark key="^" line="22" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/javaproxy/OpenAppObject.java" timestamp="1551210023955">
+      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/javaproxy/OpenAppObject.java" timestamp="1551279360046">
+        <mark key="'" line="157" column="0" />
         <mark key="[" line="8" column="43" />
         <mark key="]" line="8" column="58" />
         <mark key="." line="8" column="58" />
@@ -50,6 +51,11 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.6.0/o4glrt-1.6.0.jar!/com/progress/open4gl/dynamicapi/ParameterSet.class" timestamp="1551222201668">
         <mark key="'" line="22" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" timestamp="1551279478971">
+        <mark key="]" line="625" column="45" />
+        <mark key="." line="625" column="45" />
+        <mark key="^" line="625" column="45" />
       </file>
       <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/assembly/assemble-jars.xml" timestamp="1549395240456">
         <mark key="[" line="15" column="34" />
@@ -178,6 +184,9 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
         <mark key="^" line="41" column="11" />
+      </file>
+      <file name="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Robot.java" timestamp="1551277781838">
+        <mark key="'" line="46" column="22" />
       </file>
       <file name="$USER_HOME$/dev/scanner/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/ZoneFrameR.java" timestamp="1551192442693">
         <mark key="[" line="343" column="49" />
@@ -464,33 +473,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/dynamicapi/Param.java" />
-      <jump line="15" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/dynamicapi/Param.java" />
-      <jump line="19" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/dynamicapi/Param.java" />
-      <jump line="23" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/dynamicapi/Param.java" />
-      <jump line="27" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/dynamicapi/Param.java" />
-      <jump line="31" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/dynamicapi/Param.java" />
-      <jump line="35" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/dynamicapi/Param.java" />
-      <jump line="39" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/dynamicapi/Param.java" />
-      <jump line="43" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/dynamicapi/Param.java" />
-      <jump line="47" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/dynamicapi/Param.java" />
-      <jump line="54" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/dynamicapi/Param.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/dynamicapi/Param.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/dynamicapi/Param.java" />
-      <jump line="6" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/dynamicapi/Param.java" />
-      <jump line="674" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/dynamicapi/ParameterSet.java" />
-      <jump line="685" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/dynamicapi/ParameterSet.java" />
-      <jump line="681" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/dynamicapi/ParameterSet.java" />
-      <jump line="683" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/dynamicapi/ParameterSet.java" />
-      <jump line="684" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/dynamicapi/ParameterSet.java" />
-      <jump line="675" column="12" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/dynamicapi/ParameterSet.java" />
-      <jump line="23" column="13" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/javaproxy/ParamArray.java" />
-      <jump line="589" column="18" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/javaproxy/ParamArray.java" />
-      <jump line="604" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/javaproxy/ParamArray.java" />
-      <jump line="575" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/javaproxy/ParamArray.java" />
-      <jump line="584" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/javaproxy/ParamArray.java" />
-      <jump line="585" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/javaproxy/ParamArray.java" />
-      <jump line="591" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/javaproxy/ParamArray.java" />
       <jump line="593" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/javaproxy/ParamArray.java" />
       <jump line="603" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/javaproxy/ParamArray.java" />
       <jump line="57" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/dynamicapi/Param.java" />
@@ -564,10 +546,37 @@
       <jump line="630" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/javaproxy/ParamArray.java" />
       <jump line="625" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/javaproxy/ParamArray.java" />
       <jump line="22" column="13" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.6.0/o4glrt-1.6.0.jar!/com/progress/open4gl/dynamicapi/ParameterSet.class" />
+      <jump line="44" column="13" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Robot.java" />
+      <jump line="16" column="0" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Robot.java" />
+      <jump line="53" column="0" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Robot.java" />
+      <jump line="75" column="0" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Robot.java" />
+      <jump line="108" column="0" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Robot.java" />
+      <jump line="116" column="0" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Robot.java" />
+      <jump line="124" column="0" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Robot.java" />
+      <jump line="131" column="0" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Robot.java" />
+      <jump line="141" column="0" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Robot.java" />
+      <jump line="182" column="0" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Robot.java" />
+      <jump line="188" column="0" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Robot.java" />
+      <jump line="202" column="0" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Robot.java" />
+      <jump line="241" column="0" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Robot.java" />
+      <jump line="251" column="0" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Robot.java" />
+      <jump line="262" column="0" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Robot.java" />
+      <jump line="46" column="22" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Robot.java" />
+      <jump line="347" column="38" filename="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" />
+      <jump line="626" column="4" filename="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" />
+      <jump line="620" column="0" filename="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" />
+      <jump line="608" column="0" filename="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" />
+      <jump line="596" column="0" filename="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" />
+      <jump line="170" column="43" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/javaproxy/OpenAppObject.java" />
+      <jump line="130" column="12" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/javaproxy/OpenAppObject.java" />
+      <jump line="137" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/javaproxy/OpenAppObject.java" />
+      <jump line="157" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/javaproxy/OpenAppObject.java" />
+      <jump line="617" column="0" filename="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" />
+      <jump line="623" column="0" filename="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>getField</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="i" type="4">
         <text>pu</text>
@@ -669,16 +678,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getField</text>
+        <text>10</text>
       </register>
       <register name="/" type="4">
-        <text>getParam</text>
+        <text>\cnumpad</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFRvU3RyaW5nQnVpbGRlcih0aGlzLCBUb1N0cmluZ1N0eWxlLk1VTFRJX0xJTkVfU1RZTEUpCiAgICAgICAgICAgICAgICAuYXBwZW5kKAogICAgICAgICAgICAgICAgICAgICAgICBUb1N0cmluZ0J1aWxkZXIucmVmbGVjdGlvblRvU3RyaW5nKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlY2VpdmVyLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRvU3RyaW5nU3R5bGUuTVVMVElfTElORV9TVFlMRSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0cnVlCiAgICAgICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIC5hcHBlbmQocGFyYW1ldGVycykKICAgICAgICAgICAgICAgIC50b1N0cmluZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByb2JvdC5rZXlQcmVzcyhLZXlFdmVudC5WS19CKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -698,22 +707,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIChjb20ucHJvZ3Jlc3Mub3BlbjRnbC5keW5hbWljYXBpLlBhcmFtZXRlclNldCkgTWV0aG9kVXRpbHMuaW52b2tlTWV0aG9kKAogICAgICAgICAgICAgICAgICAgICAgICByZWNlaXZlciwKICAgICAgICAgICAgICAgICAgICAgICAgImdldFBhcmFtZXRlclNldCIsCiAgICAgICAgICAgICAgICAgICAgICAgIG51bGwKICAgICAgICAgICAgICAgICk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgIFJvYm90IHJvYm90ID0gbnVsbDsKCiAgICAgICAgICB0cnkgewogICAgICAgICAgICAgIHJvYm90ID0gbmV3IFJvYm90KCk7CiAgICAgICAgICB9IGNhdGNoIChBV1RFeGNlcHRpb24gZXgpIHsKICAgICAgICAgICAgICBleC5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgIH0KCiAgICAgICAgICBpZiAocm9ib3QgIT0gbnVsbCkgewogICAgICAgICAgICAgIHJvYm90LnNldEF1dG9XYWl0Rm9ySWRsZSh0cnVlKTsKICAgICAgICAgICAgICByb2JvdC5zZXRBdXRvRGVsYXkoMTAwKTsKICAgICAgICAgICAgICByb2JvdC5rZXlQcmVzcyhLZXlFdmVudC5WS19CKTsKICAgICAgICAgICAgICByb2JvdC5rZXlSZWxlYXNlKEtleUV2ZW50LlZLX0IpOwogICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbnVsbAo=</text>
+        <text encoding="base64">ICAgICAgICAgIFRocmVhZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbmV3IE9iamVjdFswXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbnVsbAo=</text>
+        <text encoding="base64">ICAgICAgcm9ib3QuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBNZXRob2RVdGlscy5pbnZva2VNZXRob2QocmVjZWl2ZXIsICJnZXRQYXJhbWV0ZXJTZXQiLCBudWxsKTsK</text>
+        <text encoding="base64">ICAgICAgRXZlbnRRdWV1ZS4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBDbGFzc1V0aWxzCg==</text>
+        <text encoding="base64">ICAgICAgU3lzdGVtLm91dAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -813,22 +822,22 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFRvU3RyaW5nQnVpbGRlcih0aGlzLCBUb1N0cmluZ1N0eWxlLk1VTFRJX0xJTkVfU1RZTEUpCiAgICAgICAgICAgICAgICAuYXBwZW5kKHBhcmFtZXRlclNldCkKICAgICAgICAgICAgICAgIC50b1N0cmluZygpOwo=</text>
+        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGYoIiIpOwo=</text>
       </register>
       <register name="x" type="4">
         <text>setInt64Parameter(int var1, Long var2, int var3</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFRvU3RyaW5nQnVpbGRlcih0aGlzLCBUb1N0cmluZ1N0eWxlLk1VTFRJX0xJTkVfU1RZTEUpCiAgICAgICAgICAgICAgICAuYXBwZW5kKHBhcmFtZXRlcnMpCiAgICAgICAgICAgICAgICAucmVmbGVjdGlvblRvU3RyaW5nKHJlY2VpdmVyLCBUb1N0cmluZ1N0eWxlLk1VTFRJX0xJTkVfU1RZTEUsIHRydWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getParam</last-search>
+      <last-search>\cnumpad</last-search>
       <last-offset />
-      <last-pattern>getParam</last-pattern>
+      <last-pattern>\cnumpad</last-pattern>
       <last-replace>this.receiver.</last-replace>
       <last-substitute>this\.</last-substitute>
       <last-dir>1</last-dir>
@@ -836,9 +845,6 @@
     </search>
     <history>
       <history-search>
-        <entry>props</entry>
-        <entry encoding="base64">XDxyZWFkQ29uZmlndXJhdGlvblw+</entry>
-        <entry encoding="base64">XDxhZGRQcmVmaXhUb1Byb3BlcnRpZXNcPg==</entry>
         <entry>catch</entry>
         <entry>Throe e</entry>
         <entry>Throw e</entry>
@@ -856,6 +862,9 @@
         <entry>.</entry>
         <entry>ref</entry>
         <entry>getParam</entry>
+        <entry>keyPress</entry>
+        <entry encoding="base64">XDxwZWVyXD4=</entry>
+        <entry>\cnumpad</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3RoaXNcLi90aGlzLnJlY2VpdmVyL2c=</entry>
