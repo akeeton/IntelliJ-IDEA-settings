@@ -50,6 +50,13 @@
         <mark key="." line="27" column="16" />
         <mark key="^" line="27" column="16" />
       </file>
+      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Item.java" timestamp="1551379548335">
+        <mark key="'" line="251" column="36" />
+        <mark key="[" line="256" column="27" />
+        <mark key="]" line="256" column="36" />
+        <mark key="^" line="256" column="36" />
+        <mark key="." line="256" column="36" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.6.0/o4glrt-1.6.0.jar!/com/progress/open4gl/dynamicapi/ParameterSet.class" timestamp="1551373569917">
         <mark key="'" line="585" column="90" />
       </file>
@@ -392,6 +399,12 @@
         <mark key="^" line="0" column="43" />
         <mark key="." line="0" column="43" />
       </file>
+      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" timestamp="1551378856017">
+        <mark key="[" line="315" column="25" />
+        <mark key="]" line="315" column="34" />
+        <mark key="^" line="315" column="34" />
+        <mark key="." line="315" column="34" />
+      </file>
       <file name="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/gui/common/SignOnFrameP.java" timestamp="1551305882806" />
       <file name="$USER_HOME$/dev/scanner/openjdk-logging/src/main/java/com/dandh/scanner/java/util/logging/Logger.java" timestamp="1551124373083">
         <mark key="'" line="1091" column="41" />
@@ -516,9 +529,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="491" column="19" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/javaproxy/ParamArray.java" />
-      <jump line="510" column="78" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/javaproxy/ParamArray.java" />
-      <jump line="513" column="68" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/javaproxy/ParamArray.java" />
       <jump line="525" column="19" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/javaproxy/ParamArray.java" />
       <jump line="543" column="78" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/javaproxy/ParamArray.java" />
       <jump line="546" column="68" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/javaproxy/ParamArray.java" />
@@ -616,10 +626,13 @@
       <jump line="847" column="8" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/javaproxy/ParamArray.java" />
       <jump line="170" column="33" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Session.java" />
       <jump line="171" column="72" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Session.java" />
+      <jump line="231" column="63" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Item.java" />
+      <jump line="658" column="75" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Item.java" />
+      <jump line="251" column="36" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Item.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;</text>
       </register>
       <register name="i" type="4">
         <text>pu</text>
@@ -721,10 +734,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>(</text>
+        <text encoding="base64">XDxzY2FuRmllbGRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICByb2JvdC5rZXlQcmVzcyhLZXlFdmVudC5WS19CKTsK</text>
@@ -878,9 +891,9 @@
       </register>
     </registers>
     <search>
-      <last-search>(</last-search>
+      <last-search encoding="base64">XDxzY2FuRmllbGRcPg==</last-search>
       <last-offset />
-      <last-pattern>(</last-pattern>
+      <last-pattern encoding="base64">XDxzY2FuRmllbGRcPg==</last-pattern>
       <last-replace>this.receiver.</last-replace>
       <last-substitute>this\.</last-substitute>
       <last-dir>1</last-dir>
@@ -888,7 +901,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxPVVRQVVRcPg==</entry>
         <entry>.</entry>
         <entry>ref</entry>
         <entry>getParam</entry>
@@ -908,6 +920,7 @@
         <entry>;</entry>
         <entry encoding="base64">XDx2YXI0XD4=</entry>
         <entry>(</entry>
+        <entry encoding="base64">XDxzY2FuRmllbGRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bGV0IEBxPSduT3RyeSB7PEVzYz5qb30gY2F0Y2ggKGNvbS5wcm9ncmVzcy5vcGVuNGdsLlByb1NRTEV4Y2VwdGlvbiBlKSB7PENSPnRocm93IG5ldyBQcm9TUUxFeGNlcHRpb24oZSk7PEVzYz4n</entry>
