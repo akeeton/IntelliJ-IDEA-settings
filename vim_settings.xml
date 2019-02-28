@@ -50,12 +50,12 @@
         <mark key="." line="27" column="16" />
         <mark key="^" line="27" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Item.java" timestamp="1551379548335">
+      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Item.java" timestamp="1551381062100">
         <mark key="'" line="251" column="36" />
-        <mark key="[" line="256" column="27" />
-        <mark key="]" line="256" column="36" />
-        <mark key="^" line="256" column="36" />
-        <mark key="." line="256" column="36" />
+        <mark key="[" line="524" column="23" />
+        <mark key="]" line="529" column="34" />
+        <mark key="^" line="529" column="34" />
+        <mark key="." line="529" column="34" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.6.0/o4glrt-1.6.0.jar!/com/progress/open4gl/dynamicapi/ParameterSet.class" timestamp="1551373569917">
         <mark key="'" line="585" column="90" />
@@ -632,7 +632,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>x</text>
       </register>
       <register name="i" type="4">
         <text>pu</text>
@@ -734,7 +734,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzY2FuRmllbGRcPg==</text>
