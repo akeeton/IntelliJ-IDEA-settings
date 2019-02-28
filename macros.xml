@@ -18,5 +18,15 @@
       <action id="SurroundWithLiveTemplate" />
       <typing text-keycode="79:0">o</typing>
     </macro>
+    <macro name="&lt;noname&gt;">
+      <action id="Find" />
+      <typing text-keycode="86:0;65:0;82:0;49:0">var1</typing>
+      <shortuct text="ENTER" />
+      <shortuct text="ESCAPE" />
+      <action id="RenameElement" />
+      <action id="EditorBackSpace" />
+      <typing text-keycode="73:0;78:0;68:0;69:0;88:0">index</typing>
+      <shortuct text="ENTER" />
+    </macro>
   </component>
 </application>
