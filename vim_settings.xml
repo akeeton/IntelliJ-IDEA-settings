@@ -45,7 +45,7 @@
         <mark key="." line="27" column="16" />
         <mark key="^" line="27" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Item.java" timestamp="1551391374898">
+      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Item.java" timestamp="1551805048309">
         <mark key="[" line="2" column="31" />
         <mark key="]" line="2" column="40" />
         <mark key="^" line="2" column="40" />
@@ -60,8 +60,8 @@
         <mark key="." line="149" column="34" />
         <mark key="^" line="149" column="34" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.6.0/o4glrt-1.6.0.jar!/com/progress/open4gl/dynamicapi/ResultSet.class" timestamp="1551802227682">
-        <mark key="'" line="190" column="21" />
+      <file name="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.6.0/o4glrt-1.6.0.jar!/com/progress/open4gl/dynamicapi/ResultSet.class" timestamp="1551804316619">
+        <mark key="'" line="42" column="22" />
         <mark key="x" line="135" column="35" />
       </file>
       <file name="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/gui/common/MenuFrameP.java" timestamp="1551712245769">
@@ -76,7 +76,7 @@
         <mark key="^" line="651" column="13" />
         <mark key="." line="651" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Menu.java" timestamp="1551801019213">
+      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Menu.java" timestamp="1551804758012">
         <mark key="'" line="141" column="0" />
         <mark key="[" line="142" column="0" />
         <mark key="]" line="142" column="0" />
@@ -223,11 +223,12 @@
         <mark key="^" line="2" column="52" />
         <mark key="." line="2" column="52" />
       </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/dynamicapi/Param.java" timestamp="1551801756854">
-        <mark key="'" line="99" column="0" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
+      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/dynamicapi/Param.java" timestamp="1551805086950">
+        <mark key="'" line="97" column="0" />
+        <mark key="[" line="106" column="26" />
+        <mark key="]" line="106" column="26" />
+        <mark key="." line="106" column="26" />
+        <mark key="^" line="106" column="26" />
       </file>
       <file name="$USER_HOME$/dev/scanner/openjdk-logging/src/main/java/com/dandh/scanner/java/util/logging/StreamHandler.java" timestamp="1551190262477">
         <mark key="[" line="195" column="9" />
@@ -276,10 +277,6 @@
       <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Control.java" timestamp="1551712034436">
         <mark key="'" line="81" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/statediagram/test.java" timestamp="1551468413001">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="6" column="27" />
-      </file>
       <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp_RA.java" timestamp="1550871181617">
         <mark key="[" line="68" column="48" />
         <mark key="]" line="69" column="7" />
@@ -291,6 +288,9 @@
       </file>
       <file name="$USER_HOME$/dev/scanner/openjdk-logging/src/main/java/com/dandh/scanner/java/util/logging/Logging.java" timestamp="1551123696061">
         <mark key="'" line="46" column="6" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.6.0/o4glrt-1.6.0.jar!/com/progress/open4gl/dynamicapi/StreamReader.class" timestamp="1551803865959">
+        <mark key="'" line="320" column="35" />
       </file>
       <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Cart.java" timestamp="1551377497901">
         <mark key="[" line="117" column="36" />
@@ -435,13 +435,13 @@
         <mark key="^" line="0" column="48" />
       </file>
       <file name="C:/Progress/OpenEdge/jdk/src.zip!/java/lang/ClassLoader.java" timestamp="1551728361990" />
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/dynamicapi/SessionPool.java" timestamp="1551464307133" />
       <file name="$USER_HOME$/dev/scanner/openjdk-logging/src/main/java/com/dandh/scanner/java/util/logging/LoggingPermission.java" timestamp="1551123705965">
         <mark key="'" line="36" column="32" />
       </file>
       <file name="$USER_HOME$/dev/scanner/openjdk-logging/src/main/java/com/dandh/scanner/java/util/logging/Level.java" timestamp="1551123675988">
         <mark key="'" line="162" column="30" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.6.0/o4glrt-1.6.0.jar!/com/progress/open4gl/dynamicapi/ProToJava.class" timestamp="1551803798144" />
       <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/ReferenceFactory.java" timestamp="1551451006061">
         <mark key="[" line="434" column="25" />
         <mark key="]" line="442" column="36" />
@@ -502,24 +502,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="0" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Menu.java" />
-      <jump line="63" column="54" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/statediagram/StateDiagram.java" />
-      <jump line="58" column="26" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/statediagram/StateDiagram.java" />
-      <jump line="59" column="0" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/statediagram/StateDiagram.java" />
-      <jump line="82" column="0" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/statediagram/StateDiagram.java" />
-      <jump line="65" column="0" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/statediagram/StateDiagram.java" />
-      <jump line="77" column="0" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/statediagram/StateDiagram.java" />
-      <jump line="71" column="0" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/statediagram/StateDiagram.java" />
-      <jump line="80" column="30" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/statediagram/StateDiagram.java" />
-      <jump line="75" column="0" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/statediagram/StateDiagram.java" />
-      <jump line="72" column="0" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/statediagram/StateDiagram.java" />
-      <jump line="69" column="0" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/statediagram/StateDiagram.java" />
-      <jump line="489" column="23" filename="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" />
-      <jump line="270" column="8" filename="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" />
-      <jump line="356" column="12" filename="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" />
-      <jump line="133" column="7" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/statediagram/StateDiagram.java" />
-      <jump line="66" column="12" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/statediagram/StateDiagram.java" />
-      <jump line="67" column="12" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/statediagram/StateDiagram.java" />
       <jump line="70" column="35" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/statediagram/StateDiagram.java" />
       <jump line="86" column="33" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/statediagram/StateDiagram.java" />
       <jump line="116" column="49" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/statediagram/StateDiagram.java" />
@@ -599,9 +581,27 @@
       <jump line="1190" column="46" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.6.0/o4glrt-1.6.0.jar!/com/progress/open4gl/dynamicapi/ResultSet.class" />
       <jump line="1209" column="28" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.6.0/o4glrt-1.6.0.jar!/com/progress/open4gl/dynamicapi/ResultSet.class" />
       <jump line="1227" column="28" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.6.0/o4glrt-1.6.0.jar!/com/progress/open4gl/dynamicapi/ResultSet.class" />
-      <jump line="42" column="22" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.6.0/o4glrt-1.6.0.jar!/com/progress/open4gl/dynamicapi/ResultSet.class" />
+      <jump line="17" column="16" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.6.0/o4glrt-1.6.0.jar!/com/progress/open4gl/dynamicapi/StreamReader.class" />
+      <jump line="89" column="21" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.6.0/o4glrt-1.6.0.jar!/com/progress/open4gl/dynamicapi/StreamReader.class" />
+      <jump line="96" column="25" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.6.0/o4glrt-1.6.0.jar!/com/progress/open4gl/dynamicapi/StreamReader.class" />
+      <jump line="101" column="39" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.6.0/o4glrt-1.6.0.jar!/com/progress/open4gl/dynamicapi/StreamReader.class" />
+      <jump line="113" column="25" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.6.0/o4glrt-1.6.0.jar!/com/progress/open4gl/dynamicapi/StreamReader.class" />
+      <jump line="130" column="25" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.6.0/o4glrt-1.6.0.jar!/com/progress/open4gl/dynamicapi/StreamReader.class" />
+      <jump line="178" column="25" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.6.0/o4glrt-1.6.0.jar!/com/progress/open4gl/dynamicapi/StreamReader.class" />
+      <jump line="209" column="39" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.6.0/o4glrt-1.6.0.jar!/com/progress/open4gl/dynamicapi/StreamReader.class" />
+      <jump line="298" column="20" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.6.0/o4glrt-1.6.0.jar!/com/progress/open4gl/dynamicapi/StreamReader.class" />
+      <jump line="311" column="16" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.6.0/o4glrt-1.6.0.jar!/com/progress/open4gl/dynamicapi/StreamReader.class" />
+      <jump line="306" column="15" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.6.0/o4glrt-1.6.0.jar!/com/progress/open4gl/dynamicapi/StreamReader.class" />
+      <jump line="330" column="12" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.6.0/o4glrt-1.6.0.jar!/com/progress/open4gl/dynamicapi/StreamReader.class" />
+      <jump line="329" column="12" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.6.0/o4glrt-1.6.0.jar!/com/progress/open4gl/dynamicapi/StreamReader.class" />
+      <jump line="328" column="8" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.6.0/o4glrt-1.6.0.jar!/com/progress/open4gl/dynamicapi/StreamReader.class" />
+      <jump line="312" column="20" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.6.0/o4glrt-1.6.0.jar!/com/progress/open4gl/dynamicapi/StreamReader.class" />
+      <jump line="315" column="19" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.6.0/o4glrt-1.6.0.jar!/com/progress/open4gl/dynamicapi/StreamReader.class" />
+      <jump line="320" column="35" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.6.0/o4glrt-1.6.0.jar!/com/progress/open4gl/dynamicapi/StreamReader.class" />
       <jump line="73" column="13" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.6.0/o4glrt-1.6.0.jar!/com/progress/open4gl/dynamicapi/ResultSet.class" />
       <jump line="190" column="21" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.6.0/o4glrt-1.6.0.jar!/com/progress/open4gl/dynamicapi/ResultSet.class" />
+      <jump line="41" column="13" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.6.0/o4glrt-1.6.0.jar!/com/progress/open4gl/dynamicapi/ResultSet.class" />
+      <jump line="42" column="22" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.6.0/o4glrt-1.6.0.jar!/com/progress/open4gl/dynamicapi/ResultSet.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -874,8 +874,6 @@
     </search>
     <history>
       <history-search>
-        <entry>{</entry>
-        <entry>)</entry>
         <entry>);</entry>
         <entry>State</entry>
         <entry encoding="base64">XDxwcmV2Q2FsbGVkXD4=</entry>
@@ -893,6 +891,8 @@
         <entry>sb</entry>
         <entry encoding="base64">XDxtZXRhRGF0YVw+</entry>
         <entry encoding="base64">XDxjdXJyZW50Q29sXD4=</entry>
+        <entry encoding="base64">XDxjb2xMZW5ndGhcPg==</entry>
+        <entry encoding="base64">XDx0aGlzXD4=</entry>
         <entry encoding="base64">XDx0b0phdmFcPg==</entry>
       </history-search>
       <history-cmd>
