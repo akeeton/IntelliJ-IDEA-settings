@@ -25,7 +25,7 @@
         <mark key="." line="22" column="52" />
         <mark key="^" line="22" column="52" />
       </file>
-      <file name="/a.dummy" timestamp="1551710065580">
+      <file name="/a.dummy" timestamp="1551811252135">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/Open4GLException.java" timestamp="1551108701830">
@@ -353,6 +353,13 @@
       <file name="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.5.0/o4glrt-1.5.0.jar!/com/progress/open4gl/dynamicapi/ParameterSet.class" timestamp="1551220075757">
         <mark key="'" line="89" column="20" />
       </file>
+      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/extension/java/sql/ResultSetDecorator.java" timestamp="1551811552444">
+        <mark key="'" line="77" column="25" />
+        <mark key="[" line="20" column="32" />
+        <mark key="]" line="20" column="32" />
+        <mark key="^" line="20" column="15" />
+        <mark key="." line="20" column="32" />
+      </file>
       <file name="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Robot.java" timestamp="1551277781838">
         <mark key="'" line="46" column="22" />
       </file>
@@ -393,9 +400,6 @@
         <mark key="]" line="27" column="5" />
         <mark key="." line="24" column="0" />
         <mark key="^" line="21" column="55" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Control.java" timestamp="1551712034436">
-        <mark key="'" line="81" column="39" />
       </file>
       <file name="$USER_HOME$/dev/scanner/openjdk-logging/src/main/java/com/dandh/scanner/java/util/logging/LoggingMXBean.java" timestamp="1551123701781">
         <mark key="'" line="41" column="42" />
@@ -512,7 +516,7 @@
         <mark key="^" line="34" column="60" />
         <mark key="." line="34" column="60" />
       </file>
-      <file name="/fragment.java" timestamp="1551810084678">
+      <file name="/fragment.java" timestamp="1551811226361">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="26" />
         <mark key="^" line="3" column="26" />
@@ -520,22 +524,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="49" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/statediagram/StateDiagram.java" />
-      <jump line="127" column="0" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/statediagram/StateDiagram.java" />
-      <jump line="117" column="0" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/statediagram/StateDiagram.java" />
-      <jump line="115" column="0" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/statediagram/StateDiagram.java" />
-      <jump line="119" column="0" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/statediagram/StateDiagram.java" />
-      <jump line="123" column="0" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/statediagram/StateDiagram.java" />
-      <jump line="62" column="34" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/statediagram/StateDiagram.java" />
-      <jump line="98" column="18" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/statediagram/StateDiagram.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/statediagram/StateDiagram.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/statediagram/StateDiagram.java" />
-      <jump line="6" column="0" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/statediagram/StateDiagram.java" />
-      <jump line="14" column="0" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/statediagram/StateDiagram.java" />
-      <jump line="18" column="98" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/statediagram/StateDiagram.java" />
-      <jump line="654" column="0" filename="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" />
-      <jump line="40" column="30" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.6.0/o4glrt-1.6.0.jar!/com/progress/open4gl/dynamicapi/ResultSet.class" />
-      <jump line="75" column="13" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.6.0/o4glrt-1.6.0.jar!/com/progress/open4gl/dynamicapi/ResultSet.class" />
       <jump line="61" column="61" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/dynamicapi/Param.java" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/dynamicapi/Param.java" />
       <jump line="82" column="44" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/dynamicapi/Param.java" />
@@ -620,10 +608,26 @@
       <jump line="42" column="22" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.6.0/o4glrt-1.6.0.jar!/com/progress/open4gl/dynamicapi/ResultSet.class" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/javaproxy/OpenAppObject.java" />
       <jump line="170" column="12" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/javaproxy/OpenAppObject.java" />
+      <jump line="138" column="8" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/extension/java/sql/ResultSetDecorator.java" />
+      <jump line="163" column="8" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/extension/java/sql/ResultSetDecorator.java" />
+      <jump line="72" column="8" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/extension/java/sql/ResultSetDecorator.java" />
+      <jump line="97" column="8" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/extension/java/sql/ResultSetDecorator.java" />
+      <jump line="551" column="59" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/extension/java/sql/ResultSetDecorator.java" />
+      <jump line="554" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/extension/java/sql/ResultSetDecorator.java" />
+      <jump line="558" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/extension/java/sql/ResultSetDecorator.java" />
+      <jump line="562" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/extension/java/sql/ResultSetDecorator.java" />
+      <jump line="566" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/extension/java/sql/ResultSetDecorator.java" />
+      <jump line="570" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/extension/java/sql/ResultSetDecorator.java" />
+      <jump line="574" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/extension/java/sql/ResultSetDecorator.java" />
+      <jump line="578" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/extension/java/sql/ResultSetDecorator.java" />
+      <jump line="582" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/extension/java/sql/ResultSetDecorator.java" />
+      <jump line="586" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/extension/java/sql/ResultSetDecorator.java" />
+      <jump line="486" column="38" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/extension/java/sql/ResultSetDecorator.java" />
+      <jump line="73" column="25" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/extension/java/sql/ResultSetDecorator.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>callback.</text>
+        <text encoding="base64">UmVzdWx0U2V0IA==</text>
       </register>
       <register name="i" type="4">
         <text>pu</text>
@@ -725,16 +729,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>callback.</text>
+        <text encoding="base64">UmVzdWx0U2V0IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b0phdmFcPg==</text>
+        <text encoding="base64">XDxEZXByZWNhdGVkXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzYi5hcHBlbmQoJ1snKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5kYW5kaC5zY2FubmVyLmNhbGxiYWNrLnByb2dyZXNzcHJveHkub3BlbjRnbC5qYXZhcHJveHkuUnVuUHJvY0NhbGxiYWNrOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -754,22 +758,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5kYW5kaC5zY2FubmVyLmNhbGxiYWNrLnByb2dyZXNzcHJveHkub3BlbjRnbC5qYXZhcHJveHkuUnVuUHJvY0NhbGxiYWNrOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBVUkwgZ2V0VVJMKGludCBjb2x1bW5JbmRleCkgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIHJlc3VsdFNldC5nZXRVUkwoY29sdW1uSW5kZXgpOwogICAgfQoKICAgIHB1YmxpYyBVUkwgZ2V0VVJMKFN0cmluZyBjb2x1bW5OYW1lKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gcmVzdWx0U2V0LmdldFVSTChjb2x1bW5OYW1lKTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCB1cGRhdGVSZWYoaW50IGNvbHVtbkluZGV4LCBSZWYgeCkgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgcmVzdWx0U2V0LnVwZGF0ZVJlZihjb2x1bW5JbmRleCwgeCk7CiAgICB9CgogICAgcHVibGljIHZvaWQgdXBkYXRlUmVmKFN0cmluZyBjb2x1bW5OYW1lLCBSZWYgeCkgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgcmVzdWx0U2V0LnVwZGF0ZVJlZihjb2x1bW5OYW1lLCB4KTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCB1cGRhdGVCbG9iKGludCBjb2x1bW5JbmRleCwgQmxvYiB4KSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXN1bHRTZXQudXBkYXRlQmxvYihjb2x1bW5JbmRleCwgeCk7CiAgICB9CgogICAgcHVibGljIHZvaWQgdXBkYXRlQmxvYihTdHJpbmcgY29sdW1uTmFtZSwgQmxvYiB4KSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXN1bHRTZXQudXBkYXRlQmxvYihjb2x1bW5OYW1lLCB4KTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCB1cGRhdGVDbG9iKGludCBjb2x1bW5JbmRleCwgQ2xvYiB4KSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXN1bHRTZXQudXBkYXRlQ2xvYihjb2x1bW5JbmRleCwgeCk7CiAgICB9CgogICAgcHVibGljIHZvaWQgdXBkYXRlQ2xvYihTdHJpbmcgY29sdW1uTmFtZSwgQ2xvYiB4KSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXN1bHRTZXQudXBkYXRlQ2xvYihjb2x1bW5OYW1lLCB4KTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCB1cGRhdGVBcnJheShpbnQgY29sdW1uSW5kZXgsIEFycmF5IHgpIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgIHJlc3VsdFNldC51cGRhdGVBcnJheShjb2x1bW5JbmRleCwgeCk7CiAgICB9CgogICAgcHVibGljIHZvaWQgdXBkYXRlQXJyYXkoU3RyaW5nIGNvbHVtbk5hbWUsIEFycmF5IHgpIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgIHJlc3VsdFNldC51cGRhdGVBcnJheShjb2x1bW5OYW1lLCB4KTsKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbHVlID0gIlJlc3VsdFNldCI7CiAgICAgICAgICAgICAgICBpZiAoZmFsc2UpIHsKICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgU1FMRXhjZXB0aW9uKCk7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5kYW5kaC5zY2FubmVyLmNhbGxiYWNrLnByb2dyZXNzcHJveHkub3BlbjRnbC5qYXZhcHJveHkuUnVuUHJvY0NhbGxiYWNrOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgUnVuVGltZVByb3BlcnRpZXMudHJhY2VPbigzKTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5kYW5kaC5zY2FubmVyLmNhbGxiYWNrLnByb2dyZXNzcHJveHkub3BlbjRnbC5qYXZhcHJveHkuUnVuUHJvY0NhbGxiYWNrOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbHVlID0gIlJlc3VsdFNldCI7CiAgICAgICAgICAgICAgICBpZiAoZmFsc2UpIHsKICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgU1FMRXhjZXB0aW9uKCk7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgUnVuVGltZVByb3BlcnRpZXMudHJhY2VPbigzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgUnVuVGltZVByb3BlcnRpZXMudHJhY2VPZmYoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -875,16 +879,16 @@
         <text>setInt64Parameter(int var1, Long var2, int var3</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRTZXQuCg==</text>
+        <text encoding="base64">ICAgICAgUnVuVGltZVByb3BlcnRpZXMudHJhY2VPZmYoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0b0phdmFcPg==</last-search>
+      <last-search encoding="base64">XDxEZXByZWNhdGVkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b0phdmFcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxEZXByZWNhdGVkXD4=</last-pattern>
       <last-replace>To</last-replace>
       <last-substitute>From</last-substitute>
       <last-dir>1</last-dir>
@@ -892,7 +896,6 @@
     </search>
     <history>
       <history-search>
-        <entry>);</entry>
         <entry>State</entry>
         <entry encoding="base64">XDxwcmV2Q2FsbGVkXD4=</entry>
         <entry encoding="base64">XDxzdGFydEluaXRpYWxUcmFuc2l0aW9uXD4=</entry>
@@ -912,6 +915,7 @@
         <entry encoding="base64">XDxjb2xMZW5ndGhcPg==</entry>
         <entry encoding="base64">XDx0aGlzXD4=</entry>
         <entry encoding="base64">XDx0b0phdmFcPg==</entry>
+        <entry encoding="base64">XDxEZXByZWNhdGVkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>help dd</entry>
