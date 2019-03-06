@@ -6,7 +6,12 @@
       <mark key="X" line="41" column="86" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/dynamicapi/SessionPool.java" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/dynamicapi/ResultSet.java" timestamp="1551885183305" />
+      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/dynamicapi/ResultSet.java" timestamp="1551890348930">
+        <mark key="'" line="1022" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/ISDOFactory.java" timestamp="1550675305209">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -32,12 +37,12 @@
         <mark key="^" line="25" column="19" />
         <mark key="." line="25" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/statediagram/ResultSetStateDiagramDecorator.java" timestamp="1551885756896">
-        <mark key="'" line="30" column="14" />
-        <mark key="[" line="176" column="52" />
-        <mark key="]" line="177" column="15" />
-        <mark key="^" line="177" column="15" />
-        <mark key="." line="177" column="15" />
+      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/statediagram/ResultSetStateDiagramDecorator.java" timestamp="1551890261713">
+        <mark key="'" line="31" column="14" />
+        <mark key="[" line="178" column="0" />
+        <mark key="]" line="178" column="0" />
+        <mark key="^" line="177" column="58" />
+        <mark key="." line="178" column="0" />
       </file>
       <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/IntHolder.java" timestamp="1550864524048">
         <mark key="[" line="22" column="49" />
@@ -487,8 +492,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="394" column="0" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Document.java" />
-      <jump line="397" column="0" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Document.java" />
       <jump line="641" column="11" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Document.java" />
       <jump line="552" column="114" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Document.java" />
       <jump line="562" column="4" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Document.java" />
@@ -587,10 +590,12 @@
       <jump line="643" column="24" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/dynamicapi/ResultSet.java" />
       <jump line="28" column="22" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/statediagram/ResultSetStateDiagramDecorator.java" />
       <jump line="30" column="14" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/statediagram/ResultSetStateDiagramDecorator.java" />
+      <jump line="21" column="20" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/dynamicapi/ResultSet.java" />
+      <jump line="1026" column="0" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/dynamicapi/ResultSet.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.toString();</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIHRvU3RyaW5nKGNvbS5wcm9ncmVzcy5vcGVuNGdsLmR5bmFtaWNhcGkuUmVzdWx0U2V0IHByb2dyZXNzUmVzdWx0U2V0KSB7CiAgICAgICAgcmV0dXJuICJSZXN1bHRTZXRAIiArIHByb2dyZXNzUmVzdWx0U2V0Lmhhc2hDb2RlKCk7CiAgICB9Cgo=</text>
       </register>
       <register name="i" type="4">
         <text>pu</text>
@@ -692,16 +697,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.toString();</text>
+        <text>&quot;ResultSet@&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>Res</text>
+        <text>toString</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgU1FMRXhjZXB0aW9uKCJNZXRob2Qgbm90IGltcGxlbWVudGVkIik7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIlJlc3VsdFNldFRvU3RyaW5nRGVjb3JhdG9yeyIgKwogICAgICAgICAgICAgICAicmVzdWx0U2V0PSIgKyByZXN1bHRTZXQgKwogICAgICAgICAgICAgICAifSAiICsgc3VwZXIudG9TdHJpbmcoKTs=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIHRvU3RyaW5nKGNvbS5wcm9ncmVzcy5vcGVuNGdsLmR5bmFtaWNhcGkuUmVzdWx0U2V0IHByb2dyZXNzUmVzdWx0U2V0KSB7CiAgICAgICAgcmV0dXJuICJSZXN1bHRTZXRAIiArIHByb2dyZXNzUmVzdWx0U2V0Lmhhc2hDb2RlKCk7CiAgICB9Cgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -720,32 +725,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>com.progress.open4gl.dynamicapi.</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgdG9TdHJpbmcoKSB7CiAgICAgICAgcmV0dXJuIHRvU3RyaW5nKHJlY2VpdmVyKTsKICAgIH0KCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuc3FsLlNRTEV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hcHBlbmQocmVzdWx0U2V0Lmhhc2hDb2RlKCkpCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5wcm9ncmVzcy5vcGVuNGdsLmR5bmFtaWNhcGkuUmVzdWx0U2V0Owo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIlJlc3VsdFNldFRvU3RyaW5nRGVjb3JhdG9yeyIgKwogICAgICAgICAgICAgICAicmVzdWx0U2V0PSIgKyByZXN1bHRTZXQgKwogICAgICAgICAgICAgICAifSAiICsgc3VwZXIudG9TdHJpbmcoKTs=</text>
       </register>
       <register name="5" type="4">
-        <text>try {
-            Field valueField = receiver.getClass().getDeclaredField(&quot;value&quot;);
-            valueField.setAccessible(true);
-            Object  = valueField.get(receiver);
-            value = String.valueOf();
-        } catch (NoSuchFieldException e) {
-            logger.severe(e.toString());
-        } catch (IllegalAccessException e) {
-            logger.severe(e.toString());
-        }</text>
+        <text>com.progress.open4gl.dynamicapi.</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsdWVGaWVsZC5nZXQocmVjZWl2ZXIpCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuc3FsLlNRTEV4Y2VwdGlvbjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gawo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5wcm9ncmVzcy5vcGVuNGdsLmR5bmFtaWNhcGkuUmVzdWx0U2V0Owo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -844,23 +840,32 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIlJlc3VsdFNldEAiICsgcmVjZWl2ZXIuaGFzaENvZGUoKTsK</text>
+      <register name="8" type="4">
+        <text>try {
+            Field valueField = receiver.getClass().getDeclaredField(&quot;value&quot;);
+            valueField.setAccessible(true);
+            Object  = valueField.get(receiver);
+            value = String.valueOf();
+        } catch (NoSuchFieldException e) {
+            logger.severe(e.toString());
+        } catch (IllegalAccessException e) {
+            logger.severe(e.toString());
+        }</text>
       </register>
       <register name="x" type="4">
         <text>setInt64Parameter(int var1, Long var2, int var3</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0c2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsdWVGaWVsZC5nZXQocmVjZWl2ZXIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Res</last-search>
+      <last-search>toString</last-search>
       <last-offset />
-      <last-pattern>Res</last-pattern>
+      <last-pattern>toString</last-pattern>
       <last-replace>To</last-replace>
       <last-substitute>From</last-substitute>
       <last-dir>1</last-dir>
@@ -868,7 +873,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0b0phdmFcPg==</entry>
         <entry encoding="base64">XDxEZXByZWNhdGVkXD4=</entry>
         <entry encoding="base64">XDxQYXJhbUFycmF5XD4=</entry>
         <entry>index</entry>
@@ -888,6 +892,7 @@
         <entry encoding="base64">XDxnZXRPYmplY3RcPg==</entry>
         <entry encoding="base64">XDxyZXN1bHRTZXRcPg==</entry>
         <entry>Res</entry>
+        <entry>toString</entry>
       </history-search>
       <history-cmd>
         <entry>help dd</entry>
