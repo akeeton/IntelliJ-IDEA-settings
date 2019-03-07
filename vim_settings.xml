@@ -127,6 +127,7 @@
         <mark key="." line="63" column="99" />
         <mark key="^" line="63" column="99" />
       </file>
+      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/ui/UIFrame.java" timestamp="1551994576039" />
       <file name="$USER_HOME$/dev/scanner/pom.xml" timestamp="1551209512000">
         <mark key="[" line="56" column="21" />
         <mark key="]" line="56" column="23" />
@@ -330,11 +331,11 @@
         <mark key="." line="107" column="29" />
         <mark key="^" line="107" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/sequencediagram/PlantUmlSequenceDiagram.java" timestamp="1551993370101">
-        <mark key="[" line="44" column="44" />
-        <mark key="]" line="44" column="45" />
-        <mark key="." line="44" column="45" />
-        <mark key="^" line="40" column="48" />
+      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/sequencediagram/PlantUmlSequenceDiagram.java" timestamp="1551994555775">
+        <mark key="[" line="66" column="66" />
+        <mark key="]" line="60" column="39" />
+        <mark key="." line="60" column="39" />
+        <mark key="^" line="60" column="39" />
       </file>
       <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/dynamicapi/MetaDataBase.java" timestamp="1550605688389">
         <mark key="[" line="25" column="15" />
@@ -348,6 +349,18 @@
         <mark key="]" line="219" column="25" />
         <mark key="^" line="219" column="25" />
         <mark key="." line="219" column="25" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/sequencediagram/Transition.java" timestamp="1551994505122">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="70" column="5" />
+        <mark key="." line="63" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/gui/common/ControlGuiP.java" timestamp="1551974467448">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="24" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/BeltPrinter.java" timestamp="1551449703944">
         <mark key="[" line="258" column="25" />
@@ -614,7 +627,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="547" column="0" filename="$USER_HOME$/dev/scanner/RFRecvAS/src/main/java/com/dandh/scanner/startup/receive/ReceiveStart.java" />
       <jump line="516" column="57" filename="$USER_HOME$/dev/scanner/RFIcAS/src/main/java/com/dandh/scanner/startup/ic/IcStart.java" />
       <jump line="514" column="0" filename="$USER_HOME$/dev/scanner/RFIcAS/src/main/java/com/dandh/scanner/startup/ic/IcStart.java" />
       <jump line="578" column="0" filename="$USER_HOME$/dev/scanner/RFIcAS/src/main/java/com/dandh/scanner/startup/ic/IcStart.java" />
@@ -714,10 +726,11 @@
       <jump line="27" column="56" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/common/Arguments.java" />
       <jump line="28" column="65" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/common/Arguments.java" />
       <jump line="178" column="12" filename="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/gui/common/SignOnFrameP.java" />
+      <jump line="59" column="0" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/sequencediagram/Transition.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>Robot.</text>
       </register>
       <register name="i" type="4">
         <text>pu</text>
@@ -819,16 +832,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>Robot.</text>
       </register>
       <register name="/" type="4">
         <text>F1</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRDdXJyZW50VHJhbnNpdGlvbigpLmFkZFRyaWdnZXIoIjxpbml0PiIpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgICAgICAgQnVmZmVyZWRJbWFnZSBmcm9tRnJhbWVTY3JlZW5zaG90Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICB2b2lkIGFkZEV4aXRUcmlnZ2VyKCk7Cg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBzZXRGcmFtZVNjcmVlbnNob3RzKAogICAgICAgICAgICBCdWZmZXJlZEltYWdlIGZyb21GcmFtZVNjcmVlbnNob3QsCiAgICAgICAgICAgIEJ1ZmZlcmVkSW1hZ2UgdG9GcmFtZVNjcmVlbnNob3QKICAgICkgewogICAgICAgIHRoaXMuZnJvbUZyYW1lU2NyZWVuc2hvdCA9IGZyb21GcmFtZVNjcmVlbnNob3Q7CiAgICAgICAgdGhpcy50b0ZyYW1lU2NyZWVuc2hvdCAgID0gdG9GcmFtZVNjcmVlbnNob3Q7CiAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -851,19 +864,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBhZGRFeGl0VHJpZ2dlcigpIHsKICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldEZyb21GcmFtZVNjcmVlbnNob3QoQnVmZmVyZWRJbWFnZSBmcm9tRnJhbWVTY3JlZW5zaG90KSB7CiAgICAgICAgdGhpcy5mcm9tRnJhbWVTY3JlZW5zaG90ID0gZnJvbUZyYW1lU2NyZWVuc2hvdDsKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgICB2b2lkIGFkZEV4aXRUcmlnZ2VyKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkgICAgICAgIFBpY2tTdGFydC5nZXRzZQo=</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBhZGRFeGl0VHJpZ2dlcigpIHsKICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAudHJpbSgpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -963,13 +976,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYgKGFyZ3VtZW50cy5yZWNvcmRTdGF0ZURpYWdyYW0oKSkgewogICAgICAgICAgICBzY2FubmVyQXBwLnNldFN0YXRlRGlhZ3JhbShuZXcgUGxhbnRVbWxTdGF0ZURpYWdyYW0oKSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">CQkgICAgICAgIAo=</text>
       </register>
       <register name="x" type="4">
         <text>setInt64Parameter(int var1, Long var2, int var3</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkgICAgICAgIFBpY2tTdGFydC5nZXRzZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
