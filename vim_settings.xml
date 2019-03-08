@@ -326,6 +326,7 @@
         <mark key="^" line="5" column="55" />
         <mark key="." line="5" column="55" />
       </file>
+      <file name="$USER_HOME$/Downloads/jdk11-source-code/src/java.desktop/unix/native/common/awt/awt_util.h" timestamp="1552070448368" />
       <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/dynamicapi/ParameterSet.java" timestamp="1550778169481">
         <mark key="[" line="21" column="45" />
         <mark key="]" line="22" column="3" />
@@ -612,6 +613,7 @@
         <mark key="^" line="282" column="7" />
         <mark key="." line="282" column="7" />
       </file>
+      <file name="$USER_HOME$/Downloads/jdk11-source-code/src/java.desktop/share/native/include/jawt.h" timestamp="1552070631147" />
       <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/SystemErrorException.java" timestamp="1550772950690">
         <mark key="[" line="17" column="43" />
         <mark key="]" line="17" column="43" />
@@ -1012,7 +1014,7 @@
       <last-replace>ScreenCapture</last-replace>
       <last-substitute>Screenshot</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
