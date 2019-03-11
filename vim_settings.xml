@@ -649,19 +649,11 @@
         <mark key="^" line="3" column="26" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/jdk11-source-code/src/java.base/share/classes/java/lang/Integer.java" timestamp="1552310055530">
+        <mark key="'" line="1027" column="16" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="6" filename="$USER_HOME$/AppData/Local/Temp/DatatypeConverter.java" />
-      <jump line="332" column="28" filename="$USER_HOME$/AppData/Local/Temp/DatatypeConverter.java" />
-      <jump line="441" column="26" filename="$USER_HOME$/AppData/Local/Temp/DatatypeConverter.java" />
-      <jump line="444" column="25" filename="$USER_HOME$/AppData/Local/Temp/DatatypeConverter.java" />
-      <jump line="446" column="28" filename="$USER_HOME$/AppData/Local/Temp/DatatypeConverter.java" />
-      <jump line="458" column="25" filename="$USER_HOME$/AppData/Local/Temp/DatatypeConverter.java" />
-      <jump line="460" column="28" filename="$USER_HOME$/AppData/Local/Temp/DatatypeConverter.java" />
-      <jump line="471" column="25" filename="$USER_HOME$/AppData/Local/Temp/DatatypeConverter.java" />
-      <jump line="473" column="28" filename="$USER_HOME$/AppData/Local/Temp/DatatypeConverter.java" />
-      <jump line="484" column="25" filename="$USER_HOME$/AppData/Local/Temp/DatatypeConverter.java" />
-      <jump line="486" column="28" filename="$USER_HOME$/AppData/Local/Temp/DatatypeConverter.java" />
       <jump line="497" column="25" filename="$USER_HOME$/AppData/Local/Temp/DatatypeConverter.java" />
       <jump line="499" column="28" filename="$USER_HOME$/AppData/Local/Temp/DatatypeConverter.java" />
       <jump line="511" column="25" filename="$USER_HOME$/AppData/Local/Temp/DatatypeConverter.java" />
@@ -751,6 +743,17 @@
       <jump line="118" column="10" filename="$USER_HOME$/Downloads/jdk11-source-code/src/java.desktop/share/classes/java/awt/Container.java" />
       <jump line="224" column="16" filename="$USER_HOME$/Downloads/jdk11-source-code/src/java.desktop/share/classes/java/awt/Container.java" />
       <jump line="253" column="37" filename="$USER_HOME$/Downloads/jdk11-source-code/src/java.desktop/share/classes/java/awt/Container.java" />
+      <jump line="385" column="4" filename="$USER_HOME$/Downloads/jdk11-source-code/src/java.base/share/classes/java/lang/Integer.java" />
+      <jump line="999" column="29" filename="$USER_HOME$/Downloads/jdk11-source-code/src/java.base/share/classes/java/lang/Integer.java" />
+      <jump line="1018" column="12" filename="$USER_HOME$/Downloads/jdk11-source-code/src/java.base/share/classes/java/lang/Integer.java" />
+      <jump line="1047" column="42" filename="$USER_HOME$/Downloads/jdk11-source-code/src/java.base/share/classes/java/lang/Integer.java" />
+      <jump line="1048" column="44" filename="$USER_HOME$/Downloads/jdk11-source-code/src/java.base/share/classes/java/lang/Integer.java" />
+      <jump line="608" column="18" filename="$USER_HOME$/Downloads/jdk11-source-code/src/java.base/share/classes/java/lang/Integer.java" />
+      <jump line="991" column="51" filename="$USER_HOME$/Downloads/jdk11-source-code/src/java.base/share/classes/java/lang/Integer.java" />
+      <jump line="996" column="25" filename="$USER_HOME$/Downloads/jdk11-source-code/src/java.base/share/classes/java/lang/Integer.java" />
+      <jump line="1005" column="55" filename="$USER_HOME$/Downloads/jdk11-source-code/src/java.base/share/classes/java/lang/Integer.java" />
+      <jump line="1024" column="19" filename="$USER_HOME$/Downloads/jdk11-source-code/src/java.base/share/classes/java/lang/Integer.java" />
+      <jump line="1027" column="16" filename="$USER_HOME$/Downloads/jdk11-source-code/src/java.base/share/classes/java/lang/Integer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -859,7 +862,7 @@
         <text>scan</text>
       </register>
       <register name="/" type="4">
-        <text>native</text>
+        <text encoding="base64">XDxJbnRlZ2VyQ2FjaGVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIEZpbGUgZmlsZSA9IG5ldyBGaWxlKGRpcmVjdG9yeSArIEZpbGUuc2VwYXJhdG9yICsgaSArICIucG5nIik7Cg==</text>
@@ -1013,20 +1016,16 @@
       </register>
     </registers>
     <search>
-      <last-search>native</last-search>
+      <last-search encoding="base64">XDxJbnRlZ2VyQ2FjaGVcPg==</last-search>
       <last-offset />
-      <last-pattern>native</last-pattern>
+      <last-pattern encoding="base64">XDxJbnRlZ2VyQ2FjaGVcPg==</last-pattern>
       <last-replace>ScreenCapture</last-replace>
       <last-substitute>Screenshot</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdGF0ZVw+</entry>
-        <entry>F1</entry>
-        <entry>show</entry>
-        <entry encoding="base64">XDxzY2FuVGZcPg==</entry>
         <entry>setActive</entry>
         <entry>from</entry>
         <entry>Screenshot</entry>
@@ -1043,6 +1042,10 @@
         <entry encoding="base64">XDxwcmludEJhc2U2NEJpbmFyeVw+</entry>
         <entry encoding="base64">XDxfcHJpbnRCYXNlNjRCaW5hcnlcPg==</entry>
         <entry>native</entry>
+        <entry>cache</entry>
+        <entry>IntegerCache</entry>
+        <entry encoding="base64">XDxjYWNoZVw+</entry>
+        <entry encoding="base64">XDxJbnRlZ2VyQ2FjaGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
