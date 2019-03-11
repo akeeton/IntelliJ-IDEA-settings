@@ -226,11 +226,11 @@
         <mark key="." line="7" column="10" />
         <mark key="^" line="7" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/android-scanner/RFCommonAS/build.gradle" timestamp="1552081104405">
-        <mark key="[" line="4" column="20" />
-        <mark key="]" line="4" column="22" />
-        <mark key="^" line="4" column="22" />
-        <mark key="." line="4" column="22" />
+      <file name="$USER_HOME$/dev/android-scanner/RFCommonAS/build.gradle" timestamp="1552313620767">
+        <mark key="[" line="7" column="32" />
+        <mark key="]" line="7" column="42" />
+        <mark key="." line="7" column="42" />
+        <mark key="^" line="7" column="42" />
       </file>
       <file name="$USER_HOME$/dev/scanner/RFIcAS/src/main/java/com/dandh/scanner/gui/common/ControlGuiI.java" timestamp="1551974470091">
         <mark key="[" line="16" column="0" />
@@ -373,12 +373,13 @@
         <mark key="." line="83" column="0" />
         <mark key="^" line="15" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/android-scanner/build.gradle" timestamp="1552082670122">
-        <mark key="[" line="26" column="17" />
-        <mark key="]" line="26" column="23" />
-        <mark key="^" line="26" column="23" />
-        <mark key="." line="26" column="23" />
+      <file name="$USER_HOME$/dev/android-scanner/build.gradle" timestamp="1552313369256">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="20" column="7" />
       </file>
+      <file name="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" timestamp="1552314089766" />
       <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/BeltPrinter.java" timestamp="1551449703944">
         <mark key="[" line="258" column="25" />
         <mark key="]" line="263" column="36" />
@@ -582,7 +583,7 @@
         <mark key="." line="167" column="77" />
         <mark key="^" line="167" column="77" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552082677254">
+      <file name="/Dummy.txt" timestamp="1552313336043">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -654,57 +655,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="497" column="25" filename="$USER_HOME$/AppData/Local/Temp/DatatypeConverter.java" />
-      <jump line="499" column="28" filename="$USER_HOME$/AppData/Local/Temp/DatatypeConverter.java" />
-      <jump line="511" column="25" filename="$USER_HOME$/AppData/Local/Temp/DatatypeConverter.java" />
-      <jump line="513" column="28" filename="$USER_HOME$/AppData/Local/Temp/DatatypeConverter.java" />
-      <jump line="524" column="25" filename="$USER_HOME$/AppData/Local/Temp/DatatypeConverter.java" />
-      <jump line="526" column="28" filename="$USER_HOME$/AppData/Local/Temp/DatatypeConverter.java" />
-      <jump line="537" column="25" filename="$USER_HOME$/AppData/Local/Temp/DatatypeConverter.java" />
-      <jump line="539" column="28" filename="$USER_HOME$/AppData/Local/Temp/DatatypeConverter.java" />
-      <jump line="550" column="25" filename="$USER_HOME$/AppData/Local/Temp/DatatypeConverter.java" />
-      <jump line="552" column="28" filename="$USER_HOME$/AppData/Local/Temp/DatatypeConverter.java" />
-      <jump line="563" column="25" filename="$USER_HOME$/AppData/Local/Temp/DatatypeConverter.java" />
-      <jump line="565" column="28" filename="$USER_HOME$/AppData/Local/Temp/DatatypeConverter.java" />
-      <jump line="580" column="25" filename="$USER_HOME$/AppData/Local/Temp/DatatypeConverter.java" />
-      <jump line="583" column="28" filename="$USER_HOME$/AppData/Local/Temp/DatatypeConverter.java" />
-      <jump line="595" column="25" filename="$USER_HOME$/AppData/Local/Temp/DatatypeConverter.java" />
-      <jump line="597" column="28" filename="$USER_HOME$/AppData/Local/Temp/DatatypeConverter.java" />
-      <jump line="623" column="25" filename="$USER_HOME$/AppData/Local/Temp/DatatypeConverter.java" />
-      <jump line="609" column="25" filename="$USER_HOME$/AppData/Local/Temp/DatatypeConverter.java" />
-      <jump line="611" column="28" filename="$USER_HOME$/AppData/Local/Temp/DatatypeConverter.java" />
-      <jump line="45" column="20" filename="$USER_HOME$/AppData/Local/Temp/DatatypeConverterInterface.java" />
-      <jump line="46" column="1" filename="$USER_HOME$/AppData/Local/Temp/DatatypeConverterImpl.java" />
-      <jump line="458" column="18" filename="$USER_HOME$/AppData/Local/Temp/DatatypeConverterInterface.java" />
-      <jump line="689" column="6" filename="$USER_HOME$/AppData/Local/Temp/DatatypeConverterImpl.java" />
-      <jump line="690" column="25" filename="$USER_HOME$/AppData/Local/Temp/DatatypeConverterImpl.java" />
-      <jump line="433" column="15" filename="$USER_HOME$/AppData/Local/Temp/DatatypeConverterImpl.java" />
-      <jump line="584" column="18" filename="$USER_HOME$/AppData/Local/Temp/DatatypeConverterImpl.java" />
-      <jump line="761" column="25" filename="$USER_HOME$/AppData/Local/Temp/DatatypeConverterImpl.java" />
-      <jump line="762" column="15" filename="$USER_HOME$/AppData/Local/Temp/DatatypeConverterImpl.java" />
-      <jump line="765" column="25" filename="$USER_HOME$/AppData/Local/Temp/DatatypeConverterImpl.java" />
-      <jump line="767" column="18" filename="$USER_HOME$/AppData/Local/Temp/DatatypeConverterImpl.java" />
-      <jump line="781" column="22" filename="$USER_HOME$/AppData/Local/Temp/DatatypeConverterImpl.java" />
-      <jump line="823" column="22" filename="$USER_HOME$/AppData/Local/Temp/DatatypeConverterImpl.java" />
-      <jump line="585" column="15" filename="$USER_HOME$/AppData/Local/Temp/DatatypeConverterImpl.java" />
-      <jump line="763" column="4" filename="$USER_HOME$/AppData/Local/Temp/DatatypeConverterImpl.java" />
-      <jump line="45" column="0" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/sequencediagram/Base64.java" />
-      <jump line="23" column="2" filename="$USER_HOME$/AppData/Local/Temp/DatatypeConverterImpl.java" />
-      <jump line="42" column="0" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/sequencediagram/Base64.java" />
-      <jump line="91" column="13" filename="C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/awt/Container.java" />
-      <jump line="115" column="10" filename="C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/awt/Container.java" />
-      <jump line="221" column="16" filename="C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/awt/Container.java" />
-      <jump line="250" column="37" filename="C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/awt/Container.java" />
-      <jump line="274" column="19" filename="C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/awt/Container.java" />
-      <jump line="279" column="57" filename="C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/awt/Container.java" />
-      <jump line="654" column="22" filename="C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/awt/Container.java" />
-      <jump line="660" column="66" filename="C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/awt/Container.java" />
-      <jump line="662" column="15" filename="C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/awt/Container.java" />
-      <jump line="690" column="21" filename="C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/awt/Container.java" />
-      <jump line="691" column="21" filename="C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/awt/Container.java" />
-      <jump line="692" column="37" filename="C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/awt/Container.java" />
-      <jump line="693" column="15" filename="C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/awt/Container.java" />
-      <jump line="694" column="47" filename="C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/awt/Container.java" />
       <jump line="696" column="28" filename="C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/awt/Container.java" />
       <jump line="720" column="33" filename="C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/awt/Container.java" />
       <jump line="802" column="37" filename="C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/awt/Container.java" />
@@ -754,10 +704,61 @@
       <jump line="1005" column="55" filename="$USER_HOME$/Downloads/jdk11-source-code/src/java.base/share/classes/java/lang/Integer.java" />
       <jump line="1024" column="19" filename="$USER_HOME$/Downloads/jdk11-source-code/src/java.base/share/classes/java/lang/Integer.java" />
       <jump line="1027" column="16" filename="$USER_HOME$/Downloads/jdk11-source-code/src/java.base/share/classes/java/lang/Integer.java" />
+      <jump line="130" column="33" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="132" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="135" column="33" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="137" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="140" column="33" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="142" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="145" column="33" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="147" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="150" column="33" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="152" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="180" column="33" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="182" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="187" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="192" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="197" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="202" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="205" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="207" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="210" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="212" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="215" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="217" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="220" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="222" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="225" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="227" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="230" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="232" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="235" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="237" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="240" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="242" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="245" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="247" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="250" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="252" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="255" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="257" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="260" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="262" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="265" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="267" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="270" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="272" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="275" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="277" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="280" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="282" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="285" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="287" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="290" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>scan</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="i" type="4">
         <text>pu</text>
@@ -859,16 +860,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>scan</text>
+        <text>rmi</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxJbnRlZ2VyQ2FjaGVcPg==</text>
+        <text>:</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEZpbGUgZmlsZSA9IG5ldyBGaWxlKGRpcmVjdG9yeSArIEZpbGUuc2VwYXJhdG9yICsgaSArICIucG5nIik7Cg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20udW5rbm93bjpybWk6MS4wLjAnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBSZWZhY3Rvcgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -888,22 +889,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcGxhbnRVbWwgPSBTdHJTdWJzdGl0dXRvci5yZXBsYWNlKHRvUGxhbnRVbWwoKSwgZmlsZW5hbWVWYXJpYWJsZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdCdWZmZXIgcGxhbnRVbWwgPSBuZXcgU3RyaW5nQnVmZmVyKHRvUGxhbnRVbWwoKSk7Cgo=</text>
+        <text encoding="base64">CSAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSAgICB0aHJvdyBuZXcgdW5pbXBsCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGxhbnRVbWwuCg==</text>
+      <register name="7" type="4">
+        <text>cerem-software</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1003,22 +1004,22 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBTaG93IHRoZSBpbWFnZXMgaW4gdGhlIGRpYWdyYW0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>setInt64Parameter(int var1, Long var2, int var3</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIG1hdmVuIHsgdXJsICdmaWxlOi8vQzovVXNlcnMvQUtlZXRvbi9kZXYvYW5kcm9pZC1zY2FubmVyL2xpYicgfQovLyAgICAgICAgbWF2ZW4geyB1cmwgJy4vbGliJyB9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxJbnRlZ2VyQ2FjaGVcPg==</last-search>
+      <last-search>:</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxJbnRlZ2VyQ2FjaGVcPg==</last-pattern>
+      <last-pattern>:</last-pattern>
       <last-replace>ScreenCapture</last-replace>
       <last-substitute>Screenshot</last-substitute>
       <last-dir>1</last-dir>
@@ -1026,8 +1027,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setActive</entry>
-        <entry>from</entry>
         <entry>Screenshot</entry>
         <entry encoding="base64">XDxmcm9tRnJhbWVcPg==</entry>
         <entry>since</entry>
@@ -1046,6 +1045,8 @@
         <entry>IntegerCache</entry>
         <entry encoding="base64">XDxjYWNoZVw+</entry>
         <entry encoding="base64">XDxJbnRlZ2VyQ2FjaGVcPg==</entry>
+        <entry>lib</entry>
+        <entry>:</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -1065,8 +1066,8 @@
         <entry>noh</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL2Zyb20vdG8=</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>%s/Screenshot/ScreenCapture/g</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
