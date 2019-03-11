@@ -130,7 +130,7 @@
         <mark key="." line="63" column="99" />
         <mark key="^" line="63" column="99" />
       </file>
-      <file name="$USER_HOME$/dev/scanner/pom.xml" timestamp="1551209512000">
+      <file name="$USER_HOME$/dev/scanner/pom.xml" timestamp="1552314768482">
         <mark key="[" line="56" column="21" />
         <mark key="]" line="56" column="23" />
         <mark key="." line="56" column="23" />
@@ -226,7 +226,10 @@
         <mark key="." line="7" column="10" />
         <mark key="^" line="7" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/android-scanner/RFCommonAS/build.gradle" timestamp="1552313620767">
+      <file name="$USER_HOME$/.AndroidStudio3.3/system/log/idea.log" timestamp="1552314924396">
+        <mark key="'" line="16" column="95" />
+      </file>
+      <file name="$USER_HOME$/dev/android-scanner/RFCommonAS/build.gradle" timestamp="1552314837155">
         <mark key="[" line="7" column="32" />
         <mark key="]" line="7" column="42" />
         <mark key="." line="7" column="42" />
@@ -373,11 +376,11 @@
         <mark key="." line="83" column="0" />
         <mark key="^" line="15" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/android-scanner/build.gradle" timestamp="1552313369256">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="20" column="7" />
+      <file name="$USER_HOME$/dev/android-scanner/build.gradle" timestamp="1552315106710">
+        <mark key="[" line="22" column="66" />
+        <mark key="]" line="25" column="36" />
+        <mark key="." line="25" column="36" />
+        <mark key="^" line="25" column="36" />
       </file>
       <file name="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" timestamp="1552314089766" />
       <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/BeltPrinter.java" timestamp="1551449703944">
@@ -583,7 +586,7 @@
         <mark key="." line="167" column="77" />
         <mark key="^" line="167" column="77" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552313336043">
+      <file name="/Dummy.txt" timestamp="1552315142018">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -655,7 +658,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="696" column="28" filename="C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/awt/Container.java" />
       <jump line="720" column="33" filename="C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/awt/Container.java" />
       <jump line="802" column="37" filename="C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/awt/Container.java" />
       <jump line="864" column="53" filename="C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/awt/Container.java" />
@@ -755,10 +757,11 @@
       <jump line="285" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
       <jump line="287" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
       <jump line="290" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="16" column="95" filename="$USER_HOME$/.AndroidStudio3.3/system/log/idea.log" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PA==</text>
       </register>
       <register name="i" type="4">
         <text>pu</text>
@@ -860,7 +863,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>rmi</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
         <text>:</text>
