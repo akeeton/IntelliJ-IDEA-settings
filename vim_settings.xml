@@ -50,6 +50,7 @@
         <mark key="^" line="18" column="51" />
         <mark key="." line="18" column="51" />
       </file>
+      <file name="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/gui/common/MenuFrameP.java" timestamp="1552324569936" />
       <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/assembly/assemble-jars.xml" timestamp="1549395240456">
         <mark key="[" line="15" column="34" />
         <mark key="]" line="17" column="28" />
@@ -380,11 +381,11 @@
         <mark key="." line="83" column="0" />
         <mark key="^" line="15" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/android-scanner/build.gradle" timestamp="1552324493428">
-        <mark key="[" line="29" column="39" />
-        <mark key="]" line="29" column="64" />
-        <mark key="." line="29" column="64" />
-        <mark key="^" line="29" column="64" />
+      <file name="$USER_HOME$/dev/android-scanner/build.gradle" timestamp="1552325478445">
+        <mark key="[" line="31" column="61" />
+        <mark key="]" line="31" column="61" />
+        <mark key="^" line="31" column="61" />
+        <mark key="." line="31" column="61" />
       </file>
       <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/BeltPrinter.java" timestamp="1551449703944">
         <mark key="[" line="258" column="25" />
@@ -495,10 +496,11 @@
       <file name="vim_settings.xml" timestamp="1552084447716">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/gradle.encrypted.properties" timestamp="1552324105095">
+      <file name="$USER_HOME$/.gradle/gradle.encrypted.properties" timestamp="1552325252892">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+        <mark key="^" line="0" column="7" />
       </file>
       <file name="$USER_HOME$/Downloads/untitled/src/com/company/Main.java" timestamp="1551976030270">
         <mark key="[" line="15" column="77" />
@@ -775,7 +777,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>encryptedNexusRepoPassword</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <text>pu</text>
@@ -877,16 +879,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>encryptedNexusRepoPassword</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>:</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20udW5rbm93bjpybWk6MS4wLjAnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3N3b3JkID0gY3JlZGVudGlhbHMuZW5jcnlwdGVkTmV4dXNSZXBvUGFzc3dvcmQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZW5jcnlwdGVkTmV4dXNSZXBvVXNlcm5hbWU9SlIxQ2xIRTNUMnBvWk8yQnQ1TVAvZ1w9XD0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -906,19 +908,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">a2V5VmFsdWU9MWYrc0xVY0RGcXE1cVgzODNsOHJVQVw9XD0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">a2V5VmFsdWU9MWYrc0xVY0RGcXE1cVgzODNsOHJVQVw9XD0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBwbHVnaW5zIHsKICAgICAgICBpZCAibnUuc3R1ZGVyLmNyZWRlbnRpYWxzIiB2ZXJzaW9uICIxLjAuNyIKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -1021,7 +1023,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGx1Z2lucyB7CiAgICBpZCAibnUuc3R1ZGVyLmNyZWRlbnRpYWxzIiB2ZXJzaW9uICIxLjAuNyIKfQoK</text>
+        <text encoding="base64">CiAgICBwbHVnaW5zIHsKICAgICAgICBpZCAibnUuc3R1ZGVyLmNyZWRlbnRpYWxzIiB2ZXJzaW9uICIxLjAuNyIKICAgIH0K</text>
       </register>
       <register name="x" type="4">
         <text>setInt64Parameter(int var1, Long var2, int var3</text>
