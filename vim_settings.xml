@@ -316,6 +316,10 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
+      <file name="$USER_HOME$/.m2/settings.xml" timestamp="1552334485980">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="10" column="63" />
+      </file>
       <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/ResultSetMetaData.java" timestamp="1550772399147">
         <mark key="[" line="0" column="38" />
         <mark key="]" line="0" column="48" />
@@ -381,11 +385,11 @@
         <mark key="." line="83" column="0" />
         <mark key="^" line="15" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/android-scanner/build.gradle" timestamp="1552326936595">
-        <mark key="[" line="36" column="25" />
-        <mark key="]" line="36" column="37" />
-        <mark key="." line="36" column="37" />
-        <mark key="^" line="36" column="37" />
+      <file name="$USER_HOME$/dev/android-scanner/build.gradle" timestamp="1552334586859">
+        <mark key="[" line="31" column="57" />
+        <mark key="]" line="31" column="57" />
+        <mark key="." line="31" column="57" />
+        <mark key="^" line="31" column="57" />
       </file>
       <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/BeltPrinter.java" timestamp="1551449703944">
         <mark key="[" line="258" column="25" />
@@ -450,11 +454,11 @@
         <mark key="^" line="21" column="15" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/gradle.properties" timestamp="1552326911970">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="12" />
-        <mark key="^" line="1" column="12" />
-        <mark key="." line="1" column="12" />
+      <file name="$USER_HOME$/.gradle/gradle.properties" timestamp="1552334582397">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="28" />
+        <mark key="^" line="3" column="40" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/dev/scanner/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/ZoneFrameR.java" timestamp="1551192442693">
         <mark key="[" line="343" column="49" />
@@ -608,7 +612,7 @@
         <mark key="." line="167" column="77" />
         <mark key="^" line="167" column="77" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552326172816">
+      <file name="/Dummy.txt" timestamp="1552334145142">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -623,6 +627,7 @@
       <file name="C:/Progress/OpenEdge/jdk/src.zip!/java/util/EnumSet.java" timestamp="1551972218163">
         <mark key="'" line="365" column="74" />
       </file>
+      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/dynamicapi/SessionPool.java" timestamp="1552333678389" />
       <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/extension/java/sql/ResultSetToStringDecorator.java" timestamp="1551886002740">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="50" />
@@ -782,7 +787,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;Murphy!0955&quot;</text>
+        <text>systemProp.http.proxyPassword</text>
       </register>
       <register name="i" type="4">
         <text>pu</text>
@@ -884,16 +889,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;Murphy!0955&quot;</text>
+        <text encoding="base64">Ki5ub25wcm94eXJlcG9zLmNvbXxsb2NhbGhvc3QgIA==</text>
       </register>
       <register name="/" type="4">
-        <text>:</text>
+        <text>=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgIC4vZ3JhZGxldyBhZGRDcmVkZW50aWFscyAtLWtleSB1c2VybmFtZSAtLXZhbHVlIDx5b3VyIHVzZXJuYW1lPgo=</text>
+      <register name="0" type="4">
+        <text>systemProp.http.proxyPassword</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -913,22 +918,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">PGlkPnByb3h5PC9pZD4KPGFjdGl2ZT50cnVlPC9hY3RpdmU+Cjxwcm90b2NvbD5odHRwPC9wcm90b2NvbD4KPGhvc3Q+Y29ycGx3c2FwZDAwMi5kYW5kaC5uZXQ8L2hvc3Q+Cjxwb3J0PjMxMjg8L3BvcnQ+Cjx1c2VybmFtZT5ha2VldG9uPC91c2VybmFtZT4KPHBhc3N3b3JkPnsvQ25oOVNrTmk0NEhiTUZoempKRkRmMVYwd0IxQVE5TkNIMmJuSjhWRi9rPX08L3Bhc3N3b3JkPgo8bm9uUHJveHlIb3N0cz5jb21wb25lbnRzLmRhbmRoLm5ldDwvbm9uUHJveHlIb3N0cz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb2plY3QubG9nZ2VyLmxpZmVjeWNsZSBuZXh1c1VzZXJuYW1lCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gUnVuOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gUnVuOgogICAgICAgICAgICAvLwogICAgICAgICAgICAvLyAgICAgLi9ncmFkbGV3IGFkZENyZWRlbnRpYWxzIC0ta2V5IHVzZXJuYW1lIC0tdmFsdWUgPHlvdXIgTmV4dXMgdXNlcm5hbWU+CiAgICAgICAgICAgIC8vICAgICAuL2dyYWRsZXcgYWRkQ3JlZGVudGlhbHMgLS1rZXkgcGFzc3dvcmQgLS12YWx1ZSA8eW91ciBOZXh1cyBwYXNzd29yZD4KICAgICAgICAgICAgLy8KICAgICAgICAgICAgLy8gU2VlIGh0dHBzOi8vZ2l0aHViLmNvbS9ldGllbm5lc3R1ZGVyL2dyYWRsZS1jcmVkZW50aWFscy1wbHVnaW4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gU2VlIGh0dHBzOi8vZ2l0aHViLmNvbS9ldGllbm5lc3R1ZGVyL2dyYWRsZS1jcmVkZW50aWFscy1wbHVnaW4K</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgdXNlcm5hbWUgY3JlZGVudGlhbHMudXNlcm5hbWUKLy8gICAgICAgICAgICAgICAgcGFzc3dvcmQgY3JlZGVudGlhbHMucGFzc3dvcmQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZW5jcnlwdGVkTmV4dXNSZXBvVXNlcm5hbWU9SlIxQ2xIRTNUMnBvWk8yQnQ1TVAvZ1w9XD0K</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgcHJvamVjdC5sb2dnZXIubGlmZWN5Y2xlIGNyZWRlbnRpYWxzLnVzZXJuYW1lCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">cGx1Z2lucyB7CiAgICBpZCAibnUuc3R1ZGVyLmNyZWRlbnRpYWxzIiB2ZXJzaW9uICIxLjAuNyIKfQoK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1028,30 +1033,29 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
       </register>
       <register name="x" type="4">
         <text>setInt64Parameter(int var1, Long var2, int var3</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz53</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>:</last-search>
+      <last-search>=</last-search>
       <last-offset />
-      <last-pattern>:</last-pattern>
+      <last-pattern>=</last-pattern>
       <last-replace>ScreenCapture</last-replace>
       <last-substitute>Screenshot</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Screenshot</entry>
         <entry encoding="base64">XDxmcm9tRnJhbWVcPg==</entry>
         <entry>since</entry>
         <entry encoding="base64">XDxwYXRoXD4=</entry>
@@ -1071,6 +1075,7 @@
         <entry encoding="base64">XDxJbnRlZ2VyQ2FjaGVcPg==</entry>
         <entry>lib</entry>
         <entry>:</entry>
+        <entry>=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -1091,8 +1096,8 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL2Zyb20vdG8=</entry>
         <entry>%s/Screenshot/ScreenCapture/g</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
