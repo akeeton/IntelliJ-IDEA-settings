@@ -148,7 +148,6 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/scanner/RFPickAS/pom.xml" timestamp="1552316512447" />
       <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/common/AbstractControlGui.java" timestamp="1551975107781">
         <mark key="'" line="31" column="43" />
         <mark key="[" line="19" column="0" />
@@ -386,11 +385,10 @@
         <mark key="." line="83" column="0" />
         <mark key="^" line="15" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/android-scanner/build.gradle" timestamp="1552334586859">
-        <mark key="[" line="31" column="57" />
-        <mark key="]" line="31" column="57" />
-        <mark key="." line="31" column="57" />
-        <mark key="^" line="31" column="57" />
+      <file name="$USER_HOME$/dev/android-scanner/build.gradle" timestamp="1552334792395">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="31" column="68" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/BeltPrinter.java" timestamp="1551449703944">
         <mark key="[" line="258" column="25" />
@@ -428,7 +426,7 @@
         <mark key="^" line="38" column="14" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/scanner/RFCommonAS/pom.xml" timestamp="1552316495905">
+      <file name="$USER_HOME$/dev/scanner/RFCommonAS/pom.xml" timestamp="1551985513196">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="46" column="23" />
         <mark key="]" line="46" column="24" />
@@ -455,7 +453,7 @@
         <mark key="^" line="21" column="15" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/gradle.properties" timestamp="1552334582397">
+      <file name="$USER_HOME$/.gradle/gradle.properties" timestamp="1552334697324">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="28" />
         <mark key="^" line="3" column="40" />
@@ -787,8 +785,8 @@
       <jump line="16" column="95" filename="$USER_HOME$/.AndroidStudio3.3/system/log/idea.log" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>systemProp.http.proxyPassword</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gc3lzdGVtUHJvcC5odHRwLnByb3h5VXNlcj08eW91ciBXaW5kb3dzIHVzZXJuYW1lPgogICAgICAgICAgICAvLyBzeXN0ZW1Qcm9wLmh0dHAucHJveHlQYXNzd29yZD08eW91ciBXaW5kb3dzIHBhc3N3b3JkPgo=</text>
       </register>
       <register name="i" type="4">
         <text>pu</text>
@@ -890,7 +888,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Ki5ub25wcm94eXJlcG9zLmNvbXxsb2NhbGhvc3QgIA==</text>
+        <text>Nexus</text>
       </register>
       <register name="/" type="4">
         <text>=</text>
@@ -899,7 +897,7 @@
         <text>systemProp.http.proxyPassword</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gc3lzdGVtUHJvcC5odHRwLnByb3h5VXNlcj08eW91ciBXaW5kb3dzIHVzZXJuYW1lPgogICAgICAgICAgICAvLyBzeXN0ZW1Qcm9wLmh0dHAucHJveHlQYXNzd29yZD08eW91ciBXaW5kb3dzIHBhc3N3b3JkPgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -919,22 +917,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PGlkPnByb3h5PC9pZD4KPGFjdGl2ZT50cnVlPC9hY3RpdmU+Cjxwcm90b2NvbD5odHRwPC9wcm90b2NvbD4KPGhvc3Q+Y29ycGx3c2FwZDAwMi5kYW5kaC5uZXQ8L2hvc3Q+Cjxwb3J0PjMxMjg8L3BvcnQ+Cjx1c2VybmFtZT5ha2VldG9uPC91c2VybmFtZT4KPHBhc3N3b3JkPnsvQ25oOVNrTmk0NEhiTUZoempKRkRmMVYwd0IxQVE5TkNIMmJuSjhWRi9rPX08L3Bhc3N3b3JkPgo8bm9uUHJveHlIb3N0cz5jb21wb25lbnRzLmRhbmRoLm5ldDwvbm9uUHJveHlIb3N0cz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb2plY3QubG9nZ2VyLmxpZmVjeWNsZSBuZXh1c1VzZXJuYW1lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gUnVuOgogICAgICAgICAgICAvLwogICAgICAgICAgICAvLyAgICAgLi9ncmFkbGV3IGFkZENyZWRlbnRpYWxzIC0ta2V5IHVzZXJuYW1lIC0tdmFsdWUgPHlvdXIgTmV4dXMgdXNlcm5hbWU+CiAgICAgICAgICAgIC8vICAgICAuL2dyYWRsZXcgYWRkQ3JlZGVudGlhbHMgLS1rZXkgcGFzc3dvcmQgLS12YWx1ZSA8eW91ciBOZXh1cyBwYXNzd29yZD4KICAgICAgICAgICAgLy8KICAgICAgICAgICAgLy8gU2VlIGh0dHBzOi8vZ2l0aHViLmNvbS9ldGllbm5lc3R1ZGVyL2dyYWRsZS1jcmVkZW50aWFscy1wbHVnaW4K</text>
+        <text encoding="base64">bmV4dXNVc2VybmFtZT1ha2VldG9uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgdXNlcm5hbWUgY3JlZGVudGlhbHMudXNlcm5hbWUKLy8gICAgICAgICAgICAgICAgcGFzc3dvcmQgY3JlZGVudGlhbHMucGFzc3dvcmQK</text>
+        <text encoding="base64">bmV4dXNQYXNzd29yZD1NdXJwaHkhMDk1NS8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgcHJvamVjdC5sb2dnZXIubGlmZWN5Y2xlIGNyZWRlbnRpYWxzLnVzZXJuYW1lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGx1Z2lucyB7CiAgICBpZCAibnUuc3R1ZGVyLmNyZWRlbnRpYWxzIiB2ZXJzaW9uICIxLjAuNyIKfQoK</text>
+        <text encoding="base64">PGlkPnByb3h5PC9pZD4KPGFjdGl2ZT50cnVlPC9hY3RpdmU+Cjxwcm90b2NvbD5odHRwPC9wcm90b2NvbD4KPGhvc3Q+Y29ycGx3c2FwZDAwMi5kYW5kaC5uZXQ8L2hvc3Q+Cjxwb3J0PjMxMjg8L3BvcnQ+Cjx1c2VybmFtZT5ha2VldG9uPC91c2VybmFtZT4KPHBhc3N3b3JkPnsvQ25oOVNrTmk0NEhiTUZoempKRkRmMVYwd0IxQVE5TkNIMmJuSjhWRi9rPX08L3Bhc3N3b3JkPgo8bm9uUHJveHlIb3N0cz5jb21wb25lbnRzLmRhbmRoLm5ldDwvbm9uUHJveHlIb3N0cz4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1034,13 +1032,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb2plY3QubG9nZ2VyLmxpZmVjeWNsZSBuZXh1c1VzZXJuYW1lCg==</text>
       </register>
       <register name="x" type="4">
         <text>setInt64Parameter(int var1, Long var2, int var3</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gUnVuOgogICAgICAgICAgICAvLwogICAgICAgICAgICAvLyAgICAgLi9ncmFkbGV3IGFkZENyZWRlbnRpYWxzIC0ta2V5IHVzZXJuYW1lIC0tdmFsdWUgPHlvdXIgTmV4dXMgdXNlcm5hbWU+CiAgICAgICAgICAgIC8vICAgICAuL2dyYWRsZXcgYWRkQ3JlZGVudGlhbHMgLS1rZXkgcGFzc3dvcmQgLS12YWx1ZSA8eW91ciBOZXh1cyBwYXNzd29yZD4KICAgICAgICAgICAgLy8KICAgICAgICAgICAgLy8gU2VlIGh0dHBzOi8vZ2l0aHViLmNvbS9ldGllbm5lc3R1ZGVyL2dyYWRsZS1jcmVkZW50aWFscy1wbHVnaW4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1053,7 +1051,7 @@
       <last-replace>ScreenCapture</last-replace>
       <last-substitute>Screenshot</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -1093,11 +1091,11 @@
         <entry>qw</entry>
         <entry>sw</entry>
         <entry>W</entry>
-        <entry>noh</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL2Zyb20vdG8=</entry>
         <entry>%s/Screenshot/ScreenCapture/g</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
