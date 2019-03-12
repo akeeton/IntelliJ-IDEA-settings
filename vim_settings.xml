@@ -410,6 +410,11 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/java/awt/Component.java" timestamp="1552410827652">
+        <mark key="[" line="881" column="0" />
+        <mark key="]" line="881" column="0" />
+        <mark key="." line="881" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/BeltPrinter.java" timestamp="1551449703944">
         <mark key="[" line="258" column="25" />
         <mark key="]" line="263" column="36" />
@@ -807,8 +812,8 @@
       <jump line="7" column="23" filename="$USER_HOME$/dev/android-scanner/RFRecvAS/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>7</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="i" type="4">
         <text>pu</text>
@@ -910,7 +915,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw3XD4=</text>
@@ -919,7 +924,7 @@
         <text encoding="base64">ICAgIGNvbXBpbGVPcHRpb25zIHsKICAgICAgICBzb3VyY2VDb21wYXRpYmlsaXR5IEphdmFWZXJzaW9uLlZFUlNJT05fMV84CiAgICAgICAgdGFyZ2V0Q29tcGF0aWJpbGl0eSBKYXZhVmVyc2lvbi5WRVJTSU9OXzFfOAogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -939,22 +944,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29tcGlsZU9wdGlvbnMgewo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c291cmNlQ29tcGF0aWJpbGl0eSA9ICI3Igp0YXJnZXRDb21wYXRpYmlsaXR5ID0gIjciCg==</text>
+        <text encoding="base64">Y29tcGlsZU9wdGlvbnMgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c291cmNlQ29tcGF0aWJpbGl0eSA9ICI3Igp0YXJnZXRDb21wYXRpYmlsaXR5ID0gIjciCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uZGFuZGguc2Nhbm5lci5zdGFydHVwLnBpY2suUGlja1N0YXJ0Lm1haW47Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwaWNrc3RhcnQK</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uZGFuZGguc2Nhbm5lci5zdGFydHVwLnBpY2suUGlja1N0YXJ0Lm1haW47Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBSRlAK</text>
+        <text encoding="base64">ICAgICAgICBwaWNrc3RhcnQK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1054,13 +1059,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXQuY3VycnkK</text>
+        <text encoding="base64">ICAgICAgICBSRlAK</text>
       </register>
       <register name="x" type="4">
         <text>setInt64Parameter(int var1, Long var2, int var3</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gc3lzdGVtUHJvcC5odHRwLnByb3h5VXNlcj08eW91ciBXaW5kb3dzIHVzZXJuYW1lPgogICAgICAgICAgICAvLyBzeXN0ZW1Qcm9wLmh0dHAucHJveHlQYXNzd29yZD08eW91ciBXaW5kb3dzIHBhc3N3b3JkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXQuY3VycnkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
