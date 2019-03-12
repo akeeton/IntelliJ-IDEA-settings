@@ -193,11 +193,11 @@
       <file name="C:/Progress/OpenEdge/jdk/src.zip!/javax/imageio/ImageIO.java" timestamp="1551997383797">
         <mark key="'" line="1439" column="55" />
       </file>
-      <file name="$USER_HOME$/dev/android-scanner/app/build.gradle" timestamp="1552406082569">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="21" column="5" />
-        <mark key="." line="6" column="24" />
-        <mark key="^" line="6" column="23" />
+      <file name="$USER_HOME$/dev/android-scanner/app/build.gradle" timestamp="1552412096973">
+        <mark key="[" line="32" column="4" />
+        <mark key="]" line="32" column="17" />
+        <mark key="." line="32" column="17" />
+        <mark key="^" line="32" column="17" />
       </file>
       <file name="C:/Progress/OpenEdge/jdk/src.zip!/javax/imageio/ImageWriter.java" timestamp="1551997390864">
         <mark key="'" line="596" column="36" />
@@ -251,8 +251,10 @@
       <file name="$USER_HOME$/.AndroidStudio3.3/system/log/idea.log" timestamp="1552314924396">
         <mark key="'" line="16" column="95" />
       </file>
-      <file name="$USER_HOME$/dev/android-scanner/app/src/main/java/com/dandh/androidscanner/MainActivity.java" timestamp="1552403978150">
-        <mark key="^" line="28" column="3" />
+      <file name="$USER_HOME$/dev/android-scanner/app/src/main/java/com/dandh/androidscanner/MainActivity.java" timestamp="1552412103295">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/dev/android-scanner/RFCommonAS/build.gradle" timestamp="1552406136781">
         <mark key="[" line="11" column="23" />
@@ -410,11 +412,13 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/java/awt/Component.java" timestamp="1552411022091">
-        <mark key="[" line="944" column="16" />
-        <mark key="]" line="5991" column="5" />
-        <mark key="." line="5991" column="5" />
-        <mark key="^" line="5991" column="5" />
+      <file name="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/java/awt/Component.java" timestamp="1552411683885">
+        <mark key="'" line="415" column="6" />
+        <mark key="x" line="1106" column="19" />
+        <mark key="[" line="1001" column="0" />
+        <mark key="]" line="1001" column="0" />
+        <mark key="." line="1001" column="0" />
+        <mark key="^" line="5989" column="5" />
       </file>
       <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/BeltPrinter.java" timestamp="1551449703944">
         <mark key="[" line="258" column="25" />
@@ -615,7 +619,12 @@
         <mark key="." line="8" column="6" />
         <mark key="^" line="8" column="6" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/studio64.exe.vmoptions" timestamp="1552411047758" />
+      <file name="$APPLICATION_CONFIG_DIR$/studio64.exe.vmoptions" timestamp="1552411082088">
+        <mark key="[" line="1" column="4" />
+        <mark key="]" line="1" column="5" />
+        <mark key="^" line="1" column="5" />
+        <mark key="." line="1" column="5" />
+      </file>
       <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/commonproxy/exception/LogException.java" timestamp="1550703185400">
         <mark key="[" line="0" column="38" />
         <mark key="]" line="0" column="43" />
@@ -708,8 +717,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2281" column="49" filename="C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/awt/Container.java" />
-      <jump line="2283" column="39" filename="C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/awt/Container.java" />
       <jump line="2491" column="25" filename="C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/awt/Container.java" />
       <jump line="2523" column="18" filename="C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/awt/Container.java" />
       <jump line="2748" column="9" filename="C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/awt/Container.java" />
@@ -808,10 +815,12 @@
       <jump line="7" column="23" filename="$USER_HOME$/dev/android-scanner/RFPickAS/build.gradle" />
       <jump line="4" column="40" filename="$USER_HOME$/dev/android-scanner/RFRecvAS/build.gradle" />
       <jump line="7" column="23" filename="$USER_HOME$/dev/android-scanner/RFRecvAS/build.gradle" />
+      <jump line="873" column="12" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/java/awt/Component.java" />
+      <jump line="415" column="6" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/java/awt/Component.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text>pu</text>
@@ -913,16 +922,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>compile</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDw3XD4=</text>
+        <text>Overr</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGVPcHRpb25zIHsKICAgICAgICBzb3VyY2VDb21wYXRpYmlsaXR5IEphdmFWZXJzaW9uLlZFUlNJT05fMV84CiAgICAgICAgdGFyZ2V0Q29tcGF0aWJpbGl0eSBKYXZhVmVyc2lvbi5WRVJTSU9OXzFfOAogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -942,22 +951,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIFBpY2tTdGFydC5tYWluKCIxIiwgIjIiKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29tcGlsZU9wdGlvbnMgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c291cmNlQ29tcGF0aWJpbGl0eSA9ICI3Igp0YXJnZXRDb21wYXRpYmlsaXR5ID0gIjciCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uZGFuZGguc2Nhbm5lci5zdGFydHVwLnBpY2suUGlja1N0YXJ0Lm1haW47Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1057,30 +1066,29 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwaWNrc3RhcnQK</text>
+        <text encoding="base64">Y29tcGlsZU9wdGlvbnMgewo=</text>
       </register>
       <register name="x" type="4">
         <text>setInt64Parameter(int var1, Long var2, int var3</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBSRlAK</text>
+        <text encoding="base64">c291cmNlQ29tcGF0aWJpbGl0eSA9ICI3Igp0YXJnZXRDb21wYXRpYmlsaXR5ID0gIjciCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDw3XD4=</last-search>
+      <last-search>Overr</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDw3XD4=</last-pattern>
+      <last-pattern>Overr</last-pattern>
       <last-replace>ScreenCapture</last-replace>
       <last-substitute>main</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYXRoXD4=</entry>
         <entry encoding="base64">XDxpbVw+</entry>
         <entry encoding="base64">XDxpbWFnZVw+</entry>
         <entry>Sys</entry>
@@ -1100,10 +1108,9 @@
         <entry>=</entry>
         <entry>main</entry>
         <entry encoding="base64">XDw3XD4=</entry>
+        <entry>Overr</entry>
       </history-search>
       <history-cmd>
-        <entry>wq</entry>
-        <entry>23</entry>
         <entry>119</entry>
         <entry>130</entry>
         <entry>.,.+</entry>
@@ -1121,6 +1128,8 @@
         <entry>%s/Screenshot/ScreenCapture/g</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>noh</entry>
+        <entry>274</entry>
+        <entry>874</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
