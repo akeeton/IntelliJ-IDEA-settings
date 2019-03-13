@@ -6,179 +6,28 @@
       <mark key="X" line="41" column="86" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/dynamicapi/SessionPool.java" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/ISDOFactory.java" timestamp="1550675305209">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="7" column="17" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/awt/Container.java" timestamp="1552069525444">
         <mark key="'" line="2800" column="62" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/javaproxy/OpenAppObject.java" timestamp="1551810227857">
-        <mark key="'" line="170" column="12" />
-        <mark key="[" line="170" column="12" />
-        <mark key="]" line="170" column="12" />
-        <mark key="^" line="175" column="14" />
-        <mark key="." line="170" column="12" />
       </file>
       <file name="$USER_HOME$/dev/scanner/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/VerifyDialogR.java" timestamp="1551903990738">
         <mark key="'" line="29" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/IntHolder.java" timestamp="1550864524048">
-        <mark key="[" line="22" column="49" />
-        <mark key="]" line="22" column="52" />
-        <mark key="." line="22" column="52" />
-        <mark key="^" line="22" column="52" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/Open4GLException.java" timestamp="1551108701830">
-        <mark key="[" line="27" column="11" />
-        <mark key="]" line="27" column="16" />
-        <mark key="." line="27" column="16" />
-        <mark key="^" line="27" column="16" />
-      </file>
       <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Item.java" timestamp="1551972971784">
         <mark key="'" line="1951" column="25" />
+      </file>
+      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/Component.java" timestamp="1552424463784">
+        <mark key="'" line="834" column="46" />
+        <mark key="x" line="7003" column="16" />
+        <mark key="[" line="9694" column="22" />
+        <mark key="]" line="9694" column="38" />
+        <mark key="^" line="9694" column="38" />
+        <mark key="." line="9694" column="38" />
       </file>
       <file name="$MAVEN_REPOSITORY$/commons-cli/commons-cli/1.2/commons-cli-1.2-sources.jar!/org/apache/commons/cli/GnuParser.java" timestamp="1551985414331">
         <mark key="'" line="71" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/sequencediagram/SequenceDiagram.java" timestamp="1551996125676">
-        <mark key="'" line="22" column="6" />
-        <mark key="[" line="18" column="50" />
-        <mark key="]" line="18" column="51" />
-        <mark key="^" line="18" column="51" />
-        <mark key="." line="18" column="51" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/gui/common/MenuFrameP.java" timestamp="1552324569936" />
-      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/assembly/assemble-jars.xml" timestamp="1549395240456">
-        <mark key="[" line="15" column="34" />
-        <mark key="]" line="17" column="28" />
-        <mark key="." line="17" column="28" />
-        <mark key="^" line="17" column="28" />
-      </file>
-      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Document.java" timestamp="1549913152052">
-        <mark key="[" line="240" column="19" />
-        <mark key="]" line="240" column="8" />
-        <mark key="." line="240" column="8" />
-        <mark key="^" line="240" column="8" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/commonproxy/util/PromsgsBundle.java" timestamp="1550774217255">
-        <mark key="[" line="32" column="12" />
-        <mark key="]" line="32" column="44" />
-        <mark key="." line="32" column="44" />
-        <mark key="^" line="32" column="44" />
-      </file>
-      <file name="$USER_HOME$/dev/android-scanner/RFRecvAS/build.gradle" timestamp="1552316279911">
-        <mark key="[" line="4" column="43" />
-        <mark key="]" line="4" column="40" />
-        <mark key="." line="4" column="40" />
-        <mark key="^" line="4" column="40" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/NullInputResultSet.java" timestamp="1550871130147">
-        <mark key="[" line="4" column="17" />
-        <mark key="]" line="4" column="14" />
-        <mark key="." line="4" column="14" />
-        <mark key="^" line="4" column="14" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/Open4GLException.java" timestamp="1550778665691">
-        <mark key="[" line="22" column="28" />
-        <mark key="]" line="22" column="48" />
-        <mark key="." line="22" column="48" />
-        <mark key="^" line="22" column="48" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/DocItems.java" timestamp="1551982828168">
-        <mark key="[" line="86" column="105" />
-        <mark key="]" line="86" column="95" />
-        <mark key="^" line="86" column="94" />
-        <mark key="." line="86" column="95" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.2.0/o4glrt-1.2.0.jar!/com/progress/message/jcMsg.class" timestamp="1550680006121">
-        <mark key="[" line="7" column="24" />
-        <mark key="]" line="7" column="23" />
-        <mark key="^" line="7" column="23" />
-        <mark key="." line="7" column="23" />
-      </file>
-      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/distribution/src/main/resources/CabCreate/BuildRFCabAS.bat" timestamp="1549471094196">
-        <mark key="[" line="1" column="31" />
-        <mark key="]" line="1" column="31" />
-        <mark key="^" line="3" column="7" />
-        <mark key="." line="1" column="31" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/Holder.java" timestamp="1550675142510">
-        <mark key="[" line="35" column="15" />
-        <mark key="]" line="35" column="37" />
-        <mark key="." line="35" column="37" />
-        <mark key="^" line="35" column="37" />
-      </file>
-      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/src/assembly/bin.xml" timestamp="1549399560164">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="41" column="11" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/common/ScannerApp.java" timestamp="1551982045648">
-        <mark key="'" line="17" column="25" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="45" column="12" />
-        <mark key="." line="35" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/Rowid.java" timestamp="1550094970967">
-        <mark key="[" line="2" column="18" />
-        <mark key="]" line="2" column="52" />
-        <mark key="^" line="2" column="52" />
-        <mark key="." line="2" column="52" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/dynamicapi/Param.java" timestamp="1551886030061">
-        <mark key="[" line="63" column="89" />
-        <mark key="]" line="63" column="99" />
-        <mark key="." line="63" column="99" />
-        <mark key="^" line="63" column="99" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/pom.xml" timestamp="1552314768482">
-        <mark key="[" line="56" column="21" />
-        <mark key="]" line="56" column="23" />
-        <mark key="." line="56" column="23" />
-        <mark key="^" line="56" column="23" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/callback/progressproxy/open4gl/javaproxy/RunProcCallback.java" timestamp="1551810119617">
-        <mark key="[" line="7" column="1" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/common/AbstractControlGui.java" timestamp="1551975107781">
-        <mark key="'" line="31" column="43" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="31" column="43" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/RFRecvAS/src/main/java/com/dandh/scanner/startup/receive/ReceiveStart.java" timestamp="1551974481043">
-        <mark key="'" line="118" column="3" />
-        <mark key="[" line="71" column="67" />
-        <mark key="]" line="71" column="67" />
-        <mark key="." line="71" column="67" />
-        <mark key="^" line="71" column="67" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/sequencediagram/NullSequenceDiagram.java" timestamp="1551995163248">
-        <mark key="[" line="37" column="45" />
-        <mark key="]" line="38" column="20" />
-        <mark key="^" line="38" column="20" />
-        <mark key="." line="38" column="20" />
-      </file>
-      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/src/main/java/com/dandh/scanner/ApplicationResources.properties" timestamp="1550010188130">
-        <mark key="[" line="17" column="9" />
-        <mark key="]" line="17" column="38" />
-        <mark key="." line="17" column="38" />
-        <mark key="^" line="17" column="38" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/dynamicapi/SessionPool.java" timestamp="1551108102182">
-        <mark key="[" line="378" column="0" />
-        <mark key="]" line="378" column="0" />
-        <mark key="^" line="361" column="15" />
-        <mark key="." line="378" column="0" />
+      <file name="$USER_HOME$/dev/android-scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" timestamp="1552403695975">
+        <mark key="'" line="333" column="19" />
       </file>
       <file name="C:/Progress/OpenEdge/jdk/src.zip!/javax/imageio/ImageIO.java" timestamp="1551997383797">
         <mark key="'" line="1439" column="55" />
@@ -186,526 +35,50 @@
       <file name="C:/Progress/OpenEdge/jdk/src.zip!/javax/imageio/ImageWriter.java" timestamp="1551997390864">
         <mark key="'" line="596" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp_RA.java" timestamp="1550871181617">
-        <mark key="[" line="68" column="48" />
-        <mark key="]" line="69" column="7" />
-        <mark key="^" line="69" column="7" />
-        <mark key="." line="69" column="7" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/RFIcAS/src/main/java/com/dandh/scanner/startup/ic/IcStart.java" timestamp="1551974436555">
-        <mark key="'" line="90" column="2" />
-        <mark key="[" line="64" column="39" />
-        <mark key="]" line="64" column="61" />
-        <mark key="." line="64" column="61" />
-        <mark key="^" line="64" column="61" />
-      </file>
       <file name="$USER_HOME$/Downloads/jdk11-source-code/src/java.desktop/share/classes/java/awt/Container.java" timestamp="1552070004013">
         <mark key="'" line="253" column="37" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/SDOInterface.java" timestamp="1550677197259">
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="147" column="0" />
-        <mark key="." line="154" column="43" />
-        <mark key="^" line="133" column="8" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/ProDataRelationMetaData.java" timestamp="1550865797830">
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
-        <mark key="^" line="67" column="43" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/ProDataException.java" timestamp="1551107762109">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="51" />
-        <mark key="^" line="28" column="59" />
-        <mark key="." line="28" column="59" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/commonproxy/ehnlog/LogException.java" timestamp="1550703709760">
-        <mark key="[" line="18" column="65" />
-        <mark key="]" line="19" column="43" />
-        <mark key="." line="19" column="43" />
-        <mark key="^" line="19" column="43" />
-      </file>
-      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFCommonAS/src/main/java/com/dandh/scanner/common/Utilities.java" timestamp="1549996185115">
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="7" column="10" />
-        <mark key="." line="7" column="10" />
-        <mark key="^" line="7" column="10" />
       </file>
       <file name="$USER_HOME$/.AndroidStudio3.3/system/log/idea.log" timestamp="1552314924396">
         <mark key="'" line="16" column="95" />
       </file>
-      <file name="$USER_HOME$/dev/android-scanner/RFCommonAS/build.gradle" timestamp="1552324449067">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/RFIcAS/src/main/java/com/dandh/scanner/gui/common/ControlGuiI.java" timestamp="1551974470091">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="24" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="16" column="46" />
-      </file>
-      <file name="$USER_HOME$/AppData/Local/Temp/DatatypeConverterImpl.java" timestamp="1552056129767">
-        <mark key="'" line="23" column="2" />
-        <mark key="[" line="762" column="15" />
-        <mark key="]" line="762" column="14" />
-        <mark key="." line="762" column="14" />
-        <mark key="^" line="762" column="14" />
-      </file>
-      <file name="$USER_HOME$/dev/tfs-workspaces/RFGuns/Main/scanner/RFPickAS/src/main/java/com/dandh/scanner/gui/common/ZoneFrameP.java" timestamp="1549898818434">
-        <mark key="[" line="313" column="41" />
-        <mark key="]" line="313" column="41" />
-        <mark key="^" line="313" column="41" />
-        <mark key="." line="313" column="41" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/common/Arguments.java" timestamp="1551992106994">
-        <mark key="'" line="28" column="65" />
-        <mark key="[" line="36" column="67" />
-        <mark key="]" line="36" column="67" />
-        <mark key="." line="36" column="74" />
-        <mark key="^" line="27" column="56" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/common/util/PromsgsBundle.java" timestamp="1550868733181">
-        <mark key="[" line="20" column="53" />
-        <mark key="]" line="20" column="73" />
-        <mark key="." line="20" column="73" />
-        <mark key="^" line="20" column="73" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/statediagram/StateDiagrams.java" timestamp="1551972895094">
-        <mark key="[" line="5" column="5" />
-        <mark key="]" line="8" column="37" />
-        <mark key="." line="8" column="37" />
-        <mark key="^" line="8" column="37" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/SlotCheck.java" timestamp="1551822891053">
-        <mark key="'" line="161" column="8" />
-        <mark key="[" line="176" column="0" />
-        <mark key="]" line="176" column="0" />
-        <mark key="^" line="161" column="8" />
-        <mark key="." line="176" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/PrintFactory.java" timestamp="1551450535789">
-        <mark key="[" line="49" column="25" />
-        <mark key="]" line="55" column="36" />
-        <mark key="^" line="55" column="36" />
-        <mark key="." line="55" column="36" />
-      </file>
-      <file name="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Component.java" timestamp="1551995461637">
-        <mark key="[" line="2049" column="0" />
-        <mark key="]" line="2049" column="46" />
-        <mark key="^" line="2060" column="20" />
-        <mark key="." line="2060" column="20" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/ProDataGraphMetaData.java" timestamp="1550172371312">
-        <mark key="[" line="23" column="44" />
-        <mark key="]" line="23" column="11" />
-        <mark key="^" line="23" column="11" />
-        <mark key="." line="23" column="11" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Tote.java" timestamp="1551822962606">
-        <mark key="[" line="70" column="54" />
-        <mark key="]" line="71" column="7" />
-        <mark key="^" line="71" column="7" />
-        <mark key="." line="71" column="7" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/sequencediagram/Base64.java" timestamp="1552056146009">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="0" column="3" />
-        <mark key="]" line="0" column="14" />
-        <mark key="^" line="0" column="14" />
-        <mark key="." line="0" column="14" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/ResultSetMetaData.java" timestamp="1550772399147">
-        <mark key="[" line="0" column="38" />
-        <mark key="]" line="0" column="48" />
-        <mark key="." line="0" column="48" />
-        <mark key="^" line="0" column="48" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/javaproxy/ParamArray.java" timestamp="1551895544549">
-        <mark key="[" line="847" column="47" />
-        <mark key="]" line="847" column="47" />
-        <mark key="." line="847" column="47" />
-        <mark key="^" line="847" column="47" />
-      </file>
-      <file name="$USER_HOME$/.vimrc" timestamp="1549465548149">
-        <mark key="[" line="9" column="10" />
-        <mark key="]" line="10" column="17" />
-        <mark key="^" line="10" column="17" />
-        <mark key="." line="10" column="17" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/callback/progressproxy/open4gl/javaproxy/openappobject/RunProcCallback.java" timestamp="1551469835777">
-        <mark key="[" line="5" column="9" />
-        <mark key="]" line="5" column="55" />
-        <mark key="^" line="5" column="55" />
-        <mark key="." line="5" column="55" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/dynamicapi/ParameterSet.java" timestamp="1550778169481">
-        <mark key="[" line="21" column="45" />
-        <mark key="]" line="22" column="3" />
-        <mark key="." line="22" column="3" />
-        <mark key="^" line="22" column="3" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/statediagram/PlantUmlStateDiagram.java" timestamp="1551991835488">
-        <mark key="'" line="89" column="48" />
-        <mark key="[" line="107" column="30" />
-        <mark key="]" line="107" column="29" />
-        <mark key="." line="107" column="29" />
-        <mark key="^" line="107" column="29" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/sequencediagram/PlantUmlSequenceDiagram.java" timestamp="1552067078792">
-        <mark key="[" line="78" column="25" />
-        <mark key="]" line="78" column="32" />
-        <mark key="." line="78" column="32" />
-        <mark key="^" line="78" column="32" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/dynamicapi/MetaDataBase.java" timestamp="1550605688389">
-        <mark key="[" line="25" column="15" />
-        <mark key="]" line="25" column="19" />
-        <mark key="^" line="25" column="19" />
-        <mark key="." line="25" column="19" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/statediagram/ResultSetStateDiagramDecorator.java" timestamp="1551981868452">
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="218" column="32" />
-        <mark key="]" line="219" column="25" />
-        <mark key="^" line="219" column="25" />
-        <mark key="." line="219" column="25" />
+      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/GraphicsCallback.java" timestamp="1552423659587">
+        <mark key="'" line="112" column="52" />
       </file>
       <file name="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/gui/pick/ItemFrame.java" timestamp="1551994885752">
         <mark key="'" line="60" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/sequencediagram/Transition.java" timestamp="1551997006225">
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
-        <mark key="^" line="15" column="3" />
-      </file>
-      <file name="$USER_HOME$/dev/android-scanner/build.gradle" timestamp="1552326936595">
-        <mark key="[" line="36" column="25" />
-        <mark key="]" line="36" column="37" />
-        <mark key="." line="36" column="37" />
-        <mark key="^" line="36" column="37" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/BeltPrinter.java" timestamp="1551449703944">
-        <mark key="[" line="258" column="25" />
-        <mark key="]" line="263" column="36" />
-        <mark key="^" line="263" column="36" />
-        <mark key="." line="263" column="36" />
-      </file>
-      <file name="$USER_HOME$/dev/android-scanner/RFIcAS/build.gradle" timestamp="1552317631854">
-        <mark key="[" line="4" column="27" />
-        <mark key="]" line="4" column="27" />
-        <mark key="^" line="4" column="17" />
-        <mark key="." line="4" column="27" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/common/ControlGui.java" timestamp="1551973680124">
-        <mark key="[" line="59" column="37" />
-        <mark key="]" line="61" column="41" />
-        <mark key="^" line="61" column="41" />
-        <mark key="." line="61" column="41" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/COMHandle.java" timestamp="1550095108770">
-        <mark key="[" line="2" column="22" />
-        <mark key="]" line="2" column="60" />
-        <mark key="^" line="2" column="60" />
-        <mark key="." line="2" column="60" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/RFRecvAS/src/main/java/com/dandh/scanner/gui/receive/PoItemInqFrame.java" timestamp="1550172627059">
-        <mark key="[" line="95" column="42" />
-        <mark key="]" line="95" column="41" />
-        <mark key="^" line="95" column="41" />
-        <mark key="." line="95" column="41" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/dynamicapi/ResultSetSchema.java" timestamp="1551194660682">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="^" line="38" column="14" />
-        <mark key="." line="38" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/RFCommonAS/pom.xml" timestamp="1552316495905">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="46" column="23" />
-        <mark key="]" line="46" column="24" />
-        <mark key="^" line="21" column="37" />
-        <mark key="." line="46" column="24" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/commonproxy/message/IProMessage.java" timestamp="1550774155702">
-        <mark key="[" line="20" column="24" />
-        <mark key="]" line="21" column="32" />
-        <mark key="^" line="21" column="32" />
-        <mark key="." line="21" column="32" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Zone.java" timestamp="1551823083267">
-        <mark key="'" line="115" column="4" />
-        <mark key="[" line="165" column="10" />
-        <mark key="]" line="166" column="7" />
-        <mark key="^" line="166" column="7" />
-        <mark key="." line="166" column="7" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/extension/java/sql/ResultSetDecorator.java" timestamp="1551812444680">
-        <mark key="'" line="179" column="0" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="21" column="15" />
-        <mark key="." line="28" column="0" />
-      </file>
-      <file name="$USER_HOME$/.gradle/gradle.properties" timestamp="1552326911970">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="12" />
-        <mark key="^" line="1" column="12" />
-        <mark key="." line="1" column="12" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/ZoneFrameR.java" timestamp="1551192442693">
-        <mark key="[" line="343" column="49" />
-        <mark key="]" line="343" column="5" />
-        <mark key="^" line="343" column="5" />
-        <mark key="." line="343" column="5" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/ProDataException.java" timestamp="1550778692624">
-        <mark key="[" line="26" column="52" />
-        <mark key="]" line="26" column="75" />
-        <mark key="." line="26" column="75" />
-        <mark key="^" line="26" column="75" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/openjdk-logging/src/main/java/com/dandh/scanner/java/util/logging/StreamHandler.java" timestamp="1551190262477">
-        <mark key="[" line="195" column="9" />
-        <mark key="]" line="195" column="7" />
-        <mark key="^" line="195" column="7" />
-        <mark key="." line="195" column="7" />
-      </file>
       <file name="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/gui/common/VerifyDialogP.java" timestamp="1551903981026">
         <mark key="'" line="160" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/scanner/openjdk-logging/src/main/java/com/dandh/scanner/java/util/logging/XMLFormatter.java" timestamp="1551123832444">
-        <mark key="[" line="29" column="18" />
-        <mark key="]" line="29" column="18" />
-        <mark key="." line="29" column="18" />
-        <mark key="^" line="29" column="18" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/statediagram/StateDiagram.java" timestamp="1551971223637">
-        <mark key="'" line="82" column="57" />
-        <mark key="[" line="18" column="4" />
-        <mark key="]" line="18" column="41" />
-        <mark key="." line="18" column="41" />
-        <mark key="^" line="18" column="41" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/StringHolder.java" timestamp="1550867631806">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="27" column="5" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="21" column="55" />
+      <file name="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/java/awt/Window.java" timestamp="1552414775027">
+        <mark key="'" line="4065" column="49" />
       </file>
       <file name="$USER_HOME$/AppData/Local/Temp/DatatypeConverterInterface.java" timestamp="1552055611623">
         <mark key="'" line="458" column="18" />
       </file>
-      <file name="vim_settings.xml" timestamp="1552084447716">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/.gradle/gradle.encrypted.properties" timestamp="1552325252892">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
-        <mark key="^" line="0" column="7" />
-      </file>
-      <file name="$USER_HOME$/Downloads/untitled/src/com/company/Main.java" timestamp="1551976030270">
-        <mark key="[" line="15" column="77" />
-        <mark key="]" line="15" column="77" />
-        <mark key="^" line="15" column="77" />
-        <mark key="." line="15" column="77" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/callback/progressproxy/open4gl/javaproxy/OpenAppObject.java" timestamp="1551810196257">
-        <mark key="[" line="4" column="26" />
-        <mark key="]" line="4" column="24" />
-        <mark key="^" line="4" column="24" />
-        <mark key="." line="4" column="24" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/common/Main.java" timestamp="1551904749646">
-        <mark key="'" line="68" column="45" />
-        <mark key="[" line="18" column="13" />
-        <mark key="]" line="18" column="13" />
-        <mark key="." line="18" column="13" />
-        <mark key="^" line="84" column="32" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Cart.java" timestamp="1551820707981">
-        <mark key="[" line="137" column="7" />
-        <mark key="]" line="138" column="5" />
-        <mark key="^" line="138" column="5" />
-        <mark key="." line="138" column="5" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/javaproxy/Connection.java" timestamp="1550175730144">
-        <mark key="[" line="355" column="0" />
-        <mark key="]" line="355" column="0" />
-        <mark key="." line="355" column="0" />
-        <mark key="^" line="223" column="41" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/Memptr.java" timestamp="1550095034058">
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="2" column="54" />
-        <mark key="^" line="2" column="54" />
-        <mark key="." line="2" column="54" />
-      </file>
       <file name="$USER_HOME$/AppData/Local/Temp/DatatypeConverter.java" timestamp="1552055434814">
         <mark key="'" line="611" column="28" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/statediagram/NullStateDiagram.java" timestamp="1551976456328">
-        <mark key="'" line="32" column="20" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="36" column="20" />
-        <mark key="." line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/ResultSetHolder.java" timestamp="1550675512046">
-        <mark key="[" line="32" column="13" />
-        <mark key="]" line="32" column="21" />
-        <mark key="." line="32" column="21" />
-        <mark key="^" line="32" column="21" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/LaborM.java" timestamp="1551449366879">
-        <mark key="[" line="70" column="23" />
-        <mark key="]" line="74" column="34" />
-        <mark key="^" line="74" column="34" />
-        <mark key="." line="74" column="34" />
       </file>
       <file name="C:/Progress/OpenEdge/jdk/src.zip!/javax/imageio/IIOImage.java" timestamp="1551997394853">
         <mark key="'" line="91" column="48" />
       </file>
-      <file name="$USER_HOME$/dev/scanner/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/ControlGuiR.java" timestamp="1551974460831">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="24" />
-        <mark key="." line="16" column="23" />
-        <mark key="^" line="16" column="23" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/Handle.java" timestamp="1550095082200">
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="2" column="54" />
-        <mark key="^" line="2" column="54" />
-        <mark key="." line="2" column="54" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/ISDOFactory.java" timestamp="1550867948549">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="13" column="1" />
-        <mark key="." line="8" column="6" />
-        <mark key="^" line="8" column="6" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/commonproxy/exception/LogException.java" timestamp="1550703185400">
-        <mark key="[" line="0" column="38" />
-        <mark key="]" line="0" column="43" />
-        <mark key="^" line="0" column="43" />
-        <mark key="." line="0" column="43" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" timestamp="1551822748230">
-        <mark key="'" line="119" column="27" />
-        <mark key="[" line="254" column="8" />
-        <mark key="]" line="254" column="10" />
-        <mark key="." line="254" column="10" />
-        <mark key="^" line="254" column="10" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/gui/common/SignOnFrameP.java" timestamp="1551996143487">
-        <mark key="'" line="178" column="3" />
-        <mark key="[" line="167" column="76" />
-        <mark key="]" line="167" column="77" />
-        <mark key="." line="167" column="77" />
-        <mark key="^" line="167" column="77" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1552326172816">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
-        <mark key="^" line="0" column="32" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/PutAway.java" timestamp="1551391719052">
-        <mark key="[" line="234" column="25" />
-        <mark key="]" line="240" column="36" />
-        <mark key="^" line="240" column="36" />
-        <mark key="." line="240" column="36" />
+      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/List.java" timestamp="1552424861698">
+        <mark key="'" line="1285" column="34" />
       </file>
       <file name="C:/Progress/OpenEdge/jdk/src.zip!/java/util/EnumSet.java" timestamp="1551972218163">
         <mark key="'" line="365" column="74" />
       </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/dynamicapi/SessionPool.java" timestamp="1552403723570" />
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/extension/java/sql/ResultSetToStringDecorator.java" timestamp="1551886002740">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="50" />
-        <mark key="^" line="10" column="50" />
-        <mark key="." line="10" column="50" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/SDOParameters.java" timestamp="1550610731938">
-        <mark key="[" line="43" column="43" />
-        <mark key="]" line="43" column="71" />
-        <mark key="^" line="43" column="71" />
-        <mark key="." line="43" column="71" />
-      </file>
       <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/ApplicationResources.properties" timestamp="1551897841987">
         <mark key="'" line="37" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/scanner/openjdk-logging/src/main/java/com/dandh/scanner/java/util/logging/Handler.java" timestamp="1551190569864">
-        <mark key="[" line="282" column="49" />
-        <mark key="]" line="282" column="7" />
-        <mark key="^" line="282" column="7" />
-        <mark key="." line="282" column="7" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/SystemErrorException.java" timestamp="1550772950690">
-        <mark key="[" line="17" column="43" />
-        <mark key="]" line="17" column="43" />
-        <mark key="^" line="17" column="43" />
-        <mark key="." line="17" column="43" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/common/Util.java" timestamp="1551984253976">
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="2" column="12" />
-        <mark key="^" line="2" column="12" />
-        <mark key="." line="2" column="12" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/ResultSetHolder.java" timestamp="1550867050115">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="29" column="5" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="23" column="58" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/hal/TextinputScanner.java" timestamp="1551192121658">
-        <mark key="[" line="34" column="44" />
-        <mark key="]" line="34" column="60" />
-        <mark key="^" line="34" column="60" />
-        <mark key="." line="34" column="60" />
-      </file>
-      <file name="/fragment.java" timestamp="1552416687829">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="3" column="26" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/AWTEvent.java" timestamp="1552419779261">
+        <mark key="'" line="469" column="42" />
       </file>
       <file name="$USER_HOME$/Downloads/jdk11-source-code/src/java.base/share/classes/java/lang/Integer.java" timestamp="1552310055530">
         <mark key="'" line="1027" column="16" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="720" column="33" filename="C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/awt/Container.java" />
-      <jump line="802" column="37" filename="C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/awt/Container.java" />
-      <jump line="864" column="53" filename="C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/awt/Container.java" />
-      <jump line="865" column="29" filename="C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/awt/Container.java" />
-      <jump line="866" column="29" filename="C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/awt/Container.java" />
-      <jump line="867" column="45" filename="C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/awt/Container.java" />
-      <jump line="868" column="67" filename="C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/awt/Container.java" />
-      <jump line="869" column="23" filename="C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/awt/Container.java" />
-      <jump line="2281" column="49" filename="C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/awt/Container.java" />
-      <jump line="2283" column="39" filename="C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/awt/Container.java" />
-      <jump line="2491" column="25" filename="C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/awt/Container.java" />
-      <jump line="2523" column="18" filename="C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/awt/Container.java" />
-      <jump line="2748" column="9" filename="C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/awt/Container.java" />
-      <jump line="2779" column="14" filename="C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/awt/Container.java" />
-      <jump line="2800" column="62" filename="C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/awt/Container.java" />
-      <jump line="4990" column="32" filename="$USER_HOME$/Downloads/jdk11-source-code/src/java.desktop/share/classes/java/awt/Container.java" />
-      <jump line="287" column="19" filename="$USER_HOME$/Downloads/jdk11-source-code/src/java.desktop/share/classes/java/awt/Container.java" />
-      <jump line="292" column="57" filename="$USER_HOME$/Downloads/jdk11-source-code/src/java.desktop/share/classes/java/awt/Container.java" />
-      <jump line="676" column="22" filename="$USER_HOME$/Downloads/jdk11-source-code/src/java.desktop/share/classes/java/awt/Container.java" />
-      <jump line="682" column="66" filename="$USER_HOME$/Downloads/jdk11-source-code/src/java.desktop/share/classes/java/awt/Container.java" />
-      <jump line="684" column="15" filename="$USER_HOME$/Downloads/jdk11-source-code/src/java.desktop/share/classes/java/awt/Container.java" />
-      <jump line="712" column="21" filename="$USER_HOME$/Downloads/jdk11-source-code/src/java.desktop/share/classes/java/awt/Container.java" />
-      <jump line="713" column="21" filename="$USER_HOME$/Downloads/jdk11-source-code/src/java.desktop/share/classes/java/awt/Container.java" />
-      <jump line="714" column="37" filename="$USER_HOME$/Downloads/jdk11-source-code/src/java.desktop/share/classes/java/awt/Container.java" />
-      <jump line="715" column="15" filename="$USER_HOME$/Downloads/jdk11-source-code/src/java.desktop/share/classes/java/awt/Container.java" />
-      <jump line="716" column="47" filename="$USER_HOME$/Downloads/jdk11-source-code/src/java.desktop/share/classes/java/awt/Container.java" />
       <jump line="718" column="28" filename="$USER_HOME$/Downloads/jdk11-source-code/src/java.desktop/share/classes/java/awt/Container.java" />
       <jump line="742" column="33" filename="$USER_HOME$/Downloads/jdk11-source-code/src/java.desktop/share/classes/java/awt/Container.java" />
       <jump line="825" column="37" filename="$USER_HOME$/Downloads/jdk11-source-code/src/java.desktop/share/classes/java/awt/Container.java" />
@@ -780,10 +153,70 @@
       <jump line="287" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
       <jump line="290" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
       <jump line="16" column="95" filename="$USER_HOME$/.AndroidStudio3.3/system/log/idea.log" />
+      <jump line="245" column="29" filename="$USER_HOME$/dev/android-scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" />
+      <jump line="333" column="19" filename="$USER_HOME$/dev/android-scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" />
+      <jump line="8" column="23" filename="$USER_HOME$/dev/android-scanner/RFIcAS/build.gradle" />
+      <jump line="7" column="23" filename="$USER_HOME$/dev/android-scanner/RFIcAS/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/android-scanner/RFPickAS/build.gradle" />
+      <jump line="7" column="23" filename="$USER_HOME$/dev/android-scanner/RFPickAS/build.gradle" />
+      <jump line="4" column="40" filename="$USER_HOME$/dev/android-scanner/RFRecvAS/build.gradle" />
+      <jump line="7" column="23" filename="$USER_HOME$/dev/android-scanner/RFRecvAS/build.gradle" />
+      <jump line="873" column="12" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/java/awt/Component.java" />
+      <jump line="415" column="6" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/java/awt/Component.java" />
+      <jump line="780" column="23" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/java/awt/Window.java" />
+      <jump line="14" column="30" filename="$USER_HOME$/dev/android-scanner/app/build.gradle" />
+      <jump line="4065" column="49" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/java/awt/Window.java" />
+      <jump line="110" column="47" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/List.java" />
+      <jump line="1225" column="14" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/Component.java" />
+      <jump line="255" column="39" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/List.java" />
+      <jump line="803" column="11" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/List.java" />
+      <jump line="226" column="68" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/Component.java" />
+      <jump line="469" column="42" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/AWTEvent.java" />
+      <jump line="216" column="35" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/Component.java" />
+      <jump line="245" column="13" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/Component.java" />
+      <jump line="9530" column="10" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/Component.java" />
+      <jump line="849" column="12" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/Component.java" />
+      <jump line="834" column="46" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/Component.java" />
+      <jump line="112" column="52" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/GraphicsCallback.java" />
+      <jump line="1285" column="34" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/List.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;Murphy!0955&quot;</text>
+        <text>import java.awt.Toolkit;
+import java.awt.dnd.DropTarget;
+import java.awt.event.ActionEvent;
+import java.awt.event.AdjustmentEvent;
+import java.awt.event.ComponentEvent;
+import java.awt.event.ComponentListener;
+import java.awt.event.FocusEvent;
+import java.awt.event.FocusListener;
+import java.awt.event.HierarchyBoundsListener;
+import java.awt.event.HierarchyEvent;
+import java.awt.event.HierarchyListener;
+import java.awt.event.InputEvent;
+import java.awt.event.InputMethodEvent;
+import java.awt.event.InputMethodListener;
+import java.awt.event.ItemEvent;
+import java.awt.event.KeyEvent;
+import java.awt.event.KeyListener;
+import java.awt.event.MouseEvent;
+import java.awt.event.MouseListener;
+import java.awt.event.MouseMotionListener;
+import java.awt.event.MouseWheelEvent;
+import java.awt.event.MouseWheelListener;
+import java.awt.event.PaintEvent;
+import java.awt.event.TextEvent;
+import java.awt.event.WindowEvent;
+import java.awt.im.InputContext;
+import java.awt.im.InputMethodRequests;
+import java.awt.image.BufferStrategy;
+import java.awt.image.ColorModel;
+import java.awt.image.ImageObserver;
+import java.awt.image.ImageProducer;
+import java.awt.image.VolatileImage;
+import java.awt.peer.ComponentPeer;
+import java.awt.peer.ContainerPeer;
+import java.awt.peer.LightweightPeer;</text>
       </register>
       <register name="i" type="4">
         <text>pu</text>
@@ -885,16 +318,50 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;Murphy!0955&quot;</text>
+        <text>Component</text>
       </register>
       <register name="/" type="4">
-        <text>:</text>
+        <text encoding="base64">XDxnZXRDb21wb25lbnRGYWN0b3J5XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgIC4vZ3JhZGxldyBhZGRDcmVkZW50aWFscyAtLWtleSB1c2VybmFtZSAtLXZhbHVlIDx5b3VyIHVzZXJuYW1lPgo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGVPcHRpb25zIHsKICAgICAgICBzb3VyY2VDb21wYXRpYmlsaXR5IEphdmFWZXJzaW9uLlZFUlNJT05fMV84CiAgICAgICAgdGFyZ2V0Q29tcGF0aWJpbGl0eSBKYXZhVmVyc2lvbi5WRVJTSU9OXzFfOAogICAgfQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
+      <register name="1" type="4">
+        <text>import java.awt.Toolkit;
+import java.awt.dnd.DropTarget;
+import java.awt.event.ActionEvent;
+import java.awt.event.AdjustmentEvent;
+import java.awt.event.ComponentEvent;
+import java.awt.event.ComponentListener;
+import java.awt.event.FocusEvent;
+import java.awt.event.FocusListener;
+import java.awt.event.HierarchyBoundsListener;
+import java.awt.event.HierarchyEvent;
+import java.awt.event.HierarchyListener;
+import java.awt.event.InputEvent;
+import java.awt.event.InputMethodEvent;
+import java.awt.event.InputMethodListener;
+import java.awt.event.ItemEvent;
+import java.awt.event.KeyEvent;
+import java.awt.event.KeyListener;
+import java.awt.event.MouseEvent;
+import java.awt.event.MouseListener;
+import java.awt.event.MouseMotionListener;
+import java.awt.event.MouseWheelEvent;
+import java.awt.event.MouseWheelListener;
+import java.awt.event.PaintEvent;
+import java.awt.event.TextEvent;
+import java.awt.event.WindowEvent;
+import java.awt.im.InputContext;
+import java.awt.im.InputMethodRequests;
+import java.awt.image.BufferStrategy;
+import java.awt.image.ColorModel;
+import java.awt.image.ImageObserver;
+import java.awt.image.ImageProducer;
+import java.awt.image.VolatileImage;
+import java.awt.peer.ComponentPeer;
+import java.awt.peer.ContainerPeer;
+import java.awt.peer.LightweightPeer;</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -914,22 +381,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuYXd0LkFXVEV2ZW50OwppbXBvcnQgamF2YS5hd3QuQVdURXZlbnRNdWx0aWNhc3RlcjsKaW1wb3J0IGphdmEuYXd0LkNvbG9yOwppbXBvcnQgamF2YS5hd3QuQ3Vyc29yOwppbXBvcnQgamF2YS5hd3QuRGltZW5zaW9uOwppbXBvcnQgamF2YS5hd3QuRm9udDsKaW1wb3J0IGphdmEuYXd0LkZvbnRNZXRyaWNzOwppbXBvcnQgamF2YS5hd3QuSGVhZGxlc3NFeGNlcHRpb247CmltcG9ydCBqYXZhLmF3dC5JbGxlZ2FsQ29tcG9uZW50U3RhdGVFeGNlcHRpb247CmltcG9ydCBqYXZhLmF3dC5JdGVtU2VsZWN0YWJsZTsKaW1wb3J0IGphdmEuYXd0LlBvaW50OwppbXBvcnQgamF2YS5hd3QuUmVjdGFuZ2xlOwppbXBvcnQgamF2YS5hd3QuZXZlbnQuQWN0aW9uRXZlbnQ7CmltcG9ydCBqYXZhLmF3dC5ldmVudC5BY3Rpb25MaXN0ZW5lcjsKaW1wb3J0IGphdmEuYXd0LmV2ZW50LkZvY3VzTGlzdGVuZXI7CmltcG9ydCBqYXZhLmF3dC5ldmVudC5JdGVtRXZlbnQ7CmltcG9ydCBqYXZhLmF3dC5ldmVudC5JdGVtTGlzdGVuZXI7CmltcG9ydCBqYXZhLmF3dC5wZWVyLkxpc3RQZWVyOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuYXd0Lkl0ZW1TZWxlY3RhYmxlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gUnVuOgo=</text>
+        <text encoding="base64">ICAgICAgICBuZXQuamF2YS5vcGVuamRrLmphdmEuYXd0Lkxpc3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gU2VlIGh0dHBzOi8vZ2l0aHViLmNvbS9ldGllbm5lc3R1ZGVyL2dyYWRsZS1jcmVkZW50aWFscy1wbHVnaW4K</text>
+        <text encoding="base64">CQogICAgcHJpdmF0ZSBWZWN0b3Igcm93czsKICAgIHByaXZhdGUgaW50ICAgIHJvd051bTsKICAgIHByaXZhdGUgVmVjdG9yIGN1cnJlbnRSb3c7Cglwcml2YXRlIFN0cmluZ0J1ZmZlciBybHA9bnVsbDsKCXByaXZhdGUgTGlzdCBybHBJdGVtTGlzdDsKCXByaXZhdGUgTGlzdCByZXBsZW5JdGVtTGlzdDsKCXByaXZhdGUgU3RyaW5nQnVmZmVyIHJldHVyblZhbHVlOwoJcHJpdmF0ZSBTdHJpbmdCdWZmZXIgcHJldlRhc2tTdGF0dXM7Cglwcml2YXRlIFN0cmluZyBkb2NUeXBlPW51bGw7Cglwcml2YXRlIGJvb2xlYW4gZGlyZWN0ZWRQdXRhd2F5PWZhbHNlOwoJCQoJLyoqCgkgKiBAcmV0dXJuIHRoZSBkb2NUeXBlCgkgKi8KCXB1YmxpYyBTdHJpbmcgZ2V0RG9jVHlwZSgpIHsKCQlyZXR1cm4gZG9jVHlwZTsKCX0KCgkvKioKCSAqIEBwYXJhbSBkb2NUeXBlIHRoZSBkb2NUeXBlIHRvIHNldAoJICovCglwdWJsaWMgdm9pZCBzZXREb2NUeXBlKFN0cmluZyBkb2NUeXBlKSB7CgkJdGhpcy5kb2NUeXBlID0gZG9jVHlwZTsKCX0KCglwdWJsaWMgUmxwKFN0cmluZyBybHAsIFN0cmluZyBkb2NUeXBlKSB7CgkJdGhpcy5ybHAgPSBuZXcgU3RyaW5nQnVmZmVyKCkuYXBwZW5kKHJscCk7CgkJdGhpcy5zZXREb2NUeXBlKGRvY1R5cGUpOwogICAgfQoKICAgIHB1YmxpYyBSbHAgKEludGVnZXIgc2Vzc2lvbklkLCBJdGVtIGl0ZW0pIHsKICAgICAgICByb3dzID0gbmV3IFZlY3RvcigpOwogICAgICAgIFZlY3RvciByb3c7CiAgICAgICAgcm93ID0gbmV3IFZlY3RvcigpOwogICAgICAgIHJvdy5hZGRFbGVtZW50KHNlc3Npb25JZCk7CiAgICAgICAgcm93LmFkZEVsZW1lbnQobmV3IEludGVnZXIoaXRlbS5nZXRQb05vKCkpKTsKICAgICAgICByb3cuYWRkRWxlbWVudChpdGVtLmdldEl0ZW1JZCgpKTsKICAgICAgICByb3cuYWRkRWxlbWVudChpdGVtLmdldFRyYWNraW5nTm9zKCkudG9TdHJpbmcoKSk7CiAgICAgICAgcm93LmFkZEVsZW1lbnQobmV3IEludGVnZXIoaXRlbS5nZXRSZWNlaXB0UXR5KCkpKTsKICAgICAgICByb3cuYWRkRWxlbWVudChuZXcgSW50ZWdlcihpdGVtLmdldFVuaXRzUGVyQ2FydG9uKCkpKTsKLy8gICAgICAgIHJvdy5hZGRFbGVtZW50KG5ldyBCb29sZWFuKGl0ZW0uaXNFeGNsdXNpdmVSTFAoKSkpOwogICAgICAgIHJvdy5hZGRFbGVtZW50KG5ldyBCb29sZWFuKGl0ZW0uaXNDQ0FSZXNlcnZlZEluZCgpKSk7CiAgICAgICAgcm93LmFkZEVsZW1lbnQobmV3IEludGVnZXIoaXRlbS5nZXRSZWZ1c2VkUXR5KCkpKTsKICAgIAlpZiAoIShpdGVtLmdldFJlZnVzZWRSZWFzb24oKSA9PSBudWxsKSkgCiAgICAJCXJvdy5hZGRFbGVtZW50KGl0ZW0uZ2V0UmVmdXNlZFJlYXNvbigpLnRvU3RyaW5nKCkpOwogICAgCWVsc2UKICAgIAkJcm93LmFkZEVsZW1lbnQoIiIpOwogICAgCWlmICghKGl0ZW0uZ2V0UmVmdXNlZFRyYWNrTm8oKSA9PSBudWxsKSkgCiAgICAJCXJvdy5hZGRFbGVtZW50KGl0ZW0uZ2V0UmVmdXNlZFRyYWNrTm8oKS50b1N0cmluZygpKTsKICAgIAllbHNlCiAgICAJCXJvdy5hZGRFbGVtZW50KCIiKTsKICAgIAkKICAgIAlyb3cuYWRkRWxlbWVudChuZXcgSW50ZWdlcihpdGVtLmdldERhbWFnZWRRdHkoKSkpOwogICAgCWlmICghKGl0ZW0uZ2V0RGFtYWdlZFJlYXNvbigpID09IG51bGwpKQogICAgCQlyb3cuYWRkRWxlbWVudChpdGVtLmdldERhbWFnZWRSZWFzb24oKS50b1N0cmluZygpKTsKICAgIAllbHNlCiAgICAJCXJvdy5hZGRFbGVtZW50KCIiKTsKICAgIAlpZiAoIShpdGVtLmdldERhbWFnZWRUcmFja05vKCkgPT0gbnVsbCkpCiAgICAJCXJvdy5hZGRFbGVtZW50KGl0ZW0uZ2V0RGFtYWdlZFRyYWNrTm8oKS50b1N0cmluZygpKTsKICAgIAllbHNlCiAgICAJCXJvdy5hZGRFbGVtZW50KCIiKTsKICAgICAgIAlyb3cuYWRkRWxlbWVudChuZXcgSW50ZWdlcihpdGVtLmdldENvbmNTaG9ydGFnZVF0eSgpKSk7CiAgICAgICAJaWYgKCEoaXRlbS5nZXRDb25jU2hvcnRhZ2VUcmFja05vKCkgPT0gbnVsbCkpCiAgICAgICAJCXJvdy5hZGRFbGVtZW50KGl0ZW0uZ2V0Q29uY1Nob3J0YWdlVHJhY2tObygpLnRvU3RyaW5nKCkpOwogICAgICAgCWVsc2UKICAgICAgIAkJcm93LmFkZEVsZW1lbnQoIiIpOwogICAgICAgCXJvdy5hZGRFbGVtZW50KG5ldyBCb29sZWFuKGl0ZW0uaXNJdGVtSW5QYWNraW5nU2xpcCgpKSk7CiAgICAgICAgcm93LmFkZEVsZW1lbnQobmV3IEJvb2xlYW4oaXRlbS5pc092ZXJhZ2VGbGFnKCkpKTsKICAgICAgICAKICAgICAgICByb3dzLmFkZEVsZW1lbnQocm93KTsKICAgICAgICBjdXJyZW50Um93ID0gbnVsbDsKICAgICAgICByb3dOdW0gPSAwOwogICAgfQogICAgCglwdWJsaWMgT2JqZWN0IGdldE9iamVjdChpbnQgcG9zKSB7CgkJcmV0dXJuIGN1cnJlbnRSb3cuZWxlbWVudEF0KHBvcyAtIDEpOwoJfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIFJvd0lkIGdldFJvd0lkKGludCBpKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICB0aHJvdyBuZXcgU1FMRXhjZXB0aW9uKCk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgUm93SWQgZ2V0Um93SWQoU3RyaW5nIHMpIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgIHRocm93IG5ldyBTUUxFeGNlcHRpb24oKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIHVwZGF0ZVJvd0lkKGludCBpLCBSb3dJZCByb3dJZCkgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgdGhyb3cgbmV3IFNRTEV4Y2VwdGlvbigpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgdXBkYXRlUm93SWQoU3RyaW5nIHMsIFJvd0lkIHJvd0lkKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICB0aHJvdyBuZXcgU1FMRXhjZXB0aW9uKCk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgaW50IGdldEhvbGRhYmlsaXR5KCkgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgdGhyb3cgbmV3IFNRTEV4Y2VwdGlvbigpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIGJvb2xlYW4gaXNDbG9zZWQoKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICB0aHJvdyBuZXcgU1FMRXhjZXB0aW9uKCk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCB1cGRhdGVOU3RyaW5nKGludCBpLCBTdHJpbmcgcykgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgdGhyb3cgbmV3IFNRTEV4Y2VwdGlvbigpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgdXBkYXRlTlN0cmluZyhTdHJpbmcgcywgU3RyaW5nIHMxKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICB0aHJvdyBuZXcgU1FMRXhjZXB0aW9uKCk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCB1cGRhdGVOQ2xvYihpbnQgaSwgTkNsb2IgbkNsb2IpIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgIHRocm93IG5ldyBTUUxFeGNlcHRpb24oKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIHVwZGF0ZU5DbG9iKFN0cmluZyBzLCBOQ2xvYiBuQ2xvYikgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgdGhyb3cgbmV3IFNRTEV4Y2VwdGlvbigpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIE5DbG9iIGdldE5DbG9iKGludCBpKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICB0aHJvdyBuZXcgU1FMRXhjZXB0aW9uKCk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgTkNsb2IgZ2V0TkNsb2IoU3RyaW5nIHMpIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgIHRocm93IG5ldyBTUUxFeGNlcHRpb24oKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBTUUxYTUwgZ2V0U1FMWE1MKGludCBpKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICB0aHJvdyBuZXcgU1FMRXhjZXB0aW9uKCk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgU1FMWE1MIGdldFNRTFhNTChTdHJpbmcgcykgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgdGhyb3cgbmV3IFNRTEV4Y2VwdGlvbigpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgdXBkYXRlU1FMWE1MKGludCBpLCBTUUxYTUwgc3FseG1sKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICB0aHJvdyBuZXcgU1FMRXhjZXB0aW9uKCk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCB1cGRhdGVTUUxYTUwoU3RyaW5nIHMsIFNRTFhNTCBzcWx4bWwpIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgIHRocm93IG5ldyBTUUxFeGNlcHRpb24oKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBTdHJpbmcgZ2V0TlN0cmluZyhpbnQgaSkgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgdGhyb3cgbmV3IFNRTEV4Y2VwdGlvbigpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyBnZXROU3RyaW5nKFN0cmluZyBzKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICB0aHJvdyBuZXcgU1FMRXhjZXB0aW9uKCk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgUmVhZGVyIGdldE5DaGFyYWN0ZXJTdHJlYW0oaW50IGkpIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgIHRocm93IG5ldyBTUUxFeGNlcHRpb24oKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBSZWFkZXIgZ2V0TkNoYXJhY3RlclN0cmVhbShTdHJpbmcgcykgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgdGhyb3cgbmV3IFNRTEV4Y2VwdGlvbigpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgdXBkYXRlTkNoYXJhY3RlclN0cmVhbShpbnQgaSwgUmVhZGVyIHJlYWRlciwgbG9uZyBsKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICB0aHJvdyBuZXcgU1FMRXhjZXB0aW9uKCk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCB1cGRhdGVOQ2hhcmFjdGVyU3RyZWFtKFN0cmluZyBzLCBSZWFkZXIgcmVhZGVyLCBsb25nIGwpIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgIHRocm93IG5ldyBTUUxFeGNlcHRpb24oKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIHVwZGF0ZUFzY2lpU3RyZWFtKGludCBpLCBJbnB1dFN0cmVhbSBpbnB1dFN0cmVhbSwgbG9uZyBsKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICB0aHJvdyBuZXcgU1FMRXhjZXB0aW9uKCk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCB1cGRhdGVCaW5hcnlTdHJlYW0oaW50IGksIElucHV0U3RyZWFtIGlucHV0U3RyZWFtLCBsb25nIGwpIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgIHRocm93IG5ldyBTUUxFeGNlcHRpb24oKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIHVwZGF0ZUNoYXJhY3RlclN0cmVhbShpbnQgaSwgUmVhZGVyIHJlYWRlciwgbG9uZyBsKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICB0aHJvdyBuZXcgU1FMRXhjZXB0aW9uKCk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCB1cGRhdGVBc2NpaVN0cmVhbShTdHJpbmcgcywgSW5wdXRTdHJlYW0gaW5wdXRTdHJlYW0sIGxvbmcgbCkgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgdGhyb3cgbmV3IFNRTEV4Y2VwdGlvbigpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgdXBkYXRlQmluYXJ5U3RyZWFtKFN0cmluZyBzLCBJbnB1dFN0cmVhbSBpbnB1dFN0cmVhbSwgbG9uZyBsKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICB0aHJvdyBuZXcgU1FMRXhjZXB0aW9uKCk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCB1cGRhdGVDaGFyYWN0ZXJTdHJlYW0oU3RyaW5nIHMsIFJlYWRlciByZWFkZXIsIGxvbmcgbCkgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgdGhyb3cgbmV3IFNRTEV4Y2VwdGlvbigpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgdXBkYXRlQmxvYihpbnQgaSwgSW5wdXRTdHJlYW0gaW5wdXRTdHJlYW0sIGxvbmcgbCkgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgdGhyb3cgbmV3IFNRTEV4Y2VwdGlvbigpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgdXBkYXRlQmxvYihTdHJpbmcgcywgSW5wdXRTdHJlYW0gaW5wdXRTdHJlYW0sIGxvbmcgbCkgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgdGhyb3cgbmV3IFNRTEV4Y2VwdGlvbigpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgdXBkYXRlQ2xvYihpbnQgaSwgUmVhZGVyIHJlYWRlciwgbG9uZyBsKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICB0aHJvdyBuZXcgU1FMRXhjZXB0aW9uKCk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCB1cGRhdGVDbG9iKFN0cmluZyBzLCBSZWFkZXIgcmVhZGVyLCBsb25nIGwpIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgIHRocm93IG5ldyBTUUxFeGNlcHRpb24oKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIHVwZGF0ZU5DbG9iKGludCBpLCBSZWFkZXIgcmVhZGVyLCBsb25nIGwpIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgIHRocm93IG5ldyBTUUxFeGNlcHRpb24oKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIHVwZGF0ZU5DbG9iKFN0cmluZyBzLCBSZWFkZXIgcmVhZGVyLCBsb25nIGwpIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgIHRocm93IG5ldyBTUUxFeGNlcHRpb24oKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIHVwZGF0ZU5DaGFyYWN0ZXJTdHJlYW0oaW50IGksIFJlYWRlciByZWFkZXIpIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgIHRocm93IG5ldyBTUUxFeGNlcHRpb24oKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIHVwZGF0ZU5DaGFyYWN0ZXJTdHJlYW0oU3RyaW5nIHMsIFJlYWRlciByZWFkZXIpIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgIHRocm93IG5ldyBTUUxFeGNlcHRpb24oKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIHVwZGF0ZUFzY2lpU3RyZWFtKGludCBpLCBJbnB1dFN0cmVhbSBpbnB1dFN0cmVhbSkgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgdGhyb3cgbmV3IFNRTEV4Y2VwdGlvbigpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgdXBkYXRlQmluYXJ5U3RyZWFtKGludCBpLCBJbnB1dFN0cmVhbSBpbnB1dFN0cmVhbSkgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgdGhyb3cgbmV3IFNRTEV4Y2VwdGlvbigpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgdXBkYXRlQ2hhcmFjdGVyU3RyZWFtKGludCBpLCBSZWFkZXIgcmVhZGVyKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICB0aHJvdyBuZXcgU1FMRXhjZXB0aW9uKCk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCB1cGRhdGVBc2NpaVN0cmVhbShTdHJpbmcgcywgSW5wdXRTdHJlYW0gaW5wdXRTdHJlYW0pIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgIHRocm93IG5ldyBTUUxFeGNlcHRpb24oKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIHVwZGF0ZUJpbmFyeVN0cmVhbShTdHJpbmcgcywgSW5wdXRTdHJlYW0gaW5wdXRTdHJlYW0pIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgIHRocm93IG5ldyBTUUxFeGNlcHRpb24oKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIHVwZGF0ZUNoYXJhY3RlclN0cmVhbShTdHJpbmcgcywgUmVhZGVyIHJlYWRlcikgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgdGhyb3cgbmV3IFNRTEV4Y2VwdGlvbigpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgdXBkYXRlQmxvYihpbnQgaSwgSW5wdXRTdHJlYW0gaW5wdXRTdHJlYW0pIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgIHRocm93IG5ldyBTUUxFeGNlcHRpb24oKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIHVwZGF0ZUJsb2IoU3RyaW5nIHMsIElucHV0U3RyZWFtIGlucHV0U3RyZWFtKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICB0aHJvdyBuZXcgU1FMRXhjZXB0aW9uKCk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCB1cGRhdGVDbG9iKGludCBpLCBSZWFkZXIgcmVhZGVyKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICB0aHJvdyBuZXcgU1FMRXhjZXB0aW9uKCk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCB1cGRhdGVDbG9iKFN0cmluZyBzLCBSZWFkZXIgcmVhZGVyKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICB0aHJvdyBuZXcgU1FMRXhjZXB0aW9uKCk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCB1cGRhdGVOQ2xvYihpbnQgaSwgUmVhZGVyIHJlYWRlcikgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgdGhyb3cgbmV3IFNRTEV4Y2VwdGlvbigpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgdXBkYXRlTkNsb2IoU3RyaW5nIHMsIFJlYWRlciByZWFkZXIpIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgIHRocm93IG5ldyBTUUxFeGNlcHRpb24oKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyA8VD4gVCBnZXRPYmplY3QoaW50IGksIENsYXNzPFQ+IGFDbGFzcykgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgdGhyb3cgbmV3IFNRTEV4Y2VwdGlvbigpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIDxUPiBUIGdldE9iamVjdChTdHJpbmcgcywgQ2xhc3M8VD4gYUNsYXNzKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICB0aHJvdyBuZXcgU1FMRXhjZXB0aW9uKCk7CiAgICB9CgogICAgcHVibGljIGJvb2xlYW4gbmV4dCgpIHsKICAgICAgICB0cnkKICAgICAgICB7CiAgICAgICAgICAgIGN1cnJlbnRSb3cgPSAoVmVjdG9yKXJvd3MuZWxlbWVudEF0KHJvd051bSsrKTsKICAgICAgICB9CiAgICAgICAgY2F0Y2ggKEV4Y2VwdGlvbiBlKSAKICAgICAgICB7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIHRydWU7Cgl9CgoJICBwdWJsaWMgTGlzdCBybHBJdGVtTGlzdChJbnRlZ2VyIHNlc3Npb25JZCwgU3RyaW5nIFJMUCwgaW50IHBhc3MsIGJvb2xlYW4gaXNNdWx0aVJMUCwgbmV0LmphdmEub3Blbmpkay5qYXZhLmF3dC5ldmVudCBuZXQuamF2YS5vcGVuamRrLmphdmEuYXd0Lkxpc3QgZG9jTGlzdCwKCQkJICAJCQkJICBib29sZWFuIHJlc2V0SXRlbVNraXAsIGJvb2xlYW4gY3JlYXRlTEJSLCBPcGVuQXBwT2JqZWN0IGFwcG9iaikgCgkJdGhyb3dzIENvbm5lY3RFeGNlcHRpb24sIAoJCQkgICBTeXN0ZW1FcnJvckV4Y2VwdGlvbiwgCgkJCSAgIE9wZW40R0xFeGNlcHRpb24sIAoJCQkgICBJT0V4Y2VwdGlvbiwgU1FMRXhjZXB0aW9uIAp7CgkJLy8gZGVmaW5lIGRhdGEgaG9sZGVycwoJCXRoaXMucmV0dXJuVmFsdWUgPSBuZXcgU3RyaW5nQnVmZmVyKCk7CgkJU3RyaW5nSG9sZGVyIHJ0blZhbHVlID0gbmV3IFN0cmluZ0hvbGRlcigpOwoJCVN0cmluZyBkb2N0eXBlID0gbnVsbDsKCQkvLyBzZXQgdXAgdGhlIG1ldGEgZGF0YSAtIGlucHV0IHRoZSBudW1iZXIgb2YgZmllbGRzIGluIHRoZSB0ZW1wLXRhYmxlCgkJUHJvUmVzdWx0U2V0TWV0YURhdGFJbXBsIHByb01ldGFEYXRhID0gbmV3IFByb1Jlc3VsdFNldE1ldGFEYXRhSW1wbCgzKTsKCQkKCQlTdHJpbmcgcmxwTGlzdCA9IG51bGw7CgkJaWYgKGlzTXVsdGlSTFApIHsKCQkJaW50IGkgPSAwOwoJCQlmb3IgKGkgPSAwOyBpIDwgZG9jTGlzdC5nZXRJdGVtQ291bnQoKTsgaSsrKSB7Ci8vCQkJCVN5c3RlbS5vdXQucHJpbnRsbigiYmVmb3JlIFJQQyBDYWxsOyBSTFA6ICIgKyBkb2NMaXN0LmdldEl0ZW0oaSkpOwoJCQkJaWYgKHJscExpc3QgPT0gbnVsbCkgewoJCQkJCXJscExpc3QgPSBkb2NMaXN0LmdldEl0ZW0oaSk7CgkJCQl9IGVsc2V7CgkJCQkJcmxwTGlzdCA9IHJscExpc3QgKyAiXiIgKyBkb2NMaXN0LmdldEl0ZW0oaSk7CgkJCQl9CgkJCX0KCQl9IGVsc2UgewoJCQlybHBMaXN0ID0gUkxQOwoJCX0KCQkKCQkvLwlTeXN0ZW0ub3V0LnByaW50bG4oIlJMUDsgcmxwTGlzdDogIiArIHJscExpc3QpOwoJCQoJCS8vIG5vLiBvZiBwYXJhbWV0ZXJzCgkJUGFyYW1BcnJheSBwYXJtcyA9IG5ldyBQYXJhbUFycmF5KDExKTsKCQkgLy8gZGVmaW5lIHNjaGVtYSBmb3IgdGhlIHJlc3VsdFNldAogICAgICAgIFByb1Jlc3VsdFNldE1ldGFEYXRhSW1wbCByc1JMUHM7CiAgICAgICAgcnNSTFBzID0gbmV3IFByb1Jlc3VsdFNldE1ldGFEYXRhSW1wbCAoMSk7CiAgICAgICAgcnNSTFBzLnNldEZpZWxkTWV0YURhdGEoMSwgImNSTFAiLCAwLCBQYXJhbWV0ZXIuUFJPX0NIQVJBQ1RFUik7CiAgICAgICAgCgkJLy8gaW5wdXQKCQlwYXJtcy5hZGRJbnRlZ2VyKDAsc2Vzc2lvbklkLCBQYXJhbUFycmF5TW9kZS5JTlBVVCk7CgkJcGFybXMuYWRkQ2hhcmFjdGVyKDEsUkxQLCBQYXJhbUFycmF5TW9kZS5JTlBVVCk7CgkJcGFybXMuYWRkSW50ZWdlcigyLCBwYXNzLCBQYXJhbUFycmF5TW9kZS5JTlBVVCk7CS8vIHRyeUNvdW50CgkJcGFybXMuYWRkTG9naWNhbCgzLCBpc011bHRpUkxQLCBQYXJhbUFycmF5TW9kZS5JTlBVVCk7CgkJcGFybXMuYWRkQ2hhcmFjdGVyKDQsIHJscExpc3QsIFBhcmFtQXJyYXlNb2RlLklOUFVUKTsKCQlwYXJtcy5hZGRMb2dpY2FsKDUsIHJlc2V0SXRlbVNraXAsIFBhcmFtQXJyYXlNb2RlLklOUFVUKTsKCQlwYXJtcy5hZGRMb2dpY2FsKDYsIGNyZWF0ZUxCUiwgUGFyYW1BcnJheU1vZGUuSU5QVVQpOwoJCQoJCS8vIFNldCB0aGUgSU5QVVQgVGVtcCBUYWJsZSBzY2hlbWEgZm9yIHRoZSB6b25lIHRhYmxlIHdpdGggbnVtIGZpZWxkcyAKCQkvLyBwYXNzIHRoZSBURU1QLVRBQkxFIGFzIGEgcGFyYW1ldGVyIHRvIHRoZSBQYXJhbUFycmF5CgkJLy9vdXRwdXQKCQlwYXJtcy5hZGRDaGFyYWN0ZXIoNyxkb2N0eXBlLCBQYXJhbUFycmF5TW9kZS5PVVRQVVQpOwoJCXBhcm1zLmFkZFRhYmxlSGFuZGxlKDgsIG51bGwsUGFyYW1BcnJheU1vZGUuT1VUUFVULCBwcm9NZXRhRGF0YSk7CQoJCXBhcm1zLmFkZExvZ2ljYWwoOSwgZGlyZWN0ZWRQdXRhd2F5LCBQYXJhbUFycmF5TW9kZS5PVVRQVVQpOwoJCXBhcm1zLmFkZENoYXJhY3RlcigxMCxydG5WYWx1ZS5nZXRTdHJpbmdWYWx1ZSgpLFBhcmFtQXJyYXlNb2RlLk9VVFBVVCk7CgkJLy8gcnBjIGNhbGwKCQlhcHBvYmoucnVuUHJvYygicmV0cmlldmVSTFBSUENBUyIsIHBhcm1zKTsKCQkvLyBjcmVhdGUgYSBqYXZhIHJlc3VsdHNldCB0byBob2xkIHRoZSB0ZW1wLXRhYmxlCgkJaWYgKHBhcm1zLmdldE91dHB1dFBhcmFtZXRlcig4KSAhPSBudWxsKSB7CQkJLy8gIDYgaXMgdGhlIG51bWJlciBvZiBmaWVsZHMKCQkJcmxwSXRlbUxpc3QgPSBuZXcgQXJyYXlMaXN0KCk7CgkJCWphdmEuc3FsLlJlc3VsdFNldCBycyA9IChqYXZhLnNxbC5SZXN1bHRTZXQpcGFybXMuZ2V0T3V0cHV0UGFyYW1ldGVyKDgpOwoJCQl3aGlsZSAocnMubmV4dCgpKXsKCQkgICAgCVJscEl0ZW0gcmxwSXRlbSA9IG5ldyBSbHBJdGVtKCk7CgkJICAgIAlybHBJdGVtLnNldFJscChuZXcgU3RyaW5nQnVmZmVyKCkuYXBwZW5kKHJzLmdldFN0cmluZygicmxwIikpKTsKCQkgICAgCXJscEl0ZW0uc2V0TG9jYXRpb24obmV3IFN0cmluZ0J1ZmZlcigpLmFwcGVuZChycy5nZXRTdHJpbmcoImxvY2F0aW9uIikpKTsJCSAgICAJCgkJICAgIAlybHBJdGVtLnNldEl0ZW1ObyhuZXcgU3RyaW5nQnVmZmVyKCkuYXBwZW5kKHJzLmdldFN0cmluZygibW9kZWwiKSkpOwoJCSAgICAJcmxwSXRlbS5zZXRRdHkocnMuZ2V0SW50KCJxdHkiKSk7CgkJICAgIAlybHBJdGVtLnNldFByZWMobmV3IFN0cmluZ0J1ZmZlcigpLmFwcGVuZChycy5nZXRTdHJpbmcoInByZWMiKSkpOwoJCSAgICAJcmxwSXRlbS5zZXRVcGMobmV3IFN0cmluZ0J1ZmZlcigpLmFwcGVuZChycy5nZXRTdHJpbmcoInVwYyIpKSk7CgkJICAgIAlybHBJdGVtLnNldEl0ZW1EZXNjKG5ldyBTdHJpbmdCdWZmZXIoKS5hcHBlbmQocnMuZ2V0U3RyaW5nKCJpdGVtRGVzYyIpKSk7CgkJICAgIAlybHBJdGVtLnNldFZlbmRvck5hbWUobmV3IFN0cmluZ0J1ZmZlcigpLmFwcGVuZChycy5nZXRTdHJpbmcoInZlbmRvck5hbWUiKSkpOwoJCSAgICAJcmxwSXRlbUxpc3QuYWRkKHJscEl0ZW0pOwoJCQl9CgkJCXJzLmNsb3NlKCk7CgkJfQoJCS8vIGZpZWxkIHZhcmlhYmxlIGFzc2lnbm1lbnRzCgkJdGhpcy5zZXREaXJlY3RlZFB1dGF3YXkoQm9vbGVhbi52YWx1ZU9mKHBhcm1zLmdldE91dHB1dFBhcmFtZXRlcig5KS50b1N0cmluZygpKS5ib29sZWFuVmFsdWUoKSk7CgkJdGhpcy5yZXR1cm5WYWx1ZS5hcHBlbmQocGFybXMuZ2V0T3V0cHV0UGFyYW1ldGVyKDEwKS50b1N0cmluZygpKTsKCQl0aGlzLnNldERvY1R5cGUocGFybXMuZ2V0T3V0cHV0UGFyYW1ldGVyKDcpLnRvU3RyaW5nKCkpOwoJCXJldHVybiBybHBJdGVtTGlzdDsJCQp9CgkKCSAgCgkgIHB1YmxpYyBMaXN0IHJlcGxlbkl0ZW1MaXN0KEludGVnZXIgc2Vzc2lvbklkLCBTdHJpbmcgUkxQLCBpbnQgcGFzcywgU3RyaW5nIHRhc2tTdGF0dXMsIG5ldC5qYXZhLm9wZW5qZGsuamF2YS5hd3QuTGlzdCBkb2NMaXN0LAoJCQkJICBib29sZWFuIHJlc2V0SXRlbVNraXAsIGJvb2xlYW4gY3JlYXRlTEJSLCBPcGVuQXBwT2JqZWN0IGFwcG9iaikgCgkJCQkJCQkJdGhyb3dzIENvbm5lY3RFeGNlcHRpb24sIAoJCQkJCQkJCQkgICBTeXN0ZW1FcnJvckV4Y2VwdGlvbiwgCgkJCQkJCQkJCSAgIE9wZW40R0xFeGNlcHRpb24sIAoJCQkJCQkJCQkgICBJT0V4Y2VwdGlvbiwgU1FMRXhjZXB0aW9uIAoJCXsKCQkgIAoJCS8vIGRlZmluZSBkYXRhIGhvbGRlcnMKCQl0aGlzLnJldHVyblZhbHVlID0gbmV3IFN0cmluZ0J1ZmZlcigpOwoJCXRoaXMucHJldlRhc2tTdGF0dXMgPSBuZXcgU3RyaW5nQnVmZmVyKCk7CgkJU3RyaW5nSG9sZGVyIHJ0blZhbHVlID0gbmV3IFN0cmluZ0hvbGRlcigpOwoJCVN0cmluZ0hvbGRlciBwcmV2VGFza1N0YXR1cyA9IG5ldyBTdHJpbmdIb2xkZXIoKTsKCQkKCQkvLyBzZXQgdXAgdGhlIG1ldGEgZGF0YSAtIGlucHV0IHRoZSBudW1iZXIgb2YgZmllbGRzIGluIHRoZSB0ZW1wLXRhYmxlCgkJUHJvUmVzdWx0U2V0TWV0YURhdGFJbXBsIHByb01ldGFEYXRhID0gbmV3IFByb1Jlc3VsdFNldE1ldGFEYXRhSW1wbCgzKTsKCQkKCQlTdHJpbmcgcmVwbGVuTGlzdCA9IG51bGw7CgkJaWYgKGRvY0xpc3QuZ2V0SXRlbUNvdW50KCkgPiAxKSB7CgkJCWludCBpID0gMDsKCQkJZm9yIChpID0gMDsgaSA8IGRvY0xpc3QuZ2V0SXRlbUNvdW50KCk7IGkrKykgewoJCQkJLy9TeXN0ZW0ub3V0LnByaW50bG4oImJlZm9yZSBSUEMgQ2FsbDsgUmVwbGVuOiAiICsgZG9jTGlzdC5nZXRJdGVtKGkpKTsKCQkJCWlmIChyZXBsZW5MaXN0ID09IG51bGwpIHsKCQkJCQlyZXBsZW5MaXN0ID0gZG9jTGlzdC5nZXRJdGVtKGkpOwoJCQkJfSBlbHNlewoJCQkJCXJlcGxlbkxpc3QgPSByZXBsZW5MaXN0ICsgIl4iICsgZG9jTGlzdC5nZXRJdGVtKGkpOwoJCQkJfQoJCQl9CQkJCgkJfSBlbHNlIHsKCQkJcmVwbGVuTGlzdCA9IFJMUDsKCQl9CgovLwkJU3lzdGVtLm91dC5wcmludGxuKCJSZXBsZW47IHJlcGxlbkxpc3Q6ICIgKyByZXBsZW5MaXN0KTsKCQkKCQkvLyBuby4gb2YgcGFyYW1ldGVycwoJCVBhcmFtQXJyYXkgcGFybXMgPSBuZXcgUGFyYW1BcnJheSg4KTsKCQkvLyBkZWZpbmUgc2NoZW1hIGZvciB0aGUgcmVzdWx0U2V0CgkJUHJvUmVzdWx0U2V0TWV0YURhdGFJbXBsIHJzUmVwbGVuczsKCQlyc1JlcGxlbnMgPSBuZXcgUHJvUmVzdWx0U2V0TWV0YURhdGFJbXBsICgxKTsKCQlyc1JlcGxlbnMuc2V0RmllbGRNZXRhRGF0YSgxLCAiY1JMUCIsIDAsIFBhcmFtZXRlci5QUk9fQ0hBUkFDVEVSKTsKCQkKCQkvLyBpbnB1dAoJCXBhcm1zLmFkZEludGVnZXIoMCxzZXNzaW9uSWQsIFBhcmFtQXJyYXlNb2RlLklOUFVUKTsKCQlwYXJtcy5hZGRDaGFyYWN0ZXIoMSwgcmVwbGVuTGlzdCwgUGFyYW1BcnJheU1vZGUuSU5QVVQpOwoJCXBhcm1zLmFkZEludGVnZXIoMiwgcGFzcywgUGFyYW1BcnJheU1vZGUuSU5QVVQpOwoJCXBhcm1zLmFkZENoYXJhY3RlcigzLCB0YXNrU3RhdHVzLCBQYXJhbUFycmF5TW9kZS5JTlBVVCk7CgkJcGFybXMuYWRkTG9naWNhbCg0LCBjcmVhdGVMQlIsIFBhcmFtQXJyYXlNb2RlLklOUFVUKTsKCQkJCQoJCS8vIFNldCB0aGUgSU5QVVQgVGVtcCBUYWJsZSBzY2hlbWEgZm9yIHRoZSB6b25lIHRhYmxlIHdpdGggbnVtIGZpZWxkcyAKCQkvLyBwYXNzIHRoZSBURU1QLVRBQkxFIGFzIGEgcGFyYW1ldGVyIHRvIHRoZSBQYXJhbUFycmF5CgkJLy9vdXRwdXQKCQlwYXJtcy5hZGRDaGFyYWN0ZXIoNSwgcHJldlRhc2tTdGF0dXMuZ2V0U3RyaW5nVmFsdWUoKSwgUGFyYW1BcnJheU1vZGUuT1VUUFVUKTsKCQlwYXJtcy5hZGRUYWJsZUhhbmRsZSg2LCBudWxsLFBhcmFtQXJyYXlNb2RlLk9VVFBVVCwgcHJvTWV0YURhdGEpOwkKCQlwYXJtcy5hZGRDaGFyYWN0ZXIoNyxydG5WYWx1ZS5nZXRTdHJpbmdWYWx1ZSgpLFBhcmFtQXJyYXlNb2RlLk9VVFBVVCk7CgkJCgkJLy8gcnBjIGNhbGwKCQlhcHBvYmoucnVuUHJvYygicmV0cmlldmVSZXBsZW5SUENBUyIsIHBhcm1zKTsKCQkKCQkvLyBjcmVhdGUgYSBqYXZhIHJlc3VsdHNldCB0byBob2xkIHRoZSB0ZW1wLXRhYmxlCgkJaWYgKHBhcm1zLmdldE91dHB1dFBhcmFtZXRlcig2KSAhPSBudWxsKSB7CQkJCgkJCXJlcGxlbkl0ZW1MaXN0ID0gbmV3IEFycmF5TGlzdCgpOwoJCQlqYXZhLnNxbC5SZXN1bHRTZXQgcnMgPSAoamF2YS5zcWwuUmVzdWx0U2V0KXBhcm1zLmdldE91dHB1dFBhcmFtZXRlcig2KTsKCQkJd2hpbGUgKHJzLm5leHQoKSl7CgkJCQlSbHBJdGVtIHJscEl0ZW0gPSBuZXcgUmxwSXRlbSgpOwoJCQkvLwlybHBJdGVtLnNldFJscChuZXcgU3RyaW5nQnVmZmVyKCkuYXBwZW5kKHJzLmdldFN0cmluZygiVGFza05vIikpKTsKCQkJCXJscEl0ZW0uc2V0VGFza05vKHJzLmdldEludCgiVGFza05vIikpOwoJCQkJcmxwSXRlbS5zZXRSbHAobmV3IFN0cmluZ0J1ZmZlcigpLmFwcGVuZChybHBJdGVtLmdldFRhc2tObygpKSk7CgkJCQlybHBJdGVtLnNldExvY2F0aW9uKG5ldyBTdHJpbmdCdWZmZXIoKS5hcHBlbmQocnMuZ2V0U3RyaW5nKCJMb2NhdGlvbiIpKSk7CgkJCQlybHBJdGVtLnNldExvY2F0aW9uVHlwZShuZXcgU3RyaW5nQnVmZmVyKCkuYXBwZW5kKHJzLmdldFN0cmluZygiTG9jYXRpb25UeXBlIikpKTsKCQkJCXJscEl0ZW0uc2V0SXRlbU5vKG5ldyBTdHJpbmdCdWZmZXIoKS5hcHBlbmQocnMuZ2V0U3RyaW5nKCJJdGVtTm8iKSkpOwoJCQkJcmxwSXRlbS5zZXRRdHkocnMuZ2V0SW50KCJRdHkiKSk7CgkJCQlybHBJdGVtLnNldFByZWMobmV3IFN0cmluZ0J1ZmZlcigpLmFwcGVuZChycy5nZXRTdHJpbmcoIlByZWMiKSkpOwoJCQkJcmxwSXRlbS5zZXRVcGMobmV3IFN0cmluZ0J1ZmZlcigpLmFwcGVuZChycy5nZXRTdHJpbmcoIlVwYyIpKSk7CgkJCQlybHBJdGVtLnNldENvbnNvbGlkYXRlKG5ldyBTdHJpbmdCdWZmZXIoKS5hcHBlbmQocnMuZ2V0U3RyaW5nKCJDb25zb2xpZGF0ZSIpKSk7CgkJCQlyZXBsZW5JdGVtTGlzdC5hZGQocmxwSXRlbSk7CgkJCX0KCQkJcnMuY2xvc2UoKTsKCQl9CgkJCgkJLy8gZmllbGQgdmFyaWFibGUgYXNzaWdubWVudHMKCQl0aGlzLnJldHVyblZhbHVlLmFwcGVuZChwYXJtcy5nZXRPdXRwdXRQYXJhbWV0ZXIoNykudG9TdHJpbmcoKSk7CgkJdGhpcy5wcmV2VGFza1N0YXR1cy5hcHBlbmQocGFybXMuZ2V0T3V0cHV0UGFyYW1ldGVyKDUpLnRvU3RyaW5nKCkpOwoJCXJldHVybiByZXBsZW5JdGVtTGlzdDsJCQoJfQoJICAJICAKCSAgCiAgcHVibGljIHZvaWQgdXBkUkxQU3RhdHVzKEludGVnZXIgc2Vzc2lvbklkLCBTdHJpbmcgUkxQLCBTdHJpbmcgbG9jYXRpb24sIFN0cmluZyBzdGF0dXMsCgkJICAJCQkJICAgYm9vbGVhbiBjbG9zZUxCUkFzc2lnbm1lbnQsIE9wZW5BcHBPYmplY3QgYXBwb2JqKSAKCQkJCQl0aHJvd3MgQ29ubmVjdEV4Y2VwdGlvbiwgCgkJCQkJCSAgIFN5c3RlbUVycm9yRXhjZXB0aW9uLCAKCQkJCQkJICAgT3BlbjRHTEV4Y2VwdGlvbiwgCgkJCQkJCSAgIElPRXhjZXB0aW9uLCBTUUxFeGNlcHRpb24gCiAgewoJICAvLyBkZWZpbmUgZGF0YSBob2xkZXJzCgkgIHRoaXMucmV0dXJuVmFsdWUgPSBuZXcgU3RyaW5nQnVmZmVyKCk7CgkgIFN0cmluZ0hvbGRlciBydG5WYWx1ZSA9IG5ldyBTdHJpbmdIb2xkZXIoKTsKCSAgLy8gc2V0IHVwIHRoZSBtZXRhIGRhdGEgLSBpbnB1dCB0aGUgbnVtYmVyIG9mIGZpZWxkcyBpbiB0aGUgdGVtcC10YWJsZQoJICAJCQovLwkgIFN5c3RlbS5vdXQucHJpbnRsbigiUkxQOiAiICsgUkxQKTsKCQkKCSAgLy8gbm8uIG9mIHBhcmFtZXRlcnMKCSAgUGFyYW1BcnJheSBwYXJtcyA9IG5ldyBQYXJhbUFycmF5KDYpOwoJICAvLyBkZWZpbmUgc2NoZW1hIGZvciB0aGUgcmVzdWx0U2V0CgoJICAvLyBpbnB1dAoJICBwYXJtcy5hZGRJbnRlZ2VyKDAsc2Vzc2lvbklkLCBQYXJhbUFycmF5TW9kZS5JTlBVVCk7CgkgIHBhcm1zLmFkZENoYXJhY3RlcigxLFJMUCwgUGFyYW1BcnJheU1vZGUuSU5QVVQpOwoJICBwYXJtcy5hZGRDaGFyYWN0ZXIoMiwgbG9jYXRpb24sIFBhcmFtQXJyYXlNb2RlLklOUFVUKTsKCSAgcGFybXMuYWRkQ2hhcmFjdGVyKDMsIHN0YXR1cywgUGFyYW1BcnJheU1vZGUuSU5QVVQpOwoJICBwYXJtcy5hZGRMb2dpY2FsKDQsIGNsb3NlTEJSQXNzaWdubWVudCwgUGFyYW1BcnJheU1vZGUuSU5QVVQpOwoKCSAgLy8gU2V0IHRoZSBJTlBVVCBUZW1wIFRhYmxlIHNjaGVtYSBmb3IgdGhlIHpvbmUgdGFibGUgd2l0aCBudW0gZmllbGRzIAoJICAvLyBwYXNzIHRoZSBURU1QLVRBQkxFIGFzIGEgcGFyYW1ldGVyIHRvIHRoZSBQYXJhbUFycmF5CgkgIC8vb3V0cHV0CgoJICBwYXJtcy5hZGRDaGFyYWN0ZXIoNSxydG5WYWx1ZS5nZXRTdHJpbmdWYWx1ZSgpLFBhcmFtQXJyYXlNb2RlLk9VVFBVVCk7CgkgIC8vIHJwYyBjYWxsCgkgIGFwcG9iai5ydW5Qcm9jKCJ1cGRhdGVSTFBTdGF0dXNSUENBUyIsIHBhcm1zKTsKCSAgLy8gY3JlYXRlIGEgamF2YSByZXN1bHRzZXQgdG8gaG9sZCB0aGUgdGVtcC10YWJsZQoKCSAgLy8gZmllbGQgdmFyaWFibGUgYXNzaWdubWVudHMKCSAgdGhpcy5yZXR1cm5WYWx1ZS5hcHBlbmQocGFybXMuZ2V0T3V0cHV0UGFyYW1ldGVyKDUpLnRvU3RyaW5nKCkpOwoJICAJCQogIH0KCSAgCSAgCgkKCS8qKgoJICogQHJldHVybiBSZXR1cm5zIHRoZSBybHAuCgkgKi8KCXB1YmxpYyBTdHJpbmdCdWZmZXIgZ2V0UmxwKCkgewoJCXJldHVybiBybHA7Cgl9CgkvKioKCSAqIEBwYXJhbSBybHAgVGhlIHJscCB0byBzZXQuCgkgKi8KCXB1YmxpYyB2b2lkIHNldFJscChTdHJpbmdCdWZmZXIgcmxwKSB7CgkJdGhpcy5ybHAgPSBybHA7Cgl9CgkvKioKCSAqIEByZXR1cm4gUmV0dXJucyB0aGUgcmxwSXRlbUxpc3QuCgkgKi8KCXB1YmxpYyBMaXN0IGdldFJscEl0ZW1MaXN0KCkgewoJCXJldHVybiBybHBJdGVtTGlzdDsKCX0KCS8qKgoJICogQHBhcmFtIHJscEl0ZW1MaXN0IFRoZSBybHBJdGVtTGlzdCB0byBzZXQuCgkgKi8KCXB1YmxpYyB2b2lkIHNldFJscEl0ZW1MaXN0KExpc3QgcmxwSXRlbUxpc3QpIHsKCQl0aGlzLnJscEl0ZW1MaXN0ID0gcmxwSXRlbUxpc3Q7Cgl9CgkvKioKCSAqIEByZXR1cm4gUmV0dXJucyB0aGUgcmxwSXRlbUxpc3QuCgkgKi8KCXB1YmxpYyBMaXN0IGdldFJlcGxlbkl0ZW1MaXN0KCkgewoJCXJldHVybiByZXBsZW5JdGVtTGlzdDsKCX0KCS8qKgoJICogQHBhcmFtIHJscEl0ZW1MaXN0IFRoZSBybHBJdGVtTGlzdCB0byBzZXQuCgkgKi8KCXB1YmxpYyB2b2lkIHNldFJlcGxlbkl0ZW1MaXN0KExpc3QgcmxwSXRlbUxpc3QpIHsKCQl0aGlzLnJlcGxlbkl0ZW1MaXN0ID0gcmxwSXRlbUxpc3Q7Cgl9CglwdWJsaWMgU3RyaW5nQnVmZmVyIGdldFJldHVyblZhbHVlKCkgewoJCXJldHVybiByZXR1cm5WYWx1ZTsKCX0KCglwdWJsaWMgdm9pZCBzZXRSZXR1cm5WYWx1ZShTdHJpbmdCdWZmZXIgcmV0dXJuVmFsdWUpIHsKCQl0aGlzLnJldHVyblZhbHVlID0gcmV0dXJuVmFsdWU7Cgl9CgkKCXB1YmxpYyBib29sZWFuIGlzRGlyZWN0ZWRQdXRhd2F5KCkgewoJCXJldHVybiBkaXJlY3RlZFB1dGF3YXk7Cgl9CgoJcHVibGljIHZvaWQgc2V0RGlyZWN0ZWRQdXRhd2F5KGJvb2xlYW4gZGlyZWN0ZWRQdXRhd2F5KSB7CgkJdGhpcy5kaXJlY3RlZFB1dGF3YXkgPSBkaXJlY3RlZFB1dGF3YXk7Cgl9CgkKCXB1YmxpYyBTdHJpbmdCdWZmZXIgZ2V0UHJldlRhc2tTdGF0dXMoKSB7CgkJcmV0dXJuIHByZXZUYXNrU3RhdHVzOwoJfQoKCXB1YmxpYyB2b2lkIHNldFByZXZUYXNrU3RhdHVzKFN0cmluZ0J1ZmZlciBwcmV2VGFza1N0YXR1cykgewoJCXRoaXMucHJldlRhc2tTdGF0dXMgPSBwcmV2VGFza1N0YXR1czsKCX0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyA8VD4gVCB1bndyYXAoQ2xhc3M8VD4gYUNsYXNzKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBib29sZWFuIGlzV3JhcHBlckZvcihDbGFzczw/PiBhQ2xhc3MpIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgIHJldHVybiBmYWxzZTsKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZW5jcnlwdGVkTmV4dXNSZXBvVXNlcm5hbWU9SlIxQ2xIRTNUMnBvWk8yQnQ1TVAvZ1w9XD0K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGFsbHByb2plY3RzIHsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1029,7 +496,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmFsbHByb2plY3RzIHsKICAgIHRhc2tzLndpdGhUeXBlKEphdmFDb21waWxlKSB7CiAgICAgICAgY29uZmlndXJlKG9wdGlvbnMpIHsKICAgICAgICAgICAgb3B0aW9ucy5jb21waWxlckFyZ3MgPDwgJy1YbGludDphbGwnCiAgICAgICAgICAgIG9wdGlvbnMuZGVwcmVjYXRpb24gPSB0cnVlCiAgICAgICAgICAgIG9wdGlvbnMuaW5jcmVtZW50YWwgPSBmYWxzZQogICAgICAgICAgICBvcHRpb25zLnZlcmJvc2UgPSB0cnVlCiAgICAgICAgfQogICAgfQp9Cg==</text>
       </register>
       <register name="x" type="4">
         <text>setInt64Parameter(int var1, Long var2, int var3</text>
@@ -1038,25 +505,20 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz53</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>:</last-search>
+      <last-search encoding="base64">XDxnZXRDb21wb25lbnRGYWN0b3J5XD4=</last-search>
       <last-offset />
-      <last-pattern>:</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRDb21wb25lbnRGYWN0b3J5XD4=</last-pattern>
       <last-replace>ScreenCapture</last-replace>
-      <last-substitute>Screenshot</last-substitute>
+      <last-substitute>main</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Screenshot</entry>
-        <entry encoding="base64">XDxmcm9tRnJhbWVcPg==</entry>
-        <entry>since</entry>
-        <entry encoding="base64">XDxwYXRoXD4=</entry>
-        <entry encoding="base64">XDxpbVw+</entry>
         <entry encoding="base64">XDxpbWFnZVw+</entry>
         <entry>Sys</entry>
         <entry>,</entry>
@@ -1072,11 +534,13 @@
         <entry encoding="base64">XDxJbnRlZ2VyQ2FjaGVcPg==</entry>
         <entry>lib</entry>
         <entry>:</entry>
+        <entry>=</entry>
+        <entry>main</entry>
+        <entry encoding="base64">XDw3XD4=</entry>
+        <entry>Overr</entry>
+        <entry encoding="base64">XDxnZXRDb21wb25lbnRGYWN0b3J5XD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>wq</entry>
-        <entry>23</entry>
-        <entry>119</entry>
         <entry>130</entry>
         <entry>.,.+</entry>
         <entry>nohl</entry>
@@ -1088,12 +552,15 @@
         <entry>qw</entry>
         <entry>sw</entry>
         <entry>W</entry>
-        <entry>noh</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL2Zyb20vdG8=</entry>
         <entry>%s/Screenshot/ScreenCapture/g</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>noh</entry>
+        <entry>274</entry>
+        <entry>874</entry>
+        <entry>e</entry>
+        <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
