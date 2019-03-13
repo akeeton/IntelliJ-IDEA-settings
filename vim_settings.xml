@@ -111,7 +111,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="608" column="18" filename="$USER_HOME$/Downloads/jdk11-source-code/src/java.base/share/classes/java/lang/Integer.java" />
       <jump line="991" column="51" filename="$USER_HOME$/Downloads/jdk11-source-code/src/java.base/share/classes/java/lang/Integer.java" />
       <jump line="996" column="25" filename="$USER_HOME$/Downloads/jdk11-source-code/src/java.base/share/classes/java/lang/Integer.java" />
       <jump line="1005" column="55" filename="$USER_HOME$/Downloads/jdk11-source-code/src/java.base/share/classes/java/lang/Integer.java" />
@@ -211,6 +210,7 @@
       <jump line="492" column="12" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/Menu.java" />
       <jump line="1029" column="8" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/MenuComponent.java" />
       <jump line="846" column="47" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/MenuItem.java" />
+      <jump line="40" column="42" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/dnd/DropTarget.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
