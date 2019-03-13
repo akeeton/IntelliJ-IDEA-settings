@@ -25,14 +25,15 @@
         <mark key="'" line="71" column="20" />
       </file>
       <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/image/ByteInterleavedRaster.java" timestamp="1552486197573" />
+      <file name="$APPLICATION_HOME_DIR$/jre/jre/lib/rt.jar!/java/util/Locale.class" timestamp="1552512699205">
+        <mark key="'" line="223" column="18" />
+      </file>
       <file name="$USER_HOME$/dev/android-scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" timestamp="1552403695975">
         <mark key="'" line="333" column="19" />
       </file>
+      <file name="C:/jdk8-source/src/share/classes/javax/accessibility/AccessibleText.java" timestamp="1552511883908" />
       <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/MenuItem.java" timestamp="1552492773258">
         <mark key="'" line="846" column="47" />
-      </file>
-      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/javax/swing/JComponent.java" timestamp="1552492081480">
-        <mark key="'" line="2965" column="18" />
       </file>
       <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/dnd/DropTarget.java" timestamp="1552507782212" />
       <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/image/Raster.java" timestamp="1552486155127">
@@ -43,9 +44,6 @@
       </file>
       <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/javax/swing/Popup.java" timestamp="1552492028008">
         <mark key="'" line="66" column="60" />
-      </file>
-      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/javax/swing/JInternalFrame.java" timestamp="1552492062615">
-        <mark key="'" line="2183" column="27" />
       </file>
       <file name="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/gui/common/VerifyDialogP.java" timestamp="1551903981026">
         <mark key="'" line="160" column="11" />
@@ -68,7 +66,7 @@
         <mark key="^" line="3912" column="90" />
         <mark key="." line="3912" column="90" />
       </file>
-      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/javax/accessibility/AccessibleText.java" timestamp="1552510477564">
+      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/javax/accessibility/AccessibleText.java" timestamp="1552511915782">
         <mark key="'" line="163" column="21" />
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -104,6 +102,12 @@
       <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/List.java" timestamp="1552424861698">
         <mark key="'" line="1285" column="34" />
       </file>
+      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/javax/swing/AbstractButton.java" timestamp="1552511604302">
+        <mark key="'" line="1799" column="58" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="C:/Progress/OpenEdge/jdk/src.zip!/java/util/EnumSet.java" timestamp="1551972218163">
         <mark key="'" line="365" column="74" />
       </file>
@@ -120,15 +124,17 @@
         <mark key="'" line="469" column="42" />
       </file>
       <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/image/ColorModel.java" timestamp="1552484620924" />
+      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/util/CoreResourceBundleControl.java" timestamp="1552512722061">
+        <mark key="[" line="59" column="55" />
+        <mark key="]" line="59" column="56" />
+        <mark key="." line="59" column="56" />
+        <mark key="^" line="59" column="56" />
+      </file>
       <file name="$USER_HOME$/Downloads/jdk11-source-code/src/java.base/share/classes/java/lang/Integer.java" timestamp="1552310055530">
         <mark key="'" line="1027" column="16" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1024" column="19" filename="$USER_HOME$/Downloads/jdk11-source-code/src/java.base/share/classes/java/lang/Integer.java" />
-      <jump line="1027" column="16" filename="$USER_HOME$/Downloads/jdk11-source-code/src/java.base/share/classes/java/lang/Integer.java" />
-      <jump line="130" column="33" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
-      <jump line="132" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
       <jump line="135" column="33" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
       <jump line="137" column="0" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
       <jump line="140" column="33" filename="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
@@ -225,10 +231,14 @@
       <jump line="162" column="21" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/javax/accessibility/AccessibleText.java" />
       <jump line="130" column="60" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/javax/accessibility/AccessibleEditableText.java" />
       <jump line="131" column="66" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/javax/accessibility/AccessibleEditableText.java" />
+      <jump line="396" column="36" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/javax/swing/AbstractButton.java" />
+      <jump line="1799" column="58" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/javax/swing/AbstractButton.java" />
+      <jump line="46" column="55" filename="$APPLICATION_HOME_DIR$/jre/jre/lib/rt.jar!/java/util/Locale.class" />
+      <jump line="223" column="18" filename="$APPLICATION_HOME_DIR$/jre/jre/lib/rt.jar!/java/util/Locale.class" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC5qYXZhLm9wZW5qZGsuamF2YS5hd3QuKjsK</text>
+      <register name="&quot;" type="4">
+        <text>#LOCALE_LIST#</text>
       </register>
       <register name="i" type="4">
         <text>pu</text>
@@ -330,16 +340,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>net.java.openjdk.java.awt.</text>
+        <text>#LOCALE_LIST#</text>
       </register>
       <register name="/" type="4">
-        <text>IdentityLinked</text>
+        <text>Locale[]</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGVPcHRpb25zIHsKICAgICAgICBzb3VyY2VDb21wYXRpYmlsaXR5IEphdmFWZXJzaW9uLlZFUlNJT05fMV84CiAgICAgICAgdGFyZ2V0Q29tcGF0aWJpbGl0eSBKYXZhVmVyc2lvbi5WRVJTSU9OXzFfOAogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC5qYXZhLm9wZW5qZGsuamF2YS5hd3QuKjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -359,22 +369,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC5qYXZhLm9wZW5qZGsuamF2YXguc3dpbmcudGV4dC4qOwo=</text>
+        <text encoding="base64">I3dhcm4gVGhpcyBmaWxlIGlzIHByZXByb2Nlc3NlZCBiZWZvcmUgYmVpbmcgY29tcGlsZWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC5qYXZhLm9wZW5qZGsuamF2YXguc3dpbmcudGV4dC4qOwo=</text>
+        <text encoding="base64">aW1wb3J0IG5ldC5qYXZhLm9wZW5qZGsuamF2YXgucHJpbnQuYXR0cmlidXRlLkF0dHJpYnV0ZVNldDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC5qYXZhLm9wZW5qZGsuamF2YXguc3dpbmcudGV4dC4qOwo=</text>
+        <text encoding="base64">aW1wb3J0IG5ldC5qYXZhLm9wZW5qZGsuamF2YXguc3dpbmcudGV4dC4qOwppbXBvcnQgbmV0LmphdmEub3Blbmpkay5qYXZheC5zd2luZy50ZXh0Lmh0bWwuKjsKaW1wb3J0IG5ldC5qYXZhLm9wZW5qZGsuamF2YXguc3dpbmcucGxhZi5iYXNpYy4qOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC5qYXZhLm9wZW5qZGsuamF2YXguc3dpbmcudGV4dC4qOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IG5ldC5qYXZhLm9wZW5qZGsuamF2YS5hd3QuKjsK</text>
       </register>
-      <register name="7" type="4">
-        <text>net.java.openjdk.java.awt.</text>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IG5ldC5qYXZhLm9wZW5qZGsuamF2YXguc3dpbmcudGV4dC4qOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IG5ldC5qYXZhLm9wZW5qZGsuamF2YXguc3dpbmcudGV4dC4qOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -473,57 +483,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text>net.java.openjdk.java.awt.</text>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IG5ldC5qYXZhLm9wZW5qZGsuamF2YXguc3dpbmcudGV4dC4qOwo=</text>
       </register>
       <register name="x" type="4">
         <text>setInt64Parameter(int var1, Long var2, int var3</text>
       </register>
-      <register name="9" type="4">
-        <text>import java.awt.Toolkit;
-import java.awt.dnd.DropTarget;
-import java.awt.event.ActionEvent;
-import java.awt.event.AdjustmentEvent;
-import java.awt.event.ComponentEvent;
-import java.awt.event.ComponentListener;
-import java.awt.event.FocusEvent;
-import java.awt.event.FocusListener;
-import java.awt.event.HierarchyBoundsListener;
-import java.awt.event.HierarchyEvent;
-import java.awt.event.HierarchyListener;
-import java.awt.event.InputEvent;
-import java.awt.event.InputMethodEvent;
-import java.awt.event.InputMethodListener;
-import java.awt.event.ItemEvent;
-import java.awt.event.KeyEvent;
-import java.awt.event.KeyListener;
-import java.awt.event.MouseEvent;
-import java.awt.event.MouseListener;
-import java.awt.event.MouseMotionListener;
-import java.awt.event.MouseWheelEvent;
-import java.awt.event.MouseWheelListener;
-import java.awt.event.PaintEvent;
-import java.awt.event.TextEvent;
-import java.awt.event.WindowEvent;
-import java.awt.im.InputContext;
-import java.awt.im.InputMethodRequests;
-import java.awt.image.BufferStrategy;
-import java.awt.image.ColorModel;
-import java.awt.image.ImageObserver;
-import java.awt.image.ImageProducer;
-import java.awt.image.VolatileImage;
-import java.awt.peer.ComponentPeer;
-import java.awt.peer.ContainerPeer;
-import java.awt.peer.LightweightPeer;</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IG5ldC5qYXZhLm9wZW5qZGsuamF2YXguc3dpbmcudGV4dC4qOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>IdentityLinked</last-search>
+      <last-search>Locale[]</last-search>
       <last-offset />
-      <last-pattern>IdentityLinked</last-pattern>
+      <last-pattern>Locale[]</last-pattern>
       <last-replace>ScreenCapture</last-replace>
       <last-substitute>main</last-substitute>
       <last-dir>1</last-dir>
@@ -531,7 +507,6 @@ import java.awt.peer.LightweightPeer;</text>
     </search>
     <history>
       <history-search>
-        <entry>64</entry>
         <entry>print</entry>
         <entry encoding="base64">XDxfcGFyc2VCYXNlNjRCaW5hcnlcPg==</entry>
         <entry encoding="base64">XDxwcmludEJhc2U2NEJpbmFyeVw+</entry>
@@ -551,6 +526,7 @@ import java.awt.peer.LightweightPeer;</text>
         <entry encoding="base64">XDxEZWZhdWx0Rm9jdXNUcmF2ZXJzYWxQb2xpY3lcPg==</entry>
         <entry>Defa</entry>
         <entry>IdentityLinked</entry>
+        <entry>Locale[]</entry>
       </history-search>
       <history-cmd>
         <entry>130</entry>
