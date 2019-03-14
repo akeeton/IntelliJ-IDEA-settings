@@ -66,6 +66,11 @@
       <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/reflect/annotation/TypeAnnotationParser.java" timestamp="1552575794995">
         <mark key="'" line="323" column="56" />
       </file>
+      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/EventDispatchThread.java" timestamp="1552582384226">
+        <mark key="[" line="275" column="37" />
+        <mark key="]" line="275" column="37" />
+        <mark key="." line="275" column="37" />
+      </file>
       <file name="$USER_HOME$/dev/android-scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" timestamp="1552403695975">
         <mark key="'" line="333" column="19" />
       </file>
