@@ -244,7 +244,6 @@
         <mark key="." line="1452" column="46" />
         <mark key="^" line="1452" column="46" />
       </file>
-      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/util/logging/LoggingSupport.java" timestamp="1552592708159" />
       <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/font/NativeFont.java" timestamp="1552573363521">
         <mark key="'" line="65" column="0" />
         <mark key="[" line="15" column="39" />
@@ -280,7 +279,6 @@
       <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/misc/ExtensionDependency.java" timestamp="1552576936445">
         <mark key="'" line="362" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/util/logging/PlatformLogger.java" timestamp="1552595048873" />
       <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/com/sun/beans/editors/ColorEditor.java" timestamp="1552585466295">
         <mark key="'" line="179" column="38" />
         <mark key="[" line="32" column="0" />
@@ -316,8 +314,8 @@
       <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/javax/swing/plaf/nimbus/NimbusLookAndFeel.java" timestamp="1552574621865">
         <mark key="'" line="287" column="55" />
       </file>
-      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/misc/Unsafe.java" timestamp="1552595366198">
-        <mark key="'" line="803" column="11" />
+      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/misc/Unsafe.java" timestamp="1552660142925">
+        <mark key="'" line="767" column="53" />
         <mark key="[" line="88" column="13" />
         <mark key="]" line="88" column="13" />
         <mark key="^" line="88" column="21" />
@@ -352,7 +350,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="744" column="27" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/MenuItem.java" />
       <jump line="220" column="35" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/beans/PropertyEditor.java" />
       <jump line="189" column="11" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/com/sun/beans/editors/FontEditor.java" />
       <jump line="200" column="4" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/beans/PropertyEditor.java" />
@@ -452,6 +449,7 @@
       <jump line="800" column="43" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/misc/Unsafe.java" />
       <jump line="803" column="11" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/misc/Unsafe.java" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/misc/MessageUtils.java" />
+      <jump line="767" column="53" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/misc/Unsafe.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -720,7 +718,7 @@
       <last-replace>ScreenCapture</last-replace>
       <last-substitute>main</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
