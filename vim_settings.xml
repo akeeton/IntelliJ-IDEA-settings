@@ -220,6 +220,9 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/unsafe.cpp" timestamp="1552677230710">
+        <mark key="'" line="1387" column="64" />
+      </file>
       <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/Container.java" timestamp="1552670937027">
         <mark key="[" line="2324" column="0" />
         <mark key="]" line="2324" column="0" />
@@ -258,15 +261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2089" column="0" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/javax/swing/SwingUtilities.java" />
-      <jump line="1859" column="18" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/javax/swing/SwingUtilities.java" />
-      <jump line="1855" column="6" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/javax/swing/SwingUtilities.java" />
-      <jump line="54" column="0" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/javax/swing/SwingUtilities.java" />
-      <jump line="1831" column="34" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/javax/swing/SwingUtilities.java" />
-      <jump line="64" column="0" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/javax/swing/SwingUtilities.java" />
-      <jump line="203" column="36" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/javax/swing/Timer.java" />
-      <jump line="58" column="6" filename="C:/jdk8-source/src/share/classes/javax/swing/SwingUtilities.java" />
-      <jump line="1258" column="42" filename="C:/jdk8-source/src/share/classes/javax/swing/SwingUtilities.java" />
       <jump line="1269" column="22" filename="C:/jdk8-source/src/share/classes/javax/swing/SwingUtilities.java" />
       <jump line="1272" column="10" filename="C:/jdk8-source/src/share/classes/javax/swing/SwingUtilities.java" />
       <jump line="1282" column="75" filename="C:/jdk8-source/src/share/classes/javax/swing/SwingUtilities.java" />
@@ -358,6 +352,15 @@
       <jump line="2127" column="0" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/datatransfer/DataTransferer.java" />
       <jump line="2128" column="4" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/datatransfer/DataTransferer.java" />
       <jump line="2147" column="27" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/datatransfer/DataTransferer.java" />
+      <jump line="717" column="49" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/misc/Unsafe.java" />
+      <jump line="26" column="30" filename="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/unsafe.cpp" />
+      <jump line="1433" column="8" filename="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/unsafe.cpp" />
+      <jump line="1483" column="8" filename="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/unsafe.cpp" />
+      <jump line="1537" column="8" filename="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/unsafe.cpp" />
+      <jump line="1594" column="64" filename="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/unsafe.cpp" />
+      <jump line="775" column="19" filename="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/unsafe.cpp" />
+      <jump line="776" column="17" filename="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/unsafe.cpp" />
+      <jump line="1387" column="64" filename="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/unsafe.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -466,7 +469,7 @@
         <text>LoggingProxy</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcm94eVw+</text>
+        <text encoding="base64">XDxVbnNhZmVfRW5zdXJlQ2xhc3NJbml0aWFsaXplZFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBVbnN1cHBvcnRlZE9wZXJhdGlvbkV4Y2VwdGlvbigpOwo=</text>
@@ -620,9 +623,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcm94eVw+</last-search>
+      <last-search encoding="base64">XDxVbnNhZmVfRW5zdXJlQ2xhc3NJbml0aWFsaXplZFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcm94eVw+</last-pattern>
+      <last-pattern encoding="base64">XDxVbnNhZmVfRW5zdXJlQ2xhc3NJbml0aWFsaXplZFw+</last-pattern>
       <last-replace>ScreenCapture</last-replace>
       <last-substitute>main</last-substitute>
       <last-dir>1</last-dir>
@@ -630,9 +633,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Compon</entry>
-        <entry>Com</entry>
-        <entry>!</entry>
         <entry>VM</entry>
         <entry encoding="base64">XDx1bnNhZmVcPg==</entry>
         <entry>native</entry>
@@ -650,6 +650,9 @@
         <entry>invokelater</entry>
         <entry>{</entry>
         <entry encoding="base64">XDxwcm94eVw+</entry>
+        <entry>ensureClass</entry>
+        <entry encoding="base64">XDxlbnN1cmVDbGFzc0luaXRpYWxpemVkXD4=</entry>
+        <entry encoding="base64">XDxVbnNhZmVfRW5zdXJlQ2xhc3NJbml0aWFsaXplZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
