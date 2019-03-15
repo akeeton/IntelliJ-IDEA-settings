@@ -49,6 +49,12 @@
         <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/gui/common/MenuFrameP.java" timestamp="1552673213244" />
+      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/reflect/UnsafeFieldAccessorFactory.java" timestamp="1552679450269">
+        <mark key="[" line="45" column="44" />
+        <mark key="]" line="45" column="109" />
+        <mark key="^" line="45" column="109" />
+        <mark key="." line="45" column="109" />
+      </file>
       <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/EventDispatchThread.java" timestamp="1552671609691">
         <mark key="[" line="184" column="0" />
         <mark key="]" line="184" column="0" />
@@ -58,6 +64,11 @@
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/AWTAccessor.java" timestamp="1552679742164">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/font/FontManager.java" timestamp="1552671944536">
         <mark key="[" line="32" column="0" />
@@ -74,6 +85,9 @@
         <mark key="[" line="2128" column="0" />
         <mark key="]" line="2128" column="0" />
         <mark key="." line="2128" column="0" />
+      </file>
+      <file name="$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/java/lang/Class.java" timestamp="1552678152121">
+        <mark key="'" line="443" column="56" />
       </file>
       <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/com/sun/beans/editors/EnumEditor.java" timestamp="1552585564949">
         <mark key="[" line="32" column="0" />
@@ -111,6 +125,9 @@
         <mark key="[" line="970" column="0" />
         <mark key="]" line="970" column="0" />
         <mark key="." line="970" column="0" />
+      </file>
+      <file name="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/jvm.cpp" timestamp="1552678732586">
+        <mark key="'" line="3958" column="72" />
       </file>
       <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/javax/swing/plaf/basic/BasicHTML.java" timestamp="1552574795749">
         <mark key="[" line="364" column="36" />
@@ -198,20 +215,6 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/im/InputMethodContext.java" timestamp="1552672381254">
-        <mark key="'" line="305" column="46" />
-        <mark key="[" line="332" column="0" />
-        <mark key="]" line="332" column="0" />
-        <mark key="^" line="238" column="6" />
-        <mark key="." line="332" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/im/InputMethodPopupMenu.java" timestamp="1552671978929">
-        <mark key="'" line="156" column="0" />
-        <mark key="[" line="154" column="0" />
-        <mark key="]" line="154" column="0" />
-        <mark key="^" line="39" column="0" />
-        <mark key="." line="154" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/util/logging/LoggingSupport.java" timestamp="1552675218831">
         <mark key="'" line="167" column="21" />
       </file>
@@ -220,13 +223,17 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/unsafe.cpp" timestamp="1552677230710">
-        <mark key="'" line="1387" column="64" />
+      <file name="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/unsafe.cpp" timestamp="1552678003911">
+        <mark key="'" line="58" column="8" />
+        <mark key="x" line="775" column="0" />
       </file>
       <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/Container.java" timestamp="1552670937027">
         <mark key="[" line="2324" column="0" />
         <mark key="]" line="2324" column="0" />
         <mark key="." line="2324" column="0" />
+      </file>
+      <file name="C:/jdk8-source/src/share/native/java/lang/Class.c" timestamp="1552678621175">
+        <mark key="'" line="137" column="10" />
       </file>
       <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/dynamicapi/SessionPool.java" timestamp="1552673213244" />
       <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/HToolkit.java" timestamp="1552671838688">
@@ -244,6 +251,7 @@
         <mark key="]" line="171" column="0" />
         <mark key="." line="171" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/misc/Unsafe.java" timestamp="1552677877135" />
       <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/font/FileFont.java" timestamp="1552573243360">
         <mark key="[" line="42" column="7" />
         <mark key="]" line="42" column="7" />
@@ -261,26 +269,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1269" column="22" filename="C:/jdk8-source/src/share/classes/javax/swing/SwingUtilities.java" />
-      <jump line="1272" column="10" filename="C:/jdk8-source/src/share/classes/javax/swing/SwingUtilities.java" />
-      <jump line="1282" column="75" filename="C:/jdk8-source/src/share/classes/javax/swing/SwingUtilities.java" />
-      <jump line="1254" column="8" filename="C:/jdk8-source/src/share/classes/javax/swing/SwingUtilities.java" />
-      <jump line="34" column="0" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/javax/swing/SwingUtilities.java" />
-      <jump line="1745" column="6" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/Toolkit.java" />
-      <jump line="1752" column="0" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/Toolkit.java" />
-      <jump line="377" column="4" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/Component.java" />
-      <jump line="1072" column="43" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/Component.java" />
-      <jump line="1070" column="4" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/Component.java" />
-      <jump line="979" column="8" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/TextComponent.java" />
-      <jump line="34" column="49" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/dnd/SunDropTargetContextPeer.java" />
-      <jump line="35" column="0" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/dnd/SunDropTargetContextPeer.java" />
-      <jump line="43" column="0" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/dnd/SunDropTargetContextPeer.java" />
-      <jump line="4576" column="43" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/Container.java" />
-      <jump line="112" column="67" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/GraphicsCallback.java" />
-      <jump line="2459" column="71" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/Container.java" />
-      <jump line="2461" column="0" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/Container.java" />
-      <jump line="2463" column="0" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/Container.java" />
-      <jump line="2469" column="0" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/Container.java" />
       <jump line="2495" column="0" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/Container.java" />
       <jump line="2324" column="6" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/Container.java" />
       <jump line="130" column="76" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/javax/accessibility/AccessibleEditableText.java" />
@@ -358,9 +346,29 @@
       <jump line="1483" column="8" filename="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/unsafe.cpp" />
       <jump line="1537" column="8" filename="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/unsafe.cpp" />
       <jump line="1594" column="64" filename="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/unsafe.cpp" />
-      <jump line="775" column="19" filename="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/unsafe.cpp" />
       <jump line="776" column="17" filename="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/unsafe.cpp" />
       <jump line="1387" column="64" filename="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/unsafe.cpp" />
+      <jump line="786" column="0" filename="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/unsafe.cpp" />
+      <jump line="775" column="0" filename="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/unsafe.cpp" />
+      <jump line="0" column="0" filename="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/unsafe.cpp" />
+      <jump line="58" column="8" filename="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/unsafe.cpp" />
+      <jump line="443" column="56" filename="$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/java/lang/Class.java" />
+      <jump line="55" column="11" filename="C:/jdk8-source/src/share/native/java/lang/Class.c" />
+      <jump line="99" column="39" filename="C:/jdk8-source/src/share/native/java/lang/Class.c" />
+      <jump line="137" column="10" filename="C:/jdk8-source/src/share/native/java/lang/Class.c" />
+      <jump line="0" column="0" filename="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/jvm.cpp" />
+      <jump line="106" column="27" filename="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/jvm.cpp" />
+      <jump line="741" column="10" filename="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/jvm.cpp" />
+      <jump line="743" column="27" filename="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/jvm.cpp" />
+      <jump line="748" column="23" filename="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/jvm.cpp" />
+      <jump line="749" column="36" filename="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/jvm.cpp" />
+      <jump line="750" column="10" filename="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/jvm.cpp" />
+      <jump line="779" column="22" filename="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/jvm.cpp" />
+      <jump line="780" column="56" filename="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/jvm.cpp" />
+      <jump line="796" column="18" filename="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/jvm.cpp" />
+      <jump line="827" column="18" filename="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/jvm.cpp" />
+      <jump line="3565" column="19" filename="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/jvm.cpp" />
+      <jump line="3958" column="72" filename="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/jvm.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -466,10 +474,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>LoggingProxy</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxVbnNhZmVfRW5zdXJlQ2xhc3NJbml0aWFsaXplZFw+</text>
+        <text>unsafe</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBVbnN1cHBvcnRlZE9wZXJhdGlvbkV4Y2VwdGlvbigpOwo=</text>
@@ -495,22 +503,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBieXRlW10gaW1hZ2VUb1N0YW5kYXJkQnl0ZXNJbXBsKFJlbmRlcmVkSW1hZ2UgcmVuZGVyZWRJbWFnZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyBtaW1lVHlwZSkKICAgICAgICB0aHJvd3MgSU9FeGNlcHRpb24gewoKICAgICAgICBJdGVyYXRvciB3cml0ZXJJdGVyYXRvciA9IEltYWdlSU8uZ2V0SW1hZ2VXcml0ZXJzQnlNSU1FVHlwZShtaW1lVHlwZSk7CgogICAgICAgIEltYWdlVHlwZVNwZWNpZmllciB0eXBlU3BlY2lmaWVyID0KICAgICAgICAgICAgbmV3IEltYWdlVHlwZVNwZWNpZmllcihyZW5kZXJlZEltYWdlKTsKCiAgICAgICAgQnl0ZUFycmF5T3V0cHV0U3RyZWFtIGJhb3MgPSBuZXcgQnl0ZUFycmF5T3V0cHV0U3RyZWFtKCk7CiAgICAgICAgSU9FeGNlcHRpb24gaW9lID0gbnVsbDsKCiAgICAgICAgd2hpbGUgKHdyaXRlckl0ZXJhdG9yLmhhc05leHQoKSkgewogICAgICAgICAgICBJbWFnZVdyaXRlciBpbWFnZVdyaXRlciA9IChJbWFnZVdyaXRlcil3cml0ZXJJdGVyYXRvci5uZXh0KCk7CiAgICAgICAgICAgIEltYWdlV3JpdGVyU3BpIHdyaXRlclNwaSA9IGltYWdlV3JpdGVyLmdldE9yaWdpbmF0aW5nUHJvdmlkZXIoKTsKCiAgICAgICAgICAgIGlmICghd3JpdGVyU3BpLmNhbkVuY29kZUltYWdlKHR5cGVTcGVjaWZpZXIpKSB7CiAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIEltYWdlT3V0cHV0U3RyZWFtIGltYWdlT3V0cHV0U3RyZWFtID0KICAgICAgICAgICAgICAgICAgICBJbWFnZUlPLmNyZWF0ZUltYWdlT3V0cHV0U3RyZWFtKGJhb3MpOwogICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICBpbWFnZVdyaXRlci5zZXRPdXRwdXQoaW1hZ2VPdXRwdXRTdHJlYW0pOwogICAgICAgICAgICAgICAgICAgIGltYWdlV3JpdGVyLndyaXRlKHJlbmRlcmVkSW1hZ2UpOwogICAgICAgICAgICAgICAgICAgIGltYWdlT3V0cHV0U3RyZWFtLmZsdXNoKCk7CiAgICAgICAgICAgICAgICB9IGZpbmFsbHkgewogICAgICAgICAgICAgICAgICAgIGltYWdlT3V0cHV0U3RyZWFtLmNsb3NlKCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGltYWdlV3JpdGVyLmRpc3Bvc2UoKTsKICAgICAgICAgICAgICAgIGJhb3MucmVzZXQoKTsKICAgICAgICAgICAgICAgIGlvZSA9IGU7CiAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgaW1hZ2VXcml0ZXIuZGlzcG9zZSgpOwogICAgICAgICAgICBiYW9zLmNsb3NlKCk7CiAgICAgICAgICAgIHJldHVybiBiYW9zLnRvQnl0ZUFycmF5KCk7CiAgICAgICAgfQoKICAgICAgICBiYW9zLmNsb3NlKCk7CgogICAgICAgIGlmIChpb2UgPT0gbnVsbCkgewogICAgICAgICAgICBpb2UgPSBuZXcgSU9FeGNlcHRpb24oIlJlZ2lzdGVyZWQgc2VydmljZSBwcm92aWRlcnMgZmFpbGVkIHRvIGVuY29kZSAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICArIHJlbmRlcmVkSW1hZ2UgKyAiIHRvICIgKyBtaW1lVHlwZSk7CiAgICAgICAgfQoKICAgICAgICB0aHJvdyBpb2U7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFVuc2FmZSB1bnNhZmUgPSBVbnNhZmUuZ2V0VW5zYWZlKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogVHJhbnNsYXRlcyBhIEphdmEgSW1hZ2UgaW50byBhIGJ5dGUgYXJyYXkgd2hpY2ggY29udGFpbnMKICAgICAqIGFuIGltYWdlIGRhdGEgaW4gdGhlIGdpdmVuIHN0YW5kYXJkIGZvcm1hdC4KICAgICAqCiAgICAgKiBAcGFyYW0gbWltZVR5cGUgaW1hZ2UgTUlNRSB0eXBlLCBzdWNoIGFzOiBpbWFnZS9wbmcsIGltYWdlL2pwZWcKICAgICAqLwogICAgcHJvdGVjdGVkIGJ5dGVbXSBpbWFnZVRvU3RhbmRhcmRCeXRlcyhJbWFnZSBpbWFnZSwgU3RyaW5nIG1pbWVUeXBlKQogICAgICB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgICAgIElPRXhjZXB0aW9uIG9yaWdpbmFsSU9FID0gbnVsbDsKCiAgICAgICAgSXRlcmF0b3Igd3JpdGVySXRlcmF0b3IgPSBJbWFnZUlPLmdldEltYWdlV3JpdGVyc0J5TUlNRVR5cGUobWltZVR5cGUpOwoKICAgICAgICBpZiAoIXdyaXRlckl0ZXJhdG9yLmhhc05leHQoKSkgewogICAgICAgICAgICB0aHJvdyBuZXcgSU9FeGNlcHRpb24oIk5vIHJlZ2lzdGVyZWQgc2VydmljZSBwcm92aWRlciBjYW4gZW5jb2RlICIgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIiBhbiBpbWFnZSB0byAiICsgbWltZVR5cGUpOwogICAgICAgIH0KCiAgICAgICAgaWYgKGltYWdlIGluc3RhbmNlb2YgUmVuZGVyZWRJbWFnZSkgewogICAgICAgICAgICAvLyBUcnkgdG8gZW5jb2RlIHRoZSBvcmlnaW5hbCBpbWFnZS4KICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIHJldHVybiBpbWFnZVRvU3RhbmRhcmRCeXRlc0ltcGwoKFJlbmRlcmVkSW1hZ2UpaW1hZ2UsIG1pbWVUeXBlKTsKICAgICAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gaW9lKSB7CiAgICAgICAgICAgICAgICBvcmlnaW5hbElPRSA9IGlvZTsKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgLy8gUmV0cnkgd2l0aCBhIEJ1ZmZlcmVkSW1hZ2UuCiAgICAgICAgaW50IHdpZHRoID0gMDsKICAgICAgICBpbnQgaGVpZ2h0ID0gMDsKICAgICAgICBpZiAoaW1hZ2UgaW5zdGFuY2VvZiBUb29sa2l0SW1hZ2UpIHsKICAgICAgICAgICAgSW1hZ2VSZXByZXNlbnRhdGlvbiBpciA9ICgoVG9vbGtpdEltYWdlKWltYWdlKS5nZXRJbWFnZVJlcCgpOwogICAgICAgICAgICBpci5yZWNvbnN0cnVjdChJbWFnZU9ic2VydmVyLkFMTEJJVFMpOwogICAgICAgICAgICB3aWR0aCA9IGlyLmdldFdpZHRoKCk7CiAgICAgICAgICAgIGhlaWdodCA9IGlyLmdldEhlaWdodCgpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHdpZHRoID0gaW1hZ2UuZ2V0V2lkdGgobnVsbCk7CiAgICAgICAgICAgIGhlaWdodCA9IGltYWdlLmdldEhlaWdodChudWxsKTsKICAgICAgICB9CgogICAgICAgIENvbG9yTW9kZWwgbW9kZWwgPSBDb2xvck1vZGVsLmdldFJHQmRlZmF1bHQoKTsKICAgICAgICBXcml0YWJsZVJhc3RlciByYXN0ZXIgPQogICAgICAgICAgICBtb2RlbC5jcmVhdGVDb21wYXRpYmxlV3JpdGFibGVSYXN0ZXIod2lkdGgsIGhlaWdodCk7CgogICAgICAgIEJ1ZmZlcmVkSW1hZ2UgYnVmZmVyZWRJbWFnZSA9CiAgICAgICAgICAgIG5ldyBCdWZmZXJlZEltYWdlKG1vZGVsLCByYXN0ZXIsIG1vZGVsLmlzQWxwaGFQcmVtdWx0aXBsaWVkKCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG51bGwpOwoKICAgICAgICBHcmFwaGljcyBnID0gYnVmZmVyZWRJbWFnZS5nZXRHcmFwaGljcygpOwogICAgICAgIHRyeSB7CiAgICAgICAgICAgIGcuZHJhd0ltYWdlKGltYWdlLCAwLCAwLCB3aWR0aCwgaGVpZ2h0LCBudWxsKTsKICAgICAgICB9IGZpbmFsbHkgewogICAgICAgICAgICBnLmRpc3Bvc2UoKTsKICAgICAgICB9CgogICAgICAgIHRyeSB7CiAgICAgICAgICAgIHJldHVybiBpbWFnZVRvU3RhbmRhcmRCeXRlc0ltcGwoYnVmZmVyZWRJbWFnZSwgbWltZVR5cGUpOwogICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGlvZSkgewogICAgICAgICAgICBpZiAob3JpZ2luYWxJT0UgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgdGhyb3cgb3JpZ2luYWxJT0U7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICB0aHJvdyBpb2U7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogVHJhbnNsYXRlcyBlaXRoZXIgYSBieXRlIGFycmF5IG9yIGFuIGlucHV0IHN0cmVhbSB3aGljaCBjb250YWluCiAgICAgKiBhbiBpbWFnZSBkYXRhIGluIHRoZSBnaXZlbiBzdGFuZGFyZCBmb3JtYXQgaW50byBhbiBJbWFnZS4KICAgICAqCiAgICAgKiBAcGFyYW0gbWltZVR5cGUgaW1hZ2UgTUlNRSB0eXBlLCBzdWNoIGFzOiBpbWFnZS9wbmcsIGltYWdlL2pwZWcsIGltYWdlL2dpZgogICAgICovCiAgICBwcm90ZWN0ZWQgSW1hZ2Ugc3RhbmRhcmRJbWFnZUJ5dGVzVG9JbWFnZSgKICAgICAgICBieXRlW10gYnl0ZXMsIFN0cmluZyBtaW1lVHlwZSkgdGhyb3dzIElPRXhjZXB0aW9uCiAgICB7CgogICAgICAgIEl0ZXJhdG9yIHJlYWRlckl0ZXJhdG9yID0gSW1hZ2VJTy5nZXRJbWFnZVJlYWRlcnNCeU1JTUVUeXBlKG1pbWVUeXBlKTsKCiAgICAgICAgaWYgKCFyZWFkZXJJdGVyYXRvci5oYXNOZXh0KCkpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IElPRXhjZXB0aW9uKCJObyByZWdpc3RlcmVkIHNlcnZpY2UgcHJvdmlkZXIgY2FuIGRlY29kZSAiICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICIgYW4gaW1hZ2UgZnJvbSAiICsgbWltZVR5cGUpOwogICAgICAgIH0KCiAgICAgICAgSU9FeGNlcHRpb24gaW9lID0gbnVsbDsKCiAgICAgICAgd2hpbGUgKHJlYWRlckl0ZXJhdG9yLmhhc05leHQoKSkgewogICAgICAgICAgICBJbWFnZVJlYWRlciBpbWFnZVJlYWRlciA9IChJbWFnZVJlYWRlcilyZWFkZXJJdGVyYXRvci5uZXh0KCk7CiAgICAgICAgICAgIHRyeSAoQnl0ZUFycmF5SW5wdXRTdHJlYW0gYmFpcyA9IG5ldyBCeXRlQXJyYXlJbnB1dFN0cmVhbShieXRlcykpIHsKICAgICAgICAgICAgICAgIEltYWdlSW5wdXRTdHJlYW0gaW1hZ2VJbnB1dFN0cmVhbSA9CiAgICAgICAgICAgICAgICAgICAgSW1hZ2VJTy5jcmVhdGVJbWFnZUlucHV0U3RyZWFtKGJhaXMpOwoKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgSW1hZ2VSZWFkUGFyYW0gcGFyYW0gPSBpbWFnZVJlYWRlci5nZXREZWZhdWx0UmVhZFBhcmFtKCk7CiAgICAgICAgICAgICAgICAgICAgaW1hZ2VSZWFkZXIuc2V0SW5wdXQoaW1hZ2VJbnB1dFN0cmVhbSwgdHJ1ZSwgdHJ1ZSk7CiAgICAgICAgICAgICAgICAgICAgQnVmZmVyZWRJbWFnZSBidWZmZXJlZEltYWdlID0KICAgICAgICAgICAgICAgICAgICAgICAgaW1hZ2VSZWFkZXIucmVhZChpbWFnZVJlYWRlci5nZXRNaW5JbmRleCgpLCBwYXJhbSk7CiAgICAgICAgICAgICAgICAgICAgaWYgKGJ1ZmZlcmVkSW1hZ2UgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gYnVmZmVyZWRJbWFnZTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9IGZpbmFsbHkgewogICAgICAgICAgICAgICAgICAgIGltYWdlSW5wdXRTdHJlYW0uY2xvc2UoKTsKICAgICAgICAgICAgICAgICAgICBpbWFnZVJlYWRlci5kaXNwb3NlKCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGlvZSA9IGU7CiAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgaWYgKGlvZSA9PSBudWxsKSB7CiAgICAgICAgICAgIGlvZSA9IG5ldyBJT0V4Y2VwdGlvbigiUmVnaXN0ZXJlZCBzZXJ2aWNlIHByb3ZpZGVycyBmYWlsZWQgdG8gZGVjb2RlIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKyAiIGFuIGltYWdlIGZyb20gIiArIG1pbWVUeXBlKTsKICAgICAgICB9CgogICAgICAgIHRocm93IGlvZTsKICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IG5ldC5qYXZhLm9wZW5qZGsuc3VuLm1pc2MuVW5zYWZlOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogVHJhbnNsYXRlcyBlaXRoZXIgYSBieXRlIGFycmF5IG9yIGFuIGlucHV0IHN0cmVhbSB3aGljaCBjb250YWluCiAgICAgKiBhbiBpbWFnZSBkYXRhIGluIHRoZSBnaXZlbiBzdGFuZGFyZCBmb3JtYXQgaW50byBhbiBJbWFnZS4KICAgICAqCiAgICAgKiBAcGFyYW0gbWltZVR5cGUgaW1hZ2UgTUlNRSB0eXBlLCBzdWNoIGFzOiBpbWFnZS9wbmcsIGltYWdlL2pwZWcsIGltYWdlL2dpZgogICAgICovCiAgICBwcm90ZWN0ZWQgSW1hZ2Ugc3RhbmRhcmRJbWFnZUJ5dGVzVG9JbWFnZSgKICAgICAgICBieXRlW10gYnl0ZXMsIFN0cmluZyBtaW1lVHlwZSkgdGhyb3dzIElPRXhjZXB0aW9uCiAgICB7CgogICAgICAgIEl0ZXJhdG9yIHJlYWRlckl0ZXJhdG9yID0gSW1hZ2VJTy5nZXRJbWFnZVJlYWRlcnNCeU1JTUVUeXBlKG1pbWVUeXBlKTsKCiAgICAgICAgaWYgKCFyZWFkZXJJdGVyYXRvci5oYXNOZXh0KCkpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IElPRXhjZXB0aW9uKCJObyByZWdpc3RlcmVkIHNlcnZpY2UgcHJvdmlkZXIgY2FuIGRlY29kZSAiICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICIgYW4gaW1hZ2UgZnJvbSAiICsgbWltZVR5cGUpOwogICAgICAgIH0KCiAgICAgICAgSU9FeGNlcHRpb24gaW9lID0gbnVsbDsKCiAgICAgICAgd2hpbGUgKHJlYWRlckl0ZXJhdG9yLmhhc05leHQoKSkgewogICAgICAgICAgICBJbWFnZVJlYWRlciBpbWFnZVJlYWRlciA9IChJbWFnZVJlYWRlcilyZWFkZXJJdGVyYXRvci5uZXh0KCk7CiAgICAgICAgICAgIHRyeSAoQnl0ZUFycmF5SW5wdXRTdHJlYW0gYmFpcyA9IG5ldyBCeXRlQXJyYXlJbnB1dFN0cmVhbShieXRlcykpIHsKICAgICAgICAgICAgICAgIEltYWdlSW5wdXRTdHJlYW0gaW1hZ2VJbnB1dFN0cmVhbSA9CiAgICAgICAgICAgICAgICAgICAgSW1hZ2VJTy5jcmVhdGVJbWFnZUlucHV0U3RyZWFtKGJhaXMpOwoKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgSW1hZ2VSZWFkUGFyYW0gcGFyYW0gPSBpbWFnZVJlYWRlci5nZXREZWZhdWx0UmVhZFBhcmFtKCk7CiAgICAgICAgICAgICAgICAgICAgaW1hZ2VSZWFkZXIuc2V0SW5wdXQoaW1hZ2VJbnB1dFN0cmVhbSwgdHJ1ZSwgdHJ1ZSk7CiAgICAgICAgICAgICAgICAgICAgQnVmZmVyZWRJbWFnZSBidWZmZXJlZEltYWdlID0KICAgICAgICAgICAgICAgICAgICAgICAgaW1hZ2VSZWFkZXIucmVhZChpbWFnZVJlYWRlci5nZXRNaW5JbmRleCgpLCBwYXJhbSk7CiAgICAgICAgICAgICAgICAgICAgaWYgKGJ1ZmZlcmVkSW1hZ2UgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gYnVmZmVyZWRJbWFnZTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9IGZpbmFsbHkgewogICAgICAgICAgICAgICAgICAgIGltYWdlSW5wdXRTdHJlYW0uY2xvc2UoKTsKICAgICAgICAgICAgICAgICAgICBpbWFnZVJlYWRlci5kaXNwb3NlKCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGlvZSA9IGU7CiAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgaWYgKGlvZSA9PSBudWxsKSB7CiAgICAgICAgICAgIGlvZSA9IG5ldyBJT0V4Y2VwdGlvbigiUmVnaXN0ZXJlZCBzZXJ2aWNlIHByb3ZpZGVycyBmYWlsZWQgdG8gZGVjb2RlIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKyAiIGFuIGltYWdlIGZyb20gIiArIG1pbWVUeXBlKTsKICAgICAgICB9CgogICAgICAgIHRocm93IGlvZTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBieXRlW10gaW1hZ2VUb1N0YW5kYXJkQnl0ZXNJbXBsKFJlbmRlcmVkSW1hZ2UgcmVuZGVyZWRJbWFnZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyBtaW1lVHlwZSkKICAgICAgICB0aHJvd3MgSU9FeGNlcHRpb24gewoKICAgICAgICBJdGVyYXRvciB3cml0ZXJJdGVyYXRvciA9IEltYWdlSU8uZ2V0SW1hZ2VXcml0ZXJzQnlNSU1FVHlwZShtaW1lVHlwZSk7CgogICAgICAgIEltYWdlVHlwZVNwZWNpZmllciB0eXBlU3BlY2lmaWVyID0KICAgICAgICAgICAgbmV3IEltYWdlVHlwZVNwZWNpZmllcihyZW5kZXJlZEltYWdlKTsKCiAgICAgICAgQnl0ZUFycmF5T3V0cHV0U3RyZWFtIGJhb3MgPSBuZXcgQnl0ZUFycmF5T3V0cHV0U3RyZWFtKCk7CiAgICAgICAgSU9FeGNlcHRpb24gaW9lID0gbnVsbDsKCiAgICAgICAgd2hpbGUgKHdyaXRlckl0ZXJhdG9yLmhhc05leHQoKSkgewogICAgICAgICAgICBJbWFnZVdyaXRlciBpbWFnZVdyaXRlciA9IChJbWFnZVdyaXRlcil3cml0ZXJJdGVyYXRvci5uZXh0KCk7CiAgICAgICAgICAgIEltYWdlV3JpdGVyU3BpIHdyaXRlclNwaSA9IGltYWdlV3JpdGVyLmdldE9yaWdpbmF0aW5nUHJvdmlkZXIoKTsKCiAgICAgICAgICAgIGlmICghd3JpdGVyU3BpLmNhbkVuY29kZUltYWdlKHR5cGVTcGVjaWZpZXIpKSB7CiAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIEltYWdlT3V0cHV0U3RyZWFtIGltYWdlT3V0cHV0U3RyZWFtID0KICAgICAgICAgICAgICAgICAgICBJbWFnZUlPLmNyZWF0ZUltYWdlT3V0cHV0U3RyZWFtKGJhb3MpOwogICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICBpbWFnZVdyaXRlci5zZXRPdXRwdXQoaW1hZ2VPdXRwdXRTdHJlYW0pOwogICAgICAgICAgICAgICAgICAgIGltYWdlV3JpdGVyLndyaXRlKHJlbmRlcmVkSW1hZ2UpOwogICAgICAgICAgICAgICAgICAgIGltYWdlT3V0cHV0U3RyZWFtLmZsdXNoKCk7CiAgICAgICAgICAgICAgICB9IGZpbmFsbHkgewogICAgICAgICAgICAgICAgICAgIGltYWdlT3V0cHV0U3RyZWFtLmNsb3NlKCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGltYWdlV3JpdGVyLmRpc3Bvc2UoKTsKICAgICAgICAgICAgICAgIGJhb3MucmVzZXQoKTsKICAgICAgICAgICAgICAgIGlvZSA9IGU7CiAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgaW1hZ2VXcml0ZXIuZGlzcG9zZSgpOwogICAgICAgICAgICBiYW9zLmNsb3NlKCk7CiAgICAgICAgICAgIHJldHVybiBiYW9zLnRvQnl0ZUFycmF5KCk7CiAgICAgICAgfQoKICAgICAgICBiYW9zLmNsb3NlKCk7CgogICAgICAgIGlmIChpb2UgPT0gbnVsbCkgewogICAgICAgICAgICBpb2UgPSBuZXcgSU9FeGNlcHRpb24oIlJlZ2lzdGVyZWQgc2VydmljZSBwcm92aWRlcnMgZmFpbGVkIHRvIGVuY29kZSAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICArIHJlbmRlcmVkSW1hZ2UgKyAiIHRvICIgKyBtaW1lVHlwZSk7CiAgICAgICAgfQoKICAgICAgICB0aHJvdyBpb2U7CiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC5qYXZhLm9wZW5qZGsuamF2YXguaW1hZ2Vpby5JbWFnZUlPOwppbXBvcnQgbmV0LmphdmEub3Blbmpkay5qYXZheC5pbWFnZWlvLkltYWdlUmVhZGVyOwppbXBvcnQgbmV0LmphdmEub3Blbmpkay5qYXZheC5pbWFnZWlvLkltYWdlUmVhZFBhcmFtOwppbXBvcnQgbmV0LmphdmEub3Blbmpkay5qYXZheC5pbWFnZWlvLkltYWdlV3JpdGVyOwppbXBvcnQgbmV0LmphdmEub3Blbmpkay5qYXZheC5pbWFnZWlvLkltYWdlVHlwZVNwZWNpZmllcjsKCmltcG9ydCBuZXQuamF2YS5vcGVuamRrLmphdmF4LmltYWdlaW8uc3BpLkltYWdlV3JpdGVyU3BpOwoKaW1wb3J0IG5ldC5qYXZhLm9wZW5qZGsuamF2YXguaW1hZ2Vpby5zdHJlYW0uSW1hZ2VJbnB1dFN0cmVhbTsKaW1wb3J0IG5ldC5qYXZhLm9wZW5qZGsuamF2YXguaW1hZ2Vpby5zdHJlYW0uSW1hZ2VPdXRwdXRTdHJlYW07Cgo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogVHJhbnNsYXRlcyBhIEphdmEgSW1hZ2UgaW50byBhIGJ5dGUgYXJyYXkgd2hpY2ggY29udGFpbnMKICAgICAqIGFuIGltYWdlIGRhdGEgaW4gdGhlIGdpdmVuIHN0YW5kYXJkIGZvcm1hdC4KICAgICAqCiAgICAgKiBAcGFyYW0gbWltZVR5cGUgaW1hZ2UgTUlNRSB0eXBlLCBzdWNoIGFzOiBpbWFnZS9wbmcsIGltYWdlL2pwZWcKICAgICAqLwogICAgcHJvdGVjdGVkIGJ5dGVbXSBpbWFnZVRvU3RhbmRhcmRCeXRlcyhJbWFnZSBpbWFnZSwgU3RyaW5nIG1pbWVUeXBlKQogICAgICB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgICAgIElPRXhjZXB0aW9uIG9yaWdpbmFsSU9FID0gbnVsbDsKCiAgICAgICAgSXRlcmF0b3Igd3JpdGVySXRlcmF0b3IgPSBJbWFnZUlPLmdldEltYWdlV3JpdGVyc0J5TUlNRVR5cGUobWltZVR5cGUpOwoKICAgICAgICBpZiAoIXdyaXRlckl0ZXJhdG9yLmhhc05leHQoKSkgewogICAgICAgICAgICB0aHJvdyBuZXcgSU9FeGNlcHRpb24oIk5vIHJlZ2lzdGVyZWQgc2VydmljZSBwcm92aWRlciBjYW4gZW5jb2RlICIgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIiBhbiBpbWFnZSB0byAiICsgbWltZVR5cGUpOwogICAgICAgIH0KCiAgICAgICAgaWYgKGltYWdlIGluc3RhbmNlb2YgUmVuZGVyZWRJbWFnZSkgewogICAgICAgICAgICAvLyBUcnkgdG8gZW5jb2RlIHRoZSBvcmlnaW5hbCBpbWFnZS4KICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIHJldHVybiBpbWFnZVRvU3RhbmRhcmRCeXRlc0ltcGwoKFJlbmRlcmVkSW1hZ2UpaW1hZ2UsIG1pbWVUeXBlKTsKICAgICAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gaW9lKSB7CiAgICAgICAgICAgICAgICBvcmlnaW5hbElPRSA9IGlvZTsKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgLy8gUmV0cnkgd2l0aCBhIEJ1ZmZlcmVkSW1hZ2UuCiAgICAgICAgaW50IHdpZHRoID0gMDsKICAgICAgICBpbnQgaGVpZ2h0ID0gMDsKICAgICAgICBpZiAoaW1hZ2UgaW5zdGFuY2VvZiBUb29sa2l0SW1hZ2UpIHsKICAgICAgICAgICAgSW1hZ2VSZXByZXNlbnRhdGlvbiBpciA9ICgoVG9vbGtpdEltYWdlKWltYWdlKS5nZXRJbWFnZVJlcCgpOwogICAgICAgICAgICBpci5yZWNvbnN0cnVjdChJbWFnZU9ic2VydmVyLkFMTEJJVFMpOwogICAgICAgICAgICB3aWR0aCA9IGlyLmdldFdpZHRoKCk7CiAgICAgICAgICAgIGhlaWdodCA9IGlyLmdldEhlaWdodCgpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHdpZHRoID0gaW1hZ2UuZ2V0V2lkdGgobnVsbCk7CiAgICAgICAgICAgIGhlaWdodCA9IGltYWdlLmdldEhlaWdodChudWxsKTsKICAgICAgICB9CgogICAgICAgIENvbG9yTW9kZWwgbW9kZWwgPSBDb2xvck1vZGVsLmdldFJHQmRlZmF1bHQoKTsKICAgICAgICBXcml0YWJsZVJhc3RlciByYXN0ZXIgPQogICAgICAgICAgICBtb2RlbC5jcmVhdGVDb21wYXRpYmxlV3JpdGFibGVSYXN0ZXIod2lkdGgsIGhlaWdodCk7CgogICAgICAgIEJ1ZmZlcmVkSW1hZ2UgYnVmZmVyZWRJbWFnZSA9CiAgICAgICAgICAgIG5ldyBCdWZmZXJlZEltYWdlKG1vZGVsLCByYXN0ZXIsIG1vZGVsLmlzQWxwaGFQcmVtdWx0aXBsaWVkKCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG51bGwpOwoKICAgICAgICBHcmFwaGljcyBnID0gYnVmZmVyZWRJbWFnZS5nZXRHcmFwaGljcygpOwogICAgICAgIHRyeSB7CiAgICAgICAgICAgIGcuZHJhd0ltYWdlKGltYWdlLCAwLCAwLCB3aWR0aCwgaGVpZ2h0LCBudWxsKTsKICAgICAgICB9IGZpbmFsbHkgewogICAgICAgICAgICBnLmRpc3Bvc2UoKTsKICAgICAgICB9CgogICAgICAgIHRyeSB7CiAgICAgICAgICAgIHJldHVybiBpbWFnZVRvU3RhbmRhcmRCeXRlc0ltcGwoYnVmZmVyZWRJbWFnZSwgbWltZVR5cGUpOwogICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGlvZSkgewogICAgICAgICAgICBpZiAob3JpZ2luYWxJT0UgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgdGhyb3cgb3JpZ2luYWxJT0U7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICB0aHJvdyBpb2U7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -610,22 +618,22 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC5qYXZhLm9wZW5qZGsuamF2YS5hd3QucHJpbnQuUHJpbnRlckpvYjsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogVHJhbnNsYXRlcyBlaXRoZXIgYSBieXRlIGFycmF5IG9yIGFuIGlucHV0IHN0cmVhbSB3aGljaCBjb250YWluCiAgICAgKiBhbiBpbWFnZSBkYXRhIGluIHRoZSBnaXZlbiBzdGFuZGFyZCBmb3JtYXQgaW50byBhbiBJbWFnZS4KICAgICAqCiAgICAgKiBAcGFyYW0gbWltZVR5cGUgaW1hZ2UgTUlNRSB0eXBlLCBzdWNoIGFzOiBpbWFnZS9wbmcsIGltYWdlL2pwZWcsIGltYWdlL2dpZgogICAgICovCiAgICBwcm90ZWN0ZWQgSW1hZ2Ugc3RhbmRhcmRJbWFnZUJ5dGVzVG9JbWFnZSgKICAgICAgICBieXRlW10gYnl0ZXMsIFN0cmluZyBtaW1lVHlwZSkgdGhyb3dzIElPRXhjZXB0aW9uCiAgICB7CgogICAgICAgIEl0ZXJhdG9yIHJlYWRlckl0ZXJhdG9yID0gSW1hZ2VJTy5nZXRJbWFnZVJlYWRlcnNCeU1JTUVUeXBlKG1pbWVUeXBlKTsKCiAgICAgICAgaWYgKCFyZWFkZXJJdGVyYXRvci5oYXNOZXh0KCkpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IElPRXhjZXB0aW9uKCJObyByZWdpc3RlcmVkIHNlcnZpY2UgcHJvdmlkZXIgY2FuIGRlY29kZSAiICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICIgYW4gaW1hZ2UgZnJvbSAiICsgbWltZVR5cGUpOwogICAgICAgIH0KCiAgICAgICAgSU9FeGNlcHRpb24gaW9lID0gbnVsbDsKCiAgICAgICAgd2hpbGUgKHJlYWRlckl0ZXJhdG9yLmhhc05leHQoKSkgewogICAgICAgICAgICBJbWFnZVJlYWRlciBpbWFnZVJlYWRlciA9IChJbWFnZVJlYWRlcilyZWFkZXJJdGVyYXRvci5uZXh0KCk7CiAgICAgICAgICAgIHRyeSAoQnl0ZUFycmF5SW5wdXRTdHJlYW0gYmFpcyA9IG5ldyBCeXRlQXJyYXlJbnB1dFN0cmVhbShieXRlcykpIHsKICAgICAgICAgICAgICAgIEltYWdlSW5wdXRTdHJlYW0gaW1hZ2VJbnB1dFN0cmVhbSA9CiAgICAgICAgICAgICAgICAgICAgSW1hZ2VJTy5jcmVhdGVJbWFnZUlucHV0U3RyZWFtKGJhaXMpOwoKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgSW1hZ2VSZWFkUGFyYW0gcGFyYW0gPSBpbWFnZVJlYWRlci5nZXREZWZhdWx0UmVhZFBhcmFtKCk7CiAgICAgICAgICAgICAgICAgICAgaW1hZ2VSZWFkZXIuc2V0SW5wdXQoaW1hZ2VJbnB1dFN0cmVhbSwgdHJ1ZSwgdHJ1ZSk7CiAgICAgICAgICAgICAgICAgICAgQnVmZmVyZWRJbWFnZSBidWZmZXJlZEltYWdlID0KICAgICAgICAgICAgICAgICAgICAgICAgaW1hZ2VSZWFkZXIucmVhZChpbWFnZVJlYWRlci5nZXRNaW5JbmRleCgpLCBwYXJhbSk7CiAgICAgICAgICAgICAgICAgICAgaWYgKGJ1ZmZlcmVkSW1hZ2UgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gYnVmZmVyZWRJbWFnZTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9IGZpbmFsbHkgewogICAgICAgICAgICAgICAgICAgIGltYWdlSW5wdXRTdHJlYW0uY2xvc2UoKTsKICAgICAgICAgICAgICAgICAgICBpbWFnZVJlYWRlci5kaXNwb3NlKCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGlvZSA9IGU7CiAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgaWYgKGlvZSA9PSBudWxsKSB7CiAgICAgICAgICAgIGlvZSA9IG5ldyBJT0V4Y2VwdGlvbigiUmVnaXN0ZXJlZCBzZXJ2aWNlIHByb3ZpZGVycyBmYWlsZWQgdG8gZGVjb2RlIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKyAiIGFuIGltYWdlIGZyb20gIiArIG1pbWVUeXBlKTsKICAgICAgICB9CgogICAgICAgIHRocm93IGlvZTsKICAgIH0K</text>
       </register>
       <register name="x" type="4">
         <text>setInt64Parameter(int var1, Long var2, int var3</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC5qYXZhLm9wZW5qZGsuc3VuLmF3dC5kbmQuU3VuRHJvcFRhcmdldEV2ZW50Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxVbnNhZmVfRW5zdXJlQ2xhc3NJbml0aWFsaXplZFw+</last-search>
+      <last-search>unsafe</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxVbnNhZmVfRW5zdXJlQ2xhc3NJbml0aWFsaXplZFw+</last-pattern>
+      <last-pattern>unsafe</last-pattern>
       <last-replace>ScreenCapture</last-replace>
       <last-substitute>main</last-substitute>
       <last-dir>1</last-dir>
@@ -633,14 +641,6 @@
     </search>
     <history>
       <history-search>
-        <entry>VM</entry>
-        <entry encoding="base64">XDx1bnNhZmVcPg==</entry>
-        <entry>native</entry>
-        <entry>toStdErr</entry>
-        <entry>tostderr</entry>
-        <entry>(</entry>
-        <entry>)</entry>
-        <entry>))</entry>
         <entry>c.get</entry>
         <entry encoding="base64">XDx0aW1lclw+</entry>
         <entry encoding="base64">XDxTd2luZ1V0aWxpdGllc1w+</entry>
@@ -653,6 +653,14 @@
         <entry>ensureClass</entry>
         <entry encoding="base64">XDxlbnN1cmVDbGFzc0luaXRpYWxpemVkXD4=</entry>
         <entry encoding="base64">XDxVbnNhZmVfRW5zdXJlQ2xhc3NJbml0aWFsaXplZFw+</entry>
+        <entry encoding="base64">XDxVTlNBRkVfRU5UUllcPg==</entry>
+        <entry encoding="base64">XDxpbml0aWFsaXplXD4=</entry>
+        <entry encoding="base64">XDxKVk1fRmluZENsYXNzRnJvbUNsYXNzTG9hZGVyXD4=</entry>
+        <entry>forName0</entry>
+        <entry>FindClassFromClassLoader</entry>
+        <entry encoding="base64">XDxmaW5kX2NsYXNzX2Zyb21fY2xhc3NfbG9hZGVyXD4=</entry>
+        <entry encoding="base64">XDxpbml0XD4=</entry>
+        <entry>unsafe</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
