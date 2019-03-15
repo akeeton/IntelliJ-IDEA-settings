@@ -132,6 +132,9 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/util/logging/LoggingSupport.java" timestamp="1552675218831">
+        <mark key="'" line="167" column="21" />
+      </file>
       <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/font/FontManager.java" timestamp="1552671944536">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -249,25 +252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="698" column="11" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/misc/Unsafe.java" />
-      <jump line="710" column="11" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/misc/Unsafe.java" />
-      <jump line="759" column="11" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/misc/Unsafe.java" />
-      <jump line="798" column="37" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/misc/Unsafe.java" />
-      <jump line="800" column="43" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/misc/Unsafe.java" />
-      <jump line="803" column="11" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/misc/Unsafe.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/misc/MessageUtils.java" />
-      <jump line="767" column="53" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/misc/Unsafe.java" />
-      <jump line="34" column="43" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/com/sun/beans/editors/ColorEditor.java" />
-      <jump line="94" column="16" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/com/sun/java/swing/SwingUtilities3.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/com/sun/java/swing/SwingUtilities3.java" />
-      <jump line="488" column="6" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/javax/swing/RepaintManager.java" />
-      <jump line="500" column="74" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/javax/swing/RepaintManager.java" />
-      <jump line="498" column="4" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/javax/swing/RepaintManager.java" />
-      <jump line="753" column="27" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/dnd/DropTarget.java" />
-      <jump line="46" column="36" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/dnd/DropTarget.java" />
-      <jump line="670" column="25" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/dnd/DropTarget.java" />
-      <jump line="672" column="12" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/dnd/DropTarget.java" />
-      <jump line="673" column="12" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/dnd/DropTarget.java" />
       <jump line="684" column="12" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/dnd/DropTarget.java" />
       <jump line="723" column="53" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/dnd/DropTarget.java" />
       <jump line="74" column="30" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/javax/swing/SwingUtilities.java" />
@@ -349,10 +333,29 @@
       <jump line="431" column="18" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/font/FontUtilities.java" />
       <jump line="414" column="0" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/font/FontUtilities.java" />
       <jump line="432" column="72" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/font/FontUtilities.java" />
+      <jump line="47" column="38" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/util/logging/LoggingSupport.java" />
+      <jump line="70" column="15" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/util/logging/LoggingSupport.java" />
+      <jump line="74" column="12" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/util/logging/LoggingSupport.java" />
+      <jump line="80" column="15" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/util/logging/LoggingSupport.java" />
+      <jump line="84" column="15" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/util/logging/LoggingSupport.java" />
+      <jump line="89" column="8" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/util/logging/LoggingSupport.java" />
+      <jump line="94" column="15" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/util/logging/LoggingSupport.java" />
+      <jump line="99" column="15" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/util/logging/LoggingSupport.java" />
+      <jump line="104" column="15" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/util/logging/LoggingSupport.java" />
+      <jump line="109" column="8" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/util/logging/LoggingSupport.java" />
+      <jump line="114" column="15" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/util/logging/LoggingSupport.java" />
+      <jump line="119" column="8" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/util/logging/LoggingSupport.java" />
+      <jump line="124" column="8" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/util/logging/LoggingSupport.java" />
+      <jump line="129" column="8" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/util/logging/LoggingSupport.java" />
+      <jump line="134" column="15" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/util/logging/LoggingSupport.java" />
+      <jump line="139" column="15" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/util/logging/LoggingSupport.java" />
+      <jump line="144" column="15" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/util/logging/LoggingSupport.java" />
+      <jump line="166" column="24" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/util/logging/LoggingSupport.java" />
+      <jump line="167" column="21" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/util/logging/LoggingSupport.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC5qYXZhLm9wZW5qZGsuamF2YS5hd3QucHJpbnQuUHJpbnRlckpvYjsK</text>
+      <register name="&quot;" type="4">
+        <text>LoggingProxy</text>
       </register>
       <register name="i" type="4">
         <text>pu</text>
@@ -454,10 +457,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGVsc2Ugew==</text>
+        <text>LoggingProxy</text>
       </register>
       <register name="/" type="4">
-        <text>{</text>
+        <text encoding="base64">XDxwcm94eVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBVbnN1cHBvcnRlZE9wZXJhdGlvbkV4Y2VwdGlvbigpOwo=</text>
@@ -611,17 +614,16 @@
       </register>
     </registers>
     <search>
-      <last-search>{</last-search>
+      <last-search encoding="base64">XDxwcm94eVw+</last-search>
       <last-offset />
-      <last-pattern>{</last-pattern>
+      <last-pattern encoding="base64">XDxwcm94eVw+</last-pattern>
       <last-replace>ScreenCapture</last-replace>
       <last-substitute>main</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Rect</entry>
         <entry>Compon</entry>
         <entry>Com</entry>
         <entry>!</entry>
@@ -641,6 +643,7 @@
         <entry>InvokeLater</entry>
         <entry>invokelater</entry>
         <entry>{</entry>
+        <entry encoding="base64">XDxwcm94eVw+</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
