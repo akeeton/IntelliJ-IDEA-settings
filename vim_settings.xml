@@ -215,8 +215,12 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/android-scanner/app/src/main/java/com/dandh/androidscanner/MainActivity.java" timestamp="1552916088411" />
       <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/util/logging/LoggingSupport.java" timestamp="1552675218831">
         <mark key="'" line="167" column="21" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1552916614357">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/shell/DefaultShellFolder.java" timestamp="1552672533633">
         <mark key="[" line="29" column="0" />
@@ -251,7 +255,6 @@
         <mark key="]" line="171" column="0" />
         <mark key="." line="171" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/misc/Unsafe.java" timestamp="1552677877135" />
       <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/font/FileFont.java" timestamp="1552573243360">
         <mark key="[" line="42" column="7" />
         <mark key="]" line="42" column="7" />
@@ -637,7 +640,7 @@
       <last-replace>ScreenCapture</last-replace>
       <last-substitute>main</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
