@@ -178,9 +178,10 @@
         <mark key="." line="3907" column="41" />
         <mark key="^" line="3907" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/android-scanner/app/build.gradle" timestamp="1552931404124">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="22" column="1" />
+      <file name="$USER_HOME$/dev/android-scanner/app/build.gradle" timestamp="1552931885869">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/javax/swing/KeyboardManager.java" timestamp="1552668777372">
         <mark key="[" line="30" column="0" />
@@ -220,10 +221,7 @@
         <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/dev/android-scanner/RFCommonAS/build.gradle" timestamp="1552931410773">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="22" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/util/logging/LoggingSupport.java" timestamp="1552675218831">
         <mark key="'" line="167" column="21" />
@@ -384,7 +382,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBsaWNhdGlvbklkICJjb20uZGFuZGguYW5kcm9pZHNjYW5uZXIiCg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIHByb2plY3QoJzpSRkNvbW1vbkFTJykKICAgIGltcGxlbWVudGF0aW9uIHByb2plY3QoJzpSRkljQVMnKQogICAgaW1wbGVtZW50YXRpb24gcHJvamVjdCgnOlJGUGlja0FTJykKICAgIGltcGxlbWVudGF0aW9uIHByb2plY3QoJzpSRlJlY3ZBUycpCg==</text>
       </register>
       <register name="i" type="4">
         <text>pu</text>
@@ -495,7 +493,7 @@
         <text encoding="base64">YW5kcm9pZCB7CiAgICBjb21waWxlU2RrVmVyc2lvbiAyOAogICAgZGVmYXVsdENvbmZpZyB7CiAgICAgICAgYXBwbGljYXRpb25JZCAiY29tLmRhbmRoLmFuZHJvaWRzY2FubmVyIgogICAgICAgIG1pblNka1ZlcnNpb24gMjQKICAgICAgICB0YXJnZXRTZGtWZXJzaW9uIDI4CiAgICAgICAgdmVyc2lvbkNvZGUgMQogICAgICAgIHZlcnNpb25OYW1lICIxLjAiCiAgICAgICAgdGVzdEluc3RydW1lbnRhdGlvblJ1bm5lciAiYW5kcm9pZC5zdXBwb3J0LnRlc3QucnVubmVyLkFuZHJvaWRKVW5pdFJ1bm5lciIKICAgIH0KICAgIGJ1aWxkVHlwZXMgewogICAgICAgIHJlbGVhc2UgewogICAgICAgICAgICBtaW5pZnlFbmFibGVkIGZhbHNlCiAgICAgICAgICAgIHByb2d1YXJkRmlsZXMgZ2V0RGVmYXVsdFByb2d1YXJkRmlsZSgncHJvZ3VhcmQtYW5kcm9pZC1vcHRpbWl6ZS50eHQnKSwgJ3Byb2d1YXJkLXJ1bGVzLnBybycKICAgICAgICB9CiAgICB9CiAgICBjb21waWxlT3B0aW9ucyB7CiAgICAgICAgc291cmNlQ29tcGF0aWJpbGl0eSBKYXZhVmVyc2lvbi5WRVJTSU9OXzFfOAogICAgICAgIHRhcmdldENvbXBhdGliaWxpdHkgSmF2YVZlcnNpb24uVkVSU0lPTl8xXzgKICAgIH0KfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBsaWNhdGlvbklkICJjb20uZGFuZGguYW5kcm9pZHNjYW5uZXIiCg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIHByb2plY3QoJzpSRkNvbW1vbkFTJykKICAgIGltcGxlbWVudGF0aW9uIHByb2plY3QoJzpSRkljQVMnKQogICAgaW1wbGVtZW50YXRpb24gcHJvamVjdCgnOlJGUGlja0FTJykKICAgIGltcGxlbWVudGF0aW9uIHByb2plY3QoJzpSRlJlY3ZBUycpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -515,22 +513,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcHBsaWNhdGlvbklkICJjb20uZGFuZGguYW5kcm9pZHNjYW5uZXIiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bWluU2RrVmVyc2lvbiAyNAp0YXJnZXRTZGtWZXJzaW9uIDI4Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1pblNka1ZlcnNpb24gMjQKICAgIHRhcmdldFNka1ZlcnNpb24gMjgKCg==</text>
+        <text encoding="base64">bWluU2RrVmVyc2lvbiAyNAp0YXJnZXRTZGtWZXJzaW9uIDI4Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1pblNka1ZlcnNpb24gMjQKICAgIHRhcmdldFNka1ZlcnNpb24gMjgKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFVuc2FmZSB1bnNhZmUgPSBVbnNhZmUuZ2V0VW5zYWZlKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFVuc2FmZSB1bnNhZmUgPSBVbnNhZmUuZ2V0VW5zYWZlKCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -630,13 +628,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC5qYXZhLm9wZW5qZGsuc3VuLm1pc2MuVW5zYWZlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>setInt64Parameter(int var1, Long var2, int var3</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG5ldC5qYXZhLm9wZW5qZGsuc3VuLm1pc2MuVW5zYWZlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
