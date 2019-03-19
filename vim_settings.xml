@@ -6,6 +6,10 @@
       <mark key="X" line="41" column="86" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/dynamicapi/SessionPool.java" protocol="file" />
     </globalmarks>
     <filemarks>
+      <file name="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/TextComponent.java" timestamp="1553007342461">
+        <mark key="[" line="307" column="0" />
+        <mark key="]" line="307" column="40" />
+      </file>
       <file name="C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/awt/Container.java" timestamp="1552069525444">
         <mark key="'" line="2800" column="62" />
       </file>
@@ -22,26 +26,20 @@
       <file name="$USER_HOME$/dev/scanner/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/VerifyDialogR.java" timestamp="1551903990738">
         <mark key="'" line="29" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/GraphicsCallback.java" timestamp="1552423659587">
-        <mark key="'" line="112" column="52" />
-      </file>
       <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/Toolkit.java" timestamp="1552670107979">
         <mark key="[" line="1745" column="0" />
         <mark key="]" line="1745" column="0" />
         <mark key="." line="1745" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/gui/pick/ItemFrame.java" timestamp="1551994885752">
-        <mark key="'" line="60" column="23" />
       </file>
       <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/java2d/HeadlessGraphicsEnvironment.java" timestamp="1552673502746">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/EmbeddedFrame.java" timestamp="1552671728981">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="/a.dummy" timestamp="1553007862505">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/dnd/SunDropTargetContextPeer.java" timestamp="1552670531181">
         <mark key="[" line="34" column="0" />
@@ -66,38 +64,17 @@
       <file name="$MAVEN_REPOSITORY$/commons-cli/commons-cli/1.2/commons-cli-1.2-sources.jar!/org/apache/commons/cli/GnuParser.java" timestamp="1551985414331">
         <mark key="'" line="71" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/gui/common/MenuFrameP.java" timestamp="1552673213244" />
       <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/reflect/UnsafeFieldAccessorFactory.java" timestamp="1552679450269">
         <mark key="[" line="45" column="44" />
         <mark key="]" line="45" column="109" />
         <mark key="^" line="45" column="109" />
         <mark key="." line="45" column="109" />
       </file>
-      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/EventDispatchThread.java" timestamp="1552671609691">
-        <mark key="[" line="184" column="0" />
-        <mark key="]" line="184" column="0" />
-        <mark key="." line="184" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/javax/accessibility/AccessibleHypertext.java" timestamp="1552671701422">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/android-scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" timestamp="1552403695975">
         <mark key="'" line="333" column="19" />
       </file>
       <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/MenuItem.java" timestamp="1552492773258">
         <mark key="'" line="846" column="47" />
-      </file>
-      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/AWTAccessor.java" timestamp="1552679742164">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/font/FontManager.java" timestamp="1552671944536">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/javax/swing/JComponent.java" timestamp="1552668298807">
         <mark key="[" line="50" column="0" />
@@ -110,19 +87,10 @@
         <mark key="]" line="2128" column="0" />
         <mark key="." line="2128" column="0" />
       </file>
-      <file name="$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/java/lang/Class.java" timestamp="1552678152121">
-        <mark key="'" line="443" column="56" />
-      </file>
       <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/com/sun/beans/editors/EnumEditor.java" timestamp="1552585564949">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/ComponentFactory.java" timestamp="1552671717134">
-        <mark key="'" line="83" column="0" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/font/FontUtilities.java" timestamp="1552672679922">
         <mark key="[" line="413" column="0" />
@@ -136,6 +104,155 @@
         <mark key="[" line="89" column="0" />
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/dnd/SunDropTargetEvent.java" timestamp="1552670490002">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/jvm.cpp" timestamp="1552678732586">
+        <mark key="'" line="3958" column="72" />
+      </file>
+      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/SunToolkit.java" timestamp="1552671859187">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/Menu.java" timestamp="1552492568371">
+        <mark key="'" line="492" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/shell/ShellFolder.java" timestamp="1552672577808">
+        <mark key="[" line="436" column="0" />
+        <mark key="]" line="436" column="0" />
+        <mark key="." line="436" column="0" />
+        <mark key="^" line="435" column="53" />
+      </file>
+      <file name="C:/jdk8-source/src/share/classes/javax/accessibility/AccessibleComponent.java" timestamp="1552584085892">
+        <mark key="'" line="50" column="17" />
+      </file>
+      <file name="C:/Progress/OpenEdge/jdk/src.zip!/javax/imageio/ImageIO.java" timestamp="1551997383797">
+        <mark key="'" line="1439" column="55" />
+      </file>
+      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/Window.java" timestamp="1552672475515">
+        <mark key="[" line="3907" column="0" />
+        <mark key="]" line="3907" column="41" />
+        <mark key="^" line="3907" column="41" />
+        <mark key="." line="3907" column="41" />
+      </file>
+      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/javax/accessibility/AccessibleText.java" timestamp="1552670452715">
+        <mark key="'" line="154" column="21" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/android-scanner/app/build.gradle" timestamp="1552931885869">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="C:/Progress/OpenEdge/jdk/src.zip!/javax/imageio/ImageWriter.java" timestamp="1551997390864">
+        <mark key="'" line="596" column="36" />
+      </file>
+      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/javax/swing/KeyboardManager.java" timestamp="1552668777372">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/HeadlessToolkit.java" timestamp="1552671822167">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/javax/swing/JPopupMenu.java" timestamp="1552668644980">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/jdk11-source-code/src/java.desktop/share/classes/java/awt/Container.java" timestamp="1552070004013">
+        <mark key="'" line="253" column="37" />
+      </file>
+      <file name="$USER_HOME$/.AndroidStudio3.3/system/log/idea.log" timestamp="1552314924396">
+        <mark key="'" line="16" column="95" />
+      </file>
+      <file name="$USER_HOME$/dev/android-scanner/RFCommonAS/build.gradle" timestamp="1552931410773">
+        <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$APPLICATION_HOME_DIR$/jre/jre/lib/rt.jar!/java/util/Locale.class" timestamp="1552512699205">
+        <mark key="'" line="223" column="18" />
+      </file>
+      <file name="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Component.java" timestamp="1553006106199" />
+      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/javax/swing/AbstractButton.java" timestamp="1552511604302">
+        <mark key="'" line="1799" column="58" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/HToolkit.java" timestamp="1552671838688">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/com/sun/beans/infos/ComponentBeanInfo.java" timestamp="1552585588536">
+        <mark key="[" line="25" column="31" />
+        <mark key="]" line="25" column="31" />
+        <mark key="." line="25" column="31" />
+      </file>
+      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/image/SunVolatileImage.java" timestamp="1552672810954">
+        <mark key="[" line="171" column="0" />
+        <mark key="]" line="171" column="0" />
+        <mark key="." line="171" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/javax/accessibility/AccessibleHyperlink.java" timestamp="1552671934898">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/GraphicsCallback.java" timestamp="1552423659587">
+        <mark key="'" line="112" column="52" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/TextField.java" timestamp="1553008452114">
+        <mark key="'" line="915" column="0" />
+        <mark key="[" line="49" column="23" />
+        <mark key="]" line="49" column="23" />
+        <mark key="." line="49" column="23" />
+        <mark key="^" line="50" column="7" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/gui/pick/ItemFrame.java" timestamp="1551994885752">
+        <mark key="'" line="60" column="23" />
+      </file>
+      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/EmbeddedFrame.java" timestamp="1552671728981">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/EventDispatchThread.java" timestamp="1552671609691">
+        <mark key="[" line="184" column="0" />
+        <mark key="]" line="184" column="0" />
+        <mark key="." line="184" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/javax/accessibility/AccessibleHypertext.java" timestamp="1552671701422">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/AWTAccessor.java" timestamp="1552679742164">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/font/FontManager.java" timestamp="1552671944536">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/java/lang/Class.java" timestamp="1552678152121">
+        <mark key="'" line="443" column="56" />
+      </file>
+      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/ComponentFactory.java" timestamp="1552671717134">
+        <mark key="'" line="83" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/image/Raster.java" timestamp="1552486155127">
         <mark key="[" line="893" column="45" />
@@ -158,45 +275,24 @@
       <file name="$USER_HOME$/dev/android-scanner/RFCommonAS/src/main/java/java/awt/Window.java" timestamp="1552414775027">
         <mark key="'" line="4065" column="49" />
       </file>
-      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/dnd/SunDropTargetEvent.java" timestamp="1552670490002">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/TextComponent.java" timestamp="1552670435334">
         <mark key="[" line="970" column="0" />
         <mark key="]" line="970" column="0" />
         <mark key="." line="970" column="0" />
-      </file>
-      <file name="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/jvm.cpp" timestamp="1552678732586">
-        <mark key="'" line="3958" column="72" />
       </file>
       <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/javax/swing/plaf/basic/BasicHTML.java" timestamp="1552574795749">
         <mark key="[" line="364" column="36" />
         <mark key="]" line="364" column="36" />
         <mark key="." line="364" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/SunToolkit.java" timestamp="1552671859187">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/Menu.java" timestamp="1552492568371">
-        <mark key="'" line="492" column="12" />
-      </file>
       <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/applet/AppletPanel.java" timestamp="1552574274345">
         <mark key="[" line="900" column="27" />
         <mark key="]" line="900" column="27" />
         <mark key="." line="900" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/shell/ShellFolder.java" timestamp="1552672577808">
-        <mark key="[" line="436" column="0" />
-        <mark key="]" line="436" column="0" />
-        <mark key="." line="436" column="0" />
-        <mark key="^" line="435" column="53" />
-      </file>
-      <file name="C:/jdk8-source/src/share/classes/javax/accessibility/AccessibleComponent.java" timestamp="1552584085892">
-        <mark key="'" line="50" column="17" />
+      <file name="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/TextField.java" timestamp="1553007009153">
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="150" column="5" />
       </file>
       <file name="$USER_HOME$/AppData/Local/Temp/DatatypeConverterInterface.java" timestamp="1552055611623">
         <mark key="'" line="458" column="18" />
@@ -207,65 +303,21 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="C:/Progress/OpenEdge/jdk/src.zip!/javax/imageio/ImageIO.java" timestamp="1551997383797">
-        <mark key="'" line="1439" column="55" />
-      </file>
       <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/util/logging/LoggingProxyImpl.java" timestamp="1552593850012">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/Window.java" timestamp="1552672475515">
-        <mark key="[" line="3907" column="0" />
-        <mark key="]" line="3907" column="41" />
-        <mark key="^" line="3907" column="41" />
-        <mark key="." line="3907" column="41" />
-      </file>
-      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/javax/accessibility/AccessibleText.java" timestamp="1552670452715">
-        <mark key="'" line="154" column="21" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/javax/swing/JTable.java" timestamp="1552668697809">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/android-scanner/app/build.gradle" timestamp="1552931885869">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
-      <file name="C:/Progress/OpenEdge/jdk/src.zip!/javax/imageio/ImageWriter.java" timestamp="1551997390864">
-        <mark key="'" line="596" column="36" />
-      </file>
-      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/javax/swing/KeyboardManager.java" timestamp="1552668777372">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
-      <file name="$APPLICATION_HOME_DIR$/jre/jre/lib/rt.jar!/java/util/Locale.class" timestamp="1552512699205">
-        <mark key="'" line="223" column="18" />
-      </file>
       <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/com/sun/java/swing/SwingUtilities3.java" timestamp="1552668218910">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/HeadlessToolkit.java" timestamp="1552671822167">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/javax/swing/JPopupMenu.java" timestamp="1552668644980">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/jdk11-source-code/src/java.desktop/share/classes/java/awt/Container.java" timestamp="1552070004013">
-        <mark key="'" line="253" column="37" />
       </file>
       <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/javax/accessibility/AccessibleEditableText.java" timestamp="1552671594539">
         <mark key="'" line="107" column="54" />
@@ -289,12 +341,6 @@
       <file name="C:/Progress/OpenEdge/jdk/src.zip!/javax/imageio/IIOImage.java" timestamp="1551997394853">
         <mark key="'" line="91" column="48" />
       </file>
-      <file name="$USER_HOME$/.AndroidStudio3.3/system/log/idea.log" timestamp="1552314924396">
-        <mark key="'" line="16" column="95" />
-      </file>
-      <file name="$USER_HOME$/dev/android-scanner/RFCommonAS/build.gradle" timestamp="1552931410773">
-        <mark key="^" line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/applet/Applet.java" timestamp="1552491772487">
         <mark key="'" line="419" column="26" />
       </file>
@@ -312,12 +358,6 @@
       </file>
       <file name="/Dummy.txt" timestamp="1552916614357">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/javax/swing/AbstractButton.java" timestamp="1552511604302">
-        <mark key="'" line="1799" column="58" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/shell/DefaultShellFolder.java" timestamp="1552672533633">
         <mark key="[" line="29" column="0" />
@@ -339,19 +379,8 @@
       <file name="C:/Progress/OpenEdge/jdk/src.zip!/java/util/EnumSet.java" timestamp="1551972218163">
         <mark key="'" line="365" column="74" />
       </file>
-      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/dynamicapi/SessionPool.java" timestamp="1552673213244" />
-      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/HToolkit.java" timestamp="1552671838688">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/ApplicationResources.properties" timestamp="1551897841987">
         <mark key="'" line="37" column="19" />
-      </file>
-      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/com/sun/beans/infos/ComponentBeanInfo.java" timestamp="1552585588536">
-        <mark key="[" line="25" column="31" />
-        <mark key="]" line="25" column="31" />
-        <mark key="." line="25" column="31" />
       </file>
       <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/Cursor.java" timestamp="1552492410605">
         <mark key="[" line="228" column="87" />
@@ -362,10 +391,11 @@
       <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/AWTEvent.java" timestamp="1552419779261">
         <mark key="'" line="469" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/image/SunVolatileImage.java" timestamp="1552672810954">
-        <mark key="[" line="171" column="0" />
-        <mark key="]" line="171" column="0" />
-        <mark key="." line="171" column="0" />
+      <file name="$USER_HOME$/dev/scanner-awt-interface/pom.xml" timestamp="1553004275417">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/util/CoreResourceBundleControl.java" timestamp="1552512722061">
         <mark key="[" line="59" column="55" />
@@ -383,32 +413,14 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="/fragment.java" timestamp="1553005486784">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/jdk11-source-code/src/java.base/share/classes/java/lang/Integer.java" timestamp="1552310055530">
         <mark key="'" line="1027" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/javax/accessibility/AccessibleHyperlink.java" timestamp="1552671934898">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="2324" column="6" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/Container.java" />
-      <jump line="130" column="76" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/javax/accessibility/AccessibleEditableText.java" />
-      <jump line="108" column="54" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/javax/accessibility/AccessibleEditableText.java" />
-      <jump line="122" column="11" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/im/spi/InputMethodContext.java" />
-      <jump line="85" column="0" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/ComponentFactory.java" />
-      <jump line="500" column="6" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/EmbeddedFrame.java" />
-      <jump line="3920" column="0" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/font/SunFontManager.java" />
-      <jump line="255" column="22" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/HeadlessToolkit.java" />
-      <jump line="156" column="11" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/HToolkit.java" />
-      <jump line="238" column="22" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/HToolkit.java" />
-      <jump line="4668" column="36" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/Component.java" />
-      <jump line="39" column="35" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/im/InputMethodPopupMenu.java" />
-      <jump line="154" column="8" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/im/InputMethodPopupMenu.java" />
-      <jump line="155" column="37" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/im/InputMethodPopupMenu.java" />
-      <jump line="163" column="4" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/im/InputMethodPopupMenu.java" />
-      <jump line="164" column="0" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/im/InputMethodPopupMenu.java" />
       <jump line="168" column="0" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/im/InputMethodPopupMenu.java" />
       <jump line="172" column="0" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/im/InputMethodPopupMenu.java" />
       <jump line="176" column="0" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/im/InputMethodPopupMenu.java" />
@@ -493,10 +505,26 @@
       <jump line="3565" column="19" filename="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/jvm.cpp" />
       <jump line="3958" column="72" filename="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/jvm.cpp" />
       <jump line="123" column="26" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Rlp.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/scanner-awt-interface/pom.xml" />
+      <jump line="96" column="45" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/TextField.java" />
+      <jump line="101" column="35" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/TextField.java" />
+      <jump line="26" column="14" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/TextField.java" />
+      <jump line="23" column="0" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/TextField.java" />
+      <jump line="106" column="4" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/TextField.java" />
+      <jump line="18" column="30" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/TextField.java" />
+      <jump line="860" column="18" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/TextField.java" />
+      <jump line="132" column="16" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/TextField.java" />
+      <jump line="133" column="18" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/TextField.java" />
+      <jump line="859" column="16" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/TextField.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/TextField.java" />
+      <jump line="490" column="27" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/TextField.java" />
+      <jump line="491" column="25" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/TextField.java" />
+      <jump line="831" column="0" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/TextField.java" />
+      <jump line="915" column="0" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/TextField.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIHByb2plY3QoJzpSRkNvbW1vbkFTJykKICAgIGltcGxlbWVudGF0aW9uIHByb2plY3QoJzpSRkljQVMnKQogICAgaW1wbGVtZW50YXRpb24gcHJvamVjdCgnOlJGUGlja0FTJykKICAgIGltcGxlbWVudGF0aW9uIHByb2plY3QoJzpSRlJlY3ZBUycpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dGhyb3dzIEhlYWRsZXNzRXhjZXB0aW9uIA==</text>
       </register>
       <register name="i" type="4">
         <text>pu</text>
@@ -598,16 +626,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>android-library</text>
+        <text encoding="base64">dGhyb3dzIEhlYWRsZXNzRXhjZXB0aW9uIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkb2NMaXN0XD4=</text>
+        <text>{</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YW5kcm9pZCB7CiAgICBjb21waWxlU2RrVmVyc2lvbiAyOAogICAgZGVmYXVsdENvbmZpZyB7CiAgICAgICAgYXBwbGljYXRpb25JZCAiY29tLmRhbmRoLmFuZHJvaWRzY2FubmVyIgogICAgICAgIG1pblNka1ZlcnNpb24gMjQKICAgICAgICB0YXJnZXRTZGtWZXJzaW9uIDI4CiAgICAgICAgdmVyc2lvbkNvZGUgMQogICAgICAgIHZlcnNpb25OYW1lICIxLjAiCiAgICAgICAgdGVzdEluc3RydW1lbnRhdGlvblJ1bm5lciAiYW5kcm9pZC5zdXBwb3J0LnRlc3QucnVubmVyLkFuZHJvaWRKVW5pdFJ1bm5lciIKICAgIH0KICAgIGJ1aWxkVHlwZXMgewogICAgICAgIHJlbGVhc2UgewogICAgICAgICAgICBtaW5pZnlFbmFibGVkIGZhbHNlCiAgICAgICAgICAgIHByb2d1YXJkRmlsZXMgZ2V0RGVmYXVsdFByb2d1YXJkRmlsZSgncHJvZ3VhcmQtYW5kcm9pZC1vcHRpbWl6ZS50eHQnKSwgJ3Byb2d1YXJkLXJ1bGVzLnBybycKICAgICAgICB9CiAgICB9CiAgICBjb21waWxlT3B0aW9ucyB7CiAgICAgICAgc291cmNlQ29tcGF0aWJpbGl0eSBKYXZhVmVyc2lvbi5WRVJTSU9OXzFfOAogICAgICAgIHRhcmdldENvbXBhdGliaWxpdHkgSmF2YVZlcnNpb24uVkVSU0lPTl8xXzgKICAgIH0KfQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldEJhY2tncm91bmQoQ29sb3IgYykgewo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIHByb2plY3QoJzpSRkNvbW1vbkFTJykKICAgIGltcGxlbWVudGF0aW9uIHByb2plY3QoJzpSRkljQVMnKQogICAgaW1wbGVtZW50YXRpb24gcHJvamVjdCgnOlJGUGlja0FTJykKICAgIGltcGxlbWVudGF0aW9uIHByb2plY3QoJzpSRlJlY3ZBUycpCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">dGhyb3dzIEhlYWRsZXNzRXhjZXB0aW9uIA==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -626,23 +654,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBsaWNhdGlvbklkICJjb20uZGFuZGguYW5kcm9pZHNjYW5uZXIiCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">dGhyb3dzIEhlYWRsZXNzRXhjZXB0aW9uIA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuYXd0LkFXVEtleVN0cm9rZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bWluU2RrVmVyc2lvbiAyNAp0YXJnZXRTZGtWZXJzaW9uIDI4Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBBY3Rpb25MaXN0ZW5lcltdIGdldEFjdGlvbkxpc3RlbmVycygpIHsKICAgICAgICByZXR1cm4gdGV4dEZpZWxkLmdldEFjdGlvbkxpc3RlbmVycygpOwogICAgfQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1pblNka1ZlcnNpb24gMjQKICAgIHRhcmdldFNka1ZlcnNpb24gMjgKCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldE1pbmltdW1TaXplKERpbWVuc2lvbiBtaW5pbXVtU2l6ZSkgewogICAgICAgIHRleHRGaWVsZC5zZXRNaW5pbXVtU2l6ZShtaW5pbXVtU2l6ZSk7CiAgICB9Cgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFVuc2FmZSB1bnNhZmUgPSBVbnNhZmUuZ2V0VW5zYWZlKCk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldFByZWZlcnJlZFNpemUoRGltZW5zaW9uIHByZWZlcnJlZFNpemUpIHsKICAgICAgICB0ZXh0RmllbGQuc2V0UHJlZmVycmVkU2l6ZShwcmVmZXJyZWRTaXplKTsKICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -742,22 +770,22 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBBY2Nlc3NpYmxlQ29udGV4dCBnZXRBY2Nlc3NpYmxlQ29udGV4dCgpIHsKICAgICAgICByZXR1cm4gdGV4dEZpZWxkLmdldEFjY2Vzc2libGVDb250ZXh0KCk7CiAgICB9Cgo=</text>
       </register>
       <register name="x" type="4">
         <text>setInt64Parameter(int var1, Long var2, int var3</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC5qYXZhLm9wZW5qZGsuc3VuLm1pc2MuVW5zYWZlOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBUZXh0TGlzdGVuZXJbXSBnZXRUZXh0TGlzdGVuZXJzKCkgewogICAgICAgIHJldHVybiB0ZXh0RmllbGQuZ2V0VGV4dExpc3RlbmVycygpOwogICAgfQoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkb2NMaXN0XD4=</last-search>
+      <last-search>{</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkb2NMaXN0XD4=</last-pattern>
+      <last-pattern>{</last-pattern>
       <last-replace>ScreenCapture</last-replace>
       <last-substitute>main</last-substitute>
       <last-dir>1</last-dir>
@@ -765,16 +793,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Sys</entry>
-        <entry>,</entry>
-        <entry>64</entry>
-        <entry>print</entry>
-        <entry encoding="base64">XDxfcGFyc2VCYXNlNjRCaW5hcnlcPg==</entry>
-        <entry encoding="base64">XDxwcmludEJhc2U2NEJpbmFyeVw+</entry>
-        <entry encoding="base64">XDxfcHJpbnRCYXNlNjRCaW5hcnlcPg==</entry>
-        <entry>native</entry>
-        <entry>cache</entry>
-        <entry>IntegerCache</entry>
         <entry encoding="base64">XDxjYWNoZVw+</entry>
         <entry encoding="base64">XDxJbnRlZ2VyQ2FjaGVcPg==</entry>
         <entry>lib</entry>
@@ -785,9 +803,18 @@
         <entry>Overr</entry>
         <entry encoding="base64">XDxnZXRDb21wb25lbnRGYWN0b3J5XD4=</entry>
         <entry encoding="base64">XDxkb2NMaXN0XD4=</entry>
+        <entry>enforc</entry>
+        <entry>setText</entry>
+        <entry>imple</entry>
+        <entry>setBackground</entry>
+        <entry encoding="base64">XDx0ZXh0RmllbGRcPg==</entry>
+        <entry>implem</entry>
+        <entry encoding="base64">XDxlbmFibGVJbnB1dE1ldGhvZHNcPg==</entry>
+        <entry>Poin</entry>
+        <entry encoding="base64">XDxnZXRMaXN0ZW5lcnNcPg==</entry>
+        <entry>{</entry>
       </history-search>
       <history-cmd>
-        <entry>130</entry>
         <entry>.,.+</entry>
         <entry>nohl</entry>
         <entry>reg</entry>
@@ -805,8 +832,9 @@
         <entry>274</entry>
         <entry>874</entry>
         <entry>e</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
