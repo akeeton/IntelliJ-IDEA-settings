@@ -36,7 +36,7 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1553007862505">
+      <file name="/a.dummy" timestamp="1553008729846">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -181,6 +181,14 @@
         <mark key="'" line="223" column="18" />
       </file>
       <file name="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Component.java" timestamp="1553006106199" />
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" timestamp="1553009661258">
+        <mark key="'" line="782" column="19" />
+        <mark key="x" line="480" column="4" />
+        <mark key="[" line="739" column="0" />
+        <mark key="]" line="739" column="0" />
+        <mark key="." line="739" column="0" />
+        <mark key="^" line="51" column="41" />
+      </file>
       <file name="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/javax/swing/AbstractButton.java" timestamp="1552511604302">
         <mark key="'" line="1799" column="58" />
         <mark key="[" line="41" column="0" />
@@ -421,72 +429,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="0" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/im/InputMethodPopupMenu.java" />
-      <jump line="172" column="0" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/im/InputMethodPopupMenu.java" />
-      <jump line="176" column="0" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/im/InputMethodPopupMenu.java" />
-      <jump line="179" column="0" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/im/InputMethodPopupMenu.java" />
-      <jump line="183" column="0" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/im/InputMethodPopupMenu.java" />
-      <jump line="187" column="0" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/im/InputMethodPopupMenu.java" />
-      <jump line="191" column="0" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/im/InputMethodPopupMenu.java" />
-      <jump line="208" column="0" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/im/InputMethodPopupMenu.java" />
-      <jump line="210" column="0" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/im/InputMethodPopupMenu.java" />
-      <jump line="213" column="0" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/im/InputMethodPopupMenu.java" />
-      <jump line="218" column="0" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/im/InputMethodContext.java" />
-      <jump line="214" column="0" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/im/InputMethodContext.java" />
-      <jump line="199" column="0" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/im/InputMethodContext.java" />
-      <jump line="178" column="0" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/im/InputMethodContext.java" />
-      <jump line="200" column="0" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/im/InputMethodContext.java" />
-      <jump line="211" column="0" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/im/InputMethodContext.java" />
-      <jump line="222" column="0" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/im/InputMethodContext.java" />
-      <jump line="264" column="8" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/im/InputMethodContext.java" />
-      <jump line="318" column="46" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/im/InputMethodContext.java" />
-      <jump line="3906" column="93" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/java/awt/Window.java" />
-      <jump line="439" column="29" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/shell/ShellFolder.java" />
-      <jump line="436" column="49" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/shell/ShellFolder.java" />
-      <jump line="51" column="37" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/shell/ShellFolderColumnInfo.java" />
-      <jump line="394" column="18" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/font/FontUtilities.java" />
-      <jump line="431" column="18" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/font/FontUtilities.java" />
-      <jump line="414" column="0" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/font/FontUtilities.java" />
-      <jump line="432" column="72" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/font/FontUtilities.java" />
-      <jump line="47" column="38" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/util/logging/LoggingSupport.java" />
-      <jump line="70" column="15" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/util/logging/LoggingSupport.java" />
-      <jump line="74" column="12" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/util/logging/LoggingSupport.java" />
-      <jump line="80" column="15" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/util/logging/LoggingSupport.java" />
-      <jump line="84" column="15" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/util/logging/LoggingSupport.java" />
-      <jump line="89" column="8" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/util/logging/LoggingSupport.java" />
-      <jump line="94" column="15" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/util/logging/LoggingSupport.java" />
-      <jump line="99" column="15" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/util/logging/LoggingSupport.java" />
-      <jump line="104" column="15" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/util/logging/LoggingSupport.java" />
-      <jump line="109" column="8" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/util/logging/LoggingSupport.java" />
-      <jump line="114" column="15" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/util/logging/LoggingSupport.java" />
-      <jump line="119" column="8" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/util/logging/LoggingSupport.java" />
-      <jump line="124" column="8" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/util/logging/LoggingSupport.java" />
-      <jump line="129" column="8" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/util/logging/LoggingSupport.java" />
-      <jump line="134" column="15" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/util/logging/LoggingSupport.java" />
-      <jump line="139" column="15" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/util/logging/LoggingSupport.java" />
-      <jump line="144" column="15" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/util/logging/LoggingSupport.java" />
-      <jump line="166" column="24" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/util/logging/LoggingSupport.java" />
-      <jump line="167" column="21" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/util/logging/LoggingSupport.java" />
-      <jump line="99" column="0" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/datatransfer/DataTransferer.java" />
-      <jump line="104" column="0" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/datatransfer/DataTransferer.java" />
-      <jump line="106" column="0" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/datatransfer/DataTransferer.java" />
-      <jump line="2119" column="4" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/datatransfer/DataTransferer.java" />
-      <jump line="2135" column="4" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/datatransfer/DataTransferer.java" />
-      <jump line="2127" column="0" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/datatransfer/DataTransferer.java" />
-      <jump line="2128" column="4" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/datatransfer/DataTransferer.java" />
-      <jump line="2147" column="27" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/awt/datatransfer/DataTransferer.java" />
-      <jump line="717" column="49" filename="$USER_HOME$/dev/android-scanner/openjdk8/src/main/java/net/java/openjdk/sun/misc/Unsafe.java" />
-      <jump line="26" column="30" filename="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/unsafe.cpp" />
-      <jump line="1433" column="8" filename="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/unsafe.cpp" />
-      <jump line="1483" column="8" filename="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/unsafe.cpp" />
-      <jump line="1537" column="8" filename="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/unsafe.cpp" />
-      <jump line="1594" column="64" filename="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/unsafe.cpp" />
-      <jump line="776" column="17" filename="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/unsafe.cpp" />
-      <jump line="1387" column="64" filename="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/unsafe.cpp" />
-      <jump line="786" column="0" filename="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/unsafe.cpp" />
-      <jump line="775" column="0" filename="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/unsafe.cpp" />
-      <jump line="0" column="0" filename="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/unsafe.cpp" />
-      <jump line="58" column="8" filename="C:/jdk8-jvm-hotspot-source/src/share/vm/prims/unsafe.cpp" />
       <jump line="443" column="56" filename="$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/java/lang/Class.java" />
       <jump line="55" column="11" filename="C:/jdk8-source/src/share/native/java/lang/Class.c" />
       <jump line="99" column="39" filename="C:/jdk8-source/src/share/native/java/lang/Class.c" />
@@ -521,10 +463,76 @@
       <jump line="491" column="25" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/TextField.java" />
       <jump line="831" column="0" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/TextField.java" />
       <jump line="915" column="0" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/TextField.java" />
+      <jump line="424" column="27" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="425" column="21" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="1034" column="0" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="488" column="16" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="489" column="14" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="492" column="15" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="493" column="21" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="849" column="0" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="1020" column="0" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="500" column="15" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="504" column="4" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="508" column="4" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="525" column="0" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="524" column="4" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="523" column="0" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="526" column="4" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="528" column="4" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="530" column="4" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="533" column="15" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="534" column="4" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="532" column="4" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="537" column="4" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="540" column="15" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="539" column="0" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="541" column="4" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="547" column="0" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="549" column="4" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="584" column="15" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="585" column="4" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="683" column="15" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="684" column="4" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="699" column="52" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="700" column="4" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="706" column="0" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="708" column="4" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="719" column="15" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="718" column="0" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="720" column="4" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="722" column="0" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="724" column="4" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="726" column="16" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="728" column="4" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="786" column="0" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="788" column="4" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="791" column="15" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="790" column="0" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="792" column="4" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="817" column="4" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="819" column="4" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="822" column="8" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="824" column="4" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="821" column="0" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="823" column="4" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="870" column="15" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="869" column="0" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="871" column="4" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="874" column="15" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="873" column="0" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="875" column="4" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="78" column="25" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="80" column="4" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="348" column="4" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="350" column="4" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="739" column="4" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="741" column="4" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
+      <jump line="782" column="19" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dGhyb3dzIEhlYWRsZXNzRXhjZXB0aW9uIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text>pu</text>
@@ -626,51 +634,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGhyb3dzIEhlYWRsZXNzRXhjZXB0aW9uIA==</text>
+        <text encoding="base64">SGVhZGxlc3NFeGNlcHRpb24g</text>
       </register>
       <register name="/" type="4">
-        <text>{</text>
+        <text>Com</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldEJhY2tncm91bmQoQ29sb3IgYykgewo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">dGhyb3dzIEhlYWRsZXNzRXhjZXB0aW9uIA==</text>
-      </register>
-      <register name="q" type="4">
-        <keys>
-          <key char="47" code="0" mods="0" />
-          <key char="118" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="65535" code="10" mods="0" />
-          <key char="93" code="0" mods="0" />
-          <key char="109" code="0" mods="0" />
-          <key char="99" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="123" code="0" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="65535" code="27" mods="0" />
-        </keys>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">dGhyb3dzIEhlYWRsZXNzRXhjZXB0aW9uIA==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuYXd0LkFXVEtleVN0cm9rZTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBBY3Rpb25MaXN0ZW5lcltdIGdldEFjdGlvbkxpc3RlbmVycygpIHsKICAgICAgICByZXR1cm4gdGV4dEZpZWxkLmdldEFjdGlvbkxpc3RlbmVycygpOwogICAgfQoK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldE1pbmltdW1TaXplKERpbWVuc2lvbiBtaW5pbXVtU2l6ZSkgewogICAgICAgIHRleHRGaWVsZC5zZXRNaW5pbXVtU2l6ZShtaW5pbXVtU2l6ZSk7CiAgICB9Cgo=</text>
-      </register>
-      <register name="6" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="q" type="4">
+        <text>]MV[mddd</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0V2FybmluZ1N0cmluZygpIHsKICAgICAgICByZXR1cm4gZnJhbWUuZ2V0V2FybmluZ1N0cmluZygpOwogICAgfQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGRpc3BhdGNoRXZlbnQoQVdURXZlbnQgZSkgewogICAgICAgIGZyYW1lLmRpc3BhdGNoRXZlbnQoZSk7CiAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBPYmplY3QgZ2V0VHJlZUxvY2soKSB7CiAgICAgICAgcmV0dXJuIGZyYW1lLmdldFRyZWVMb2NrKCk7CiAgICB9Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldFByZWZlcnJlZFNpemUoRGltZW5zaW9uIHByZWZlcnJlZFNpemUpIHsKICAgICAgICB0ZXh0RmllbGQuc2V0UHJlZmVycmVkU2l6ZShwcmVmZXJyZWRTaXplKTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -770,22 +764,22 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBBY2Nlc3NpYmxlQ29udGV4dCBnZXRBY2Nlc3NpYmxlQ29udGV4dCgpIHsKICAgICAgICByZXR1cm4gdGV4dEZpZWxkLmdldEFjY2Vzc2libGVDb250ZXh0KCk7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldFVuZGVjb3JhdGVkKGJvb2xlYW4gdW5kZWNvcmF0ZWQpIHsKICAgICAgICBmcmFtZS5zZXRVbmRlY29yYXRlZCh1bmRlY29yYXRlZCk7CiAgICB9Cg==</text>
       </register>
       <register name="x" type="4">
         <text>setInt64Parameter(int var1, Long var2, int var3</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBUZXh0TGlzdGVuZXJbXSBnZXRUZXh0TGlzdGVuZXJzKCkgewogICAgICAgIHJldHVybiB0ZXh0RmllbGQuZ2V0VGV4dExpc3RlbmVycygpOwogICAgfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>{</last-search>
+      <last-search>Com</last-search>
       <last-offset />
-      <last-pattern>{</last-pattern>
+      <last-pattern>Com</last-pattern>
       <last-replace>ScreenCapture</last-replace>
       <last-substitute>main</last-substitute>
       <last-dir>1</last-dir>
@@ -793,9 +787,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjYWNoZVw+</entry>
-        <entry encoding="base64">XDxJbnRlZ2VyQ2FjaGVcPg==</entry>
-        <entry>lib</entry>
         <entry>:</entry>
         <entry>=</entry>
         <entry>main</entry>
@@ -810,9 +801,12 @@
         <entry encoding="base64">XDx0ZXh0RmllbGRcPg==</entry>
         <entry>implem</entry>
         <entry encoding="base64">XDxlbmFibGVJbnB1dE1ldGhvZHNcPg==</entry>
+        <entry>{</entry>
         <entry>Poin</entry>
         <entry encoding="base64">XDxnZXRMaXN0ZW5lcnNcPg==</entry>
-        <entry>{</entry>
+        <entry encoding="base64">XDxzZXRGb2N1c1RyYXZlcnNhbEtleXNcPg==</entry>
+        <entry encoding="base64">XDxnZXRGb2N1c1RyYXZlcnNhbEtleXNcPg==</entry>
+        <entry>Com</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+</entry>
@@ -822,7 +816,6 @@
         <entry>marks</entry>
         <entry>w'</entry>
         <entry encoding="base64">JzwsJz5zL0Zyb20vVG8=</entry>
-        <entry>qw</entry>
         <entry>sw</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz5zL2Zyb20vdG8=</entry>
@@ -834,6 +827,7 @@
         <entry>e</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry>qw</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
