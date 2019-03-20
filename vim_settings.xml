@@ -138,6 +138,12 @@
         <mark key="." line="5" column="46" />
         <mark key="^" line="5" column="46" />
       </file>
+      <file name="$USER_HOME$/AppData/Local/JetBrains/Toolbox/apps/IDEA-C/ch-0/191.6183.20.vmoptions" timestamp="1553103744053">
+        <mark key="[" line="1" column="4" />
+        <mark key="]" line="1" column="5" />
+        <mark key="." line="1" column="5" />
+        <mark key="^" line="1" column="5" />
+      </file>
       <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Panel.java" timestamp="1553019319606">
         <mark key="[" line="507" column="0" />
         <mark key="]" line="507" column="0" />
@@ -182,10 +188,11 @@
         <mark key="^" line="2" column="15" />
         <mark key="." line="2" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Component.java" timestamp="1553028487847">
-        <mark key="[" line="578" column="15" />
-        <mark key="]" line="578" column="15" />
-        <mark key="." line="578" column="61" />
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Component.java" timestamp="1553103724869">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="46" />
+        <mark key="." line="5" column="45" />
+        <mark key="^" line="5" column="45" />
       </file>
       <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/MouseAdapter.java" timestamp="1553028029932">
         <mark key="[" line="5" column="0" />
@@ -348,8 +355,8 @@
       <jump line="32" column="37" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Color.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFzZGZhc2RmYXNkZgo=</text>
+      <register name="&quot;" type="4">
+        <text>750m</text>
       </register>
       <register name="i" type="4">
         <text>pu</text>
@@ -454,7 +461,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>750m</text>
       </register>
       <register name="/" type="4">
         <text>(</text>
@@ -600,14 +607,14 @@
       <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGphdmEuYXd0LkNvbXBvbmVudDsKaW1wb3J0IGphdmEuYXd0LkN1cnNvcjsKaW1wb3J0IGphdmEuYXd0LkRpbWVuc2lvbjsKaW1wb3J0IGphdmEuYXd0LkZvbnQ7CmltcG9ydCBqYXZhLmF3dC5Gb250TWV0cmljczsKaW1wb3J0IGphdmEuYXd0LkZyYW1lOwppbXBvcnQgamF2YS5hd3QuR3JhcGhpY3NDb25maWd1cmF0aW9uOwppbXBvcnQgamF2YS5hd3QuSW1hZ2U7CmltcG9ydCBqYXZhLmF3dC5JbnNldHM7CmltcG9ydCBqYXZhLmF3dC5Kb2JBdHRyaWJ1dGVzOwppbXBvcnQgamF2YS5hd3QuUGFnZUF0dHJpYnV0ZXM7CmltcG9ydCBqYXZhLmF3dC5Qb2ludDsKaW1wb3J0IGphdmEuYXd0LlByaW50Sm9iOwppbXBvcnQgamF2YS5hd3QuZGF0YXRyYW5zZmVyLkNsaXBib2FyZDsKaW1wb3J0IGphdmEuYXd0LmRuZC5EcmFnR2VzdHVyZUV2ZW50OwppbXBvcnQgamF2YS5hd3QuZG5kLkRyYWdHZXN0dXJlTGlzdGVuZXI7CmltcG9ydCBqYXZhLmF3dC5kbmQuRHJhZ0dlc3R1cmVSZWNvZ25pemVyOwppbXBvcnQgamF2YS5hd3QuZG5kLkRyYWdTb3VyY2U7CmltcG9ydCBqYXZhLmF3dC5kbmQuSW52YWxpZERuRE9wZXJhdGlvbkV4Y2VwdGlvbjsKaW1wb3J0IGphdmEuYXd0LmRuZC5wZWVyLkRyYWdTb3VyY2VDb250ZXh0UGVlcjsKaW1wb3J0IGphdmEuYXd0LmV2ZW50LkFXVEV2ZW50TGlzdGVuZXI7CmltcG9ydCBqYXZhLmF3dC5pbS5JbnB1dE1ldGhvZEhpZ2hsaWdodDsKaW1wb3J0IGphdmEuYXd0LmltYWdlLkNvbG9yTW9kZWw7CmltcG9ydCBqYXZhLmF3dC5pbWFnZS5JbWFnZU9ic2VydmVyOwppbXBvcnQgamF2YS5hd3QuaW1hZ2UuSW1hZ2VQcm9kdWNlcjsK</text>
       </register>
-      <register name="x" type="4">
-        <text>setInt64Parameter(int var1, Long var2, int var3</text>
+      <register name="x" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgamF2YS5hd3QuQ29tcG9uZW50IHJlY2VpdmVyOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgVG9vbGtpdCgpIHsKICAgIH0KCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -643,7 +650,6 @@
         <entry>(</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/color/this/g</entry>
         <entry>%s/this/super/g</entry>
         <entry>%s/frame/super/g</entry>
         <entry>%s/window/super/g</entry>
@@ -663,6 +669,7 @@
         <entry>%s/this\.//</entry>
         <entry>reg</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
