@@ -27,6 +27,12 @@
         <mark key="^" line="14" column="12" />
         <mark key="." line="14" column="12" />
       </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/startup/receive/ReceiveStart.java" timestamp="1553202929116">
+        <mark key="'" line="117" column="26" />
+        <mark key="[" line="321" column="0" />
+        <mark key="]" line="321" column="0" />
+        <mark key="." line="321" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/TextArea.java" timestamp="1553200824526">
         <mark key="'" line="73" column="4" />
         <mark key="[" line="11" column="4" />
@@ -83,7 +89,7 @@
         <mark key="^" line="11" column="12" />
         <mark key="." line="11" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Container.java" timestamp="1553200635527">
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Container.java" timestamp="1553201342485">
         <mark key="'" line="39" column="0" />
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="12" />
@@ -97,7 +103,7 @@
         <mark key="." line="7" column="12" />
         <mark key="^" line="7" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Component.java" timestamp="1553200628619">
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Component.java" timestamp="1553201738171">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="7" column="4" />
         <mark key="]" line="7" column="12" />
@@ -125,6 +131,10 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="53" column="32" />
       </file>
+      <file name="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Container.java" timestamp="1553202541631">
+        <mark key="[" line="388" column="0" />
+        <mark key="]" line="388" column="53" />
+      </file>
       <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/BorderLayout.java" timestamp="1553200537187">
         <mark key="'" line="40" column="0" />
         <mark key="[" line="19" column="4" />
@@ -132,6 +142,7 @@
         <mark key="^" line="19" column="12" />
         <mark key="." line="19" column="12" />
       </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/com/dandh/scanner/ui/UIFrame.java" timestamp="1553202038780" />
       <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Font.java" timestamp="1553200651192">
         <mark key="'" line="52" column="0" />
         <mark key="[" line="51" column="4" />
@@ -146,6 +157,7 @@
         <mark key="." line="6" column="12" />
         <mark key="^" line="6" column="12" />
       </file>
+      <file name="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/CardLayout.java" timestamp="1553202526325" />
       <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Graphics.java" timestamp="1553200659483">
         <mark key="'" line="22" column="0" />
         <mark key="[" line="7" column="4" />
@@ -188,6 +200,7 @@
         <mark key="." line="5" column="12" />
         <mark key="^" line="5" column="12" />
       </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/VerifyDialogR.java" timestamp="1553201500373" />
       <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Toolkit.java" timestamp="1553200837175">
         <mark key="'" line="25" column="0" />
         <mark key="[" line="5" column="4" />
@@ -223,6 +236,7 @@
         <mark key="^" line="5" column="12" />
         <mark key="." line="5" column="12" />
       </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/ErrorFrameR.java" timestamp="1553202071718" />
       <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/MouseAdapter.java" timestamp="1553200508485">
         <mark key="'" line="82" column="28" />
         <mark key="[" line="11" column="4" />
@@ -251,6 +265,9 @@
         <mark key="^" line="3" column="12" />
         <mark key="." line="3" column="12" />
       </file>
+      <file name="/fragment.java" timestamp="1553201779959">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/KeyListener.java" timestamp="1553191301084">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="24" column="0" />
@@ -260,11 +277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="0" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/LayoutManager.java" />
-      <jump line="64" column="0" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/LayoutManager.java" />
-      <jump line="60" column="0" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/LayoutManager.java" />
-      <jump line="56" column="0" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/LayoutManager.java" />
-      <jump line="63" column="9" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/LayoutManager.java" />
       <jump line="59" column="49" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/LayoutManager.java" />
       <jump line="67" column="68" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/LayoutManager.java" />
       <jump line="71" column="66" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/LayoutManager.java" />
@@ -360,10 +372,15 @@
       <jump line="34" column="0" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Window.java" />
       <jump line="12" column="4" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/TextField.java" />
       <jump line="5" column="12" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Window.java" />
+      <jump line="116" column="4" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/startup/receive/ReceiveStart.java" />
+      <jump line="118" column="4" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/startup/receive/ReceiveStart.java" />
+      <jump line="87" column="21" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/startup/receive/ReceiveStart.java" />
+      <jump line="348" column="10" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/startup/receive/ReceiveStart.java" />
+      <jump line="117" column="26" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/startup/receive/ReceiveStart.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>protected</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CSAgdHJ5IHsK</text>
       </register>
       <register name="i" type="4">
         <text>pu</text>
@@ -471,13 +488,13 @@
         <text>protected</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">IHJlY2VpdmVyKSB7</text>
+        <text encoding="base64">XDxjYXJkTGF5XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8qIHBhY2thZ2UgcHJpdmF0ZSAqLyBjbGFzcyBBZGFwdGVyIGV4dGVuZHMgamF2YS5hd3QuZXZlbnQuTW91c2VBZGFwdGVyIHsKICAgICAgICBwcml2YXRlIGZpbmFsIE1vdXNlQWRhcHRlciByZWNlaXZlcjsKCiAgICAgICAgcHVibGljIEFkYXB0ZXIoTW91c2VBZGFwdGVyIHJlY2VpdmVyKSB7CiAgICAgICAgICAgIHRoaXMucmVjZWl2ZXIgPSByZWNlaXZlcjsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyB2b2lkIG1vdXNlQ2xpY2tlZChqYXZhLmF3dC5ldmVudC5Nb3VzZUV2ZW50IGUpIHsKICAgICAgICAgICAgcmVjZWl2ZXIubW91c2VDbGlja2VkKG5ldyBNb3VzZUV2ZW50KGUpKTsKICAgICAgICB9Cgo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">CSAgdHJ5IHsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -498,22 +515,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSAgY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CgkgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qIHBhY2thZ2UgcHJpdmF0ZSAqLyBjbGFzcyBBZGFwdGVyIGV4dGVuZHMgamF2YS5hd3QuQ29tcG9uZW50IHsKICAgICAgICBwcml2YXRlIGZpbmFsIENvbXBvbmVudCByZWNlaXZlcjsKCiAgICAgICAgcHVibGljIEFkYXB0ZXIoQ29tcG9uZW50IHJlY2VpdmVyKSB7CiAgICAgICAgICAgIHRoaXMucmVjZWl2ZXIgPSByZWNlaXZlcjsKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">CSAgICAgIHRocm93IGU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgcHVibGljIHZvaWQgbW91c2VDbGlja2VkKGphdmEuYXd0LmV2ZW50Lk1vdXNlRXZlbnQgZSkgewogICAgICAgICAgICByZWNlaXZlci5tb3VzZUNsaWNrZWQobmV3IE1vdXNlRXZlbnQoZSkpOwogICAgICAgIH0K</text>
+        <text encoding="base64">CQkgIHNob3dFcnJvcihlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSAgY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CgkJICBzaG93RXJyb3IoZSk7CgkgIH0K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICA=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -613,22 +630,22 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICAgIGphdmEuYXd0LmV2ZW50LlhZWiBnZXRSZWNlaXZlcigpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIubW91c2VFeGl0ZWQoZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">IHJlY2VpdmVyKSB7</last-search>
+      <last-search encoding="base64">XDxjYXJkTGF5XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">IHJlY2VpdmVyKSB7</last-pattern>
+      <last-pattern encoding="base64">XDxjYXJkTGF5XD4=</last-pattern>
       <last-replace>height</last-replace>
       <last-substitute>width</last-substitute>
       <last-dir>1</last-dir>
@@ -636,8 +653,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Ac</entry>
-        <entry>java.awt.event.</entry>
         <entry>decode</entry>
         <entry>width</entry>
         <entry encoding="base64">XDxlXD4=</entry>
@@ -656,6 +671,8 @@
         <entry encoding="base64">XDxyZWNlaXZlclw+</entry>
         <entry encoding="base64">XDxyXD4=</entry>
         <entry encoding="base64">IHJlY2VpdmVyKSB7</entry>
+        <entry encoding="base64">XDxzZXRMYXlvdXRcPg==</entry>
+        <entry encoding="base64">XDxjYXJkTGF5XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/receiver/super</entry>
