@@ -18,32 +18,32 @@
         <mark key="." line="2" column="68" />
         <mark key="^" line="2" column="68" />
       </file>
-      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/TextField.java" timestamp="1553115401251">
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/TextField.java" timestamp="1553175761845">
         <mark key="'" line="91" column="29" />
-        <mark key="[" line="95" column="53" />
-        <mark key="]" line="95" column="53" />
+        <mark key="[" line="43" column="35" />
+        <mark key="]" line="43" column="35" />
         <mark key="^" line="67" column="50" />
-        <mark key="." line="95" column="53" />
+        <mark key="." line="43" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/TextArea.java" timestamp="1553116985531">
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/TextArea.java" timestamp="1553175743990">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="68" column="50" />
-        <mark key="." line="9" column="0" />
+        <mark key="[" line="48" column="35" />
+        <mark key="]" line="48" column="35" />
+        <mark key="^" line="20" column="69" />
+        <mark key="." line="48" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/WindowListener.java" timestamp="1553112742562">
-        <mark key="[" line="3" column="34" />
-        <mark key="]" line="3" column="58" />
-        <mark key="^" line="3" column="58" />
-        <mark key="." line="3" column="58" />
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/WindowListener.java" timestamp="1553175390158">
+        <mark key="[" line="2" column="32" />
+        <mark key="]" line="2" column="69" />
+        <mark key="." line="2" column="69" />
+        <mark key="^" line="2" column="69" />
       </file>
-      <file name="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/BorderLayout.java" timestamp="1553115823151">
-        <mark key="'" line="328" column="0" />
-        <mark key="[" line="223" column="0" />
-        <mark key="]" line="323" column="0" />
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/ScanEquipFrameR.java" timestamp="1553175998117">
+        <mark key="'" line="215" column="48" />
+        <mark key="[" line="221" column="42" />
+        <mark key="." line="221" column="56" />
       </file>
-      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/KeyEvent.java" timestamp="1553116825185">
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/KeyEvent.java" timestamp="1553176039213">
         <mark key="'" line="14" column="20" />
       </file>
       <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/MediaTracker.java" timestamp="1553111321673">
@@ -58,16 +58,12 @@
         <mark key="^" line="9" column="41" />
         <mark key="." line="9" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Label.java" timestamp="1553115755702">
-        <mark key="'" line="78" column="25" />
-        <mark key="[" line="7" column="40" />
-        <mark key="]" line="8" column="3" />
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Label.java" timestamp="1553175135181">
+        <mark key="'" line="58" column="33" />
+        <mark key="[" line="58" column="33" />
+        <mark key="]" line="58" column="33" />
         <mark key="^" line="8" column="3" />
-        <mark key="." line="8" column="3" />
-      </file>
-      <file name="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Toolkit.java" timestamp="1553091651735">
-        <mark key="[" line="795" column="0" />
-        <mark key="]" line="795" column="60" />
+        <mark key="." line="58" column="33" />
       </file>
       <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/WindowAdapter.java" timestamp="1553112802619">
         <mark key="'" line="9" column="43" />
@@ -88,25 +84,29 @@
         <mark key="." line="33" column="57" />
         <mark key="^" line="33" column="57" />
       </file>
-      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Container.java" timestamp="1553116742873">
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/IcScanFrameR.java" timestamp="1553175309616">
+        <mark key="'" line="637" column="47" />
+        <mark key="[" line="637" column="32" />
+        <mark key="." line="637" column="46" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Container.java" timestamp="1553175035094">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="34" column="39" />
-        <mark key="]" line="34" column="61" />
-        <mark key="." line="34" column="61" />
-        <mark key="^" line="34" column="61" />
+        <mark key="[" line="38" column="50" />
+        <mark key="]" line="38" column="50" />
+        <mark key="." line="38" column="50" />
+        <mark key="^" line="38" column="50" />
       </file>
-      <file name="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Label.java" timestamp="1553115742403">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="60" column="40" />
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/AreaSelectFrameR.java" timestamp="1553175954901">
+        <mark key="'" line="21" column="31" />
+        <mark key="[" line="278" column="42" />
+        <mark key="." line="278" column="56" />
       </file>
-      <file name="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/event/ItemEvent.java" timestamp="1553117014484">
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="64" column="0" />
-      </file>
-      <file name="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/event/KeyEvent.java" timestamp="1553116799633">
-        <mark key="[" line="1089" column="0" />
-        <mark key="]" line="1089" column="50" />
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/NonStdFrameR.java" timestamp="1553175927917">
+        <mark key="'" line="341" column="55" />
+        <mark key="[" line="341" column="40" />
+        <mark key="]" line="333" column="45" />
+        <mark key="." line="341" column="54" />
+        <mark key="^" line="333" column="45" />
       </file>
       <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Panel.java" timestamp="1553115130101">
         <mark key="'" line="15" column="41" />
@@ -115,8 +115,11 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Component.java" timestamp="1553116380213">
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Component.java" timestamp="1553175113151">
         <mark key="'" line="5" column="12" />
+        <mark key="[" line="16" column="33" />
+        <mark key="]" line="16" column="33" />
+        <mark key="." line="16" column="33" />
       </file>
       <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Color.java" timestamp="1553115707584">
         <mark key="'" line="24" column="6" />
@@ -131,17 +134,34 @@
         <mark key="^" line="9" column="49" />
         <mark key="." line="9" column="49" />
       </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/receive/LetDownPrintFrame.java" timestamp="1553175284502">
+        <mark key="'" line="94" column="47" />
+        <mark key="[" line="94" column="32" />
+        <mark key="." line="94" column="46" />
+      </file>
       <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/ActionEvent.java" timestamp="1553112088441">
         <mark key="[" line="9" column="38" />
         <mark key="]" line="9" column="59" />
         <mark key="." line="9" column="59" />
         <mark key="^" line="9" column="59" />
       </file>
-      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/MouseListener.java" timestamp="1553112457352">
-        <mark key="[" line="3" column="33" />
-        <mark key="]" line="3" column="56" />
-        <mark key="^" line="3" column="56" />
-        <mark key="." line="3" column="56" />
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/MouseListener.java" timestamp="1553175377462">
+        <mark key="[" line="2" column="31" />
+        <mark key="]" line="2" column="67" />
+        <mark key="." line="2" column="67" />
+        <mark key="^" line="2" column="67" />
+      </file>
+      <file name="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/event/KeyListener.java" timestamp="1553176355681">
+        <mark key="'" line="36" column="6" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="55" column="40" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/ItemDetailDialogR.java" timestamp="1553174638978">
+        <mark key="'" line="97" column="34" />
+        <mark key="[" line="96" column="26" />
+        <mark key="]" line="103" column="37" />
+        <mark key="^" line="103" column="37" />
+        <mark key="." line="96" column="40" />
       </file>
       <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/FocusEvent.java" timestamp="1553112198043">
         <mark key="'" line="16" column="68" />
@@ -150,19 +170,21 @@
         <mark key="^" line="19" column="57" />
         <mark key="." line="20" column="15" />
       </file>
-      <file name="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Container.java" timestamp="1553116728560">
-        <mark key="[" line="897" column="0" />
-        <mark key="]" line="897" column="57" />
-      </file>
       <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/BorderLayout.java" timestamp="1553116302875">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="28" column="23" />
       </file>
-      <file name="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Dialog.java" timestamp="1553116904362">
-        <mark key="[" line="221" column="0" />
-        <mark key="]" line="221" column="61" />
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/receive/RLPItemInquiry.java" timestamp="1553175939884">
+        <mark key="'" line="283" column="57" />
+        <mark key="[" line="283" column="42" />
+        <mark key="." line="283" column="56" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/receive/RLPShareFrame.java" timestamp="1553175279178">
+        <mark key="'" line="115" column="47" />
+        <mark key="[" line="115" column="32" />
+        <mark key="." line="115" column="46" />
       </file>
       <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/com/dandh/scanner/hal/TextinputScanner.java" timestamp="1553115457564">
         <mark key="[" line="34" column="30" />
@@ -177,17 +199,19 @@
         <mark key="^" line="25" column="39" />
         <mark key="." line="25" column="39" />
       </file>
-      <file name="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/TextArea.java" timestamp="1553116971781">
-        <mark key="'" line="84" column="0" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="90" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Button.java" timestamp="1553109649710">
         <mark key="'" line="42" column="0" />
         <mark key="[" line="36" column="8" />
         <mark key="]" line="36" column="8" />
         <mark key="^" line="40" column="26" />
         <mark key="." line="36" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/ScanHelperFrameR.java" timestamp="1553175246854">
+        <mark key="'" line="142" column="47" />
+        <mark key="[" line="142" column="32" />
+        <mark key="]" line="142" column="46" />
+        <mark key="^" line="142" column="46" />
+        <mark key="." line="142" column="46" />
       </file>
       <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Graphics.java" timestamp="1553110922806">
         <mark key="[" line="11" column="29" />
@@ -201,23 +225,19 @@
         <mark key="." line="3" column="56" />
         <mark key="^" line="3" column="56" />
       </file>
-      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Window.java" timestamp="1553112032584">
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Window.java" timestamp="1553175788854">
         <mark key="'" line="55" column="26" />
-        <mark key="[" line="27" column="33" />
-        <mark key="]" line="27" column="50" />
+        <mark key="[" line="55" column="47" />
+        <mark key="]" line="55" column="47" />
         <mark key="^" line="27" column="50" />
-        <mark key="." line="27" column="50" />
+        <mark key="." line="55" column="47" />
       </file>
-      <file name="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Component.java" timestamp="1553116361243">
-        <mark key="[" line="1510" column="0" />
-        <mark key="]" line="1510" column="33" />
-      </file>
-      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" timestamp="1553110873103">
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" timestamp="1553175163502">
         <mark key="'" line="28" column="0" />
-        <mark key="[" line="14" column="15" />
-        <mark key="]" line="14" column="15" />
+        <mark key="[" line="22" column="33" />
+        <mark key="]" line="22" column="33" />
         <mark key="^" line="13" column="41" />
-        <mark key="." line="14" column="15" />
+        <mark key="." line="22" column="33" />
       </file>
       <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Rectangle.java" timestamp="1553111556100">
         <mark key="'" line="2" column="13" />
@@ -231,6 +251,12 @@
         <mark key="]" line="1" column="5" />
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/VerifyDialogR.java" timestamp="1553176105845">
+        <mark key="'" line="148" column="23" />
+        <mark key="[" line="153" column="25" />
+        <mark key="]" line="153" column="25" />
+        <mark key="." line="153" column="25" />
       </file>
       <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Toolkit.java" timestamp="1553111950759">
         <mark key="'" line="31" column="46" />
@@ -252,19 +278,18 @@
         <mark key="." line="9" column="41" />
         <mark key="^" line="9" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Dialog.java" timestamp="1553116933811">
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Dialog.java" timestamp="1553175091360">
         <mark key="'" line="48" column="0" />
-        <mark key="[" line="10" column="39" />
-        <mark key="]" line="10" column="57" />
+        <mark key="[" line="34" column="33" />
+        <mark key="]" line="34" column="33" />
         <mark key="^" line="10" column="57" />
-        <mark key="." line="10" column="57" />
+        <mark key="." line="34" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/ItemListener.java" timestamp="1553112301221">
-        <mark key="'" line="3" column="4" />
-        <mark key="[" line="3" column="32" />
-        <mark key="]" line="3" column="54" />
-        <mark key="^" line="3" column="54" />
-        <mark key="." line="3" column="54" />
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/ItemListener.java" timestamp="1553175354718">
+        <mark key="[" line="2" column="29" />
+        <mark key="]" line="2" column="64" />
+        <mark key="." line="2" column="64" />
+        <mark key="^" line="2" column="64" />
       </file>
       <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/MouseAdapter.java" timestamp="1553112585625">
         <mark key="[" line="13" column="66" />
@@ -279,23 +304,28 @@
         <mark key="^" line="15" column="55" />
         <mark key="." line="5" column="60" />
       </file>
-      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/List.java" timestamp="1553115385123">
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/List.java" timestamp="1553175654559">
         <mark key="'" line="103" column="24" />
-        <mark key="[" line="103" column="45" />
-        <mark key="]" line="103" column="45" />
+        <mark key="[" line="99" column="43" />
+        <mark key="]" line="99" column="43" />
         <mark key="^" line="59" column="31" />
-        <mark key="." line="103" column="45" />
+        <mark key="." line="99" column="43" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/MultipleItemFrameR.java" timestamp="1553175949004">
+        <mark key="'" line="304" column="53" />
+        <mark key="[" line="304" column="38" />
+        <mark key="." line="304" column="52" />
       </file>
       <file name="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/MoveRLPFrameR.java" timestamp="1553116472117">
         <mark key="'" line="42" column="63" />
         <mark key="[" line="171" column="32" />
         <mark key="." line="171" column="46" />
       </file>
-      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/FocusListener.java" timestamp="1553112228323">
-        <mark key="[" line="3" column="33" />
-        <mark key="]" line="3" column="56" />
-        <mark key="." line="3" column="56" />
-        <mark key="^" line="3" column="56" />
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/FocusListener.java" timestamp="1553175365134">
+        <mark key="[" line="2" column="31" />
+        <mark key="]" line="2" column="67" />
+        <mark key="." line="2" column="67" />
+        <mark key="^" line="2" column="67" />
       </file>
       <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/ScrollPane.java" timestamp="1553111643509">
         <mark key="[" line="11" column="31" />
@@ -303,77 +333,20 @@
         <mark key="^" line="11" column="51" />
         <mark key="." line="11" column="51" />
       </file>
-      <file name="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Color.java" timestamp="1553115593027">
-        <mark key="'" line="178" column="0" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="173" column="0" />
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/BeltPrinterFrameR.java" timestamp="1553175318805">
+        <mark key="'" line="114" column="47" />
+        <mark key="[" line="114" column="32" />
+        <mark key="." line="114" column="46" />
       </file>
-      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/KeyListener.java" timestamp="1553112372830">
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/KeyListener.java" timestamp="1553176771161">
         <mark key="'" line="2" column="17" />
-        <mark key="[" line="3" column="31" />
-        <mark key="]" line="3" column="52" />
-        <mark key="^" line="3" column="52" />
-        <mark key="." line="3" column="52" />
+        <mark key="[" line="24" column="59" />
+        <mark key="]" line="24" column="73" />
+        <mark key="^" line="24" column="73" />
+        <mark key="." line="24" column="73" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="29" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/TextField.java" />
-      <jump line="75" column="29" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/TextField.java" />
-      <jump line="79" column="29" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/TextField.java" />
-      <jump line="83" column="29" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/TextField.java" />
-      <jump line="87" column="29" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/TextField.java" />
-      <jump line="91" column="29" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/TextField.java" />
-      <jump line="39" column="26" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Window.java" />
-      <jump line="43" column="8" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Window.java" />
-      <jump line="47" column="26" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Window.java" />
-      <jump line="51" column="26" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Window.java" />
-      <jump line="55" column="26" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Window.java" />
-      <jump line="5" column="44" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/FocusEvent.java" />
-      <jump line="8" column="68" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/FocusEvent.java" />
-      <jump line="11" column="48" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/FocusEvent.java" />
-      <jump line="12" column="24" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/FocusEvent.java" />
-      <jump line="16" column="68" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/FocusEvent.java" />
-      <jump line="2" column="13" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/ItemEvent.java" />
-      <jump line="3" column="43" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/ItemEvent.java" />
-      <jump line="5" column="46" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/ItemEvent.java" />
-      <jump line="6" column="24" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/ItemEvent.java" />
-      <jump line="9" column="39" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/ItemEvent.java" />
-      <jump line="10" column="20" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/ItemEvent.java" />
-      <jump line="3" column="42" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/KeyEvent.java" />
-      <jump line="5" column="44" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/KeyEvent.java" />
-      <jump line="6" column="24" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/KeyEvent.java" />
-      <jump line="9" column="38" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/KeyEvent.java" />
-      <jump line="10" column="20" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/KeyEvent.java" />
-      <jump line="2" column="17" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/KeyListener.java" />
-      <jump line="5" column="54" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/WindowAdapter.java" />
-      <jump line="6" column="24" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/WindowAdapter.java" />
-      <jump line="9" column="43" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/WindowAdapter.java" />
-      <jump line="12" column="66" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/WindowEvent.java" />
-      <jump line="20" column="11" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/com/dandh/scanner/common/ImageViewer.java" />
-      <jump line="8" column="13" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/com/dandh/scanner/common/ImageViewer.java" />
-      <jump line="44" column="6" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Color.java" />
-      <jump line="48" column="0" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Color.java" />
-      <jump line="53" column="0" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Color.java" />
-      <jump line="58" column="0" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Color.java" />
-      <jump line="63" column="0" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Color.java" />
-      <jump line="68" column="0" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Color.java" />
-      <jump line="73" column="0" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Color.java" />
-      <jump line="78" column="0" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Color.java" />
-      <jump line="83" column="0" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Color.java" />
-      <jump line="98" column="0" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Color.java" />
-      <jump line="103" column="0" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Color.java" />
-      <jump line="108" column="0" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Color.java" />
-      <jump line="113" column="0" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Color.java" />
-      <jump line="118" column="0" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Color.java" />
-      <jump line="123" column="0" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Color.java" />
-      <jump line="128" column="0" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Color.java" />
-      <jump line="133" column="0" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Color.java" />
-      <jump line="138" column="0" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Color.java" />
-      <jump line="143" column="0" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Color.java" />
-      <jump line="148" column="0" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Color.java" />
-      <jump line="153" column="0" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Color.java" />
-      <jump line="158" column="0" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Color.java" />
-      <jump line="163" column="0" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Color.java" />
       <jump line="168" column="0" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Color.java" />
       <jump line="173" column="0" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Color.java" />
       <jump line="185" column="0" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Color.java" />
@@ -417,10 +390,67 @@
       <jump line="59" column="0" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/event/ItemEvent.java" />
       <jump line="64" column="0" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/event/ItemEvent.java" />
       <jump line="72" column="0" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/event/ItemEvent.java" />
+      <jump line="25" column="62" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/ItemDetailDialogR.java" />
+      <jump line="29" column="6" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/ItemDetailDialogR.java" />
+      <jump line="97" column="34" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/ItemDetailDialogR.java" />
+      <jump line="58" column="33" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Label.java" />
+      <jump line="56" column="38" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/ScanHelperFrameR.java" />
+      <jump line="20" column="31" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/ScanHelperFrameR.java" />
+      <jump line="142" column="47" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/ScanHelperFrameR.java" />
+      <jump line="39" column="7" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/NonStdFrameR.java" />
+      <jump line="35" column="7" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/receive/RLPShareFrame.java" />
+      <jump line="115" column="47" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/receive/RLPShareFrame.java" />
+      <jump line="34" column="7" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/receive/LetDownPrintFrame.java" />
+      <jump line="94" column="47" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/receive/LetDownPrintFrame.java" />
+      <jump line="122" column="45" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/VerifyDialogR.java" />
+      <jump line="118" column="32" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/receive/RLPItemInquiry.java" />
+      <jump line="20" column="31" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/receive/RLPItemInquiry.java" />
+      <jump line="155" column="47" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/MultipleItemFrameR.java" />
+      <jump line="20" column="31" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/AreaSelectFrameR.java" />
+      <jump line="135" column="47" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/AreaSelectFrameR.java" />
+      <jump line="54" column="7" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/IcScanFrameR.java" />
+      <jump line="635" column="91" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/IcScanFrameR.java" />
+      <jump line="637" column="47" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/IcScanFrameR.java" />
+      <jump line="131" column="47" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/ScanEquipFrameR.java" />
+      <jump line="20" column="31" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/ScanEquipFrameR.java" />
+      <jump line="35" column="7" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/BeltPrinterFrameR.java" />
+      <jump line="114" column="47" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/BeltPrinterFrameR.java" />
+      <jump line="40" column="0" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/NonStdFrameR.java" />
+      <jump line="11" column="31" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/NonStdFrameR.java" />
+      <jump line="333" column="46" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/NonStdFrameR.java" />
+      <jump line="341" column="55" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/NonStdFrameR.java" />
+      <jump line="41" column="7" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/receive/RLPItemInquiry.java" />
+      <jump line="277" column="90" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/receive/RLPItemInquiry.java" />
+      <jump line="278" column="48" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/receive/RLPItemInquiry.java" />
+      <jump line="283" column="57" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/receive/RLPItemInquiry.java" />
+      <jump line="42" column="7" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/MultipleItemFrameR.java" />
+      <jump line="300" column="81" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/MultipleItemFrameR.java" />
+      <jump line="302" column="48" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/MultipleItemFrameR.java" />
+      <jump line="304" column="53" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/MultipleItemFrameR.java" />
+      <jump line="42" column="7" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/AreaSelectFrameR.java" />
+      <jump line="272" column="90" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/AreaSelectFrameR.java" />
+      <jump line="273" column="48" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/AreaSelectFrameR.java" />
+      <jump line="278" column="57" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/AreaSelectFrameR.java" />
+      <jump line="21" column="31" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/AreaSelectFrameR.java" />
+      <jump line="42" column="7" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/ScanEquipFrameR.java" />
+      <jump line="221" column="57" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/ScanEquipFrameR.java" />
+      <jump line="24" column="28" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/ScanEquipFrameR.java" />
+      <jump line="214" column="90" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/ScanEquipFrameR.java" />
+      <jump line="215" column="48" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/ScanEquipFrameR.java" />
+      <jump line="11" column="42" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/VerifyDialogR.java" />
+      <jump line="13" column="31" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/VerifyDialogR.java" />
+      <jump line="153" column="40" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/VerifyDialogR.java" />
+      <jump line="24" column="7" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/VerifyDialogR.java" />
+      <jump line="124" column="26" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/VerifyDialogR.java" />
+      <jump line="125" column="10" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/VerifyDialogR.java" />
+      <jump line="132" column="17" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/VerifyDialogR.java" />
+      <jump line="139" column="17" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/VerifyDialogR.java" />
+      <jump line="148" column="23" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/VerifyDialogR.java" />
+      <jump line="36" column="6" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/event/KeyListener.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IC8vRXZlbnQuTElTVF9TRUxFQ1Qg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBrZXlUeXBlZChLZXlFdmVudCBlKSB7CiAgICAgICAgICAgIAogICAgICAgIH0KCiAgICAgICAgcHVibGljIHZvaWQga2V5UHJlc3NlZChLZXlFdmVudCBlKSB7CgogICAgICAgIH0KCiAgICAgICAgcHVibGljIHZvaWQga2V5UmVsZWFzZWQoS2V5RXZlbnQgZSkgewoKICAgICAgICB9Cg==</text>
       </register>
       <register name="i" type="4">
         <text>pu</text>
@@ -525,16 +555,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8vRXZlbnQuTElTVF9TRUxFQ1Qg</text>
+        <text encoding="base64">c3RhdGljIA==</text>
       </register>
       <register name="/" type="4">
-        <text>\/\*.*\*\/</text>
+        <text>{</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogVGhlIGZpcnN0IG51bWJlciBpbiB0aGUgcmFuZ2Ugb2YgaWRzIHVzZWQgZm9yIGl0ZW0gZXZlbnRzLgogICAgICovCiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIGludCBJVEVNX0ZJUlNUCQk9IDcwMTsKCiAgICAvKioKICAgICAqIFRoZSBsYXN0IG51bWJlciBpbiB0aGUgcmFuZ2Ugb2YgaWRzIHVzZWQgZm9yIGl0ZW0gZXZlbnRzLgogICAgICovCiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIGludCBJVEVNX0xBU1QJCT0gNzAxOwoKICAgIC8qKiAKICAgICAqIFRoaXMgZXZlbnQgaWQgaW5kaWNhdGVzIHRoYXQgYW4gaXRlbSdzIHN0YXRlIGNoYW5nZWQuCiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IElURU1fU1RBVEVfQ0hBTkdFRAk9IElURU1fRklSU1Q7IC8vRXZlbnQuTElTVF9TRUxFQ1QgCgogICAgLyoqCiAgICAgKiBUaGlzIHN0YXRlLWNoYW5nZSB2YWx1ZSBpbmRpY2F0ZXMgdGhhdCBhbiBpdGVtIHdhcyBzZWxlY3RlZC4KICAgICAqLwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBpbnQgU0VMRUNURUQgPSAxOwoKICAgIC8qKiAKICAgICAqIFRoaXMgc3RhdGUtY2hhbmdlLXZhbHVlIGluZGljYXRlcyB0aGF0IGEgc2VsZWN0ZWQgaXRlbSB3YXMgZGVzZWxlY3RlZC4KICAgICAqLwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBpbnQgREVTRUxFQ1RFRAk9IDI7Cgo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogSW52b2tlZCB3aGVuIGEga2V5IGhhcyBiZWVuIHR5cGVkLgogICAgICogU2VlIHRoZSBjbGFzcyBkZXNjcmlwdGlvbiBmb3Ige0BsaW5rIEtleUV2ZW50fSBmb3IgYSBkZWZpbml0aW9uIG9mIAogICAgICogYSBrZXkgdHlwZWQgZXZlbnQuCiAgICAgKi8KICAgIHB1YmxpYyB2b2lkIGtleVR5cGVkKEtleUV2ZW50IGUpOwoKICAgIC8qKgogICAgICogSW52b2tlZCB3aGVuIGEga2V5IGhhcyBiZWVuIHByZXNzZWQuIAogICAgICogU2VlIHRoZSBjbGFzcyBkZXNjcmlwdGlvbiBmb3Ige0BsaW5rIEtleUV2ZW50fSBmb3IgYSBkZWZpbml0aW9uIG9mIAogICAgICogYSBrZXkgcHJlc3NlZCBldmVudC4KICAgICAqLwogICAgcHVibGljIHZvaWQga2V5UHJlc3NlZChLZXlFdmVudCBlKTsKCiAgICAvKioKICAgICAqIEludm9rZWQgd2hlbiBhIGtleSBoYXMgYmVlbiByZWxlYXNlZC4KICAgICAqIFNlZSB0aGUgY2xhc3MgZGVzY3JpcHRpb24gZm9yIHtAbGluayBLZXlFdmVudH0gZm9yIGEgZGVmaW5pdGlvbiBvZiAKICAgICAqIGEga2V5IHJlbGVhc2VkIGV2ZW50LgogICAgICovCiAgICBwdWJsaWMgdm9pZCBrZXlSZWxlYXNlZChLZXlFdmVudCBlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIFRoaXMgc3RhdGUtY2hhbmdlLXZhbHVlIGluZGljYXRlcyB0aGF0IGEgc2VsZWN0ZWQgaXRlbSB3YXMgZGVzZWxlY3RlZC4KICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBrZXlUeXBlZChLZXlFdmVudCBlKSB7CiAgICAgICAgICAgIAogICAgICAgIH0KCiAgICAgICAgcHVibGljIHZvaWQga2V5UHJlc3NlZChLZXlFdmVudCBlKSB7CgogICAgICAgIH0KCiAgICAgICAgcHVibGljIHZvaWQga2V5UmVsZWFzZWQoS2V5RXZlbnQgZSkgewoKICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -548,22 +578,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIFRoaXMgc3RhdGUtY2hhbmdlIHZhbHVlIGluZGljYXRlcyB0aGF0IGFuIGl0ZW0gd2FzIHNlbGVjdGVkLgogICAgICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIFRoaXMgZXZlbnQgaWQgaW5kaWNhdGVzIHRoYXQgYW4gaXRlbSdzIHN0YXRlIGNoYW5nZWQuCiAgICAgKi8K</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEludm9rZWQgd2hlbiBhIGtleSBoYXMgYmVlbiByZWxlYXNlZC4KICAgICAqIFNlZSB0aGUgY2xhc3MgZGVzY3JpcHRpb24gZm9yIHtAbGluayBLZXlFdmVudH0gZm9yIGEgZGVmaW5pdGlvbiBvZiAKICAgICAqIGEga2V5IHJlbGVhc2VkIGV2ZW50LgogICAgICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIFRoZSBsYXN0IG51bWJlciBpbiB0aGUgcmFuZ2Ugb2YgaWRzIHVzZWQgZm9yIGl0ZW0gZXZlbnRzLgogICAgICovCg==</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEludm9rZWQgd2hlbiBhIGtleSBoYXMgYmVlbiBwcmVzc2VkLiAKICAgICAqIFNlZSB0aGUgY2xhc3MgZGVzY3JpcHRpb24gZm9yIHtAbGluayBLZXlFdmVudH0gZm9yIGEgZGVmaW5pdGlvbiBvZiAKICAgICAqIGEga2V5IHByZXNzZWQgZXZlbnQuCiAgICAgKi8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogVGhlIGZpcnN0IG51bWJlciBpbiB0aGUgcmFuZ2Ugb2YgaWRzIHVzZWQgZm9yIGl0ZW0gZXZlbnRzLgogICAgICovCg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogSW52b2tlZCB3aGVuIGEga2V5IGhhcyBiZWVuIHR5cGVkLgogICAgICogU2VlIHRoZSBjbGFzcyBkZXNjcmlwdGlvbiBmb3Ige0BsaW5rIEtleUV2ZW50fSBmb3IgYSBkZWZpbml0aW9uIG9mIAogICAgICogYSBrZXkgdHlwZWQgZXZlbnQuCiAgICAgKi8K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIERvIG5vdCBjcmVhdGUgb3IgZGlzcGxheSBhbnkgc2Nyb2xsYmFycyBmb3IgdGhlIHRleHQgYXJlYS4KICAgICAqIEBzaW5jZSBKREsxLjEKICAgICAqLwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ZXh0ZW5kcyBqYXZhLmF3dC5ldmVudC5LZXlMaXN0ZW5lciA=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIENyZWF0ZSBhbmQgZGlzcGxheSBob3Jpem9udGFsIHNjcm9sbGJhciBvbmx5LgogICAgICogQHNpbmNlIEpESzEuMQogICAgICovCg==</text>
+      <register name="7" type="4">
+        <text>java.awt.event.</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -662,23 +692,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIENyZWF0ZSBhbmQgZGlzcGxheSB2ZXJ0aWNhbCBzY3JvbGxiYXIgb25seS4KICAgICAqIEBzaW5jZSBKREsxLjEKICAgICAqLwo=</text>
+      <register name="8" type="4">
+        <text>java.awt.event.</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICAgIGphdmEuYXd0LmV2ZW50LlhZWiBnZXRSZWNlaXZlcigpOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQ3JlYXRlIGFuZCBkaXNwbGF5IGJvdGggdmVydGljYWwgYW5kIGhvcml6b250YWwgc2Nyb2xsYmFycy4KICAgICAqIEBzaW5jZSBKREsxLjEKICAgICAqLwo=</text>
+      <register name="9" type="4">
+        <text>java.awt.event.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>\/\*.*\*\/</last-search>
+      <last-search>{</last-search>
       <last-offset />
-      <last-pattern>\/\*.*\*\/</last-pattern>
+      <last-pattern>{</last-pattern>
       <last-replace />
       <last-substitute>/\*.*\*/</last-substitute>
       <last-dir>1</last-dir>
@@ -686,16 +716,7 @@
     </search>
     <history>
       <history-search>
-        <entry>java.awt</entry>
-        <entry>xyz</entry>
-        <entry>ublic</entry>
-        <entry>public</entry>
-        <entry encoding="base64">XDxDb21wb25lbnRcPg==</entry>
-        <entry>super</entry>
-        <entry>this\.</entry>
-        <entry>(</entry>
         <entry>XYZ</entry>
-        <entry>{</entry>
         <entry>getre</entry>
         <entry>new</entry>
         <entry encoding="base64">XDxyZWNlaXZlclw+</entry>
@@ -706,6 +727,15 @@
         <entry>;</entry>
         <entry>/\*.*\*/</entry>
         <entry>\/\*.*\*\/</entry>
+        <entry>addP</entry>
+        <entry>actionper</entry>
+        <entry>getkeylist</entry>
+        <entry>getKey</entry>
+        <entry>ActionEvent</entry>
+        <entry>ItemEvent</entry>
+        <entry>KeyEvent'</entry>
+        <entry>KeyEvent</entry>
+        <entry>{</entry>
       </history-search>
       <history-cmd>
         <entry>%s/borderLayout/super/g</entry>
