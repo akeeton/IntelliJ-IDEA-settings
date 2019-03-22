@@ -229,8 +229,12 @@
         <mark key="." line="34" column="27" />
         <mark key="^" line="34" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" timestamp="1553282754700">
-        <mark key="'" line="336" column="10" />
+      <file name="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" timestamp="1553283888653">
+        <mark key="'" line="339" column="6" />
+        <mark key="[" line="550" column="17" />
+        <mark key="]" line="550" column="36" />
+        <mark key="^" line="550" column="36" />
+        <mark key="." line="550" column="36" />
       </file>
       <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Label.java" timestamp="1553266265776">
         <mark key="'" line="25" column="37" />
@@ -378,17 +382,11 @@
         <mark key="." line="770" column="42" />
         <mark key="^" line="770" column="42" />
       </file>
-      <file name="/fragment.java" timestamp="1553282542404">
+      <file name="/fragment.java" timestamp="1553283887337">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="968" column="21" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/PutAwayRLPR.java" />
-      <jump line="2147" column="48" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/PutAwayRLPR.java" />
-      <jump line="2149" column="34" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/PutAwayRLPR.java" />
-      <jump line="28" column="31" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/PutAwayRLPR.java" />
-      <jump line="2145" column="85" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/PutAwayRLPR.java" />
-      <jump line="41" column="7" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/receive/LTLUnloadFrame.java" />
       <jump line="413" column="86" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/receive/LTLUnloadFrame.java" />
       <jump line="414" column="43" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/receive/LTLUnloadFrame.java" />
       <jump line="420" column="84" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/receive/LTLUnloadFrame.java" />
@@ -481,12 +479,18 @@
       <jump line="4665" column="46" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Component.java" />
       <jump line="4694" column="49" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Component.java" />
       <jump line="5030" column="16" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Component.java" />
+      <jump line="336" column="14" filename="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" />
+      <jump line="543" column="5" filename="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" />
+      <jump line="549" column="4" filename="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" />
+      <jump line="653" column="13" filename="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" />
+      <jump line="656" column="49" filename="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" />
+      <jump line="657" column="30" filename="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" />
       <jump line="96" column="30" filename="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" />
-      <jump line="336" column="10" filename="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" />
+      <jump line="339" column="6" filename="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>org.sonatype.haven.HavenCli</text>
+        <text>.</text>
       </register>
       <register name="i" type="4">
         <text>pu</text>
@@ -591,7 +595,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>org.sonatype.haven.HavenCli</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxob3N0QWRkcmVzc1w+</text>
@@ -600,7 +604,7 @@
         <text encoding="base64">ICAgIC8qKgogICAgICogSW52b2tlZCB3aGVuIGEgd2luZG93IGlzIGRlLWFjdGl2YXRlZC4KICAgICAqLwogICAgcHVibGljIHZvaWQgd2luZG93RGVhY3RpdmF0ZWQoV2luZG93RXZlbnQgZSkge30K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBCb3JkZXJMYXlvdXQoamF2YS5hd3QuQm9yZGVyTGF5b3V0IHJlY2VpdmVyKSB7CiAgICAgICAgc3VwZXIocmVjZWl2ZXIpOwogICAgfQoKICAgIHB1YmxpYyBCb3JkZXJMYXlvdXQoKSB7CiAgICAgICAgc3VwZXIobmV3IGphdmEuYXd0LkJvcmRlckxheW91dCgpKTsKICAgIH0KCiAgICBwcm90ZWN0ZWQgamF2YS5hd3QuQm9yZGVyTGF5b3V0IGdldEJvcmRlckxheW91dFJlY2VpdmVyKCkgewogICAgICAgIHJldHVybiAoamF2YS5hd3QuQm9yZGVyTGF5b3V0KSByZWNlaXZlcjsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIHRvU3RyaW5nKCkgewogICAgICAgIHJldHVybiByZWNlaXZlci50b1N0cmluZygpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgaG9zdGFkZHJlc3MgPSAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -634,22 +638,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBDYXJkTGF5b3V0KCkgewogICAgICAgIHN1cGVyKCk7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBCb3JkZXJMYXlvdXQoamF2YS5hd3QuQm9yZGVyTGF5b3V0IHJlY2VpdmVyKSB7CiAgICAgICAgc3VwZXIocmVjZWl2ZXIpOwogICAgfQoKICAgIHB1YmxpYyBCb3JkZXJMYXlvdXQoKSB7CiAgICAgICAgc3VwZXIobmV3IGphdmEuYXd0LkJvcmRlckxheW91dCgpKTsKICAgIH0KCiAgICBwcm90ZWN0ZWQgamF2YS5hd3QuQm9yZGVyTGF5b3V0IGdldEJvcmRlckxheW91dFJlY2VpdmVyKCkgewogICAgICAgIHJldHVybiAoamF2YS5hd3QuQm9yZGVyTGF5b3V0KSByZWNlaXZlcjsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIHRvU3RyaW5nKCkgewogICAgICAgIHJldHVybiByZWNlaXZlci50b1N0cmluZygpOwogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBqYXZhLmF3dC5GbG93TGF5b3V0IGdldEZsb3dMYXlvdXRSZWNlaXZlcigpIHsKICAgICAgICByZXR1cm4gKGphdmEuYXd0LkZsb3dMYXlvdXQpIHJlY2VpdmVyOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgdG9TdHJpbmcoKSB7CiAgICAgICAgcmV0dXJuIHJlY2VpdmVyLnRvU3RyaW5nKCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBDYXJkTGF5b3V0KCkgewogICAgICAgIHN1cGVyKCk7CiAgICB9Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBGbG93TGF5b3V0KCkgewogICAgICAgIHN1cGVyKG5ldyBqYXZhLmF3dC5GbG93TGF5b3V0KCkpOwogICAgfQoK</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBqYXZhLmF3dC5GbG93TGF5b3V0IGdldEZsb3dMYXlvdXRSZWNlaXZlcigpIHsKICAgICAgICByZXR1cm4gKGphdmEuYXd0LkZsb3dMYXlvdXQpIHJlY2VpdmVyOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgdG9TdHJpbmcoKSB7CiAgICAgICAgcmV0dXJuIHJlY2VpdmVyLnRvU3RyaW5nKCk7CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBGbG93TGF5b3V0KGphdmEuYXd0LkZsb3dMYXlvdXQgcmVjZWl2ZXIpIHsKICAgICAgICBzdXBlcihyZWNlaXZlcik7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBGbG93TGF5b3V0KCkgewogICAgICAgIHN1cGVyKG5ldyBqYXZhLmF3dC5GbG93TGF5b3V0KCkpOwogICAgfQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgamF2YS5hd3QuR3JpZExheW91dCBnZXRHcmlkTGF5b3V0UmVjZWl2ZXIoKSB7CiAgICAgICAgcmV0dXJuIChqYXZhLmF3dC5HcmlkTGF5b3V0KSByZWNlaXZlcjsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIHRvU3RyaW5nKCkgewogICAgICAgIHJldHVybiByZWNlaXZlci50b1N0cmluZygpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBGbG93TGF5b3V0KGphdmEuYXd0LkZsb3dMYXlvdXQgcmVjZWl2ZXIpIHsKICAgICAgICBzdXBlcihyZWNlaXZlcik7CiAgICB9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBHcmlkTGF5b3V0KGphdmEuYXd0LkdyaWRMYXlvdXQgcmVjZWl2ZXIpIHsKICAgICAgICBzdXBlcihyZWNlaXZlcik7CiAgICB9Cgo=</text>
+        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgamF2YS5hd3QuR3JpZExheW91dCBnZXRHcmlkTGF5b3V0UmVjZWl2ZXIoKSB7CiAgICAgICAgcmV0dXJuIChqYXZhLmF3dC5HcmlkTGF5b3V0KSByZWNlaXZlcjsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIHRvU3RyaW5nKCkgewogICAgICAgIHJldHVybiByZWNlaXZlci50b1N0cmluZygpOwogICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -749,13 +753,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgU3RyaW5nIHRvU3RyaW5nKCkgewogICAgICAgIHJldHVybiByZWNlaXZlci50b1N0cmluZygpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBHcmlkTGF5b3V0KGphdmEuYXd0LkdyaWRMYXlvdXQgcmVjZWl2ZXIpIHsKICAgICAgICBzdXBlcihyZWNlaXZlcik7CiAgICB9Cgo=</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICAgIGphdmEuYXd0LmV2ZW50LlhZWiBnZXRSZWNlaXZlcigpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>getCardLayoutReceiver().</text>
+      <register name="9" type="2">
+        <text encoding="base64">CiAgICBwdWJsaWMgU3RyaW5nIHRvU3RyaW5nKCkgewogICAgICAgIHJldHVybiByZWNlaXZlci50b1N0cmluZygpOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -772,7 +776,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxLZXlFdmVudFw+</entry>
         <entry>j</entry>
         <entry>java.awt.event.KeyEvent</entry>
         <entry>ItemListener</entry>
@@ -791,6 +794,7 @@
         <entry>sh</entry>
         <entry>keyrele</entry>
         <entry encoding="base64">XDxrZXlMaXN0ZW5lclw+</entry>
+        <entry>local</entry>
         <entry encoding="base64">XDxob3N0QWRkcmVzc1w+</entry>
       </history-search>
       <history-cmd>
