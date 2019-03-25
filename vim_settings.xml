@@ -235,8 +235,8 @@
         <mark key="." line="34" column="27" />
         <mark key="^" line="34" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" timestamp="1553283888653">
-        <mark key="'" line="339" column="6" />
+      <file name="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" timestamp="1553536570198">
+        <mark key="'" line="669" column="21" />
         <mark key="[" line="550" column="17" />
         <mark key="]" line="550" column="36" />
         <mark key="^" line="550" column="36" />
@@ -290,6 +290,7 @@
         <mark key="." line="2573" column="44" />
         <mark key="^" line="2573" column="44" />
       </file>
+      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/User.java" timestamp="1553536529232" />
       <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Panel.java" timestamp="1553274898068">
         <mark key="[" line="12" column="39" />
         <mark key="]" line="12" column="45" />
@@ -393,10 +394,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="421" column="26" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/receive/LTLUnloadFrame.java" />
-      <jump line="20" column="31" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/receive/LTLUnloadFrame.java" />
-      <jump line="43" column="7" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/receive/RecvSerialNoFrame.java" />
-      <jump line="588" column="86" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/receive/RecvSerialNoFrame.java" />
       <jump line="589" column="43" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/receive/RecvSerialNoFrame.java" />
       <jump line="595" column="84" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/receive/RecvSerialNoFrame.java" />
       <jump line="58" column="7" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/receive/DockReceiveFrame.java" />
@@ -493,6 +490,10 @@
       <jump line="34" column="19" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/lang/Integer.java" />
       <jump line="594" column="85" filename="$USER_HOME$/dev/scanner/RFRecvAS/src/main/java/com/dandh/scanner/startup/receive/ReceiveStart.java" />
       <jump line="579" column="33" filename="$USER_HOME$/dev/scanner/RFRecvAS/src/main/java/com/dandh/scanner/startup/receive/ReceiveStart.java" />
+      <jump line="670" column="23" filename="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" />
+      <jump line="92" column="31" filename="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" />
+      <jump line="667" column="15" filename="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" />
+      <jump line="669" column="21" filename="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -604,7 +605,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>valueof</text>
+        <text encoding="base64">XDxzZXRBcHBPYmpcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogSW52b2tlZCB3aGVuIGEgd2luZG93IGlzIGRlLWFjdGl2YXRlZC4KICAgICAqLwogICAgcHVibGljIHZvaWQgd2luZG93RGVhY3RpdmF0ZWQoV2luZG93RXZlbnQgZSkge30K</text>
@@ -772,9 +773,9 @@
       </register>
     </registers>
     <search>
-      <last-search>valueof</last-search>
+      <last-search encoding="base64">XDxzZXRBcHBPYmpcPg==</last-search>
       <last-offset />
-      <last-pattern>valueof</last-pattern>
+      <last-pattern encoding="base64">XDxzZXRBcHBPYmpcPg==</last-pattern>
       <last-replace>super</last-replace>
       <last-substitute>receiver</last-substitute>
       <last-dir>1</last-dir>
@@ -782,8 +783,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ItemListener</entry>
-        <entry>ActionEvent</entry>
         <entry>Event</entry>
         <entry>ItemEvent</entry>
         <entry>Deacti</entry>
@@ -802,6 +801,8 @@
         <entry encoding="base64">XDxob3N0QWRkcmVzc1w+</entry>
         <entry encoding="base64">XDxTZXNzaW9uTW9kZWxcPg==</entry>
         <entry>valueof</entry>
+        <entry encoding="base64">XDxhcHBPYmpcPg==</entry>
+        <entry encoding="base64">XDxzZXRBcHBPYmpcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/super/receiver</entry>
