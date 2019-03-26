@@ -80,7 +80,7 @@
         <mark key="." line="34" column="27" />
         <mark key="^" line="34" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" timestamp="1553545459043">
+      <file name="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" timestamp="1553613976687">
         <mark key="'" line="669" column="21" />
         <mark key="[" line="550" column="17" />
         <mark key="]" line="550" column="36" />
@@ -142,8 +142,8 @@
         <mark key="." line="2573" column="44" />
         <mark key="^" line="2573" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/User.java" timestamp="1553607321549">
-        <mark key="'" line="24" column="63" />
+      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/User.java" timestamp="1553613953741">
+        <mark key="'" line="54" column="42" />
       </file>
       <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Panel.java" timestamp="1553274898068">
         <mark key="[" line="12" column="39" />
@@ -410,8 +410,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="27" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/WindowListenerImpl.java" />
-      <jump line="30" column="25" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/WindowListenerImpl.java" />
       <jump line="17" column="44" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/WindowAdapter.java" />
       <jump line="20" column="0" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/WindowAdapter.java" />
       <jump line="24" column="0" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/WindowAdapter.java" />
@@ -510,6 +508,8 @@
       <jump line="549" column="56" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.0.0/o4glrt-1.0.0.jar!/com/progress/open4gl/dynamicapi/ParameterSet.class" />
       <jump line="553" column="32" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.0.0/o4glrt-1.0.0.jar!/com/progress/open4gl/dynamicapi/ParameterSet.class" />
       <jump line="715" column="29" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.0.0/o4glrt-1.0.0.jar!/com/progress/open4gl/dynamicapi/ParameterSet.class" />
+      <jump line="40" column="28" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/User.java" />
+      <jump line="54" column="42" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/User.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -621,7 +621,7 @@
         <text>sMessage</text>
       </register>
       <register name="/" type="4">
-        <text>toString</text>
+        <text encoding="base64">XDxpcEFkZHJlc3NcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogSW52b2tlZCB3aGVuIGEgd2luZG93IGlzIGRlLWFjdGl2YXRlZC4KICAgICAqLwogICAgcHVibGljIHZvaWQgd2luZG93RGVhY3RpdmF0ZWQoV2luZG93RXZlbnQgZSkge30K</text>
@@ -789,9 +789,9 @@
       </register>
     </registers>
     <search>
-      <last-search>toString</last-search>
+      <last-search encoding="base64">XDxpcEFkZHJlc3NcPg==</last-search>
       <last-offset />
-      <last-pattern>toString</last-pattern>
+      <last-pattern encoding="base64">XDxpcEFkZHJlc3NcPg==</last-pattern>
       <last-replace>super</last-replace>
       <last-substitute>receiver</last-substitute>
       <last-dir>1</last-dir>
@@ -799,7 +799,6 @@
     </search>
     <history>
       <history-search>
-        <entry>xyz</entry>
         <entry>new</entry>
         <entry>KeyEvent</entry>
         <entry>FocusEvent</entry>
@@ -819,6 +818,7 @@
         <entry>Parameter set error</entry>
         <entry>error</entry>
         <entry>toString</entry>
+        <entry encoding="base64">XDxpcEFkZHJlc3NcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/this\.//</entry>
