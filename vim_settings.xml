@@ -141,7 +141,7 @@
         <mark key="." line="2573" column="44" />
         <mark key="^" line="2573" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/User.java" timestamp="1553605968718">
+      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/User.java" timestamp="1553607321549">
         <mark key="'" line="24" column="63" />
       </file>
       <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Panel.java" timestamp="1553274898068">
@@ -221,11 +221,20 @@
         <mark key="." line="19" column="12" />
         <mark key="^" line="19" column="12" />
       </file>
+      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Control.java" timestamp="1553608198342">
+        <mark key="[" line="67" column="26" />
+        <mark key="]" line="67" column="26" />
+        <mark key="." line="67" column="29" />
+        <mark key="^" line="65" column="29" />
+      </file>
       <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/BorderLayout.java" timestamp="1553275619004">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="2" column="80" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.0.0/o4glrt-1.0.0.jar!/com/progress/open4gl/dynamicapi/ParameterSet.class" timestamp="1553608176941">
+        <mark key="'" line="715" column="29" />
       </file>
       <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/com/dandh/scanner/hal/TextinputScanner.java" timestamp="1553266348640">
         <mark key="'" line="11" column="0" />
@@ -399,21 +408,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3044" column="48" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/receive/DockReceiveFrame.java" />
-      <jump line="3047" column="36" filename="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/receive/DockReceiveFrame.java" />
-      <jump line="38" column="22" filename="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/event/WindowAdapter.java" />
-      <jump line="3" column="44" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/WindowListenerImpl.java" />
-      <jump line="7" column="45" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/WindowListenerImpl.java" />
-      <jump line="11" column="44" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/WindowListenerImpl.java" />
-      <jump line="15" column="47" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/WindowListenerImpl.java" />
-      <jump line="19" column="49" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/WindowListenerImpl.java" />
-      <jump line="23" column="47" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/WindowListenerImpl.java" />
-      <jump line="34" column="9" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/WindowListenerImpl.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/WindowListenerImpl.java" />
-      <jump line="10" column="22" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/WindowListenerImpl.java" />
-      <jump line="14" column="23" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/WindowListenerImpl.java" />
-      <jump line="18" column="22" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/WindowListenerImpl.java" />
-      <jump line="22" column="25" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/WindowListenerImpl.java" />
       <jump line="26" column="27" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/WindowListenerImpl.java" />
       <jump line="30" column="25" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/WindowListenerImpl.java" />
       <jump line="17" column="44" filename="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/WindowAdapter.java" />
@@ -499,10 +493,25 @@
       <jump line="16" column="17" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/User.java" />
       <jump line="24" column="63" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/User.java" />
       <jump line="140" column="60" filename="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Session.java" />
+      <jump line="585" column="46" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.0.0/o4glrt-1.0.0.jar!/com/progress/open4gl/dynamicapi/ParameterSet.class" />
+      <jump line="602" column="47" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.0.0/o4glrt-1.0.0.jar!/com/progress/open4gl/dynamicapi/ParameterSet.class" />
+      <jump line="725" column="56" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.0.0/o4glrt-1.0.0.jar!/com/progress/open4gl/dynamicapi/ParameterSet.class" />
+      <jump line="732" column="0" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.0.0/o4glrt-1.0.0.jar!/com/progress/open4gl/dynamicapi/ParameterSet.class" />
+      <jump line="11" column="35" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.0.0/o4glrt-1.0.0.jar!/com/progress/open4gl/dynamicapi/ParameterSet.class" />
+      <jump line="16" column="34" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.0.0/o4glrt-1.0.0.jar!/com/progress/open4gl/dynamicapi/ParameterSet.class" />
+      <jump line="457" column="56" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.0.0/o4glrt-1.0.0.jar!/com/progress/open4gl/dynamicapi/ParameterSet.class" />
+      <jump line="461" column="32" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.0.0/o4glrt-1.0.0.jar!/com/progress/open4gl/dynamicapi/ParameterSet.class" />
+      <jump line="471" column="52" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.0.0/o4glrt-1.0.0.jar!/com/progress/open4gl/dynamicapi/ParameterSet.class" />
+      <jump line="475" column="28" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.0.0/o4glrt-1.0.0.jar!/com/progress/open4gl/dynamicapi/ParameterSet.class" />
+      <jump line="501" column="60" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.0.0/o4glrt-1.0.0.jar!/com/progress/open4gl/dynamicapi/ParameterSet.class" />
+      <jump line="509" column="36" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.0.0/o4glrt-1.0.0.jar!/com/progress/open4gl/dynamicapi/ParameterSet.class" />
+      <jump line="549" column="56" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.0.0/o4glrt-1.0.0.jar!/com/progress/open4gl/dynamicapi/ParameterSet.class" />
+      <jump line="553" column="32" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.0.0/o4glrt-1.0.0.jar!/com/progress/open4gl/dynamicapi/ParameterSet.class" />
+      <jump line="715" column="29" filename="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.0.0/o4glrt-1.0.0.jar!/com/progress/open4gl/dynamicapi/ParameterSet.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>sMessage</text>
       </register>
       <register name="i" type="4">
         <text>pu</text>
@@ -607,10 +616,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>sMessage</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1c2VyXD4=</text>
+        <text>error</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogSW52b2tlZCB3aGVuIGEgd2luZG93IGlzIGRlLWFjdGl2YXRlZC4KICAgICAqLwogICAgcHVibGljIHZvaWQgd2luZG93RGVhY3RpdmF0ZWQoV2luZG93RXZlbnQgZSkge30K</text>
@@ -778,9 +787,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1c2VyXD4=</last-search>
+      <last-search>error</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1c2VyXD4=</last-pattern>
+      <last-pattern>error</last-pattern>
       <last-replace>super</last-replace>
       <last-substitute>receiver</last-substitute>
       <last-dir>1</last-dir>
@@ -788,9 +797,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Deacti</entry>
-        <entry encoding="base64">XDxXaW5kb3dFdmVudFw+</entry>
-        <entry encoding="base64">XDx4eXpcPg==</entry>
         <entry encoding="base64">XDxNb3VzZUV2ZW50XD4=</entry>
         <entry>xyz</entry>
         <entry>new</entry>
@@ -808,9 +814,11 @@
         <entry encoding="base64">XDxzZXRBcHBPYmpcPg==</entry>
         <entry encoding="base64">XDxwYXNzd29yZFw+</entry>
         <entry encoding="base64">XDx1c2VyXD4=</entry>
+        <entry encoding="base64">XDx2YXIyXD4=</entry>
+        <entry>Parameter set error</entry>
+        <entry>error</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/super/receiver</entry>
         <entry>%s/this\.//</entry>
         <entry>qw</entry>
         <entry encoding="base64">JzwsJz53</entry>
@@ -829,6 +837,7 @@
         <entry>q</entry>
         <entry>nohl</entry>
         <entry>%s/receiver/super</entry>
+        <entry>952</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
