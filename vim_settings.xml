@@ -87,7 +87,6 @@
         <mark key="^" line="550" column="36" />
         <mark key="." line="550" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Menu.java" timestamp="1553610213599" />
       <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Label.java" timestamp="1553266265776">
         <mark key="'" line="25" column="37" />
         <mark key="[" line="58" column="32" />
@@ -234,7 +233,6 @@
         <mark key="^" line="2" column="80" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Cart.java" timestamp="1553610148580" />
       <file name="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.0.0/o4glrt-1.0.0.jar!/com/progress/open4gl/dynamicapi/ParameterSet.class" timestamp="1553608176941">
         <mark key="'" line="715" column="29" />
       </file>
@@ -399,7 +397,7 @@
       <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Session.java" timestamp="1553606171108">
         <mark key="'" line="140" column="60" />
       </file>
-      <file name="/fragment.java" timestamp="1553283887337">
+      <file name="/fragment.java" timestamp="1553693105054">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/KeyListener.java" timestamp="1553265305430">
@@ -795,7 +793,7 @@
       <last-replace>super</last-replace>
       <last-substitute>receiver</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
