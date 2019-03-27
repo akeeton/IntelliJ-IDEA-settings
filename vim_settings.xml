@@ -54,7 +54,6 @@
         <mark key="." line="763" column="12" />
         <mark key="^" line="763" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Item.java" timestamp="1553695599821" />
       <file name="$USER_HOME$/dev/scanner-awt-interface/RFPickAS/src/main/java/com/dandh/scanner/gui/common/ZoneFrameP.java" timestamp="1553269262942">
         <mark key="'" line="11" column="31" />
         <mark key="[" line="389" column="26" />
@@ -390,6 +389,12 @@
         <mark key="]" line="770" column="42" />
         <mark key="." line="770" column="42" />
         <mark key="^" line="770" column="42" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/common/CommonMain.java" timestamp="1553697914579">
+        <mark key="[" line="60" column="55" />
+        <mark key="]" line="61" column="0" />
+        <mark key="^" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/ScrollPane.java" timestamp="1553263997484">
         <mark key="'" line="11" column="44" />
@@ -797,7 +802,7 @@
       <last-replace>super</last-replace>
       <last-substitute>receiver</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
