@@ -12,14 +12,15 @@
       <file name="/Dummy.txt" timestamp="1554306511975">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1554306675922">
+      <file name="/Python Console" timestamp="1554310018975">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/scripts/copy-neuron-dlls/copy-neuron-dlls.py" timestamp="1554307653284">
+      <file name="$USER_HOME$/dev/scripts/copy-neuron-dlls/copy-neuron-dlls.py" timestamp="1554310034306">
         <mark key="'" line="2" column="12" />
-        <mark key="[" line="33" column="30" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+        <mark key="[" line="40" column="53" />
+        <mark key="]" line="40" column="53" />
+        <mark key="^" line="40" column="53" />
+        <mark key="." line="40" column="53" />
       </file>
     </filemarks>
     <jumps>
@@ -29,57 +30,61 @@
       <jump line="1" column="12" filename="$USER_HOME$/dev/scripts/copy-neuron-dlls/copy-neuron-dlls.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZpbGVuYW1lLgo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>re.match(regex, f)]</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>,</text>
+        <text>(</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGZpbGVuYW1lLgo=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGlzX2ZpbGVfdG9fY29weSA9IGlzX2ZpbGVfdG9fY29weSBhbmQgbm90IGZpbGVuYW1lLnN0YXJ0c3dpdGgoIk5ldXJvbiIpCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZS5tYXRjaChyJyheTmV1cm9uKS4qXC5kbGwnKQogICAgICAgIHJlZ2V4ID0gJycK</text>
-      </register>
-      <register name="4" type="4">
-        <text>r'.*.dll'</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="4">
-        <text>os.path.normpath</text>
-      </register>
-      <register name="7" type="4">
+      <register name="1" type="4">
         <text>os.path.join</text>
       </register>
-      <register name="8" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">aXNfZmlsZV90b19jb3B5ID0gaXNfZmlsZV90b19jb3B5IGFuZCA=</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">aXNfZmlsZV90b19jb3B5ID0gaXNfZmlsZV90b19jb3B5IGFuZCA=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBpc19maWxlX3RvX2NvcHkK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHN0YXJ0c193aXRoX3JhYmJpdCA9IGZpbGVuYW1lCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHN0YXJ0c193aXRoX25ldXJvbiA9IGZpbGVuYW1lLnN0YXJ0c3dpdGgoIk5ldXJvbiIpCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIG9zLnBhdGguCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>,</last-search>
+      <last-search>(</last-search>
       <last-offset />
-      <last-pattern>,</last-pattern>
+      <last-pattern>(</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>(</entry>
         <entry>,</entry>
+        <entry>not</entry>
+        <entry>(</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -97,6 +102,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
