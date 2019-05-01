@@ -1,126 +1,835 @@
 <application>
   <component name="VimSettings">
     <state version="4" enabled="true" />
-    <globalmarks />
+    <globalmarks>
+      <mark key="A" line="227" column="19" filename="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/gui/common/MenuFrameP.java" protocol="file" />
+      <mark key="X" line="41" column="86" filename="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/dynamicapi/SessionPool.java" protocol="file" />
+    </globalmarks>
     <filemarks>
-      <file name="/PythonRegExp Fragment (copy-neuron-dlls.py:723).regexp" timestamp="1554307459273">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="^" line="0" column="8" />
-        <mark key="." line="0" column="8" />
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/FlowLayout.java" timestamp="1553275589386">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="2" column="75" />
+        <mark key="." line="3" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554306511975">
+      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/progressproxy/open4gl/javaproxy/OpenAppObject.java" timestamp="1556731846620">
+        <mark key="[" line="146" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/ActionListener.java" timestamp="1553265289801">
+        <mark key="[" line="2" column="71" />
+        <mark key="]" line="3" column="3" />
+        <mark key="." line="3" column="3" />
+        <mark key="^" line="3" column="3" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/TextField.java" timestamp="1553266251310">
+        <mark key="'" line="30" column="42" />
+        <mark key="[" line="95" column="52" />
+        <mark key="]" line="95" column="52" />
+        <mark key="^" line="43" column="34" />
+        <mark key="." line="95" column="52" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/sequencediagram/PlantUmlSequenceDiagram.java" timestamp="1556731751081">
+        <mark key="'" line="131" column="51" />
+        <mark key="[" line="157" column="13" />
+        <mark key="]" line="157" column="11" />
+        <mark key="." line="157" column="11" />
+        <mark key="^" line="157" column="11" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/startup/receive/ReceiveStart.java" timestamp="1553276260011">
+        <mark key="'" line="254" column="26" />
+        <mark key="[" line="641" column="26" />
+        <mark key="]" line="642" column="0" />
+        <mark key="." line="641" column="40" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/WindowListener.java" timestamp="1553265320126">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="2" column="68" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/TextArea.java" timestamp="1553266227667">
+        <mark key="'" line="23" column="43" />
+        <mark key="[" line="48" column="34" />
+        <mark key="]" line="48" column="34" />
+        <mark key="^" line="44" column="32" />
+        <mark key="." line="48" column="34" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/KeyEvent.java" timestamp="1553263844079">
+        <mark key="'" line="763" column="49" />
+        <mark key="[" line="763" column="4" />
+        <mark key="]" line="763" column="12" />
+        <mark key="." line="763" column="12" />
+        <mark key="^" line="763" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFPickAS/src/main/java/com/dandh/scanner/gui/common/ZoneFrameP.java" timestamp="1553269262942">
+        <mark key="'" line="11" column="31" />
+        <mark key="[" line="389" column="26" />
+        <mark key="]" line="389" column="40" />
+        <mark key="^" line="389" column="40" />
+        <mark key="." line="389" column="40" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/MediaTracker.java" timestamp="1553263977998">
+        <mark key="'" line="13" column="51" />
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="13" column="12" />
+        <mark key="." line="13" column="12" />
+        <mark key="^" line="13" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Point.java" timestamp="1553263985753">
+        <mark key="'" line="9" column="34" />
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="12" />
+        <mark key="^" line="9" column="12" />
+        <mark key="." line="9" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/gui/common/MenuFrameP.java" timestamp="1553280525480" />
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/WindowListenerImpl.java" timestamp="1553268636001">
+        <mark key="'" line="30" column="25" />
+        <mark key="[" line="34" column="9" />
+        <mark key="]" line="34" column="27" />
+        <mark key="." line="34" column="27" />
+        <mark key="^" line="34" column="27" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner/RFPickAS/src/main/java/com/dandh/scanner/startup/pick/PickStart.java" timestamp="1556731823084">
+        <mark key="'" line="669" column="21" />
+        <mark key="[" line="593" column="0" />
+        <mark key="]" line="593" column="0" />
+        <mark key="." line="593" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Label.java" timestamp="1553266265776">
+        <mark key="'" line="25" column="37" />
+        <mark key="[" line="58" column="32" />
+        <mark key="]" line="58" column="32" />
+        <mark key="^" line="25" column="12" />
+        <mark key="." line="58" column="32" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/receive/LetDownSumFrame.java" timestamp="1553268208340">
+        <mark key="'" line="486" column="12" />
+        <mark key="[" line="485" column="28" />
+        <mark key="]" line="485" column="28" />
+        <mark key="." line="485" column="42" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/WindowAdapter.java" timestamp="1553268698409">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="10" column="23" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/LayoutManager.java" timestamp="1553265331822">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="2" column="61" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/MouseEvent.java" timestamp="1553263862982">
+        <mark key="'" line="4" column="13" />
+        <mark key="[" line="33" column="4" />
+        <mark key="]" line="33" column="12" />
+        <mark key="." line="33" column="12" />
+        <mark key="^" line="33" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Container.java" timestamp="1553263928849">
+        <mark key="'" line="7" column="12" />
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="12" />
+        <mark key="." line="7" column="12" />
+        <mark key="^" line="7" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/NonStdFrameR.java" timestamp="1553268124557">
+        <mark key="'" line="13" column="31" />
+        <mark key="[" line="288" column="26" />
+        <mark key="]" line="333" column="45" />
+        <mark key="." line="288" column="40" />
+        <mark key="^" line="333" column="45" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/receive/DockReceiveFrame.java" timestamp="1553268363447">
+        <mark key="'" line="3047" column="36" />
+        <mark key="[" line="2573" column="44" />
+        <mark key="]" line="2573" column="44" />
+        <mark key="." line="2573" column="44" />
+        <mark key="^" line="2573" column="44" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/User.java" timestamp="1553694532581">
+        <mark key="'" line="54" column="42" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Panel.java" timestamp="1553274898068">
+        <mark key="[" line="12" column="39" />
+        <mark key="]" line="12" column="45" />
+        <mark key="." line="12" column="45" />
+        <mark key="^" line="12" column="45" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/LayoutManagerImpl.java" timestamp="1553274989902">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="C:/Progress/OpenEdge/jdk/src.zip!/java/lang/Integer.java" timestamp="1553284522526">
+        <mark key="'" line="34" column="19" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Component.java" timestamp="1553276456958">
+        <mark key="'" line="22" column="4" />
+        <mark key="[" line="17" column="32" />
+        <mark key="]" line="17" column="32" />
+        <mark key="." line="17" column="32" />
+        <mark key="^" line="17" column="32" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Color.java" timestamp="1553263916663">
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="64" column="4" />
+        <mark key="]" line="64" column="12" />
+        <mark key="." line="64" column="12" />
+        <mark key="^" line="64" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Dimension.java" timestamp="1553263937038">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="12" />
+        <mark key="^" line="9" column="12" />
+        <mark key="." line="9" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/ActionEvent.java" timestamp="1553263795552">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="12" />
+        <mark key="." line="9" column="12" />
+        <mark key="^" line="9" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/MouseListener.java" timestamp="1553265312342">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="2" column="66" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner/RFPickAS/pom.xml" timestamp="1553281620029">
+        <mark key="[" line="50" column="47" />
+        <mark key="]" line="50" column="86" />
+        <mark key="^" line="50" column="86" />
+        <mark key="." line="50" column="86" />
+      </file>
+      <file name="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/event/FocusListener.java" timestamp="1553269589678">
+        <mark key="'" line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner/RFRecvAS/src/main/java/com/dandh/scanner/startup/receive/ReceiveStart.java" timestamp="1553285035227">
+        <mark key="'" line="579" column="33" />
+      </file>
+      <file name="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/event/KeyListener.java" timestamp="1553265167798">
+        <mark key="'" line="34" column="17" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/ItemDetailDialogR.java" timestamp="1553266505133">
+        <mark key="'" line="97" column="12" />
+        <mark key="[" line="97" column="12" />
+        <mark key="]" line="97" column="12" />
+        <mark key="." line="97" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/FocusEvent.java" timestamp="1553263830348">
+        <mark key="'" line="5" column="12" />
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="19" column="12" />
+        <mark key="." line="19" column="12" />
+        <mark key="^" line="19" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Control.java" timestamp="1553610185096">
+        <mark key="[" line="67" column="26" />
+        <mark key="]" line="67" column="26" />
+        <mark key="." line="67" column="29" />
+        <mark key="^" line="65" column="29" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/BorderLayout.java" timestamp="1553275619004">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="2" column="80" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/progress/o4glrt/1.0.0/o4glrt-1.0.0.jar!/com/progress/open4gl/dynamicapi/ParameterSet.class" timestamp="1553608176941">
+        <mark key="'" line="715" column="29" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/com/dandh/scanner/hal/TextinputScanner.java" timestamp="1553266348640">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="34" column="30" />
+        <mark key="]" line="34" column="44" />
+        <mark key="^" line="34" column="44" />
+        <mark key="." line="34" column="44" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Font.java" timestamp="1553263947774">
+        <mark key="'" line="75" column="35" />
+        <mark key="[" line="75" column="4" />
+        <mark key="]" line="75" column="12" />
+        <mark key="^" line="75" column="12" />
+        <mark key="." line="75" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Button.java" timestamp="1553266260374">
+        <mark key="'" line="22" column="16" />
+        <mark key="[" line="43" column="46" />
+        <mark key="]" line="43" column="46" />
+        <mark key="." line="43" column="46" />
+        <mark key="^" line="46" column="12" />
+      </file>
+      <file name="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/CardLayout.java" timestamp="1553275714371">
+        <mark key="'" line="41" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Graphics.java" timestamp="1553263955980">
+        <mark key="'" line="4" column="22" />
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="11" column="12" />
+        <mark key="." line="11" column="12" />
+        <mark key="^" line="11" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/image/ImageObserver.java" timestamp="1553265325200">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="2" column="66" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Window.java" timestamp="1553266238631">
+        <mark key="'" line="14" column="36" />
+        <mark key="[" line="59" column="46" />
+        <mark key="]" line="59" column="46" />
+        <mark key="." line="59" column="46" />
+        <mark key="^" line="59" column="46" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/MouseListenerImpl.java" timestamp="1553268991815">
+        <mark key="'" line="22" column="30" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="20" />
+        <mark key="." line="2" column="20" />
+        <mark key="^" line="2" column="20" />
+      </file>
+      <file name="C:/Progress/OpenEdge/jdk/src.zip!/java/awt/Component.java" timestamp="1553276747935">
+        <mark key="'" line="5030" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Frame.java" timestamp="1553266243750">
+        <mark key="'" line="13" column="37" />
+        <mark key="[" line="22" column="32" />
+        <mark key="]" line="22" column="32" />
+        <mark key="^" line="22" column="32" />
+        <mark key="." line="22" column="32" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1540567818665">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1554326421542">
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Rectangle.java" timestamp="1553263990709">
+        <mark key="'" line="33" column="42" />
+        <mark key="[" line="33" column="4" />
+        <mark key="]" line="33" column="12" />
+        <mark key="." line="33" column="12" />
+        <mark key="^" line="33" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/CardLayout.java" timestamp="1553275594620">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="8" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner/o4glrt-proxy/src/main/java/com/dandh/scanner/open4glproxy/dynamicapi/SessionPool.java" timestamp="1553280525480" />
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Toolkit.java" timestamp="1553264024109">
+        <mark key="'" line="24" column="41" />
+        <mark key="[" line="24" column="4" />
+        <mark key="]" line="24" column="12" />
+        <mark key="." line="24" column="12" />
+        <mark key="^" line="24" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/GridLayout.java" timestamp="1553275574476">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="4" column="23" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/WindowEvent.java" timestamp="1553263878712">
+        <mark key="'" line="4" column="13" />
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="15" column="12" />
+        <mark key="." line="15" column="12" />
+        <mark key="^" line="15" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Image.java" timestamp="1553263964799">
+        <mark key="'" line="2" column="22" />
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="12" />
+        <mark key="." line="9" column="12" />
+        <mark key="^" line="9" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/Dialog.java" timestamp="1553266214324">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="42" column="38" />
+        <mark key="]" line="42" column="40" />
+        <mark key="^" line="42" column="40" />
+        <mark key="." line="42" column="40" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/ErrorFrameR.java" timestamp="1553268277020">
+        <mark key="'" line="147" column="51" />
+        <mark key="[" line="127" column="31" />
+        <mark key="]" line="147" column="44" />
+        <mark key="^" line="147" column="44" />
+        <mark key="." line="127" column="45" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/MouseAdapter.java" timestamp="1553269014496">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="10" column="23" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFIcAS/src/main/java/com/dandh/scanner/gui/ic/IcMoveFrame.java" timestamp="1553269611535">
+        <mark key="'" line="1542" column="43" />
+        <mark key="[" line="1547" column="26" />
+        <mark key="]" line="1542" column="42" />
+        <mark key="^" line="1542" column="42" />
+        <mark key="." line="1547" column="40" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/ItemEvent.java" timestamp="1553263837839">
+        <mark key="'" line="11" column="12" />
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="15" column="12" />
+        <mark key="^" line="15" column="12" />
+        <mark key="." line="15" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/List.java" timestamp="1553266256743">
+        <mark key="'" line="99" column="42" />
+        <mark key="[" line="103" column="44" />
+        <mark key="]" line="103" column="44" />
+        <mark key="^" line="22" column="12" />
+        <mark key="." line="103" column="44" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFRecvAS/src/main/java/com/dandh/scanner/gui/common/MoveRLPFrameR.java" timestamp="1553268120085">
+        <mark key="'" line="770" column="43" />
+        <mark key="[" line="770" column="28" />
+        <mark key="]" line="770" column="42" />
+        <mark key="." line="770" column="42" />
+        <mark key="^" line="770" column="42" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/common/CommonMain.java" timestamp="1553697914579">
+        <mark key="[" line="60" column="55" />
+        <mark key="]" line="61" column="0" />
+        <mark key="^" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/ScrollPane.java" timestamp="1553263997484">
+        <mark key="'" line="11" column="44" />
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="11" column="12" />
+        <mark key="^" line="11" column="12" />
+        <mark key="." line="11" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/scanner/RFCommonAS/src/main/java/com/dandh/scanner/bo/Session.java" timestamp="1553606171108">
+        <mark key="'" line="140" column="60" />
+      </file>
+      <file name="/fragment.java" timestamp="1553700304882">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1554326191280">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/scripts/copy-neuron-dlls/copy-neuron-dlls.py" timestamp="1554326803619">
-        <mark key="'" line="30" column="20" />
-        <mark key="[" line="35" column="50" />
-        <mark key="]" line="35" column="50" />
-        <mark key="^" line="35" column="52" />
-        <mark key="." line="35" column="50" />
+      <file name="$USER_HOME$/dev/scanner-awt-interface/RFCommonAS/src/main/java/awtproxy/java/awt/event/KeyListener.java" timestamp="1553265305430">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="2" column="62" />
       </file>
     </filemarks>
-    <jumps>
-      <jump line="13" column="40" filename="$USER_HOME$/dev/scripts/copy-neuron-dlls/copy-neuron-dlls.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/dev/scripts/copy-neuron-dlls/copy-neuron-dlls.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/dev/scripts/copy-neuron-dlls/copy-neuron-dlls.py" />
-      <jump line="1" column="12" filename="$USER_HOME$/dev/scripts/copy-neuron-dlls/copy-neuron-dlls.py" />
-      <jump line="34" column="27" filename="$USER_HOME$/dev/scripts/copy-neuron-dlls/copy-neuron-dlls.py" />
-      <jump line="28" column="64" filename="$USER_HOME$/dev/scripts/copy-neuron-dlls/copy-neuron-dlls.py" />
-      <jump line="31" column="56" filename="$USER_HOME$/dev/scripts/copy-neuron-dlls/copy-neuron-dlls.py" />
-      <jump line="30" column="20" filename="$USER_HOME$/dev/scripts/copy-neuron-dlls/copy-neuron-dlls.py" />
-    </jumps>
+    <jumps />
     <registers>
-      <register name="&quot;" type="4">
-        <text>i</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgRXJyb3JGcmFtZVAuCg==</text>
+      </register>
+      <register name="i" type="4">
+        <text>pu</text>
+      </register>
+      <register name="j" type="4">
+        <text>jjjjbbbb</text>
+      </register>
+      <register name="k" type="4">
+        <keys>
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="68" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+        </keys>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>errorframeP</text>
       </register>
       <register name="/" type="4">
-        <text>}</text>
+        <text>download</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlzX2ZpbGVfdG9fY29weSA9IGlzX2ZpbGVfdG9fY29weSBhbmQgbm90IGZpbGVuYW1lLnN0YXJ0c3dpdGgoIk5ldXJvbiIpCg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogSW52b2tlZCB3aGVuIGEgd2luZG93IGlzIGRlLWFjdGl2YXRlZC4KICAgICAqLwogICAgcHVibGljIHZvaWQgd2luZG93RGVhY3RpdmF0ZWQoV2luZG93RXZlbnQgZSkge30K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhdGNoCg==</text>
+        <text encoding="base64">ICAgICAgRXJyb3JGcmFtZVAuCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>join_normpath(path_source, file)</text>
+      <register name="q" type="4">
+        <keys>
+          <key char="47" code="0" mods="0" />
+          <key char="82" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="123" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWxlbmFtZVZhcmlhYmxlcy4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaG9zdGFkZHJlc3MgPSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBCb3JkZXJMYXlvdXQoamF2YS5hd3QuQm9yZGVyTGF5b3V0IHJlY2VpdmVyKSB7CiAgICAgICAgc3VwZXIocmVjZWl2ZXIpOwogICAgfQoKICAgIHB1YmxpYyBCb3JkZXJMYXlvdXQoKSB7CiAgICAgICAgc3VwZXIobmV3IGphdmEuYXd0LkJvcmRlckxheW91dCgpKTsKICAgIH0KCiAgICBwcm90ZWN0ZWQgamF2YS5hd3QuQm9yZGVyTGF5b3V0IGdldEJvcmRlckxheW91dFJlY2VpdmVyKCkgewogICAgICAgIHJldHVybiAoamF2YS5hd3QuQm9yZGVyTGF5b3V0KSByZWNlaXZlcjsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIHRvU3RyaW5nKCkgewogICAgICAgIHJldHVybiByZWNlaXZlci50b1N0cmluZygpOwogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChwYXRoX3NvdXJjZSwgcGF0aF9kZXN0KQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBDYXJkTGF5b3V0KCkgewogICAgICAgIHN1cGVyKCk7CiAgICB9Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmaWxlc190b19jb3B5KQo=</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBqYXZhLmF3dC5GbG93TGF5b3V0IGdldEZsb3dMYXlvdXRSZWNlaXZlcigpIHsKICAgICAgICByZXR1cm4gKGphdmEuYXd0LkZsb3dMYXlvdXQpIHJlY2VpdmVyOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgdG9TdHJpbmcoKSB7CiAgICAgICAgcmV0dXJuIHJlY2VpdmVyLnRvU3RyaW5nKCk7CiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHJlCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBGbG93TGF5b3V0KCkgewogICAgICAgIHN1cGVyKG5ldyBqYXZhLmF3dC5GbG93TGF5b3V0KCkpOwogICAgfQoK</text>
+      </register>
+      <register name="w" type="4">
+        <keys>
+          <key char="110" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="123" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="52" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="79" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="52" code="0" mods="0" />
+          <key char="71" code="0" mods="0" />
+          <key char="76" code="0" mods="0" />
+          <key char="69" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="123" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="79" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="52" code="0" mods="0" />
+          <key char="71" code="0" mods="0" />
+          <key char="76" code="0" mods="0" />
+          <key char="69" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGdsb2IK</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBGbG93TGF5b3V0KGphdmEuYXd0LkZsb3dMYXlvdXQgcmVjZWl2ZXIpIHsKICAgICAgICBzdXBlcihyZWNlaXZlcik7CiAgICB9Cgo=</text>
       </register>
-      <register name="9" type="4">
-        <text>os.path.join</text>
+      <register name="x" type="2">
+        <text encoding="base64">ICAgIGphdmEuYXd0LmV2ZW50LlhZWiBnZXRSZWNlaXZlcigpOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgamF2YS5hd3QuR3JpZExheW91dCBnZXRHcmlkTGF5b3V0UmVjZWl2ZXIoKSB7CiAgICAgICAgcmV0dXJuIChqYXZhLmF3dC5HcmlkTGF5b3V0KSByZWNlaXZlcjsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIHRvU3RyaW5nKCkgewogICAgICAgIHJldHVybiByZWNlaXZlci50b1N0cmluZygpOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>}</last-search>
-      <last-offset />
-      <last-pattern>}</last-pattern>
-      <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>,</entry>
-        <entry>not</entry>
-        <entry>(</entry>
-        <entry encoding="base64">XDxmaWxlc190b19jb3B5XD4=</entry>
-        <entry encoding="base64">XDxmaWxlXD4=</entry>
-        <entry>}</entry>
+        <entry>KeyEvent</entry>
+        <entry>FocusEvent</entry>
+        <entry>receiver</entry>
+        <entry>sh</entry>
+        <entry>keyrele</entry>
+        <entry encoding="base64">XDxrZXlMaXN0ZW5lclw+</entry>
+        <entry>local</entry>
+        <entry encoding="base64">XDxob3N0QWRkcmVzc1w+</entry>
+        <entry encoding="base64">XDxTZXNzaW9uTW9kZWxcPg==</entry>
+        <entry>valueof</entry>
+        <entry encoding="base64">XDxhcHBPYmpcPg==</entry>
+        <entry encoding="base64">XDxzZXRBcHBPYmpcPg==</entry>
+        <entry encoding="base64">XDxwYXNzd29yZFw+</entry>
+        <entry encoding="base64">XDx1c2VyXD4=</entry>
+        <entry encoding="base64">XDx2YXIyXD4=</entry>
+        <entry>Parameter set error</entry>
+        <entry>error</entry>
+        <entry>toString</entry>
+        <entry encoding="base64">XDxpcEFkZHJlc3NcPg==</entry>
+        <entry>download</entry>
       </history-search>
       <history-cmd>
+        <entry>%s/this\.//</entry>
+        <entry>qw</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>w'</entry>
+        <entry>%s#/\*.*\*/</entry>
+        <entry>/\/\*.*\*\/</entry>
+        <entry encoding="base64">JzwsJz5zL3B1YmxpYyAvLw==</entry>
+        <entry>reg</entry>
+        <entry>maps</entry>
+        <entry>nmap</entry>
+        <entry>vmap</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry encoding="base64">JzwsJz5zL3B1YmxpYyAv</entry>
+        <entry encoding="base64">JzwsJz5zL3dpZHRoL2hlaWdodA==</entry>
+        <entry>wq</entry>
+        <entry>q</entry>
+        <entry>nohl</entry>
+        <entry>%s/receiver/super</entry>
+        <entry>952</entry>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed S</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed B</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed Q</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed W</text>
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift pressed ENTER</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed L</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>pressed F1</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

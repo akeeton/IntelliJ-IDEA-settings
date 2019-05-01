@@ -1,9 +1,0 @@
-<application>
-  <component name="ParameterNameHintsSettings">
-    <blacklists>
-      <blacklist language="Java">
-        <added pattern="org.apache.commons.lang.Validate.isTrue(expression)" />
-      </blacklist>
-    </blacklists>
-  </component>
-</application>
